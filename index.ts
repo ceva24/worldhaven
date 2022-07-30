@@ -4,7 +4,7 @@ import Jimp from "jimp";
 const convertPngsToMidQualityJpgs = () => {
     convertImagesInDirectory("./images/character-mats/gloomhaven", 600, 400);
     convertImagesInDirectory("./images/personal-quests/gloomhaven", 300, 400);
-    convertImagesInDirectory("./images/items/gloomhaven/1-14/", 200, 296);
+    convertImagesInDirectory("./images/items/gloomhaven/1-14", 200, 296);
 }
 
 const convertImagesInDirectory = (directory: string, targetWidth: number, targetHeight: number) => {
