@@ -1,7 +1,7 @@
-import { readdirSync, statSync, unlinkSync } from "node:fs";
-import Jimp from "jimp";
+import { readdirSync, statSync } from "node:fs";
+import { CWebp } from "cwebp"; 
 
-const convertPngsToMidQualityJpgs = () => {
+const convertPngsToMidQualityJpgs = async () => {
     convertImagesInDirectory("./images/character-mats/gloomhaven", 600, 400);
     convertImagesInDirectory("./images/personal-quests/gloomhaven", 300, 400);
     convertImagesInDirectory("./images/items/gloomhaven/1-14", 200, 296);
@@ -36,11 +36,13 @@ const convertImage = async (imagePath: string, targetWidth: number, targetHeight
 }
 
 const writeJpg = async (imagePath: string, targetWidth: number, targetHeight: number): Promise<string> => {
-    const newImagePath = `${imagePath.substring(0, imagePath.lastIndexOf("."))}.jpg`;
+    const newImagePath = `${imagePath.substring(0, imagePath.lastIndexOf("."))}.webp`;
 
-    const image = await Jimp.read(imagePath);
+    const encoder = new CWebp(imagePath);
+    
+    encoder.resize(targetWidth, targetHeight);
 
-    image.resize(targetWidth, targetHeight).quality(65).write(newImagePath);
+    await encoder.write(newImagePath)
 
     return newImagePath;
 }
