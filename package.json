@@ -5,7 +5,8 @@
     "start": "ts-node index"
   },
   "dependencies": {
-    "cwebp": "^2.0.5"
+    "cwebp": "^2.0.5",
+    "jimp": "^0.16.1"
   },
   "devDependencies": {
     "@types/node": "^18.6.2",

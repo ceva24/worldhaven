@@ -1,13 +1,14 @@
 import { readdirSync, statSync } from "node:fs";
 import { CWebp } from "cwebp"; 
+import Jimp from "jimp";
 
-const convertPngsToMidQualityJpgs = async () => {
-    convertImagesInDirectory("./images/character-mats/gloomhaven", 600, 400);
-    convertImagesInDirectory("./images/personal-quests/gloomhaven", 300, 400);
-    convertImagesInDirectory("./images/items/gloomhaven/1-14", 200, 296);
+const createWebQualityImages = async () => {
+    createImagesForDirectory("./images/character-mats/gloomhaven", 600, 400);
+    createImagesForDirectory("./images/personal-quests/gloomhaven", 300, 400);
+    createImagesForDirectory("./images/items/gloomhaven/1-14", 200, 296);
 }
 
-const convertImagesInDirectory = (directory: string, targetWidth: number, targetHeight: number) => {
+const createImagesForDirectory = (directory: string, targetWidth: number, targetHeight: number) => {
     console.info(`Recursing through directory '${directory}'`);
 
     const fileNames: string[] = readdirSync(directory);
@@ -16,10 +17,10 @@ const convertImagesInDirectory = (directory: string, targetWidth: number, target
         const absoluteFilePath = `${directory}/${fileName}`;
 
         if (statSync(absoluteFilePath).isDirectory()) {
-            convertImagesInDirectory(absoluteFilePath, targetWidth, targetHeight);
+            createImagesForDirectory(absoluteFilePath, targetWidth, targetHeight);
         }
         else if (fileName.endsWith(".png")) {
-            convertImage(absoluteFilePath, targetWidth, targetHeight);
+            createImages(absoluteFilePath, targetWidth, targetHeight);
         }
         else {
             console.info(`Ignoring file '${fileName}'`);
@@ -27,15 +28,16 @@ const convertImagesInDirectory = (directory: string, targetWidth: number, target
     })
 }
 
-const convertImage = async (imagePath: string, targetWidth: number, targetHeight: number) => {
+const createImages = async (imagePath: string, targetWidth: number, targetHeight: number) => {
     console.info(`Converting file '${imagePath}'...`);
 
+    const webpImagePath = await writeWebp(imagePath, targetWidth, targetHeight);
     const jpgImagePath = await writeJpg(imagePath, targetWidth, targetHeight);
 
-    console.info(`...successfully written to '${jpgImagePath}'`);
+    console.info(`...successfully written to '${webpImagePath}' and '${jpgImagePath}'`);
 }
 
-const writeJpg = async (imagePath: string, targetWidth: number, targetHeight: number): Promise<string> => {
+const writeWebp = async (imagePath: string, targetWidth: number, targetHeight: number): Promise<string> => {
     const newImagePath = `${imagePath.substring(0, imagePath.lastIndexOf("."))}.webp`;
 
     const encoder = new CWebp(imagePath);
@@ -47,4 +49,14 @@ const writeJpg = async (imagePath: string, targetWidth: number, targetHeight: nu
     return newImagePath;
 }
 
-convertPngsToMidQualityJpgs();
+const writeJpg = async (imagePath: string, targetWidth: number, targetHeight: number): Promise<string> => {
+    const newImagePath = `${imagePath.substring(0, imagePath.lastIndexOf("."))}.jpg`;
+
+    const image = await Jimp.read(imagePath);
+
+    image.resize(targetWidth, targetHeight).quality(65).write(newImagePath);
+    
+    return newImagePath;
+}
+
+createWebQualityImages();
