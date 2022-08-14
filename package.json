@@ -2,7 +2,7 @@
   "name": "worldhaven",
   "version": "1.0.0",
   "scripts": {
-    "start": "ts-node index"
+    "images": "ts-node images"
   },
   "dependencies": {
     "cwebp": "^2.0.5",
