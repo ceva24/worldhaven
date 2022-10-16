@@ -8,7 +8,7 @@ const createWebQualityImages = async () => {
     createImagesForDirectory("./images/personal-quests/gloomhaven", 300, 400);
     createImagesForDirectory("./images/items/gloomhaven/1-14", 200, 296);
     createImagesForDirectory("./images/character-ability-cards/gloomhaven", 300, 400);
-    createImagesForDirectory("./images/attack-modifiers/gloomhaven/base/player", 300, 200);
+    createImagesForDirectory("./images/attack-modifiers/gloomhaven/base/player", 400, 300);
 }
 
 const createImagesForDirectory = (directory: string, targetWidth: number, targetHeight: number) => {
