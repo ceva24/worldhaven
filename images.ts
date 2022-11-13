@@ -9,6 +9,12 @@ const createWebQualityImages = async () => {
     createImagesForDirectory("./images/items/gloomhaven/1-14", 200, 296);
     createImagesForDirectory("./images/character-ability-cards/gloomhaven", 300, 400);
     createImagesForDirectory("./images/attack-modifiers/gloomhaven/base/player", 400, 300);
+    createImagesForDirectory("./images/attack-modifiers/gloomhaven/BR", 400, 300);
+    createImagesForDirectory("./images/attack-modifiers/gloomhaven/CH", 400, 300);
+    createImagesForDirectory("./images/attack-modifiers/gloomhaven/MT", 400, 300);
+    createImagesForDirectory("./images/attack-modifiers/gloomhaven/SC", 400, 300);
+    createImagesForDirectory("./images/attack-modifiers/gloomhaven/SW", 400, 300);
+    createImagesForDirectory("./images/attack-modifiers/gloomhaven/TI", 400, 300);
 }
 
 const createImagesForDirectory = (directory: string, targetWidth: number, targetHeight: number) => {
