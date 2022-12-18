@@ -13261,57 +13261,57 @@
     "name": "item qa02",
     "points": 1894,
     "expansion": "Crimson Scales",
-    "image": "items/crimson-scales/cs-qa02a-steel-piston-hammer.png",
-    "xws": "steelpistonhammer"
+    "image": "items/crimson-scales/cs-qa02a-steam-piston-hammer.png",
+    "xws": "steampistonhammer"
   },
   {
     "name": "item #qa02",
     "points": 1895,
     "expansion": "Crimson Scales",
-    "image": "items/crimson-scales/cs-qa02a-steel-piston-hammer.png",
-    "xws": "steelpistonhammer"
+    "image": "items/crimson-scales/cs-qa02a-steam-piston-hammer.png",
+    "xws": "steampistonhammer"
   },
   {
-    "name": "steel piston hammer",
+    "name": "steam piston hammer",
     "points": 1896,
     "expansion": "Crimson Scales",
-    "image": "items/crimson-scales/cs-qa02a-steel-piston-hammer.png",
-    "xws": "steelpistonhammer"
+    "image": "items/crimson-scales/cs-qa02a-steam-piston-hammer.png",
+    "xws": "steampistonhammer"
   },
   {
-    "name": "steel piston hammer",
+    "name": "steam piston hammer",
     "points": 1897,
     "expansion": "Crimson Scales",
-    "image": "items/crimson-scales/cs-qa02a-steel-piston-hammer-back.png",
-    "xws": "steelpistonhammer"
+    "image": "items/crimson-scales/cs-qa02a-steam-piston-hammer-back.png",
+    "xws": "steampistonhammer"
   },
   {
     "name": "item qa02",
     "points": 1898,
     "expansion": "Crimson Scales",
-    "image": "items/crimson-scales/cs-qa02b-steel-piston-hammer.png",
-    "xws": "steelpistonhammer"
+    "image": "items/crimson-scales/cs-qa02b-steam-piston-hammer.png",
+    "xws": "steampistonhammer"
   },
   {
     "name": "item #qa02",
     "points": 1899,
     "expansion": "Crimson Scales",
-    "image": "items/crimson-scales/cs-qa02b-steel-piston-hammer.png",
-    "xws": "steelpistonhammer"
+    "image": "items/crimson-scales/cs-qa02b-steam-piston-hammer.png",
+    "xws": "steampistonhammer"
   },
   {
-    "name": "steel piston hammer",
+    "name": "steam piston hammer",
     "points": 1900,
     "expansion": "Crimson Scales",
-    "image": "items/crimson-scales/cs-qa02b-steel-piston-hammer.png",
-    "xws": "steelpistonhammer"
+    "image": "items/crimson-scales/cs-qa02b-steam-piston-hammer.png",
+    "xws": "steampistonhammer"
   },
   {
-    "name": "steel piston hammer",
+    "name": "steam piston hammer",
     "points": 1901,
     "expansion": "Crimson Scales",
-    "image": "items/crimson-scales/cs-qa02b-steel-piston-hammer-back.png",
-    "xws": "steelpistonhammer"
+    "image": "items/crimson-scales/cs-qa02b-steam-piston-hammer-back.png",
+    "xws": "steampistonhammer"
   },
   {
     "name": "item qa03",
@@ -13648,5 +13648,978 @@
     "expansion": "Crimson Scales",
     "image": "items/crimson-scales/cs-rm06-savage-cuirass-back.png",
     "xws": "savagecuirass"
+  },
+  {
+    "name": "item 101",
+    "points": 1950,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-101-runic-visard.png",
+    "xws": "runicvisard"
+  },
+  {
+    "name": "item #101",
+    "points": 1951,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-101-runic-visard.png",
+    "xws": "runicvisard"
+  },
+  {
+    "name": "runic visard",
+    "points": 1952,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-101-runic-visard.png",
+    "xws": "runicvisard"
+  },
+  {
+    "name": "runic visard",
+    "points": 1953,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-101-runic-visard-back.png",
+    "xws": "runicvisard"
+  },
+  {
+    "name": "item 102",
+    "points": 1954,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-102a-shoes-of-ataraxy.png",
+    "xws": "shoesofataraxy"
+  },
+  {
+    "name": "item 102",
+    "points": 1955,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-102b-shoes-of-ataraxy.png",
+    "xws": "shoesofataraxy"
+  },
+  {
+    "name": "item #102",
+    "points": 1956,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-102a-shoes-of-ataraxy.png",
+    "xws": "shoesofataraxy"
+  },
+  {
+    "name": "item #102",
+    "points": 1957,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-102b-shoes-of-ataraxy.png",
+    "xws": "shoesofataraxy"
+  },
+  {
+    "name": "shoes of ataraxy",
+    "points": 1958,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-102a-shoes-of-ataraxy.png",
+    "xws": "shoesofataraxy"
+  },
+  {
+    "name": "shoes of ataraxy",
+    "points": 1959,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-102b-shoes-of-ataraxy.png",
+    "xws": "shoesofataraxy"
+  },
+  {
+    "name": "shoes of ataraxy",
+    "points": 1960,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-102-shoes-of-ataraxy-back.png",
+    "xws": "shoesofataraxy"
+  },
+  {
+    "name": "item 103",
+    "points": 1961,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-103-magnetic-relocator.png",
+    "xws": "magneticrelocator"
+  },
+  {
+    "name": "item #103",
+    "points": 1962,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-103-magnetic-relocator.png",
+    "xws": "magneticrelocator"
+  },
+  {
+    "name": "magnetic relocator",
+    "points": 1963,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-103-magnetic-relocator.png",
+    "xws": "magneticrelocator"
+  },
+  {
+    "name": "magnetic relocator",
+    "points": 1964,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-103-magnetic-relocator-back.png",
+    "xws": "magneticrelocator"
+  },
+  {
+    "name": "item 104",
+    "points": 1965,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-104-shepherds-flute.png",
+    "xws": "shepherdsflute"
+  },
+  {
+    "name": "item #104",
+    "points": 1966,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-104-shepherds-flute.png",
+    "xws": "shepherdsflute"
+  },
+  {
+    "name": "shepherd's flute",
+    "points": 1967,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-104-shepherds-flute.png",
+    "xws": "shepherdsflute"
+  },
+  {
+    "name": "shepherd's flute",
+    "points": 1968,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-104-shepherds-flute-back.png",
+    "xws": "shepherdsflute"
+  },
+  {
+    "name": "item 105",
+    "points": 1969,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-105-tyrannical-staff.png",
+    "xws": "tyrannicalstaff"
+  },
+  {
+    "name": "item #105",
+    "points": 1970,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-105-tyrannical-staff.png",
+    "xws": "tyrannicalstaff"
+  },
+  {
+    "name": "tyrannical staff",
+    "points": 1971,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-105-tyrannical-staff.png",
+    "xws": "tyrannicalstaff"
+  },
+  {
+    "name": "tyrannical staff",
+    "points": 1972,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-105-tyrannical-staff-back.png",
+    "xws": "tyrannicalstaff"
+  },
+  {
+    "name": "item 106",
+    "points": 1973,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-106a-crushing-mace.png",
+    "xws": "crushingmace"
+  },
+  {
+    "name": "item 106",
+    "points": 1974,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-106b-crushing-mace.png",
+    "xws": "crushingmace"
+  },
+  {
+    "name": "item #106",
+    "points": 1975,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-106a-crushing-mace.png",
+    "xws": "crushingmace"
+  },
+  {
+    "name": "item #106",
+    "points": 1976,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-106b-crushing-mace.png",
+    "xws": "crushingmace"
+  },
+  {
+    "name": "crushing mace",
+    "points": 1977,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-106a-crushing-mace.png",
+    "xws": "crushingmace"
+  },
+  {
+    "name": "crushing mace",
+    "points": 1978,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-106b-crushing-mace.png",
+    "xws": "crushingmace"
+  },
+  {
+    "name": "crushing mace",
+    "points": 1979,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-106-crushing-mace-back.png",
+    "xws": "crushingmace"
+  },
+  {
+    "name": "item 107",
+    "points": 1980,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-107-chiefs-garb.png",
+    "xws": "chiefsgarb"
+  },
+  {
+    "name": "item #107",
+    "points": 1981,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-107-chiefs-garb.png",
+    "xws": "chiefsgarb"
+  },
+  {
+    "name": "chief's garb",
+    "points": 1982,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-107-chiefs-garb.png",
+    "xws": "chiefsgarb"
+  },
+  {
+    "name": "chief's garb",
+    "points": 1983,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-107-chiefs-garb-back.png",
+    "xws": "chiefsgarb"
+  },
+  {
+    "name": "item 108",
+    "points": 1984,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-108-iridescent-bracer.png",
+    "xws": "iridescentbracer"
+  },
+  {
+    "name": "item #108",
+    "points": 1985,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-108-iridescent-bracer.png",
+    "xws": "iridescentbracer"
+  },
+  {
+    "name": "iridescent bracer",
+    "points": 1986,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-108-iridescent-bracer.png",
+    "xws": "iridescentbracer"
+  },
+  {
+    "name": "iridescent bracer",
+    "points": 1987,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-108-iridescent-bracer-back.png",
+    "xws": "iridescentbracer"
+  },
+  {
+    "name": "item 109",
+    "points": 1988,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-109-talos-staff.png",
+    "xws": "talosstaff"
+  },
+  {
+    "name": "item #109",
+    "points": 1989,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-109-talos-staff.png",
+    "xws": "talosstaff"
+  },
+  {
+    "name": "talo's staff",
+    "points": 1990,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-109-talos-staff.png",
+    "xws": "talosstaff"
+  },
+  {
+    "name": "talo's staff",
+    "points": 1991,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-109-talos-staff-back.png",
+    "xws": "talosstaff"
+  },
+  {
+    "name": "item 110",
+    "points": 1992,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-110-mask-of-cruelty.png",
+    "xws": "maskofcruelty"
+  },
+  {
+    "name": "item #110",
+    "points": 1993,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-110-mask-of-cruelty.png",
+    "xws": "maskofcruelty"
+  },
+  {
+    "name": "mask of cruelty",
+    "points": 1994,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-110-mask-of-cruelty.png",
+    "xws": "maskofcruelty"
+  },
+  {
+    "name": "mask of cruelty",
+    "points": 1995,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-110-mask-of-cruelty-back.png",
+    "xws": "maskofcruelty"
+  },
+  {
+    "name": "item 111",
+    "points": 1996,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-111-staff-of-equilibrium.png",
+    "xws": "staffofequilibrium"
+  },
+  {
+    "name": "item #111",
+    "points": 1997,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-111-staff-of-equilibrium.png",
+    "xws": "staffofequilibrium"
+  },
+  {
+    "name": "staff of equilibrium",
+    "points": 1998,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-111-staff-of-equilibrium.png",
+    "xws": "staffofequilibrium"
+  },
+  {
+    "name": "staff of equilibrium",
+    "points": 1999,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-111-staff-of-equilibrium-back.png",
+    "xws": "staffofequilibrium"
+  },
+  {
+    "name": "item 112",
+    "points": 2000,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-112-voyagers-blade.png",
+    "xws": "voyagersblade"
+  },
+  {
+    "name": "item #112",
+    "points": 2001,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-112-voyagers-blade.png",
+    "xws": "voyagersblade"
+  },
+  {
+    "name": "voyager's blade",
+    "points": 2002,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-112-voyagers-blade.png",
+    "xws": "voyagersblade"
+  },
+  {
+    "name": "voyager's blade",
+    "points": 2003,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-112-voyagers-blade-back.png",
+    "xws": "voyagersblade"
+  },
+  {
+    "name": "item 113",
+    "points": 2004,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-113-looking-glass.png",
+    "xws": "lookingglass"
+  },
+  {
+    "name": "item #113",
+    "points": 2005,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-113-looking-glass.png",
+    "xws": "lookingglass"
+  },
+  {
+    "name": "looking glass",
+    "points": 2006,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-113-looking-glass.png",
+    "xws": "lookingglass"
+  },
+  {
+    "name": "looking glass",
+    "points": 2007,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-113-looking-glass-back.png",
+    "xws": "lookingglass"
+  },
+  {
+    "name": "item 114",
+    "points": 2008,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-114-runic-boots-of-travel.png",
+    "xws": "runicbootsoftravel"
+  },
+  {
+    "name": "item #114",
+    "points": 2009,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-114-runic-boots-of-travel.png",
+    "xws": "runicbootsoftravel"
+  },
+  {
+    "name": "runic boots of travel",
+    "points": 2010,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-114-runic-boots-of-travel.png",
+    "xws": "runicbootsoftravel"
+  },
+  {
+    "name": "runic boots of travel",
+    "points": 2011,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-114-runic-boots-of-travel-back.png",
+    "xws": "runicbootsoftravel"
+  },
+  {
+    "name": "item 115",
+    "points": 2012,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-115-battle-standard.png",
+    "xws": "battlestandard"
+  },
+  {
+    "name": "item #115",
+    "points": 2013,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-115-battle-standard.png",
+    "xws": "battlestandard"
+  },
+  {
+    "name": "battle standard",
+    "points": 2014,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-115-battle-standard.png",
+    "xws": "battlestandard"
+  },
+  {
+    "name": "battle standard",
+    "points": 2015,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-115-battle-standard-back.png",
+    "xws": "battlestandard"
+  },
+  {
+    "name": "item 116",
+    "points": 2016,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-116-matriarchs-warhorn.png",
+    "xws": "matriarchswarhorn"
+  },
+  {
+    "name": "item #116",
+    "points": 2017,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-116-matriarchs-warhorn.png",
+    "xws": "matriarchswarhorn"
+  },
+  {
+    "name": "matriarch's warhorn",
+    "points": 2018,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-116-matriarchs-warhorn.png",
+    "xws": "matriarchswarhorn"
+  },
+  {
+    "name": "matriarch's warhorn",
+    "points": 2019,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-116-matriarchs-warhorn-back.png",
+    "xws": "matriarchswarhorn"
+  },
+  {
+    "name": "item 117",
+    "points": 2020,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-117a-dawnbloom-nectar.png",
+    "xws": "dawnbloomnectar"
+  },
+  {
+    "name": "item 117",
+    "points": 2021,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-117b-dawnbloom-nectar.png",
+    "xws": "dawnbloomnectar"
+  },
+  {
+    "name": "item #117",
+    "points": 2022,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-117a-dawnbloom-nectar.png",
+    "xws": "dawnbloomnectar"
+  },
+  {
+    "name": "item #117",
+    "points": 2023,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-117b-dawnbloom-nectar.png",
+    "xws": "dawnbloomnectar"
+  },
+  {
+    "name": "dawnbloom nectar",
+    "points": 2024,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-117a-dawnbloom-nectar.png",
+    "xws": "dawnbloomnectar"
+  },
+  {
+    "name": "dawnbloom nectar",
+    "points": 2025,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-117b-dawnbloom-nectar.png",
+    "xws": "dawnbloomnectar"
+  },
+  {
+    "name": "dawnbloom nectar",
+    "points": 2026,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-117-dawnbloom-nectar-back.png",
+    "xws": "dawnbloomnectar"
+  },
+  {
+    "name": "item 118",
+    "points": 2027,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-118a-graveweed-extract.png",
+    "xws": "graveweedextract"
+  },
+  {
+    "name": "item 118",
+    "points": 2028,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-118b-graveweed-extract.png",
+    "xws": "graveweedextract"
+  },
+  {
+    "name": "item #118",
+    "points": 2029,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-118a-graveweed-extract.png",
+    "xws": "graveweedextract"
+  },
+  {
+    "name": "item #118",
+    "points": 2030,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-118b-graveweed-extract.png",
+    "xws": "graveweedextract"
+  },
+  {
+    "name": "graveweed extract",
+    "points": 2031,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-118a-graveweed-extract.png",
+    "xws": "graveweedextract"
+  },
+  {
+    "name": "graveweed extract",
+    "points": 2032,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-118b-graveweed-extract.png",
+    "xws": "graveweedextract"
+  },
+  {
+    "name": "graveweed extract",
+    "points": 2033,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-118-graveweed-extract-back.png",
+    "xws": "graveweedextract"
+  },
+  {
+    "name": "item 119",
+    "points": 2034,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-119-thrice-souled-warsword.png",
+    "xws": "thricesouledwarsword"
+  },
+  {
+    "name": "item #119",
+    "points": 2035,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-119-thrice-souled-warsword.png",
+    "xws": "thricesouledwarsword"
+  },
+  {
+    "name": "thrice-souled warsword",
+    "points": 2036,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-119-thrice-souled-warsword.png",
+    "xws": "thricesouledwarsword"
+  },
+  {
+    "name": "thrice-souled warsword",
+    "points": 2037,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-119-thrice-souled-warsword-back.png",
+    "xws": "thricesouledwarsword"
+  },
+  {
+    "name": "item 120",
+    "points": 2038,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-120-rekindled-core.png",
+    "xws": "rekindledcore"
+  },
+  {
+    "name": "item #120",
+    "points": 2039,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-120-rekindled-core.png",
+    "xws": "rekindledcore"
+  },
+  {
+    "name": "rekindled core",
+    "points": 2040,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-120-rekindled-core.png",
+    "xws": "rekindledcore"
+  },
+  {
+    "name": "rekindled core",
+    "points": 2041,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-120-rekindled-core-back.png",
+    "xws": "rekindledcore"
+  },
+  {
+    "name": "item 121",
+    "points": 2042,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-121-crystal-catalyst.png",
+    "xws": "crystalcatalyst"
+  },
+  {
+    "name": "item #121",
+    "points": 2043,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-121-crystal-catalyst.png",
+    "xws": "crystalcatalyst"
+  },
+  {
+    "name": "crystal catalyst",
+    "points": 2044,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-121-crystal-catalyst.png",
+    "xws": "crystalcatalyst"
+  },
+  {
+    "name": "crystal catalyst",
+    "points": 2045,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-121-crystal-catalyst-back.png",
+    "xws": "crystalcatalyst"
+  },
+  {
+    "name": "item 122",
+    "points": 2046,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-122-crystal-spike.png",
+    "xws": "crystalspike"
+  },
+  {
+    "name": "item #122",
+    "points": 2047,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-122-crystal-spike.png",
+    "xws": "crystalspike"
+  },
+  {
+    "name": "crystal spike",
+    "points": 2048,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-122-crystal-spike.png",
+    "xws": "crystalspike"
+  },
+  {
+    "name": "crystal spike",
+    "points": 2049,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-122-crystal-spike-back.png",
+    "xws": "crystalspike"
+  },
+  {
+    "name": "item 123",
+    "points": 2050,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-123-arclight-cladding.png",
+    "xws": "arclightcladding"
+  },
+  {
+    "name": "item #123",
+    "points": 2051,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-123-arclight-cladding.png",
+    "xws": "arclightcladding"
+  },
+  {
+    "name": "arclight cladding",
+    "points": 2052,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-123-arclight-cladding.png",
+    "xws": "arclightcladding"
+  },
+  {
+    "name": "arclight cladding",
+    "points": 2053,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-123-arclight-cladding-back.png",
+    "xws": "arclightcladding"
+  },
+  {
+    "name": "item 124",
+    "points": 2054,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-124-arcbolt-lance.png",
+    "xws": "arcboltlance"
+  },
+  {
+    "name": "item #124",
+    "points": 2055,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-124-arcbolt-lance.png",
+    "xws": "arcboltlance"
+  },
+  {
+    "name": "arcbolt lance",
+    "points": 2056,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-124-arcbolt-lance.png",
+    "xws": "arcboltlance"
+  },
+  {
+    "name": "arcbolt lance",
+    "points": 2057,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-124-arcbolt-lance-back.png",
+    "xws": "arcboltlance"
+  },
+  {
+    "name": "item 125",
+    "points": 2058,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-125-scroll-of-evasion.png",
+    "xws": "scrollofevasion"
+  },
+  {
+    "name": "item #125",
+    "points": 2059,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-125-scroll-of-evasion.png",
+    "xws": "scrollofevasion"
+  },
+  {
+    "name": "scroll of evasion",
+    "points": 2060,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-125-scroll-of-evasion.png",
+    "xws": "scrollofevasion"
+  },
+  {
+    "name": "scroll of evasion",
+    "points": 2061,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-125-scroll-of-evasion-back.png",
+    "xws": "scrollofevasion"
+  },
+  {
+    "name": "item 126",
+    "points": 2062,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-126-arcstone-greaves.png",
+    "xws": "arcstonegreaves"
+  },
+  {
+    "name": "item #126",
+    "points": 2063,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-126-arcstone-greaves.png",
+    "xws": "arcstonegreaves"
+  },
+  {
+    "name": "arcstone greaves",
+    "points": 2064,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-126-arcstone-greaves.png",
+    "xws": "arcstonegreaves"
+  },
+  {
+    "name": "arcstone greaves",
+    "points": 2065,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-126-arcstone-greaves-back.png",
+    "xws": "arcstonegreaves"
+  },
+  {
+    "name": "item 127",
+    "points": 2066,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-127-arclight-hood.png",
+    "xws": "arclighthood"
+  },
+  {
+    "name": "item #127",
+    "points": 2067,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-127-arclight-hood.png",
+    "xws": "arclighthood"
+  },
+  {
+    "name": "arclight hood",
+    "points": 2068,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-127-arclight-hood.png",
+    "xws": "arclighthood"
+  },
+  {
+    "name": "arclight hood",
+    "points": 2069,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-127-arclight-hood-back.png",
+    "xws": "arclighthood"
+  },
+  {
+    "name": "item 128",
+    "points": 2070,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-128-barbed-whip.png",
+    "xws": "barbedwhip"
+  },
+  {
+    "name": "item #128",
+    "points": 2071,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-128-barbed-whip.png",
+    "xws": "barbedwhip"
+  },
+  {
+    "name": "barbed whip",
+    "points": 2072,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-128-barbed-whip.png",
+    "xws": "barbedwhip"
+  },
+  {
+    "name": "barbed whip",
+    "points": 2073,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-128-barbed-whip-back.png",
+    "xws": "barbedwhip"
+  },
+  {
+    "name": "item 129",
+    "points": 2074,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-129a-talos-rosary.png",
+    "xws": "talosrosary"
+  },
+  {
+    "name": "item 129",
+    "points": 2075,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-129b-talos-rosary.png",
+    "xws": "talosrosary"
+  },
+  {
+    "name": "item #129",
+    "points": 2076,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-129a-talos-rosary.png",
+    "xws": "talosrosary"
+  },
+  {
+    "name": "item #129",
+    "points": 2077,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-129b-talos-rosary.png",
+    "xws": "talosrosary"
+  },
+  {
+    "name": "talo's rosary",
+    "points": 2078,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-129a-talos-rosary.png",
+    "xws": "talosrosary"
+  },
+  {
+    "name": "talo's rosary",
+    "points": 2079,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-129b-talos-rosary.png",
+    "xws": "talosrosary"
+  },
+  {
+    "name": "talo's rosary",
+    "points": 2080,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-129-talos-rosary-back.png",
+    "xws": "talosrosary"
+  },
+  {
+    "name": "item 130",
+    "points": 2081,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-130-dynamic-sickle.png",
+    "xws": "dynamicsickle"
+  },
+  {
+    "name": "item #130",
+    "points": 2082,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-130-dynamic-sickle.png",
+    "xws": "dynamicsickle"
+  },
+  {
+    "name": "dynamic sickle",
+    "points": 2083,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-130-dynamic-sickle.png",
+    "xws": "dynamicsickle"
+  },
+  {
+    "name": "dynamic sickle",
+    "points": 2084,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-130-dynamic-sickle-back.png",
+    "xws": "dynamicsickle"
+  },
+  {
+    "name": "item 131",
+    "points": 2085,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-131-predators-wristblade.png",
+    "xws": "predatorswristblade"
+  },
+  {
+    "name": "item #131",
+    "points": 2086,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-131-predators-wristblade.png",
+    "xws": "predatorswristblade"
+  },
+  {
+    "name": "predator's wristblade",
+    "points": 2087,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-131-predators-wristblade.png",
+    "xws": "predatorswristblade"
+  },
+  {
+    "name": "predator's wristblade",
+    "points": 2088,
+    "expansion": "Trail of Ashes",
+    "image": "items/trail-of-ashes/toa-131-predators-wristblade-back.png",
+    "xws": "predatorswristblade"
   }
 ]

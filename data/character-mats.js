@@ -754,5 +754,89 @@
     "expansion": "Crimson Scales",
     "image": "character-mats/crimson-scales/cs-starslinger-back.png",
     "xws": "starslinger"
+  },
+  {
+    "name": "incarnate",
+    "points": 108,
+    "expansion": "Trail of Ashes",
+    "image": "character-mats/trail-of-ashes/toa-incarnate.png",
+    "xws": "incarnate"
+  },
+  {
+    "name": "incarnate",
+    "points": 109,
+    "expansion": "Trail of Ashes",
+    "image": "character-mats/trail-of-ashes/toa-incarnate-back.png",
+    "xws": "incarnate"
+  },
+  {
+    "name": "rimehearth",
+    "points": 110,
+    "expansion": "Trail of Ashes",
+    "image": "character-mats/trail-of-ashes/toa-rimehearth.png",
+    "xws": "rimehearth"
+  },
+  {
+    "name": "rimehearth",
+    "points": 111,
+    "expansion": "Trail of Ashes",
+    "image": "character-mats/trail-of-ashes/toa-rimehearth-back.png",
+    "xws": "rimehearth"
+  },
+  {
+    "name": "shardrender",
+    "points": 112,
+    "expansion": "Trail of Ashes",
+    "image": "character-mats/trail-of-ashes/toa-shardrender.png",
+    "xws": "shardrender"
+  },
+  {
+    "name": "shardrender",
+    "points": 113,
+    "expansion": "Trail of Ashes",
+    "image": "character-mats/trail-of-ashes/toa-shardrender-back.png",
+    "xws": "shardrender"
+  },
+  {
+    "name": "tempest",
+    "points": 114,
+    "expansion": "Trail of Ashes",
+    "image": "character-mats/trail-of-ashes/toa-tempest.png",
+    "xws": "tempest"
+  },
+  {
+    "name": "tempest",
+    "points": 115,
+    "expansion": "Trail of Ashes",
+    "image": "character-mats/trail-of-ashes/toa-tempest-back.png",
+    "xws": "tempest"
+  },
+  {
+    "name": "thornreaper",
+    "points": 116,
+    "expansion": "Trail of Ashes",
+    "image": "character-mats/trail-of-ashes/toa-thornreaper.png",
+    "xws": "thornreaper"
+  },
+  {
+    "name": "thornreaper",
+    "points": 117,
+    "expansion": "Trail of Ashes",
+    "image": "character-mats/trail-of-ashes/toa-thornreaper-back.png",
+    "xws": "thornreaper"
+  },
+  {
+    "name": "vanquisher",
+    "points": 118,
+    "expansion": "Trail of Ashes",
+    "image": "character-mats/trail-of-ashes/toa-vanquisher.png",
+    "xws": "vanquisher"
+  },
+  {
+    "name": "vanquisher",
+    "points": 119,
+    "expansion": "Trail of Ashes",
+    "image": "character-mats/trail-of-ashes/toa-vanquisher-back.png",
+    "xws": "vanquisher"
   }
 ]

@@ -4,6 +4,7 @@ var expansion_conversion = {
 	"fh": "Frosthaven",
 	"jl": "Jaws Of The Lion",
 	"cs": "Crimson Scales",
+	"ta": "Trail of Ashes",
 };
 
 const getExpFromInputId = (input_id) => {

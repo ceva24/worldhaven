@@ -13,19 +13,19 @@ This repository contains data and images for the following games and components:
 - Jaws of the Lion
 - User Community
 	- Crimson Scales
+	- Trail of Ashes
 
 **Assets:**
 - attack-modifiers
 - battle-goals
 - character-ability-cards
-- character-ability-cards-revised
 - character-mats
 - character-perks
 - deprecated-assets
 - events
-- events-revised
 - items
 - map-tiles
+- milestone-ability-cards
 - milestones
 - monster-ability-cards
 - monster-stat-cards

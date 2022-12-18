@@ -8328,5 +8328,817 @@
     "expansion": "Crimson Scales",
     "image": "attack-modifiers/crimson-scales/ST/cs-am-st-17.png",
     "xws": "csamst17"
+  },
+  {
+    "name": "toa-am-in-back",
+    "points": 1190,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/IN/toa-am-in-back.png",
+    "xws": "toaaminback"
+  },
+  {
+    "name": "toa-am-in-01",
+    "points": 1191,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/IN/toa-am-in-01.png",
+    "xws": "toaamin01"
+  },
+  {
+    "name": "toa-am-in-02",
+    "points": 1192,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/IN/toa-am-in-02.png",
+    "xws": "toaamin02"
+  },
+  {
+    "name": "toa-am-in-03",
+    "points": 1193,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/IN/toa-am-in-03.png",
+    "xws": "toaamin03"
+  },
+  {
+    "name": "toa-am-in-04",
+    "points": 1194,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/IN/toa-am-in-04.png",
+    "xws": "toaamin04"
+  },
+  {
+    "name": "toa-am-in-05",
+    "points": 1195,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/IN/toa-am-in-05.png",
+    "xws": "toaamin05"
+  },
+  {
+    "name": "toa-am-in-06",
+    "points": 1196,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/IN/toa-am-in-06.png",
+    "xws": "toaamin06"
+  },
+  {
+    "name": "toa-am-in-07",
+    "points": 1197,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/IN/toa-am-in-07.png",
+    "xws": "toaamin07"
+  },
+  {
+    "name": "toa-am-in-08",
+    "points": 1198,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/IN/toa-am-in-08.png",
+    "xws": "toaamin08"
+  },
+  {
+    "name": "toa-am-in-09",
+    "points": 1199,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/IN/toa-am-in-09.png",
+    "xws": "toaamin09"
+  },
+  {
+    "name": "toa-am-in-10",
+    "points": 1200,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/IN/toa-am-in-10.png",
+    "xws": "toaamin10"
+  },
+  {
+    "name": "toa-am-in-11",
+    "points": 1201,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/IN/toa-am-in-11.png",
+    "xws": "toaamin11"
+  },
+  {
+    "name": "toa-am-in-12",
+    "points": 1202,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/IN/toa-am-in-12.png",
+    "xws": "toaamin12"
+  },
+  {
+    "name": "toa-am-in-13",
+    "points": 1203,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/IN/toa-am-in-13.png",
+    "xws": "toaamin13"
+  },
+  {
+    "name": "toa-am-in-14",
+    "points": 1204,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/IN/toa-am-in-14.png",
+    "xws": "toaamin14"
+  },
+  {
+    "name": "toa-am-in-15",
+    "points": 1205,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/IN/toa-am-in-15.png",
+    "xws": "toaamin15"
+  },
+  {
+    "name": "toa-am-in-16",
+    "points": 1206,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/IN/toa-am-in-16.png",
+    "xws": "toaamin16"
+  },
+  {
+    "name": "toa-am-in-17",
+    "points": 1207,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/IN/toa-am-in-17.png",
+    "xws": "toaamin17"
+  },
+  {
+    "name": "toa-am-in-18",
+    "points": 1208,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/IN/toa-am-in-18.png",
+    "xws": "toaamin18"
+  },
+  {
+    "name": "toa-am-in-19",
+    "points": 1209,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/IN/toa-am-in-19.png",
+    "xws": "toaamin19"
+  },
+  {
+    "name": "toa-am-in-20",
+    "points": 1210,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/IN/toa-am-in-20.png",
+    "xws": "toaamin20"
+  },
+  {
+    "name": "toa-am-in-21",
+    "points": 1211,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/IN/toa-am-in-21.png",
+    "xws": "toaamin21"
+  },
+  {
+    "name": "toa-am-in-22",
+    "points": 1212,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/IN/toa-am-in-22.png",
+    "xws": "toaamin22"
+  },
+  {
+    "name": "toa-am-in-23",
+    "points": 1213,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/IN/toa-am-in-23.png",
+    "xws": "toaamin23"
+  },
+  {
+    "name": "toa-am-in-24",
+    "points": 1214,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/IN/toa-am-in-24.png",
+    "xws": "toaamin24"
+  },
+  {
+    "name": "toa-am-in-25",
+    "points": 1215,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/IN/toa-am-in-25.png",
+    "xws": "toaamin25"
+  },
+  {
+    "name": "toa-am-in-26",
+    "points": 1216,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/IN/toa-am-in-26.png",
+    "xws": "toaamin26"
+  },
+  {
+    "name": "toa-am-in-27",
+    "points": 1217,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/IN/toa-am-in-27.png",
+    "xws": "toaamin27"
+  },
+  {
+    "name": "toa-am-in-28",
+    "points": 1218,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/IN/toa-am-in-28.png",
+    "xws": "toaamin28"
+  },
+  {
+    "name": "toa-am-in-29",
+    "points": 1219,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/IN/toa-am-in-29.png",
+    "xws": "toaamin29"
+  },
+  {
+    "name": "toa-am-in-30",
+    "points": 1220,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/IN/toa-am-in-30.png",
+    "xws": "toaamin30"
+  },
+  {
+    "name": "toa-am-in-31",
+    "points": 1221,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/IN/toa-am-in-31.png",
+    "xws": "toaamin31"
+  },
+  {
+    "name": "toa-am-rh-back",
+    "points": 1222,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/RH/toa-am-rh-back.png",
+    "xws": "toaamrhback"
+  },
+  {
+    "name": "toa-am-rh-01",
+    "points": 1223,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/RH/toa-am-rh-01.png",
+    "xws": "toaamrh01"
+  },
+  {
+    "name": "toa-am-rh-02",
+    "points": 1224,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/RH/toa-am-rh-02.png",
+    "xws": "toaamrh02"
+  },
+  {
+    "name": "toa-am-rh-03",
+    "points": 1225,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/RH/toa-am-rh-03.png",
+    "xws": "toaamrh03"
+  },
+  {
+    "name": "toa-am-rh-04",
+    "points": 1226,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/RH/toa-am-rh-04.png",
+    "xws": "toaamrh04"
+  },
+  {
+    "name": "toa-am-rh-05",
+    "points": 1227,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/RH/toa-am-rh-05.png",
+    "xws": "toaamrh05"
+  },
+  {
+    "name": "toa-am-rh-06",
+    "points": 1228,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/RH/toa-am-rh-06.png",
+    "xws": "toaamrh06"
+  },
+  {
+    "name": "toa-am-rh-07",
+    "points": 1229,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/RH/toa-am-rh-07.png",
+    "xws": "toaamrh07"
+  },
+  {
+    "name": "toa-am-rh-08",
+    "points": 1230,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/RH/toa-am-rh-08.png",
+    "xws": "toaamrh08"
+  },
+  {
+    "name": "toa-am-rh-09",
+    "points": 1231,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/RH/toa-am-rh-09.png",
+    "xws": "toaamrh09"
+  },
+  {
+    "name": "toa-am-rh-10",
+    "points": 1232,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/RH/toa-am-rh-10.png",
+    "xws": "toaamrh10"
+  },
+  {
+    "name": "toa-am-rh-11",
+    "points": 1233,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/RH/toa-am-rh-11.png",
+    "xws": "toaamrh11"
+  },
+  {
+    "name": "toa-am-rh-12",
+    "points": 1234,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/RH/toa-am-rh-12.png",
+    "xws": "toaamrh12"
+  },
+  {
+    "name": "toa-am-rh-13",
+    "points": 1235,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/RH/toa-am-rh-13.png",
+    "xws": "toaamrh13"
+  },
+  {
+    "name": "toa-am-rh-14",
+    "points": 1236,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/RH/toa-am-rh-14.png",
+    "xws": "toaamrh14"
+  },
+  {
+    "name": "toa-am-rh-15",
+    "points": 1237,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/RH/toa-am-rh-15.png",
+    "xws": "toaamrh15"
+  },
+  {
+    "name": "toa-am-rh-16",
+    "points": 1238,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/RH/toa-am-rh-16.png",
+    "xws": "toaamrh16"
+  },
+  {
+    "name": "toa-am-rh-17",
+    "points": 1239,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/RH/toa-am-rh-17.png",
+    "xws": "toaamrh17"
+  },
+  {
+    "name": "toa-am-sr-back",
+    "points": 1240,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/SR/toa-am-sr-back.png",
+    "xws": "toaamsrback"
+  },
+  {
+    "name": "toa-am-sr-01",
+    "points": 1241,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/SR/toa-am-sr-01.png",
+    "xws": "toaamsr01"
+  },
+  {
+    "name": "toa-am-sr-02",
+    "points": 1242,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/SR/toa-am-sr-02.png",
+    "xws": "toaamsr02"
+  },
+  {
+    "name": "toa-am-sr-03",
+    "points": 1243,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/SR/toa-am-sr-03.png",
+    "xws": "toaamsr03"
+  },
+  {
+    "name": "toa-am-sr-04",
+    "points": 1244,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/SR/toa-am-sr-04.png",
+    "xws": "toaamsr04"
+  },
+  {
+    "name": "toa-am-sr-05",
+    "points": 1245,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/SR/toa-am-sr-05.png",
+    "xws": "toaamsr05"
+  },
+  {
+    "name": "toa-am-sr-06",
+    "points": 1246,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/SR/toa-am-sr-06.png",
+    "xws": "toaamsr06"
+  },
+  {
+    "name": "toa-am-sr-07",
+    "points": 1247,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/SR/toa-am-sr-07.png",
+    "xws": "toaamsr07"
+  },
+  {
+    "name": "toa-am-sr-08",
+    "points": 1248,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/SR/toa-am-sr-08.png",
+    "xws": "toaamsr08"
+  },
+  {
+    "name": "toa-am-sr-09",
+    "points": 1249,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/SR/toa-am-sr-09.png",
+    "xws": "toaamsr09"
+  },
+  {
+    "name": "toa-am-sr-10",
+    "points": 1250,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/SR/toa-am-sr-10.png",
+    "xws": "toaamsr10"
+  },
+  {
+    "name": "toa-am-sr-11",
+    "points": 1251,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/SR/toa-am-sr-11.png",
+    "xws": "toaamsr11"
+  },
+  {
+    "name": "toa-am-sr-12",
+    "points": 1252,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/SR/toa-am-sr-12.png",
+    "xws": "toaamsr12"
+  },
+  {
+    "name": "toa-am-sr-13",
+    "points": 1253,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/SR/toa-am-sr-13.png",
+    "xws": "toaamsr13"
+  },
+  {
+    "name": "toa-am-tp-back",
+    "points": 1254,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/TP/toa-am-tp-back.png",
+    "xws": "toaamtpback"
+  },
+  {
+    "name": "toa-am-tp-01",
+    "points": 1255,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/TP/toa-am-tp-01.png",
+    "xws": "toaamtp01"
+  },
+  {
+    "name": "toa-am-tp-02",
+    "points": 1256,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/TP/toa-am-tp-02.png",
+    "xws": "toaamtp02"
+  },
+  {
+    "name": "toa-am-tp-03",
+    "points": 1257,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/TP/toa-am-tp-03.png",
+    "xws": "toaamtp03"
+  },
+  {
+    "name": "toa-am-tp-04",
+    "points": 1258,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/TP/toa-am-tp-04.png",
+    "xws": "toaamtp04"
+  },
+  {
+    "name": "toa-am-tp-05",
+    "points": 1259,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/TP/toa-am-tp-05.png",
+    "xws": "toaamtp05"
+  },
+  {
+    "name": "toa-am-tp-06",
+    "points": 1260,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/TP/toa-am-tp-06.png",
+    "xws": "toaamtp06"
+  },
+  {
+    "name": "toa-am-tp-07",
+    "points": 1261,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/TP/toa-am-tp-07.png",
+    "xws": "toaamtp07"
+  },
+  {
+    "name": "toa-am-tp-08",
+    "points": 1262,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/TP/toa-am-tp-08.png",
+    "xws": "toaamtp08"
+  },
+  {
+    "name": "toa-am-tp-09",
+    "points": 1263,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/TP/toa-am-tp-09.png",
+    "xws": "toaamtp09"
+  },
+  {
+    "name": "toa-am-tp-10",
+    "points": 1264,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/TP/toa-am-tp-10.png",
+    "xws": "toaamtp10"
+  },
+  {
+    "name": "toa-am-tp-11",
+    "points": 1265,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/TP/toa-am-tp-11.png",
+    "xws": "toaamtp11"
+  },
+  {
+    "name": "toa-am-tr-back",
+    "points": 1266,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/TR/toa-am-tr-back.png",
+    "xws": "toaamtrback"
+  },
+  {
+    "name": "toa-am-tr-01",
+    "points": 1267,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/TR/toa-am-tr-01.png",
+    "xws": "toaamtr01"
+  },
+  {
+    "name": "toa-am-tr-02",
+    "points": 1268,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/TR/toa-am-tr-02.png",
+    "xws": "toaamtr02"
+  },
+  {
+    "name": "toa-am-tr-03",
+    "points": 1269,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/TR/toa-am-tr-03.png",
+    "xws": "toaamtr03"
+  },
+  {
+    "name": "toa-am-tr-04",
+    "points": 1270,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/TR/toa-am-tr-04.png",
+    "xws": "toaamtr04"
+  },
+  {
+    "name": "toa-am-tr-05",
+    "points": 1271,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/TR/toa-am-tr-05.png",
+    "xws": "toaamtr05"
+  },
+  {
+    "name": "toa-am-tr-06",
+    "points": 1272,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/TR/toa-am-tr-06.png",
+    "xws": "toaamtr06"
+  },
+  {
+    "name": "toa-am-tr-07",
+    "points": 1273,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/TR/toa-am-tr-07.png",
+    "xws": "toaamtr07"
+  },
+  {
+    "name": "toa-am-tr-08",
+    "points": 1274,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/TR/toa-am-tr-08.png",
+    "xws": "toaamtr08"
+  },
+  {
+    "name": "toa-am-tr-09",
+    "points": 1275,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/TR/toa-am-tr-09.png",
+    "xws": "toaamtr09"
+  },
+  {
+    "name": "toa-am-tr-10",
+    "points": 1276,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/TR/toa-am-tr-10.png",
+    "xws": "toaamtr10"
+  },
+  {
+    "name": "toa-am-tr-11",
+    "points": 1277,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/TR/toa-am-tr-11.png",
+    "xws": "toaamtr11"
+  },
+  {
+    "name": "toa-am-tr-12",
+    "points": 1278,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/TR/toa-am-tr-12.png",
+    "xws": "toaamtr12"
+  },
+  {
+    "name": "toa-am-tr-13",
+    "points": 1279,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/TR/toa-am-tr-13.png",
+    "xws": "toaamtr13"
+  },
+  {
+    "name": "toa-am-tr-14",
+    "points": 1280,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/TR/toa-am-tr-14.png",
+    "xws": "toaamtr14"
+  },
+  {
+    "name": "toa-am-tr-15",
+    "points": 1281,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/TR/toa-am-tr-15.png",
+    "xws": "toaamtr15"
+  },
+  {
+    "name": "toa-am-tr-16",
+    "points": 1282,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/TR/toa-am-tr-16.png",
+    "xws": "toaamtr16"
+  },
+  {
+    "name": "toa-am-tr-17",
+    "points": 1283,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/TR/toa-am-tr-17.png",
+    "xws": "toaamtr17"
+  },
+  {
+    "name": "toa-am-tr-18",
+    "points": 1284,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/TR/toa-am-tr-18.png",
+    "xws": "toaamtr18"
+  },
+  {
+    "name": "toa-am-tr-19",
+    "points": 1285,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/TR/toa-am-tr-19.png",
+    "xws": "toaamtr19"
+  },
+  {
+    "name": "toa-am-tr-20",
+    "points": 1286,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/TR/toa-am-tr-20.png",
+    "xws": "toaamtr20"
+  },
+  {
+    "name": "toa-am-vq-back",
+    "points": 1287,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/VQ/toa-am-vq-back.png",
+    "xws": "toaamvqback"
+  },
+  {
+    "name": "toa-am-vq-01",
+    "points": 1288,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/VQ/toa-am-vq-01.png",
+    "xws": "toaamvq01"
+  },
+  {
+    "name": "toa-am-vq-02",
+    "points": 1289,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/VQ/toa-am-vq-02.png",
+    "xws": "toaamvq02"
+  },
+  {
+    "name": "toa-am-vq-03",
+    "points": 1290,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/VQ/toa-am-vq-03.png",
+    "xws": "toaamvq03"
+  },
+  {
+    "name": "toa-am-vq-04",
+    "points": 1291,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/VQ/toa-am-vq-04.png",
+    "xws": "toaamvq04"
+  },
+  {
+    "name": "toa-am-vq-05",
+    "points": 1292,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/VQ/toa-am-vq-05.png",
+    "xws": "toaamvq05"
+  },
+  {
+    "name": "toa-am-vq-06",
+    "points": 1293,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/VQ/toa-am-vq-06.png",
+    "xws": "toaamvq06"
+  },
+  {
+    "name": "toa-am-vq-07",
+    "points": 1294,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/VQ/toa-am-vq-07.png",
+    "xws": "toaamvq07"
+  },
+  {
+    "name": "toa-am-vq-08",
+    "points": 1295,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/VQ/toa-am-vq-08.png",
+    "xws": "toaamvq08"
+  },
+  {
+    "name": "toa-am-vq-09",
+    "points": 1296,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/VQ/toa-am-vq-09.png",
+    "xws": "toaamvq09"
+  },
+  {
+    "name": "toa-am-vq-10",
+    "points": 1297,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/VQ/toa-am-vq-10.png",
+    "xws": "toaamvq10"
+  },
+  {
+    "name": "toa-am-vq-11",
+    "points": 1298,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/VQ/toa-am-vq-11.png",
+    "xws": "toaamvq11"
+  },
+  {
+    "name": "toa-am-vq-12",
+    "points": 1299,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/VQ/toa-am-vq-12.png",
+    "xws": "toaamvq12"
+  },
+  {
+    "name": "toa-am-vq-13",
+    "points": 1300,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/VQ/toa-am-vq-13.png",
+    "xws": "toaamvq13"
+  },
+  {
+    "name": "toa-am-vq-14",
+    "points": 1301,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/VQ/toa-am-vq-14.png",
+    "xws": "toaamvq14"
+  },
+  {
+    "name": "toa-am-vq-15",
+    "points": 1302,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/VQ/toa-am-vq-15.png",
+    "xws": "toaamvq15"
+  },
+  {
+    "name": "toa-am-vq-16",
+    "points": 1303,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/VQ/toa-am-vq-16.png",
+    "xws": "toaamvq16"
+  },
+  {
+    "name": "toa-am-vq-17",
+    "points": 1304,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/VQ/toa-am-vq-17.png",
+    "xws": "toaamvq17"
+  },
+  {
+    "name": "toa-am-vq-18",
+    "points": 1305,
+    "expansion": "Trail of Ashes",
+    "image": "attack-modifiers/trail-of-ashes/VQ/toa-am-vq-18.png",
+    "xws": "toaamvq18"
   }
 ]

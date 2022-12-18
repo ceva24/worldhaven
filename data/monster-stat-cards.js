@@ -1410,7 +1410,161 @@
     "name": "water spirit",
     "points": 201,
     "expansion": "Crimson Scales",
+    "image": "monster-stat-cards/crimson-scales/cs-water-spirit-2.png",
+    "xws": "waterspirit"
+  },
+  {
+    "name": "water spirit",
+    "points": 202,
+    "expansion": "Crimson Scales",
     "image": "monster-stat-cards/crimson-scales/cs-water-spirit-4.png",
     "xws": "waterspirit"
+  },
+  {
+    "name": "water spirit",
+    "points": 203,
+    "expansion": "Crimson Scales",
+    "image": "monster-stat-cards/crimson-scales/cs-water-spirit-6.png",
+    "xws": "waterspirit"
+  },
+  {
+    "name": "harrower bugflute",
+    "points": 204,
+    "expansion": "Trail of Ashes",
+    "image": "monster-stat-cards/trail-of-ashes/toa-harrower-bugflute-0.png",
+    "xws": "harrowerbugflute"
+  },
+  {
+    "name": "harrower bugflute",
+    "points": 205,
+    "expansion": "Trail of Ashes",
+    "image": "monster-stat-cards/trail-of-ashes/toa-harrower-bugflute-2.png",
+    "xws": "harrowerbugflute"
+  },
+  {
+    "name": "harrower bugflute",
+    "points": 206,
+    "expansion": "Trail of Ashes",
+    "image": "monster-stat-cards/trail-of-ashes/toa-harrower-bugflute-4.png",
+    "xws": "harrowerbugflute"
+  },
+  {
+    "name": "harrower bugflute",
+    "points": 207,
+    "expansion": "Trail of Ashes",
+    "image": "monster-stat-cards/trail-of-ashes/toa-harrower-bugflute-6.png",
+    "xws": "harrowerbugflute"
+  },
+  {
+    "name": "shardrender",
+    "points": 208,
+    "expansion": "Trail of Ashes",
+    "image": "monster-stat-cards/trail-of-ashes/toa-shardrender-0.png",
+    "xws": "shardrender"
+  },
+  {
+    "name": "shardrender",
+    "points": 209,
+    "expansion": "Trail of Ashes",
+    "image": "monster-stat-cards/trail-of-ashes/toa-shardrender-2.png",
+    "xws": "shardrender"
+  },
+  {
+    "name": "shardrender",
+    "points": 210,
+    "expansion": "Trail of Ashes",
+    "image": "monster-stat-cards/trail-of-ashes/toa-shardrender-4.png",
+    "xws": "shardrender"
+  },
+  {
+    "name": "shardrender",
+    "points": 211,
+    "expansion": "Trail of Ashes",
+    "image": "monster-stat-cards/trail-of-ashes/toa-shardrender-6.png",
+    "xws": "shardrender"
+  },
+  {
+    "name": "smoke spirit",
+    "points": 212,
+    "expansion": "Trail of Ashes",
+    "image": "monster-stat-cards/trail-of-ashes/toa-smoke-spirit-0.png",
+    "xws": "smokespirit"
+  },
+  {
+    "name": "smoke spirit",
+    "points": 213,
+    "expansion": "Trail of Ashes",
+    "image": "monster-stat-cards/trail-of-ashes/toa-smoke-spirit-2.png",
+    "xws": "smokespirit"
+  },
+  {
+    "name": "smoke spirit",
+    "points": 214,
+    "expansion": "Trail of Ashes",
+    "image": "monster-stat-cards/trail-of-ashes/toa-smoke-spirit-4.png",
+    "xws": "smokespirit"
+  },
+  {
+    "name": "smoke spirit",
+    "points": 215,
+    "expansion": "Trail of Ashes",
+    "image": "monster-stat-cards/trail-of-ashes/toa-smoke-spirit-6.png",
+    "xws": "smokespirit"
+  },
+  {
+    "name": "talo",
+    "points": 216,
+    "expansion": "Trail of Ashes",
+    "image": "monster-stat-cards/trail-of-ashes/toa-talo-0.png",
+    "xws": "talo"
+  },
+  {
+    "name": "talo",
+    "points": 217,
+    "expansion": "Trail of Ashes",
+    "image": "monster-stat-cards/trail-of-ashes/toa-talo-2.png",
+    "xws": "talo"
+  },
+  {
+    "name": "talo",
+    "points": 218,
+    "expansion": "Trail of Ashes",
+    "image": "monster-stat-cards/trail-of-ashes/toa-talo-4.png",
+    "xws": "talo"
+  },
+  {
+    "name": "talo",
+    "points": 219,
+    "expansion": "Trail of Ashes",
+    "image": "monster-stat-cards/trail-of-ashes/toa-talo-6.png",
+    "xws": "talo"
+  },
+  {
+    "name": "valrath vanquisher",
+    "points": 220,
+    "expansion": "Trail of Ashes",
+    "image": "monster-stat-cards/trail-of-ashes/toa-valrath-vanquisher-0.png",
+    "xws": "valrathvanquisher"
+  },
+  {
+    "name": "valrath vanquisher",
+    "points": 221,
+    "expansion": "Trail of Ashes",
+    "image": "monster-stat-cards/trail-of-ashes/toa-valrath-vanquisher-2.png",
+    "xws": "valrathvanquisher"
+  },
+  {
+    "name": "valrath vanquisher",
+    "points": 222,
+    "expansion": "Trail of Ashes",
+    "image": "monster-stat-cards/trail-of-ashes/toa-valrath-vanquisher-4.png",
+    "xws": "valrathvanquisher"
+  },
+  {
+    "name": "valrath vanquisher",
+    "points": 223,
+    "expansion": "Trail of Ashes",
+    "image": "monster-stat-cards/trail-of-ashes/toa-valrath-vanquisher-6.png",
+    "xws": "valrathvanquisher"
   }
 ]

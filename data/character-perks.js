@@ -390,5 +390,47 @@
     "expansion": "Crimson Scales",
     "image": "character-perks/crimson-scales/cs-starslinger-perks.png",
     "xws": "starslingerperks"
+  },
+  {
+    "name": "incarnate perks",
+    "points": 56,
+    "expansion": "Trail of Ashes",
+    "image": "character-perks/trail-of-ashes/toa-incarnate-perks.png",
+    "xws": "incarnateperks"
+  },
+  {
+    "name": "rimehearth perks",
+    "points": 57,
+    "expansion": "Trail of Ashes",
+    "image": "character-perks/trail-of-ashes/toa-rimehearth-perks.png",
+    "xws": "rimehearthperks"
+  },
+  {
+    "name": "shardrender perks",
+    "points": 58,
+    "expansion": "Trail of Ashes",
+    "image": "character-perks/trail-of-ashes/toa-shardrender-perks.png",
+    "xws": "shardrenderperks"
+  },
+  {
+    "name": "tempest perks",
+    "points": 59,
+    "expansion": "Trail of Ashes",
+    "image": "character-perks/trail-of-ashes/toa-tempest-perks.png",
+    "xws": "tempestperks"
+  },
+  {
+    "name": "thornreaper perks",
+    "points": 60,
+    "expansion": "Trail of Ashes",
+    "image": "character-perks/trail-of-ashes/toa-thornreaper-perks.png",
+    "xws": "thornreaperperks"
+  },
+  {
+    "name": "vanquisher perks",
+    "points": 61,
+    "expansion": "Trail of Ashes",
+    "image": "character-perks/trail-of-ashes/toa-vanquisher-perks.png",
+    "xws": "vanquisherperks"
   }
 ]

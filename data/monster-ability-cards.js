@@ -6403,5 +6403,313 @@
     "expansion": "Crimson Scales",
     "image": "monster-ability-cards/crimson-scales/water-spirit/cs-ma-water-spirit-8.png",
     "xws": "csmawaterspirit8"
+  },
+  {
+    "name": "ev-back",
+    "points": 915,
+    "expansion": "Trail of Ashes",
+    "image": "monster-ability-cards/trail-of-ashes/enraged-vanquisher/toa-ev-back.png",
+    "xws": "evback"
+  },
+  {
+    "name": "abandoned fury",
+    "points": 916,
+    "expansion": "Trail of Ashes",
+    "image": "monster-ability-cards/trail-of-ashes/enraged-vanquisher/toa-abandoned-fury.png",
+    "xws": "abandonedfury"
+  },
+  {
+    "name": "aggressive defense",
+    "points": 917,
+    "expansion": "Trail of Ashes",
+    "image": "monster-ability-cards/trail-of-ashes/enraged-vanquisher/toa-aggressive-defense.png",
+    "xws": "aggressivedefense"
+  },
+  {
+    "name": "deafening roar",
+    "points": 918,
+    "expansion": "Trail of Ashes",
+    "image": "monster-ability-cards/trail-of-ashes/enraged-vanquisher/toa-deafening-roar.png",
+    "xws": "deafeningroar"
+  },
+  {
+    "name": "enraged destruction",
+    "points": 919,
+    "expansion": "Trail of Ashes",
+    "image": "monster-ability-cards/trail-of-ashes/enraged-vanquisher/toa-enraged-destruction.png",
+    "xws": "enrageddestruction"
+  },
+  {
+    "name": "merciless resolve",
+    "points": 920,
+    "expansion": "Trail of Ashes",
+    "image": "monster-ability-cards/trail-of-ashes/enraged-vanquisher/toa-merciless-resolve.png",
+    "xws": "mercilessresolve"
+  },
+  {
+    "name": "reaching malice",
+    "points": 921,
+    "expansion": "Trail of Ashes",
+    "image": "monster-ability-cards/trail-of-ashes/enraged-vanquisher/toa-reaching-malice.png",
+    "xws": "reachingmalice"
+  },
+  {
+    "name": "share our anguish",
+    "points": 922,
+    "expansion": "Trail of Ashes",
+    "image": "monster-ability-cards/trail-of-ashes/enraged-vanquisher/toa-share-our-anguish.png",
+    "xws": "shareouranguish"
+  },
+  {
+    "name": "wild leap",
+    "points": 923,
+    "expansion": "Trail of Ashes",
+    "image": "monster-ability-cards/trail-of-ashes/enraged-vanquisher/toa-wild-leap.png",
+    "xws": "wildleap"
+  },
+  {
+    "name": "toa-ma-scavenger-back",
+    "points": 924,
+    "expansion": "Trail of Ashes",
+    "image": "monster-ability-cards/trail-of-ashes/scavenger/toa-ma-scavenger-back.png",
+    "xws": "toamascavengerback"
+  },
+  {
+    "name": "toa-ma-scavenger-1",
+    "points": 925,
+    "expansion": "Trail of Ashes",
+    "image": "monster-ability-cards/trail-of-ashes/scavenger/toa-ma-scavenger-1.png",
+    "xws": "toamascavenger1"
+  },
+  {
+    "name": "toa-ma-scavenger-2",
+    "points": 926,
+    "expansion": "Trail of Ashes",
+    "image": "monster-ability-cards/trail-of-ashes/scavenger/toa-ma-scavenger-2.png",
+    "xws": "toamascavenger2"
+  },
+  {
+    "name": "toa-ma-scavenger-3",
+    "points": 927,
+    "expansion": "Trail of Ashes",
+    "image": "monster-ability-cards/trail-of-ashes/scavenger/toa-ma-scavenger-3.png",
+    "xws": "toamascavenger3"
+  },
+  {
+    "name": "toa-ma-scavenger-4",
+    "points": 928,
+    "expansion": "Trail of Ashes",
+    "image": "monster-ability-cards/trail-of-ashes/scavenger/toa-ma-scavenger-4.png",
+    "xws": "toamascavenger4"
+  },
+  {
+    "name": "toa-ma-scavenger-5",
+    "points": 929,
+    "expansion": "Trail of Ashes",
+    "image": "monster-ability-cards/trail-of-ashes/scavenger/toa-ma-scavenger-5.png",
+    "xws": "toamascavenger5"
+  },
+  {
+    "name": "toa-ma-scavenger-6",
+    "points": 930,
+    "expansion": "Trail of Ashes",
+    "image": "monster-ability-cards/trail-of-ashes/scavenger/toa-ma-scavenger-6.png",
+    "xws": "toamascavenger6"
+  },
+  {
+    "name": "toa-ma-scavenger-7",
+    "points": 931,
+    "expansion": "Trail of Ashes",
+    "image": "monster-ability-cards/trail-of-ashes/scavenger/toa-ma-scavenger-7.png",
+    "xws": "toamascavenger7"
+  },
+  {
+    "name": "toa-ma-scavenger-8",
+    "points": 932,
+    "expansion": "Trail of Ashes",
+    "image": "monster-ability-cards/trail-of-ashes/scavenger/toa-ma-scavenger-8.png",
+    "xws": "toamascavenger8"
+  },
+  {
+    "name": "toa-ma-shardrender-back",
+    "points": 933,
+    "expansion": "Trail of Ashes",
+    "image": "monster-ability-cards/trail-of-ashes/shardrender/toa-ma-shardrender-back.png",
+    "xws": "toamashardrenderback"
+  },
+  {
+    "name": "toa-ma-shardrender-1",
+    "points": 934,
+    "expansion": "Trail of Ashes",
+    "image": "monster-ability-cards/trail-of-ashes/shardrender/toa-ma-shardrender-1.png",
+    "xws": "toamashardrender1"
+  },
+  {
+    "name": "toa-ma-shardrender-2",
+    "points": 935,
+    "expansion": "Trail of Ashes",
+    "image": "monster-ability-cards/trail-of-ashes/shardrender/toa-ma-shardrender-2.png",
+    "xws": "toamashardrender2"
+  },
+  {
+    "name": "toa-ma-shardrender-3",
+    "points": 936,
+    "expansion": "Trail of Ashes",
+    "image": "monster-ability-cards/trail-of-ashes/shardrender/toa-ma-shardrender-3.png",
+    "xws": "toamashardrender3"
+  },
+  {
+    "name": "toa-ma-shardrender-4",
+    "points": 937,
+    "expansion": "Trail of Ashes",
+    "image": "monster-ability-cards/trail-of-ashes/shardrender/toa-ma-shardrender-4.png",
+    "xws": "toamashardrender4"
+  },
+  {
+    "name": "toa-ma-shardrender-5",
+    "points": 938,
+    "expansion": "Trail of Ashes",
+    "image": "monster-ability-cards/trail-of-ashes/shardrender/toa-ma-shardrender-5.png",
+    "xws": "toamashardrender5"
+  },
+  {
+    "name": "toa-ma-shardrender-6",
+    "points": 939,
+    "expansion": "Trail of Ashes",
+    "image": "monster-ability-cards/trail-of-ashes/shardrender/toa-ma-shardrender-6.png",
+    "xws": "toamashardrender6"
+  },
+  {
+    "name": "toa-ma-smoke-spirit-back",
+    "points": 940,
+    "expansion": "Trail of Ashes",
+    "image": "monster-ability-cards/trail-of-ashes/smoke-spirit/toa-ma-smoke-spirit-back.png",
+    "xws": "toamasmoke-spiritback"
+  },
+  {
+    "name": "toa-ma-smoke-spirit-1",
+    "points": 941,
+    "expansion": "Trail of Ashes",
+    "image": "monster-ability-cards/trail-of-ashes/smoke-spirit/toa-ma-smoke-spirit-1.png",
+    "xws": "toamasmoke-spirit1"
+  },
+  {
+    "name": "toa-ma-smoke-spirit-2",
+    "points": 942,
+    "expansion": "Trail of Ashes",
+    "image": "monster-ability-cards/trail-of-ashes/smoke-spirit/toa-ma-smoke-spirit-2.png",
+    "xws": "toamasmoke-spirit2"
+  },
+  {
+    "name": "toa-ma-smoke-spirit-3",
+    "points": 943,
+    "expansion": "Trail of Ashes",
+    "image": "monster-ability-cards/trail-of-ashes/smoke-spirit/toa-ma-smoke-spirit-3.png",
+    "xws": "toamasmoke-spirit3"
+  },
+  {
+    "name": "toa-ma-smoke-spirit-4",
+    "points": 944,
+    "expansion": "Trail of Ashes",
+    "image": "monster-ability-cards/trail-of-ashes/smoke-spirit/toa-ma-smoke-spirit-4.png",
+    "xws": "toamasmoke-spirit4"
+  },
+  {
+    "name": "toa-ma-smoke-spirit-5",
+    "points": 945,
+    "expansion": "Trail of Ashes",
+    "image": "monster-ability-cards/trail-of-ashes/smoke-spirit/toa-ma-smoke-spirit-5.png",
+    "xws": "toamasmoke-spirit5"
+  },
+  {
+    "name": "toa-ma-smoke-spirit-6",
+    "points": 946,
+    "expansion": "Trail of Ashes",
+    "image": "monster-ability-cards/trail-of-ashes/smoke-spirit/toa-ma-smoke-spirit-6.png",
+    "xws": "toamasmoke-spirit6"
+  },
+  {
+    "name": "toa-ma-smoke-spirit-7",
+    "points": 947,
+    "expansion": "Trail of Ashes",
+    "image": "monster-ability-cards/trail-of-ashes/smoke-spirit/toa-ma-smoke-spirit-7.png",
+    "xws": "toamasmoke-spirit7"
+  },
+  {
+    "name": "toa-ma-smoke-spirit-8",
+    "points": 948,
+    "expansion": "Trail of Ashes",
+    "image": "monster-ability-cards/trail-of-ashes/smoke-spirit/toa-ma-smoke-spirit-8.png",
+    "xws": "toamasmoke-spirit8"
+  },
+  {
+    "name": "toa-ma-talo-back",
+    "points": 949,
+    "expansion": "Trail of Ashes",
+    "image": "monster-ability-cards/trail-of-ashes/talo/toa-ma-talo-back.png",
+    "xws": "toamataloback"
+  },
+  {
+    "name": "toa-ma-talo-1",
+    "points": 950,
+    "expansion": "Trail of Ashes",
+    "image": "monster-ability-cards/trail-of-ashes/talo/toa-ma-talo-1.png",
+    "xws": "toamatalo1"
+  },
+  {
+    "name": "toa-ma-talo-2",
+    "points": 951,
+    "expansion": "Trail of Ashes",
+    "image": "monster-ability-cards/trail-of-ashes/talo/toa-ma-talo-2.png",
+    "xws": "toamatalo2"
+  },
+  {
+    "name": "toa-ma-talo-3",
+    "points": 952,
+    "expansion": "Trail of Ashes",
+    "image": "monster-ability-cards/trail-of-ashes/talo/toa-ma-talo-3.png",
+    "xws": "toamatalo3"
+  },
+  {
+    "name": "toa-ma-talo-4",
+    "points": 953,
+    "expansion": "Trail of Ashes",
+    "image": "monster-ability-cards/trail-of-ashes/talo/toa-ma-talo-4.png",
+    "xws": "toamatalo4"
+  },
+  {
+    "name": "toa-ma-valrath-vanquisher-back",
+    "points": 954,
+    "expansion": "Trail of Ashes",
+    "image": "monster-ability-cards/trail-of-ashes/valrath-vanquisher/toa-ma-valrath-vanquisher-back.png",
+    "xws": "toamavalrath-vanquisherback"
+  },
+  {
+    "name": "toa-ma-valrath-vanquisher-1",
+    "points": 955,
+    "expansion": "Trail of Ashes",
+    "image": "monster-ability-cards/trail-of-ashes/valrath-vanquisher/toa-ma-valrath-vanquisher-1.png",
+    "xws": "toamavalrath-vanquisher1"
+  },
+  {
+    "name": "toa-ma-valrath-vanquisher-2",
+    "points": 956,
+    "expansion": "Trail of Ashes",
+    "image": "monster-ability-cards/trail-of-ashes/valrath-vanquisher/toa-ma-valrath-vanquisher-2.png",
+    "xws": "toamavalrath-vanquisher2"
+  },
+  {
+    "name": "toa-ma-valrath-vanquisher-3",
+    "points": 957,
+    "expansion": "Trail of Ashes",
+    "image": "monster-ability-cards/trail-of-ashes/valrath-vanquisher/toa-ma-valrath-vanquisher-3.png",
+    "xws": "toamavalrath-vanquisher3"
+  },
+  {
+    "name": "toa-ma-valrath-vanquisher-4",
+    "points": 958,
+    "expansion": "Trail of Ashes",
+    "image": "monster-ability-cards/trail-of-ashes/valrath-vanquisher/toa-ma-valrath-vanquisher-4.png",
+    "xws": "toamavalrath-vanquisher4"
   }
 ]

@@ -8,6 +8,7 @@ var files = [
 	'events.js',
 	'items.js',
 	'map-tiles.js',
+	'milestone-ability-cards.js',
 	'milestones.js',
 	'monster-ability-cards.js',
 	'monster-stat-cards.js',
@@ -25,6 +26,7 @@ var expansion_conversion = {
   "fh": "Frosthaven",
   "jl": "Jaws Of The Lion",
   "cs": "Crimson Scales",
+  "ta": "Trail of Ashes",
 };
 
 var expansion_card_type = {}
@@ -232,6 +234,7 @@ async function loadFromStorage() {
 		"cs-character-ability-cards": true,
 		"cs-character-mats": true,
 		"cs-character-perks": true,
+		"cs-deprecated-assets": true,
 		"cs-events": true,
 		"cs-items": true,
 		"cs-milestones": true,
@@ -239,7 +242,22 @@ async function loadFromStorage() {
 		"cs-monster-stat-cards": true,
 		"cs-personal-quests": true,
 		"cs-player-aid-cards": true,
-		"cs-tokens": true
+		"cs-tokens": true,
+		"ta": true,
+		"ta-attack-modifiers": true,
+		"ta-character-ability-cards": true,
+		"ta-character-mats": true,
+		"ta-character-perks": true,
+		"ta-events": true,
+		"ta-items": true,
+		"ta-milestone-ability-cards": true,
+		"ta-milestones": true,
+		"ta-monster-ability-cards": true,
+		"ta-monster-stat-cards": true,
+		"ta-personal-quests": true,
+		"ta-player-aid-cards": true,
+		"ta-random-scenarios": true,
+		"ta-tokens": true
 	}
 		
   chrome.storage.sync.get({['inputArr']: extdefault}, async function(item) {

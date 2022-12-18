@@ -3682,102 +3682,102 @@
     "xws": "csce60f"
   },
   {
-    "name": "cs-ce-aa-01-f",
-    "points": 526,
-    "expansion": "Crimson Scales",
-    "image": "events/crimson-scales/city/cs-ce-aa-01-f.png",
-    "xws": "csceaa01f"
-  },
-  {
     "name": "cs-ce-aa-01-b",
-    "points": 527,
+    "points": 526,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-aa-01-b.png",
     "xws": "csceaa01b"
   },
   {
-    "name": "cs-ce-aa-02-f",
-    "points": 528,
+    "name": "cs-ce-aa-01-f",
+    "points": 527,
     "expansion": "Crimson Scales",
-    "image": "events/crimson-scales/city/cs-ce-aa-02-f.png",
-    "xws": "csceaa02f"
+    "image": "events/crimson-scales/city/cs-ce-aa-01-f.png",
+    "xws": "csceaa01f"
   },
   {
     "name": "cs-ce-aa-02-b",
-    "points": 529,
+    "points": 528,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-aa-02-b.png",
     "xws": "csceaa02b"
   },
   {
-    "name": "cs-ce-qa-01-f",
-    "points": 530,
+    "name": "cs-ce-aa-02-f",
+    "points": 529,
     "expansion": "Crimson Scales",
-    "image": "events/crimson-scales/city/cs-ce-qa-01-f.png",
-    "xws": "csceqa01f"
+    "image": "events/crimson-scales/city/cs-ce-aa-02-f.png",
+    "xws": "csceaa02f"
   },
   {
     "name": "cs-ce-qa-01-b",
-    "points": 531,
+    "points": 530,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-qa-01-b.png",
     "xws": "csceqa01b"
   },
   {
-    "name": "cs-ce-qa-02-f",
-    "points": 532,
+    "name": "cs-ce-qa-01-f",
+    "points": 531,
     "expansion": "Crimson Scales",
-    "image": "events/crimson-scales/city/cs-ce-qa-02-f.png",
-    "xws": "csceqa02f"
+    "image": "events/crimson-scales/city/cs-ce-qa-01-f.png",
+    "xws": "csceqa01f"
   },
   {
     "name": "cs-ce-qa-02-b",
-    "points": 533,
+    "points": 532,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-qa-02-b.png",
     "xws": "csceqa02b"
   },
   {
-    "name": "cs-ce-qa-03-f",
-    "points": 534,
+    "name": "cs-ce-qa-02-f",
+    "points": 533,
     "expansion": "Crimson Scales",
-    "image": "events/crimson-scales/city/cs-ce-qa-03-f.png",
-    "xws": "csceqa03f"
+    "image": "events/crimson-scales/city/cs-ce-qa-02-f.png",
+    "xws": "csceqa02f"
   },
   {
     "name": "cs-ce-qa-03-b",
-    "points": 535,
+    "points": 534,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-qa-03-b.png",
     "xws": "csceqa03b"
   },
   {
-    "name": "cs-ce-rm-01-f",
-    "points": 536,
+    "name": "cs-ce-qa-03-f",
+    "points": 535,
     "expansion": "Crimson Scales",
-    "image": "events/crimson-scales/city/cs-ce-rm-01-f.png",
-    "xws": "cscerm01f"
+    "image": "events/crimson-scales/city/cs-ce-qa-03-f.png",
+    "xws": "csceqa03f"
   },
   {
     "name": "cs-ce-rm-01-b",
-    "points": 537,
+    "points": 536,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-rm-01-b.png",
     "xws": "cscerm01b"
   },
   {
-    "name": "cs-ce-rm-02-f",
-    "points": 538,
+    "name": "cs-ce-rm-01-f",
+    "points": 537,
     "expansion": "Crimson Scales",
-    "image": "events/crimson-scales/city/cs-ce-rm-02-f.png",
-    "xws": "cscerm02f"
+    "image": "events/crimson-scales/city/cs-ce-rm-01-f.png",
+    "xws": "cscerm01f"
   },
   {
     "name": "cs-ce-rm-02-b",
-    "points": 539,
+    "points": 538,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/city/cs-ce-rm-02-b.png",
     "xws": "cscerm02b"
+  },
+  {
+    "name": "cs-ce-rm-02-f",
+    "points": 539,
+    "expansion": "Crimson Scales",
+    "image": "events/crimson-scales/city/cs-ce-rm-02-f.png",
+    "xws": "cscerm02f"
   },
   {
     "name": "cs-re-01-b",
@@ -4620,87 +4620,507 @@
     "xws": "csre60f"
   },
   {
-    "name": "cs-re-aa-01-f",
-    "points": 660,
-    "expansion": "Crimson Scales",
-    "image": "events/crimson-scales/road/cs-re-aa-01-f.png",
-    "xws": "cereaa01f"
-  },
-  {
     "name": "cs-re-aa-01-b",
-    "points": 661,
+    "points": 660,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-aa-01-b.png",
     "xws": "cereaa01b"
   },
   {
-    "name": "cs-re-aa-02-f",
-    "points": 662,
+    "name": "cs-re-aa-01-f",
+    "points": 661,
     "expansion": "Crimson Scales",
-    "image": "events/crimson-scales/road/cs-re-aa-02-f.png",
-    "xws": "cereaa02f"
+    "image": "events/crimson-scales/road/cs-re-aa-01-f.png",
+    "xws": "cereaa01f"
   },
   {
     "name": "cs-re-aa-02-b",
-    "points": 663,
+    "points": 662,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-aa-02-b.png",
     "xws": "cereaa02b"
   },
   {
-    "name": "cs-re-qa-01-f",
-    "points": 664,
+    "name": "cs-re-aa-02-f",
+    "points": 663,
     "expansion": "Crimson Scales",
-    "image": "events/crimson-scales/road/cs-re-qa-01-f.png",
-    "xws": "cereqa01f"
+    "image": "events/crimson-scales/road/cs-re-aa-02-f.png",
+    "xws": "cereaa02f"
   },
   {
     "name": "cs-re-qa-01-b",
-    "points": 665,
+    "points": 664,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-qa-01-b.png",
     "xws": "cereqa01b"
   },
   {
-    "name": "cs-re-qa-02-f",
-    "points": 666,
+    "name": "cs-re-qa-01-f",
+    "points": 665,
     "expansion": "Crimson Scales",
-    "image": "events/crimson-scales/road/cs-re-qa-02-f.png",
-    "xws": "cereqa02f"
+    "image": "events/crimson-scales/road/cs-re-qa-01-f.png",
+    "xws": "cereqa01f"
   },
   {
     "name": "cs-re-qa-02-b",
-    "points": 667,
+    "points": 666,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-qa-02-b.png",
     "xws": "cereqa02b"
   },
   {
-    "name": "cs-re-rm-01-f",
-    "points": 668,
+    "name": "cs-re-qa-02-f",
+    "points": 667,
     "expansion": "Crimson Scales",
-    "image": "events/crimson-scales/road/cs-re-rm-01-f.png",
-    "xws": "cererm01f"
+    "image": "events/crimson-scales/road/cs-re-qa-02-f.png",
+    "xws": "cereqa02f"
   },
   {
     "name": "cs-re-rm-01-b",
-    "points": 669,
+    "points": 668,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-rm-01-b.png",
     "xws": "cererm01b"
   },
   {
-    "name": "cs-re-rm-02-f",
+    "name": "cs-re-rm-01-f",
+    "points": 669,
+    "expansion": "Crimson Scales",
+    "image": "events/crimson-scales/road/cs-re-rm-01-f.png",
+    "xws": "cererm01f"
+  },
+  {
+    "name": "cs-re-rm-02-b",
     "points": 670,
+    "expansion": "Crimson Scales",
+    "image": "events/crimson-scales/road/cs-re-rm-02-b.png",
+    "xws": "cererm02b"
+  },
+  {
+    "name": "cs-re-rm-02-f",
+    "points": 671,
     "expansion": "Crimson Scales",
     "image": "events/crimson-scales/road/cs-re-rm-02-f.png",
     "xws": "cererm02f"
   },
   {
-    "name": "cs-re-rm-02-b",
-    "points": 671,
-    "expansion": "Crimson Scales",
-    "image": "events/crimson-scales/road/cs-re-rm-02-b.png",
-    "xws": "cererm02b"
+    "name": "toa-ce-61-b",
+    "points": 672,
+    "expansion": "Trail of Ashes",
+    "image": "events/trail-of-ashes/city/toa-ce-61-b.png",
+    "xws": "toace61b"
+  },
+  {
+    "name": "toa-ce-61-f",
+    "points": 673,
+    "expansion": "Trail of Ashes",
+    "image": "events/trail-of-ashes/city/toa-ce-61-f.png",
+    "xws": "toace61f"
+  },
+  {
+    "name": "toa-ce-62-b",
+    "points": 674,
+    "expansion": "Trail of Ashes",
+    "image": "events/trail-of-ashes/city/toa-ce-62-b.png",
+    "xws": "toace62b"
+  },
+  {
+    "name": "toa-ce-62-f",
+    "points": 675,
+    "expansion": "Trail of Ashes",
+    "image": "events/trail-of-ashes/city/toa-ce-62-f.png",
+    "xws": "toace62f"
+  },
+  {
+    "name": "toa-ce-63-b",
+    "points": 676,
+    "expansion": "Trail of Ashes",
+    "image": "events/trail-of-ashes/city/toa-ce-63-b.png",
+    "xws": "toace63b"
+  },
+  {
+    "name": "toa-ce-63-f",
+    "points": 677,
+    "expansion": "Trail of Ashes",
+    "image": "events/trail-of-ashes/city/toa-ce-63-f.png",
+    "xws": "toace63f"
+  },
+  {
+    "name": "toa-ce-64-b",
+    "points": 678,
+    "expansion": "Trail of Ashes",
+    "image": "events/trail-of-ashes/city/toa-ce-64-b.png",
+    "xws": "toace64b"
+  },
+  {
+    "name": "toa-ce-64-f",
+    "points": 679,
+    "expansion": "Trail of Ashes",
+    "image": "events/trail-of-ashes/city/toa-ce-64-f.png",
+    "xws": "toace64f"
+  },
+  {
+    "name": "toa-ce-65-b",
+    "points": 680,
+    "expansion": "Trail of Ashes",
+    "image": "events/trail-of-ashes/city/toa-ce-65-b.png",
+    "xws": "toace65b"
+  },
+  {
+    "name": "toa-ce-65-f",
+    "points": 681,
+    "expansion": "Trail of Ashes",
+    "image": "events/trail-of-ashes/city/toa-ce-65-f.png",
+    "xws": "toace65f"
+  },
+  {
+    "name": "toa-ce-66-b",
+    "points": 682,
+    "expansion": "Trail of Ashes",
+    "image": "events/trail-of-ashes/city/toa-ce-66-b.png",
+    "xws": "toace66b"
+  },
+  {
+    "name": "toa-ce-66-f",
+    "points": 683,
+    "expansion": "Trail of Ashes",
+    "image": "events/trail-of-ashes/city/toa-ce-66-f.png",
+    "xws": "toace66f"
+  },
+  {
+    "name": "toa-ce-67-b",
+    "points": 684,
+    "expansion": "Trail of Ashes",
+    "image": "events/trail-of-ashes/city/toa-ce-67-b.png",
+    "xws": "toace67b"
+  },
+  {
+    "name": "toa-ce-67-f",
+    "points": 685,
+    "expansion": "Trail of Ashes",
+    "image": "events/trail-of-ashes/city/toa-ce-67-f.png",
+    "xws": "toace67f"
+  },
+  {
+    "name": "toa-ce-68-b",
+    "points": 686,
+    "expansion": "Trail of Ashes",
+    "image": "events/trail-of-ashes/city/toa-ce-68-b.png",
+    "xws": "toace68b"
+  },
+  {
+    "name": "toa-ce-68-f",
+    "points": 687,
+    "expansion": "Trail of Ashes",
+    "image": "events/trail-of-ashes/city/toa-ce-68-f.png",
+    "xws": "toace68f"
+  },
+  {
+    "name": "toa-ce-69-b",
+    "points": 688,
+    "expansion": "Trail of Ashes",
+    "image": "events/trail-of-ashes/city/toa-ce-69-b.png",
+    "xws": "toace69b"
+  },
+  {
+    "name": "toa-ce-69-f",
+    "points": 689,
+    "expansion": "Trail of Ashes",
+    "image": "events/trail-of-ashes/city/toa-ce-69-f.png",
+    "xws": "toace69f"
+  },
+  {
+    "name": "toa-ce-70-b",
+    "points": 690,
+    "expansion": "Trail of Ashes",
+    "image": "events/trail-of-ashes/city/toa-ce-70-b.png",
+    "xws": "toace70b"
+  },
+  {
+    "name": "toa-ce-70-f",
+    "points": 691,
+    "expansion": "Trail of Ashes",
+    "image": "events/trail-of-ashes/city/toa-ce-70-f.png",
+    "xws": "toace70f"
+  },
+  {
+    "name": "toa-ce-71-b",
+    "points": 692,
+    "expansion": "Trail of Ashes",
+    "image": "events/trail-of-ashes/city/toa-ce-71-b.png",
+    "xws": "toace71b"
+  },
+  {
+    "name": "toa-ce-71-f",
+    "points": 693,
+    "expansion": "Trail of Ashes",
+    "image": "events/trail-of-ashes/city/toa-ce-71-f.png",
+    "xws": "toace71f"
+  },
+  {
+    "name": "toa-ce-72-b",
+    "points": 694,
+    "expansion": "Trail of Ashes",
+    "image": "events/trail-of-ashes/city/toa-ce-72-b.png",
+    "xws": "toace72b"
+  },
+  {
+    "name": "toa-ce-72-f",
+    "points": 695,
+    "expansion": "Trail of Ashes",
+    "image": "events/trail-of-ashes/city/toa-ce-72-f.png",
+    "xws": "toace72f"
+  },
+  {
+    "name": "toa-ce-73-b",
+    "points": 696,
+    "expansion": "Trail of Ashes",
+    "image": "events/trail-of-ashes/city/toa-ce-73-b.png",
+    "xws": "toace73b"
+  },
+  {
+    "name": "toa-ce-73-f",
+    "points": 697,
+    "expansion": "Trail of Ashes",
+    "image": "events/trail-of-ashes/city/toa-ce-73-f.png",
+    "xws": "toace73f"
+  },
+  {
+    "name": "toa-ce-74-b",
+    "points": 698,
+    "expansion": "Trail of Ashes",
+    "image": "events/trail-of-ashes/city/toa-ce-74-b.png",
+    "xws": "toace74b"
+  },
+  {
+    "name": "toa-ce-74-f",
+    "points": 699,
+    "expansion": "Trail of Ashes",
+    "image": "events/trail-of-ashes/city/toa-ce-74-f.png",
+    "xws": "toace74f"
+  },
+  {
+    "name": "toa-ce-75-b",
+    "points": 700,
+    "expansion": "Trail of Ashes",
+    "image": "events/trail-of-ashes/city/toa-ce-75-b.png",
+    "xws": "toace75b"
+  },
+  {
+    "name": "toa-ce-75-f",
+    "points": 701,
+    "expansion": "Trail of Ashes",
+    "image": "events/trail-of-ashes/city/toa-ce-75-f.png",
+    "xws": "toace75f"
+  },
+  {
+    "name": "toa-re-61-b",
+    "points": 702,
+    "expansion": "Trail of Ashes",
+    "image": "events/trail-of-ashes/road/toa-re-61-b.png",
+    "xws": "toare61b"
+  },
+  {
+    "name": "toa-re-61-f",
+    "points": 703,
+    "expansion": "Trail of Ashes",
+    "image": "events/trail-of-ashes/road/toa-re-61-f.png",
+    "xws": "toare61f"
+  },
+  {
+    "name": "toa-re-62-b",
+    "points": 704,
+    "expansion": "Trail of Ashes",
+    "image": "events/trail-of-ashes/road/toa-re-62-b.png",
+    "xws": "toare62b"
+  },
+  {
+    "name": "toa-re-62-f",
+    "points": 705,
+    "expansion": "Trail of Ashes",
+    "image": "events/trail-of-ashes/road/toa-re-62-f.png",
+    "xws": "toare62f"
+  },
+  {
+    "name": "toa-re-63-b",
+    "points": 706,
+    "expansion": "Trail of Ashes",
+    "image": "events/trail-of-ashes/road/toa-re-63-b.png",
+    "xws": "toare63b"
+  },
+  {
+    "name": "toa-re-63-f",
+    "points": 707,
+    "expansion": "Trail of Ashes",
+    "image": "events/trail-of-ashes/road/toa-re-63-f.png",
+    "xws": "toare63f"
+  },
+  {
+    "name": "toa-re-64-b",
+    "points": 708,
+    "expansion": "Trail of Ashes",
+    "image": "events/trail-of-ashes/road/toa-re-64-b.png",
+    "xws": "toare64b"
+  },
+  {
+    "name": "toa-re-64-f",
+    "points": 709,
+    "expansion": "Trail of Ashes",
+    "image": "events/trail-of-ashes/road/toa-re-64-f.png",
+    "xws": "toare64f"
+  },
+  {
+    "name": "toa-re-65-b",
+    "points": 710,
+    "expansion": "Trail of Ashes",
+    "image": "events/trail-of-ashes/road/toa-re-65-b.png",
+    "xws": "toare65b"
+  },
+  {
+    "name": "toa-re-65-f",
+    "points": 711,
+    "expansion": "Trail of Ashes",
+    "image": "events/trail-of-ashes/road/toa-re-65-f.png",
+    "xws": "toare65f"
+  },
+  {
+    "name": "toa-re-66-b",
+    "points": 712,
+    "expansion": "Trail of Ashes",
+    "image": "events/trail-of-ashes/road/toa-re-66-b.png",
+    "xws": "toare66b"
+  },
+  {
+    "name": "toa-re-66-f",
+    "points": 713,
+    "expansion": "Trail of Ashes",
+    "image": "events/trail-of-ashes/road/toa-re-66-f.png",
+    "xws": "toare66f"
+  },
+  {
+    "name": "toa-re-67-b",
+    "points": 714,
+    "expansion": "Trail of Ashes",
+    "image": "events/trail-of-ashes/road/toa-re-67-b.png",
+    "xws": "toare67b"
+  },
+  {
+    "name": "toa-re-67-f",
+    "points": 715,
+    "expansion": "Trail of Ashes",
+    "image": "events/trail-of-ashes/road/toa-re-67-f.png",
+    "xws": "toare67f"
+  },
+  {
+    "name": "toa-re-68-b",
+    "points": 716,
+    "expansion": "Trail of Ashes",
+    "image": "events/trail-of-ashes/road/toa-re-68-b.png",
+    "xws": "toare68b"
+  },
+  {
+    "name": "toa-re-68-f",
+    "points": 717,
+    "expansion": "Trail of Ashes",
+    "image": "events/trail-of-ashes/road/toa-re-68-f.png",
+    "xws": "toare68f"
+  },
+  {
+    "name": "toa-re-69-b",
+    "points": 718,
+    "expansion": "Trail of Ashes",
+    "image": "events/trail-of-ashes/road/toa-re-69-b.png",
+    "xws": "toare69b"
+  },
+  {
+    "name": "toa-re-69-f",
+    "points": 719,
+    "expansion": "Trail of Ashes",
+    "image": "events/trail-of-ashes/road/toa-re-69-f.png",
+    "xws": "toare69f"
+  },
+  {
+    "name": "toa-re-70-b",
+    "points": 720,
+    "expansion": "Trail of Ashes",
+    "image": "events/trail-of-ashes/road/toa-re-70-b.png",
+    "xws": "toare70b"
+  },
+  {
+    "name": "toa-re-70-f",
+    "points": 721,
+    "expansion": "Trail of Ashes",
+    "image": "events/trail-of-ashes/road/toa-re-70-f.png",
+    "xws": "toare70f"
+  },
+  {
+    "name": "toa-re-71-b",
+    "points": 722,
+    "expansion": "Trail of Ashes",
+    "image": "events/trail-of-ashes/road/toa-re-71-b.png",
+    "xws": "toare71b"
+  },
+  {
+    "name": "toa-re-71-f",
+    "points": 723,
+    "expansion": "Trail of Ashes",
+    "image": "events/trail-of-ashes/road/toa-re-71-f.png",
+    "xws": "toare71f"
+  },
+  {
+    "name": "toa-re-72-b",
+    "points": 724,
+    "expansion": "Trail of Ashes",
+    "image": "events/trail-of-ashes/road/toa-re-72-b.png",
+    "xws": "toare72b"
+  },
+  {
+    "name": "toa-re-72-f",
+    "points": 725,
+    "expansion": "Trail of Ashes",
+    "image": "events/trail-of-ashes/road/toa-re-72-f.png",
+    "xws": "toare72f"
+  },
+  {
+    "name": "toa-re-73-b",
+    "points": 726,
+    "expansion": "Trail of Ashes",
+    "image": "events/trail-of-ashes/road/toa-re-73-b.png",
+    "xws": "toare73b"
+  },
+  {
+    "name": "toa-re-73-f",
+    "points": 727,
+    "expansion": "Trail of Ashes",
+    "image": "events/trail-of-ashes/road/toa-re-73-f.png",
+    "xws": "toare73f"
+  },
+  {
+    "name": "toa-re-74-b",
+    "points": 728,
+    "expansion": "Trail of Ashes",
+    "image": "events/trail-of-ashes/road/toa-re-74-b.png",
+    "xws": "toare74b"
+  },
+  {
+    "name": "toa-re-74-f",
+    "points": 729,
+    "expansion": "Trail of Ashes",
+    "image": "events/trail-of-ashes/road/toa-re-74-f.png",
+    "xws": "toare74f"
+  },
+  {
+    "name": "toa-re-75-b",
+    "points": 730,
+    "expansion": "Trail of Ashes",
+    "image": "events/trail-of-ashes/road/toa-re-75-b.png",
+    "xws": "toare75b"
+  },
+  {
+    "name": "toa-re-75-f",
+    "points": 731,
+    "expansion": "Trail of Ashes",
+    "image": "events/trail-of-ashes/road/toa-re-75-f.png",
+    "xws": "toare75f"
   }
 ]

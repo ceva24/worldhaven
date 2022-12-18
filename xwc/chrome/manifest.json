@@ -2,7 +2,7 @@
 	"manifest_version": 3,
 	"name": "Worldhaven Asset Viewer",
 	"description": "Display Worldhaven Game Assets",
-	"version": "2.0.1",
+	"version": "2.1.1",
 	"web_accessible_resources": [
 		{
 			"resources": [ "icon-32.png" ],
@@ -25,8 +25,7 @@
 		"run_at": "document_idle"
 	}],
 	"permissions": [
-		"storage",
-		"activeTab"
+		"storage"
 	],
 	"host_permissions": [
 		"https://raw.githubusercontent.com/*"

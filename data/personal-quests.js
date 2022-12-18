@@ -740,5 +740,124 @@
     "expansion": "Crimson Scales",
     "image": "personal-quests/crimson-scales/cs-pq-rm-002.png",
     "xws": "cspqrm002"
+  },
+  {
+    "name": "toa-pq-back",
+    "points": 106,
+    "expansion": "Trail of Ashes",
+    "image": "personal-quests/trail-of-ashes/toa-pq-back.png",
+    "xws": "toapqback"
+  },  
+  {
+    "name": "toa-pq-641",
+    "points": 107,
+    "expansion": "Trail of Ashes",
+    "image": "personal-quests/trail-of-ashes/toa-pq-641.png",
+    "xws": "toapq641"
+  },
+  {
+    "name": "grave robber",
+    "points": 108,
+    "expansion": "Trail of Ashes",
+    "image": "personal-quests/trail-of-ashes/toa-pq-641.png",
+    "xws": "toapq641"
+  },
+  {
+    "name": "toa-pq-642",
+    "points": 109,
+    "expansion": "Trail of Ashes",
+    "image": "personal-quests/trail-of-ashes/toa-pq-642.png",
+    "xws": "toapq642"
+  },
+  {
+    "name": "stand as one",
+    "points": 110,
+    "expansion": "Trail of Ashes",
+    "image": "personal-quests/trail-of-ashes/toa-pq-642.png",
+    "xws": "toapq642"
+  },
+  {
+    "name": "toa-pq-643",
+    "points": 111,
+    "expansion": "Trail of Ashes",
+    "image": "personal-quests/trail-of-ashes/toa-pq-643.png",
+    "xws": "toapq643"
+  },
+  {
+    "name": "false dichotomies",
+    "points": 112,
+    "expansion": "Trail of Ashes",
+    "image": "personal-quests/trail-of-ashes/toa-pq-643.png",
+    "xws": "toapq643"
+  },
+  {
+    "name": "toa-pq-644",
+    "points": 113,
+    "expansion": "Trail of Ashes",
+    "image": "personal-quests/trail-of-ashes/toa-pq-644.png",
+    "xws": "toapq644"
+  },
+  {
+    "name": "shared suffering",
+    "points": 114,
+    "expansion": "Trail of Ashes",
+    "image": "personal-quests/trail-of-ashes/toa-pq-644.png",
+    "xws": "toapq644"
+  },
+  {
+    "name": "toa-pq-645",
+    "points": 115,
+    "expansion": "Trail of Ashes",
+    "image": "personal-quests/trail-of-ashes/toa-pq-645.png",
+    "xws": "toapq645"
+  },
+  {
+    "name": "speed is king",
+    "points": 116,
+    "expansion": "Trail of Ashes",
+    "image": "personal-quests/trail-of-ashes/toa-pq-645.png",
+    "xws": "toapq645"
+  },
+  {
+    "name": "toa-pq-646",
+    "points": 117,
+    "expansion": "Trail of Ashes",
+    "image": "personal-quests/trail-of-ashes/toa-pq-646.png",
+    "xws": "toapq646"
+  },
+  {
+    "name": "resourceful",
+    "points": 118,
+    "expansion": "Trail of Ashes",
+    "image": "personal-quests/trail-of-ashes/toa-pq-646.png",
+    "xws": "toapq646"
+  },
+  {
+    "name": "toa-pq-647",
+    "points": 119,
+    "expansion": "Trail of Ashes",
+    "image": "personal-quests/trail-of-ashes/toa-pq-647.png",
+    "xws": "toapq647"
+  },
+  {
+    "name": "close to nature",
+    "points": 120,
+    "expansion": "Trail of Ashes",
+    "image": "personal-quests/trail-of-ashes/toa-pq-647.png",
+    "xws": "toapq647"
+  },
+  {
+    "name": "toa-pq-648",
+    "points": 121,
+    "expansion": "Trail of Ashes",
+    "image": "personal-quests/trail-of-ashes/toa-pq-648.png",
+    "xws": "toapq648"
+  },
+  {
+    "name": "in good time",
+    "points": 122,
+    "expansion": "Trail of Ashes",
+    "image": "personal-quests/trail-of-ashes/toa-pq-648.png",
+    "xws": "toapq648"
   }
 ]
