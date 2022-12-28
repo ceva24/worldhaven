@@ -1,0 +1,78 @@
+[
+    {
+        "name": "none",
+        "imageUrl": null
+    }, 
+    {
+        "name": "plus-one",
+        "imageUrl": "images/enhancement-icons/gloomhaven/+1.png"
+    },    
+    {
+        "name": "poison",
+        "imageUrl": "images/enhancement-icons/gloomhaven/poison.png"
+    },    
+    {
+        "name": "wound",
+        "imageUrl": "images/enhancement-icons/gloomhaven/wound.png"
+    },    
+    {
+        "name": "muddle",
+        "imageUrl": "images/enhancement-icons/gloomhaven/muddle.png"
+    },    
+    {
+        "name": "immobilize",
+        "imageUrl": "images/enhancement-icons/gloomhaven/immobilize.png"
+    },    
+    {
+        "name": "disarm",
+        "imageUrl": "images/enhancement-icons/gloomhaven/disarm.png"
+    },    
+    {
+        "name": "curse",
+        "imageUrl": "images/enhancement-icons/gloomhaven/curse.png"
+    },    
+    {
+        "name": "strengthen",
+        "imageUrl": "images/enhancement-icons/gloomhaven/strengthen.png"
+    },    
+    {
+        "name": "bless",
+        "imageUrl": "images/enhancement-icons/gloomhaven/bless.png"
+    },    
+    {
+        "name": "jump",
+        "imageUrl": "images/enhancement-icons/gloomhaven/jump.png"
+    }   ,    
+    {
+        "name": "fire",
+        "imageUrl": "images/enhancement-icons/gloomhaven/fire.png"
+    },    
+    {
+        "name": "ice",
+        "imageUrl": "images/enhancement-icons/gloomhaven/ice.png"
+    },    
+    {
+        "name": "air",
+        "imageUrl": "images/enhancement-icons/gloomhaven/air.png"
+    },    
+    {
+        "name": "earth",
+        "imageUrl": "images/enhancement-icons/gloomhaven/earth.png"
+    },    
+    {
+        "name": "light",
+        "imageUrl": "images/enhancement-icons/gloomhaven/light.png"
+    },    
+    {
+        "name": "dark",
+        "imageUrl": "images/enhancement-icons/gloomhaven/dark.png"
+    },    
+    {
+        "name": "any-element",
+        "imageUrl": "images/enhancement-icons/gloomhaven/any-element.png"
+    },    
+    {
+        "name": "hex",
+        "imageUrl": "images/enhancement-icons/gloomhaven/hex.png"
+    }
+]

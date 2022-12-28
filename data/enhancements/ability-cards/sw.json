@@ -1,0 +1,26 @@
+[
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/SW/gh-mana-bolt.png",
+        "enhancementSlots": [
+
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 260,
+                "y": 145
+            },
+            {
+                "id": 1,
+                "action": "heal",
+                "x": 255,
+                "y": 412
+            },
+            {
+                "id": 2,
+                "action": "range",
+                "x": 240,
+                "y": 442
+            }
+        ]
+    }
+]
