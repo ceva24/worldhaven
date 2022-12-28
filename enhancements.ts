@@ -70,7 +70,7 @@ const generateFinalImage = async (card: EnhanceableAbilityCard, enhancements: Ch
 
     console.log(`Writing images for ${imageName}`);
 
-    // finalImage.write(`./${imageName}.png`);
+    finalImage.write(`./${imageName}.png`);
     // createJpgImage(finalImage, imageName);
     // await createWebpImage(imageName);
 }
@@ -101,19 +101,11 @@ const createWebpImage = async (imagePath: string) => {
 
 createAbilityCardEnhancementPermutations();
 
-// const testDataCard: EnhanceableAbilityCard = swCards[0];
+// const testDataCard: EnhanceableAbilityCard = swCards[1];
 // const chosenEnhcs: ChosenEnhancement[] = [
 //     {
 //         slot: testDataCard.enhancementSlots[0],
-//         enhancement: enhancements[1]
-//     },
-//     {
-//         slot: testDataCard.enhancementSlots[1],
-//         enhancement: enhancements[8]
-//     },
-//     {
-//         slot: testDataCard.enhancementSlots[2],
-//         enhancement: enhancements[6]
+//         enhancement: enhancements[18]
 //     }
 // ]
 

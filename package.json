@@ -4,7 +4,7 @@
   "scripts": {
     "images": "ts-node images",
     "cards": "ts-node cards",
-    "e": "ts-node enhancements"
+    "enhc": "ts-node enhancements"
   },
   "dependencies": {
     "cwebp": "^2.0.5",
