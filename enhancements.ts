@@ -1,4 +1,5 @@
 import type { EnhanceableAbilityCard, EnhancementType, EnhancementAction, Enhancement, AbilityCardEnhancementSlot } from "types";
+import { unlinkSync } from "node:fs";
 import Jimp from "jimp";
 import { CWebp } from "cwebp";
 import enhancementTypesData from "./data/enhancements/enhancement-types.json";
@@ -11,10 +12,6 @@ const enhancementActions: EnhancementAction[] = enhancementActionsData;
 const enhancements: Enhancement[] = enhancementData;
 
 const swCards: EnhanceableAbilityCard[] = swData;
-
-const createAbilityCardEnhancementPermutations = async () => {
-    swCards.forEach((card: EnhanceableAbilityCard) => createCardWithEnhancements(card, []));
-}
 
 interface ChosenEnhancement {
     slot: AbilityCardEnhancementSlot;
@@ -63,16 +60,18 @@ const generateFinalImage = async (card: EnhanceableAbilityCard, enhancements: Ch
     const images: Jimp[] = await Promise.all(validEnhancements.map(async (enhc: ChosenEnhancement) => Jimp.read(`./${enhc.enhancement.imageUrl}`)));
 
     const finalImage = images.reduce((previous: Jimp, current: Jimp, index: number) => (
-        previous.composite(current, validEnhancements[index].slot.x, validEnhancements[index].slot.y)
+        previous.composite(current, validEnhancements[index].slot.x - 6, validEnhancements[index].slot.y - 15)
     ), cardImage);
 
     const imageName = generateImageName(card, enhancements);
 
     console.log(`Writing images for ${imageName}`);
 
-    finalImage.write(`./${imageName}.png`);
-    // createJpgImage(finalImage, imageName);
-    // await createWebpImage(imageName);
+    finalImage.write(`./${imageName}.png`, async () => {
+        createJpgImage(finalImage, imageName);
+        await createWebpImage(imageName);
+        unlinkSync(`./${imageName}.png`);
+    });
 }
 
 const generateImageName = (card: EnhanceableAbilityCard, enhancements: ChosenEnhancement[]) => {
@@ -99,14 +98,4 @@ const createWebpImage = async (imagePath: string) => {
     await encoder.write(`./${imagePath}.webp`);
 }
 
-createAbilityCardEnhancementPermutations();
-
-// const testDataCard: EnhanceableAbilityCard = swCards[1];
-// const chosenEnhcs: ChosenEnhancement[] = [
-//     {
-//         slot: testDataCard.enhancementSlots[0],
-//         enhancement: enhancements[18]
-//     }
-// ]
-
-// generateFinalImage(testDataCard, chosenEnhcs);
+createCardWithEnhancements(swCards[7], []);

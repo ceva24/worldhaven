@@ -1,8 +1,93 @@
 [
     {
+        "imageUrl": "images/character-ability-cards/gloomhaven/SW/gh-fire-orbs.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 266,
+                "y": 124
+            },
+            {
+                "id": 1,
+                "action": "range",
+                "x": 251,   
+                "y": 152
+            },
+            {
+                "id": 2,
+                "action": "target",
+                "x": 251,   
+                "y": 183
+            },
+            {
+                "id": 3,
+                "action": "move",
+                "x": 262,
+                "y": 433
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/SW/gh-impaling-eruption.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 267,
+                "y": 117
+            },
+            {
+                "id": 1,
+                "action": "range",
+                "x": 251,
+                "y": 147
+            },
+            {
+                "id": 2,
+                "action": "move",
+                "x": 262,
+                "y": 433
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/SW/gh-reviving-ether.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "move",
+                "x": 262,
+                "y": 414
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/SW/gh-freezing-nova.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 268,
+                "y": 144
+            },
+            {
+                "id": 1,
+                "action": "heal",
+                "x": 252,
+                "y": 402
+            },
+            {
+                "id": 2,
+                "action": "heal",
+                "x": 285,
+                "y": 402
+            }
+        ]
+    },
+    {
         "imageUrl": "images/character-ability-cards/gloomhaven/SW/gh-mana-bolt.png",
         "enhancementSlots": [
-
             {
                 "id": 0,
                 "action": "attack",
@@ -24,9 +109,119 @@
         ]
     },
     {
+        "imageUrl": "images/character-ability-cards/gloomhaven/SW/gh-frost-armor.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 266,
+                "y": 160
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/SW/gh-flame-strike.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 250,
+                "y": 187
+            },
+            {
+                "id": 1,
+                "action": "attack",
+                "x": 266,
+                "y": 424
+            },
+            {
+                "id": 2,
+                "action": "range",
+                "x": 251,
+                "y": 453
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/SW/gh-ride-the-wind.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "move",
+                "x": 262,
+                "y": 402
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/SW/gh-crackling-air.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "hex",
+                "x": 238,
+                "y": 151
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/SW/gh-hardened-spikes.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "hex",
+                "x": 238,
+                "y": 151
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/SW/gh-aid-from-the-ether.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "hex",
+                "x": 238,
+                "y": 151
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/SW/gh-flashing-burst.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "hex",
+                "x": 238,
+                "y": 151
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/SW/gh-icy-blast.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "hex",
+                "x": 238,
+                "y": 151
+            }
+        ]
+    },
+    {
         "imageUrl": "images/character-ability-cards/gloomhaven/SW/gh-cold-fire.png",
         "enhancementSlots": [
-
+            {
+                "id": 0,
+                "action": "hex",
+                "x": 238,
+                "y": 151
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/SW/gh-elemental-aid.png",
+        "enhancementSlots": [
             {
                 "id": 0,
                 "action": "hex",
