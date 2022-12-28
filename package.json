@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "scripts": {
     "images": "ts-node images",
-    "cards": "ts-node cards"
+    "cards": "ts-node cards",
+    "e": "ts-node enhancements"
   },
   "dependencies": {
     "cwebp": "^2.0.5",

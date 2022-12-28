@@ -1,5 +1,5 @@
 import { readdirSync, statSync } from "node:fs";
-import { CWebp } from "cwebp"; 
+import { CWebp } from "cwebp";
 import Jimp from "jimp";
 
 const createWebQualityImages = async () => {
@@ -38,7 +38,7 @@ const createImagesForDirectory = (directory: string, targetWidth: number, target
     })
 }
 
-const createImages = async (imagePath: string, targetWidth: number, targetHeight: number) => {
+export const createImages = async (imagePath: string, targetWidth: number, targetHeight: number) => {
     console.info(`Converting file '${imagePath}'...`);
 
     const webpImagePath = await writeWebp(imagePath, targetWidth, targetHeight);
@@ -54,7 +54,7 @@ const writeWebp = async (imagePath: string, targetWidth: number, targetHeight: n
     
     encoder.resize(targetWidth, targetHeight);
 
-    await encoder.write(newImagePath)
+    await encoder.write(newImagePath);
 
     return newImagePath;
 }
