@@ -22,5 +22,17 @@
                 "y": 442
             }
         ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/SW/gh-cold-fire.png",
+        "enhancementSlots": [
+
+            {
+                "id": 0,
+                "action": "hex",
+                "x": 238,
+                "y": 151
+            }
+        ]
     }
 ]
