@@ -53,5 +53,12 @@
             "none",
             "hex"
         ]
+    },
+    {
+        "name": "summon",
+        "enhancements": [
+            "none",
+            "plus-one-small"
+        ]
     }
 ]

@@ -6,6 +6,10 @@
     {
         "name": "plus-one",
         "imageUrl": "images/enhancement-icons/gloomhaven/+1.png"
+    },
+    {
+        "name": "plus-one-small",
+        "imageUrl": "images/enhancement-icons/gloomhaven/+1-sm.png"
     },    
     {
         "name": "poison",

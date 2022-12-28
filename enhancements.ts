@@ -98,4 +98,4 @@ const createWebpImage = async (imagePath: string) => {
     await encoder.write(`./${imagePath}.webp`);
 }
 
-createCardWithEnhancements(swCards[7], []);
+createCardWithEnhancements(swCards[25], []);

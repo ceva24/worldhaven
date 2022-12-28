@@ -45,18 +45,18 @@
     },
     {
         "name": "summon-move",
-        "type": ["numeric"]
+        "type": ["summon"]
     },
     {
         "name": "summon-attack",
-        "type": ["numeric"]
+        "type": ["summon"]
     },
     {
         "name": "summon-range",
-        "type": ["numeric"]
+        "type": ["summon"]
     },
     {
         "name": "summon-hp",
-        "type": ["numeric"]
+        "type": ["summon"]
     }
 ]
