@@ -1,0 +1,37 @@
+[
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/BR/gh-trample.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 267,
+                "y": 177
+            },
+            {
+                "id": 1,
+                "action": "pierce",
+                "x": 258,
+                "y": 210
+            },
+            {
+                "id": 2,
+                "action": "move",
+                "x": 263,
+                "y": 368
+            },
+            {
+                "id": 3,
+                "action": "attack",
+                "x": 261,
+                "y": 435
+            },
+            {
+                "id": 4,
+                "action": "attack",
+                "x": 295,
+                "y": 435
+            }
+        ]
+    }
+]
