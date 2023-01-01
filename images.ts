@@ -16,6 +16,8 @@ const createWebQualityImages = async () => {
     createImagesForDirectory("./images/attack-modifiers/gloomhaven/SW", 400, 300);
     createImagesForDirectory("./images/attack-modifiers/gloomhaven/TI", 400, 300);
     createImagesForDirectory("./images/perk-icons/gloomhaven", 120, 120);
+    createImagesForDirectory("./images/enhancement-icons/gloomhaven", 30, 30);
+    createImages("./images/enhancement-icons/gloomhaven/+1-sm.png", 20, 20);
 }
 
 const createImagesForDirectory = (directory: string, targetWidth: number, targetHeight: number) => {
