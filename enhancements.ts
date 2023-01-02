@@ -5,7 +5,7 @@ import { CWebp } from "cwebp";
 import enhancementTypesData from "./data/enhancements/enhancement-types.json";
 import enhancementActionsData from "./data/enhancements/enhancement-actions.json";
 import enhancementData from "./data/enhancements/enhancements.json";
-import data from "./data/enhancements/ability-cards/br.json";
+import data from "./data/enhancements/ability-cards/sw.json";
 
 const enhancementTypes: EnhancementType[] = enhancementTypesData;
 const enhancementActions: EnhancementAction[] = enhancementActionsData;
@@ -19,30 +19,35 @@ interface ChosenEnhancement {
 }
 
 const main = async () => {
-    const card = cards[0];
+    const card = cards[2];
     const cardImage = await Jimp.read(`./${card.imageUrl}`);
-    
-    createCardWithEnhancements(cards[0], [], cardImage);
+
+    const enhancementIconImages: Map<string, Jimp> = new Map(await Promise.all(enhancements.filter((enhc: Enhancement) => enhc.imageUrl).map(async (enhc: Enhancement) => ([enhc.name, await Jimp.read(`./${enhc.imageUrl}`)] as [string, Jimp]))));
+
+    await createCardWithEnhancements(card, [], cardImage, enhancementIconImages);
 }
 
-const createCardWithEnhancements = async (card: EnhanceableAbilityCard, chosenEnhancements: ChosenEnhancement[], cardImage: Jimp): Promise<void> => {
+const createCardWithEnhancements = async (card: EnhanceableAbilityCard, chosenEnhancements: ChosenEnhancement[], cardImage: Jimp, enhancementIconImages: Map<string, Jimp>): Promise<void> => {
     const chosenSlotIds = chosenEnhancements.map((chosenEnhancement: ChosenEnhancement) => chosenEnhancement.slot.id)
     const outstandingSlots = card.enhancementSlots.filter((slot: AbilityCardEnhancementSlot) => !chosenSlotIds.includes(slot.id));
 
     const nextSlot = outstandingSlots.shift();
 
     if (nextSlot) {
-        getPossibleEnhancementsForSlot(nextSlot).forEach((enhancement: Enhancement)=> {
+
+        const possibleEnhancements: Enhancement[] = getPossibleEnhancementsForSlot(nextSlot);
+
+        for (let i = 0; i < possibleEnhancements.length; i++) {
             const chosenEnhc: ChosenEnhancement = {
                 slot: nextSlot,
-                enhancement: enhancement
+                enhancement: possibleEnhancements[i]
             };
 
-            createCardWithEnhancements(card, chosenEnhancements.concat(chosenEnhc), cardImage);
-        });
+            await createCardWithEnhancements(card, chosenEnhancements.concat(chosenEnhc), cardImage, enhancementIconImages);
+        }
     }
     else {
-        await generateFinalImage(card, chosenEnhancements, cardImage);
+        await generateFinalImage(card, chosenEnhancements, cardImage, enhancementIconImages);
     }
 }
 
@@ -59,12 +64,12 @@ const getPossibleEnhancementsForSlot = (slot: AbilityCardEnhancementSlot): Enhan
     return Array.from(new Set(possibleEnhancements));
 }
 
-const generateFinalImage = async (card: EnhanceableAbilityCard, enhancements: ChosenEnhancement[], cardImage: Jimp) => {
+const generateFinalImage = async (card: EnhanceableAbilityCard, enhancements: ChosenEnhancement[], cardImage: Jimp, enhancementIconImages: Map<string, Jimp>) => {
     const clonedCardImage = cardImage.clone();
 
     const validEnhancements: ChosenEnhancement[] = enhancements.filter((enhc: ChosenEnhancement) => enhc.enhancement.imageUrl);
 
-    const images: Jimp[] = await Promise.all(validEnhancements.map(async (enhc: ChosenEnhancement) => Jimp.read(`./${enhc.enhancement.imageUrl}`)));
+    const images: Jimp[] = validEnhancements.map((enhc: ChosenEnhancement) => enhancementIconImages.get(enhc.enhancement.name) as Jimp)
 
     const finalImage = images.reduce((previous: Jimp, current: Jimp, index: number) => (
         previous.composite(current, validEnhancements[index].slot.x - 6, validEnhancements[index].slot.y - 15)
