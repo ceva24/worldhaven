@@ -5,20 +5,27 @@ import { CWebp } from "cwebp";
 import enhancementTypesData from "./data/enhancements/enhancement-types.json";
 import enhancementActionsData from "./data/enhancements/enhancement-actions.json";
 import enhancementData from "./data/enhancements/enhancements.json";
-import swData from "./data/enhancements/ability-cards/sw.json";
+import data from "./data/enhancements/ability-cards/br.json";
 
 const enhancementTypes: EnhancementType[] = enhancementTypesData;
 const enhancementActions: EnhancementAction[] = enhancementActionsData;
 const enhancements: Enhancement[] = enhancementData;
 
-const swCards: EnhanceableAbilityCard[] = swData;
+const cards: EnhanceableAbilityCard[] = data;
 
 interface ChosenEnhancement {
     slot: AbilityCardEnhancementSlot;
     enhancement: Enhancement;
 }
 
-const createCardWithEnhancements = (card: EnhanceableAbilityCard, chosenEnhancements: ChosenEnhancement[]): void => {
+const main = async () => {
+    const card = cards[0];
+    const cardImage = await Jimp.read(`./${card.imageUrl}`);
+    
+    createCardWithEnhancements(cards[0], [], cardImage);
+}
+
+const createCardWithEnhancements = async (card: EnhanceableAbilityCard, chosenEnhancements: ChosenEnhancement[], cardImage: Jimp): Promise<void> => {
     const chosenSlotIds = chosenEnhancements.map((chosenEnhancement: ChosenEnhancement) => chosenEnhancement.slot.id)
     const outstandingSlots = card.enhancementSlots.filter((slot: AbilityCardEnhancementSlot) => !chosenSlotIds.includes(slot.id));
 
@@ -31,11 +38,11 @@ const createCardWithEnhancements = (card: EnhanceableAbilityCard, chosenEnhancem
                 enhancement: enhancement
             };
 
-            createCardWithEnhancements(card, chosenEnhancements.concat(chosenEnhc));
+            createCardWithEnhancements(card, chosenEnhancements.concat(chosenEnhc), cardImage);
         });
     }
     else {
-        generateFinalImage(card, chosenEnhancements);
+        await generateFinalImage(card, chosenEnhancements, cardImage);
     }
 }
 
@@ -52,8 +59,8 @@ const getPossibleEnhancementsForSlot = (slot: AbilityCardEnhancementSlot): Enhan
     return Array.from(new Set(possibleEnhancements));
 }
 
-const generateFinalImage = async (card: EnhanceableAbilityCard, enhancements: ChosenEnhancement[]) => {
-    const cardImage = await Jimp.read(`./${card.imageUrl}`);
+const generateFinalImage = async (card: EnhanceableAbilityCard, enhancements: ChosenEnhancement[], cardImage: Jimp) => {
+    const clonedCardImage = cardImage.clone();
 
     const validEnhancements: ChosenEnhancement[] = enhancements.filter((enhc: ChosenEnhancement) => enhc.enhancement.imageUrl);
 
@@ -61,17 +68,16 @@ const generateFinalImage = async (card: EnhanceableAbilityCard, enhancements: Ch
 
     const finalImage = images.reduce((previous: Jimp, current: Jimp, index: number) => (
         previous.composite(current, validEnhancements[index].slot.x - 6, validEnhancements[index].slot.y - 15)
-    ), cardImage);
+    ), clonedCardImage);
 
     const imageName = generateImageName(card, enhancements);
 
     console.log(`Writing images for ${imageName}`);
 
-    finalImage.write(`./${imageName}.png`, async () => {
-        createJpgImage(finalImage, imageName);
-        await createWebpImage(imageName);
-        unlinkSync(`./${imageName}.png`);
-    });
+    await finalImage.writeAsync(`./${imageName}.png`);
+    await createJpgImage(finalImage, imageName);
+    await createWebpImage(imageName);
+    unlinkSync(`./${imageName}.png`);
 }
 
 const generateImageName = (card: EnhanceableAbilityCard, enhancements: ChosenEnhancement[]) => {
@@ -87,8 +93,8 @@ const generateImageName = (card: EnhanceableAbilityCard, enhancements: ChosenEnh
     return cardName.slice(0, -1);
 }
 
-const createJpgImage = (imageData: Jimp, imagePath: string) => {
-    imageData.resize(300, 400).quality(65).write(`./${imagePath}.jpg`);
+const createJpgImage = async (imageData: Jimp, imagePath: string) => {
+    imageData.resize(300, 400).quality(65).writeAsync(`./${imagePath}.jpg`);
 }
 
 const createWebpImage = async (imagePath: string) => {
@@ -98,4 +104,4 @@ const createWebpImage = async (imagePath: string) => {
     await encoder.write(`./${imagePath}.webp`);
 }
 
-createCardWithEnhancements(swCards[25], []);
+main();
