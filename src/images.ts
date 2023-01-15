@@ -4,20 +4,20 @@ import Jimp from "jimp";
 
 const createWebQualityImages = async () => {
     createImagesForDirectory("./images/character-icons/gloomhaven", 200, 200);
-    createImagesForDirectory("./images/character-mats/gloomhaven", 600, 400);
-    createImagesForDirectory("./images/personal-quests/gloomhaven", 300, 400);
-    createImagesForDirectory("./images/items/gloomhaven/1-14", 200, 296);
-    createImagesForDirectory("./images/character-ability-cards/gloomhaven", 300, 400);
-    createImagesForDirectory("./images/attack-modifiers/gloomhaven/base/player", 400, 300);
-    createImagesForDirectory("./images/attack-modifiers/gloomhaven/BR", 400, 300);
-    createImagesForDirectory("./images/attack-modifiers/gloomhaven/CH", 400, 300);
-    createImagesForDirectory("./images/attack-modifiers/gloomhaven/MT", 400, 300);
-    createImagesForDirectory("./images/attack-modifiers/gloomhaven/SC", 400, 300);
-    createImagesForDirectory("./images/attack-modifiers/gloomhaven/SW", 400, 300);
-    createImagesForDirectory("./images/attack-modifiers/gloomhaven/TI", 400, 300);
-    createImagesForDirectory("./images/perk-icons/gloomhaven", 120, 120);
-    createImagesForDirectory("./images/enhancement-icons/gloomhaven", 30, 30);
-    createImages("./images/enhancement-icons/gloomhaven/+1-sm.png", 20, 20);
+    // createImagesForDirectory("./images/character-mats/gloomhaven", 600, 400);
+    // createImagesForDirectory("./images/personal-quests/gloomhaven", 300, 400);
+    // createImagesForDirectory("./images/items/gloomhaven/1-14", 200, 296);
+    // createImagesForDirectory("./images/character-ability-cards/gloomhaven", 300, 400);
+    // createImagesForDirectory("./images/attack-modifiers/gloomhaven/base/player", 400, 300);
+    // createImagesForDirectory("./images/attack-modifiers/gloomhaven/BR", 400, 300);
+    // createImagesForDirectory("./images/attack-modifiers/gloomhaven/CH", 400, 300);
+    // createImagesForDirectory("./images/attack-modifiers/gloomhaven/MT", 400, 300);
+    // createImagesForDirectory("./images/attack-modifiers/gloomhaven/SC", 400, 300);
+    // createImagesForDirectory("./images/attack-modifiers/gloomhaven/SW", 400, 300);
+    // createImagesForDirectory("./images/attack-modifiers/gloomhaven/TI", 400, 300);
+    // createImagesForDirectory("./images/perk-icons/gloomhaven", 120, 120);
+    // createImagesForDirectory("./images/enhancement-icons/gloomhaven", 30, 30);
+    // createImages("./images/enhancement-icons/gloomhaven/+1-sm.png", 20, 20);
 }
 
 const createImagesForDirectory = (directory: string, targetWidth: number, targetHeight: number) => {

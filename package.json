@@ -2,9 +2,9 @@
   "name": "worldhaven",
   "version": "1.0.0",
   "scripts": {
-    "images": "ts-node images",
-    "cards": "ts-node cards",
-    "enhc": "ts-node enhancements"
+    "images": "ts-node src/images",
+    "cards": "ts-node src/cards",
+    "enhc": "ts-node src/enhancements"
   },
   "dependencies": {
     "cwebp": "^2.0.5",

@@ -2,10 +2,10 @@ import type { EnhanceableAbilityCard, EnhancementType, EnhancementAction, Enhanc
 import { unlinkSync } from "node:fs";
 import Jimp from "jimp";
 import { CWebp } from "cwebp";
-import enhancementTypesData from "./data/enhancements/enhancement-types.json";
-import enhancementActionsData from "./data/enhancements/enhancement-actions.json";
-import enhancementData from "./data/enhancements/enhancements.json";
-import data from "./data/enhancements/ability-cards/sw.json";
+import enhancementTypesData from "../data/enhancements/enhancement-types.json";
+import enhancementActionsData from "../data/enhancements/enhancement-actions.json";
+import enhancementData from "../data/enhancements/enhancements.json";
+import data from "../data/enhancements/ability-cards/sw.json";
 
 const enhancementTypes: EnhancementType[] = enhancementTypesData;
 const enhancementActions: EnhancementAction[] = enhancementActionsData;

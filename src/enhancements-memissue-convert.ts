@@ -2,7 +2,7 @@ import { readdirSync } from "node:fs";
 import Jimp from "jimp";
 import { CWebp } from "cwebp";
 
-const location = './images/character-ability-cards-enhanced/gloomhaven/BR/gh-trample/';
+const location = '../images/character-ability-cards-enhanced/gloomhaven/BR/gh-trample/';
 
 const convert = async () => {
 

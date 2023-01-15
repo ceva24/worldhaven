@@ -38,7 +38,7 @@ const createAbilityCardEntriesForClass = (classAbbreviation: string): AbilityCar
             id: parseInt(abilityCardData.cardno),
             name: titleCase(abilityCardData.name),
             level: abilityCardData.level,
-            imageUrl: `/images/${abilityCardData.image.replace(".png", ".webp")}`
+            imageUrl: `/${abilityCardData.image.replace(".png", ".webp")}`
         }
     });
 
