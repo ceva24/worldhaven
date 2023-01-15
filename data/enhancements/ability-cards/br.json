@@ -33,5 +33,28 @@
                 "y": 435
             }
         ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/BR/gh-eye-for-an-eye.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "retaliate",
+                "x": 278,
+                "y": 132
+            },
+            {
+                "id": 1,
+                "action": "heal",
+                "x": 252,
+                "y": 399
+            },
+            {
+                "id": 2,
+                "action": "heal",
+                "x": 287,
+                "y": 399
+            }
+        ]
     }
 ]
