@@ -3,7 +3,7 @@ import { CWebp } from "cwebp";
 import Jimp from "jimp";
 
 const createWebQualityImages = async () => {
-    createImagesForDirectory("./images/character-icons/gloomhaven", 200, 200);
+    // createImagesForDirectory("./images/character-icons/gloomhaven", 200, 200);
     // createImagesForDirectory("./images/character-mats/gloomhaven", 600, 400);
     // createImagesForDirectory("./images/personal-quests/gloomhaven", 300, 400);
     // createImagesForDirectory("./images/items/gloomhaven/1-14", 200, 296);
