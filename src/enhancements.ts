@@ -19,7 +19,7 @@ interface ChosenEnhancement {
 }
 
 const main = async () => {
-    const card = cards[2];
+    const card = cards[10];
     const cardImage = await Jimp.read(`./${card.imageUrl}`);
 
     const enhancementIconImages: Map<string, Jimp> = new Map(await Promise.all(enhancements.filter((enhc: Enhancement) => enhc.imageUrl).map(async (enhc: Enhancement) => ([enhc.name, await Jimp.read(`./${enhc.imageUrl}`)] as [string, Jimp]))));
@@ -93,7 +93,7 @@ const generateImageName = (card: EnhanceableAbilityCard, enhancements: ChosenEnh
     .replace("character-ability-cards", "character-ability-cards-enhanced")
     .concat("/");
 
-    const cardName = enhancementNames.reduce((previous: string, current: string) => { return `${previous}${current}-` }, cardBaseName);
+    const cardName = enhancementNames.reduce((previous: string, current: string) => { return `${previous}${current.replace("plus-one-small", "plus-one")}-` }, cardBaseName);
 
     return cardName.slice(0, -1);
 }
