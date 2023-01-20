@@ -238,197 +238,351 @@
     "xws": "boneshaperperks"
   },
   {
-    "name": "deathwalker perks",
+    "name": "crashing tide perks",
     "points": 34,
+    "expansion": "Frosthaven",
+    "image": "character-perks/frosthaven/fh-crashing-tide-perks.png",
+    "xws": "crashingtideperks"
+  },
+  {
+    "name": "coral perks",
+    "points": 35,
+    "expansion": "Frosthaven",
+    "image": "character-perks/frosthaven/fh-crashing-tide-perks.png",
+    "xws": "crashingtideperks"
+  },
+  {
+    "name": "deathwalker perks",
+    "points": 36,
     "expansion": "Frosthaven",
     "image": "character-perks/frosthaven/fh-deathwalker-perks.png",
     "xws": "deathwalkerperks"
   },
   {
+    "name": "deepwraith perks",
+    "points": 37,
+    "expansion": "Frosthaven",
+    "image": "character-perks/frosthaven/fh-deepwraith-perks.png",
+    "xws": "deepwraithperks"
+  },
+  {
+    "name": "kelp perks",
+    "points": 38,
+    "expansion": "Frosthaven",
+    "image": "character-perks/frosthaven/fh-deepwraith-perks.png",
+    "xws": "deepwraithperks"
+  },
+  {
     "name": "drifter perks",
-    "points": 35,
+    "points": 39,
     "expansion": "Frosthaven",
     "image": "character-perks/frosthaven/fh-drifter-perks.png",
     "xws": "drifterperks"
   },
   {
+    "name": "frozen fist perks",
+    "points": 40,
+    "expansion": "Frosthaven",
+    "image": "character-perks/frosthaven/fh-frozen-fist-perks.png",
+    "xws": "frozenfistperks"
+  },
+  {
+    "name": "fist perks",
+    "points": 41,
+    "expansion": "Frosthaven",
+    "image": "character-perks/frosthaven/fh-frozen-fist-perks.png",
+    "xws": "frozenfistperks"
+  },
+  {
     "name": "geminate perks",
-    "points": 36,
+    "points": 42,
     "expansion": "Frosthaven",
     "image": "character-perks/frosthaven/fh-geminate-perks.png",
     "xws": "geminateperks"
   },
   {
+    "name": "hive perks",
+    "points": 43,
+    "expansion": "Frosthaven",
+    "image": "character-perks/frosthaven/fh-hive-perks.png",
+    "xws": "hiveperks"
+  },
+  {
+    "name": "prism perks",
+    "points": 44,
+    "expansion": "Frosthaven",
+    "image": "character-perks/frosthaven/fh-hive-perks.png",
+    "xws": "hiveperks"
+  },
+  {
+    "name": "infuser perks",
+    "points": 45,
+    "expansion": "Frosthaven",
+    "image": "character-perks/frosthaven/fh-infuser-perks.png",
+    "xws": "infuserperks"
+  },
+  {
+    "name": "astral perks",
+    "points": 46,
+    "expansion": "Frosthaven",
+    "image": "character-perks/frosthaven/fh-infuser-perks.png",
+    "xws": "infuserperks"
+  },
+  {
+    "name": "metal mosaic perks",
+    "points": 47,
+    "expansion": "Frosthaven",
+    "image": "character-perks/frosthaven/fh-metal-mosaic-perks.png",
+    "xws": "metalmosaicperks"
+  },
+  {
+    "name": "drill perks",
+    "points": 48,
+    "expansion": "Frosthaven",
+    "image": "character-perks/frosthaven/fh-metal-mosaic-perks.png",
+    "xws": "metalmosaicperks"
+  },
+  {
+    "name": "pain conduit perks",
+    "points": 49,
+    "expansion": "Frosthaven",
+    "image": "character-perks/frosthaven/fh-pain-conduit-perks.png",
+    "xws": "painconduitperks"
+  },
+  {
+    "name": "shackles perks",
+    "points": 50,
+    "expansion": "Frosthaven",
+    "image": "character-perks/frosthaven/fh-pain-conduit-perks.png",
+    "xws": "painconduitperks"
+  },
+  {
+    "name": "pyroclast perks",
+    "points": 51,
+    "expansion": "Frosthaven",
+    "image": "character-perks/frosthaven/fh-pyroclast-perks.png",
+    "xws": "pyroclastperks"
+  },
+  {
+    "name": "meteor perks",
+    "points": 52,
+    "expansion": "Frosthaven",
+    "image": "character-perks/frosthaven/fh-pyroclast-perks.png",
+    "xws": "pyroclastperks"
+  },
+  {
+    "name": "shattersong perks",
+    "points": 53,
+    "expansion": "Frosthaven",
+    "image": "character-perks/frosthaven/fh-shattersong-perks.png",
+    "xws": "shattersongperks"
+  },
+  {
+    "name": "shards perks",
+    "points": 54,
+    "expansion": "Frosthaven",
+    "image": "character-perks/frosthaven/fh-shattersong-perks.png",
+    "xws": "shattersongperks"
+  },
+  {
+    "name": "snowdancer perks",
+    "points": 55,
+    "expansion": "Frosthaven",
+    "image": "character-perks/frosthaven/fh-snowdancer-perks.png",
+    "xws": "snowdancerperks"
+  },
+  {
+    "name": "snowflake perks",
+    "points": 56,
+    "expansion": "Frosthaven",
+    "image": "character-perks/frosthaven/fh-snowdancer-perks.png",
+    "xws": "snowdancerperks"
+  },
+  {
+    "name": "trapper perks",
+    "points": 57,
+    "expansion": "Frosthaven",
+    "image": "character-perks/frosthaven/fh-trapper-perks.png",
+    "xws": "trapperperks"
+  },
+  {
+    "name": "trap perks",
+    "points": 58,
+    "expansion": "Frosthaven",
+    "image": "character-perks/frosthaven/fh-trapper-perks.png",
+    "xws": "trapperperks"
+  },
+  {
     "name": "demolitionist perks",
-    "points": 37,
+    "points": 59,
     "expansion": "Jaws Of The Lion",
     "image": "character-perks/jaws-of-the-lion/jl-demolitionist-perks.png",
     "xws": "demolitionistperks"
   },
   {
     "name": "hatchet perks",
-    "points": 38,
+    "points": 60,
     "expansion": "Jaws Of The Lion",
     "image": "character-perks/jaws-of-the-lion/jl-hatchet-perks.png",
     "xws": "hatchetperks"
   },
   {
     "name": "red guard perks",
-    "points": 39,
+    "points": 61,
     "expansion": "Jaws Of The Lion",
     "image": "character-perks/jaws-of-the-lion/jl-red-guard-perks.png",
     "xws": "redguardperks"
   },
   {
     "name": "voidwarden perks",
-    "points": 40,
+    "points": 62,
     "expansion": "Jaws Of The Lion",
     "image": "character-perks/jaws-of-the-lion/jl-voidwarden-perks.png",
     "xws": "voidwardenperks"
   },
   {
     "name": "party sheet",
-    "points": 41,
+    "points": 63,
     "expansion": "Crimson Scales",
     "image": "character-perks/crimson-scales/cs-party-sheet.png",
     "xws": "partysheet"
   },
   {
     "name": "amber aegis perks",
-    "points": 42,
+    "points": 64,
     "expansion": "Crimson Scales",
     "image": "character-perks/crimson-scales/cs-amber-aegis-perks.png",
     "xws": "amberaegisperks"
   },
   {
     "name": "artificer perks",
-    "points": 43,
+    "points": 65,
     "expansion": "Crimson Scales",
     "image": "character-perks/crimson-scales/cs-artificer-perks.png",
     "xws": "artificerperks"
   },
   {
     "name": "bombard perks",
-    "points": 44,
+    "points": 66,
     "expansion": "Crimson Scales",
     "image": "character-perks/crimson-scales/cs-bombard-perks.png",
     "xws": "bombardperks"
   },
   {
     "name": "brightspark perks",
-    "points": 45,
+    "points": 67,
     "expansion": "Crimson Scales",
     "image": "character-perks/crimson-scales/cs-brightspark-perks.png",
     "xws": "brightsparkperks"
   },
   {
     "name": "chainguard perks",
-    "points": 46,
+    "points": 68,
     "expansion": "Crimson Scales",
     "image": "character-perks/crimson-scales/cs-chainguard-perks.png",
     "xws": "chainguardperks"
   },
   {
     "name": "chieftain perks",
-    "points": 47,
+    "points": 69,
     "expansion": "Crimson Scales",
     "image": "character-perks/crimson-scales/cs-chieftain-perks.png",
     "xws": "chieftainperks"
   },
   {
     "name": "fire knight perks",
-    "points": 48,
+    "points": 70,
     "expansion": "Crimson Scales",
     "image": "character-perks/crimson-scales/cs-fire-knight-perks.png",
     "xws": "fireknightperks"
   },
   {
     "name": "hierophant perks",
-    "points": 49,
+    "points": 71,
     "expansion": "Crimson Scales",
     "image": "character-perks/crimson-scales/cs-hierophant-perks.png",
     "xws": "hierophantperks"
   },
   {
     "name": "hollowpact perks",
-    "points": 50,
+    "points": 72,
     "expansion": "Crimson Scales",
     "image": "character-perks/crimson-scales/cs-hollowpact-perks.png",
     "xws": "hollowpactperks"
   },
   {
     "name": "luminary perks",
-    "points": 51,
+    "points": 73,
     "expansion": "Crimson Scales",
     "image": "character-perks/crimson-scales/cs-luminary-perks.png",
     "xws": "luminaryperks"
   },
   {
     "name": "mirefoot perks",
-    "points": 52,
+    "points": 74,
     "expansion": "Crimson Scales",
     "image": "character-perks/crimson-scales/cs-mirefoot-perks.png",
     "xws": "mirefootperks"
   },
   {
     "name": "ruinmaw perks",
-    "points": 53,
+    "points": 75,
     "expansion": "Crimson Scales",
     "image": "character-perks/crimson-scales/cs-ruinmaw-perks.png",
     "xws": "ruinmawperks"
   },
   {
     "name": "spirit caller perks",
-    "points": 54,
+    "points": 76,
     "expansion": "Crimson Scales",
     "image": "character-perks/crimson-scales/cs-spirit-caller-perks.png",
     "xws": "spiritcallerperks"
   },
   {
     "name": "starslinger perks",
-    "points": 55,
+    "points": 77,
     "expansion": "Crimson Scales",
     "image": "character-perks/crimson-scales/cs-starslinger-perks.png",
     "xws": "starslingerperks"
   },
   {
     "name": "incarnate perks",
-    "points": 56,
+    "points": 78,
     "expansion": "Trail of Ashes",
     "image": "character-perks/trail-of-ashes/toa-incarnate-perks.png",
     "xws": "incarnateperks"
   },
   {
     "name": "rimehearth perks",
-    "points": 57,
+    "points": 79,
     "expansion": "Trail of Ashes",
     "image": "character-perks/trail-of-ashes/toa-rimehearth-perks.png",
     "xws": "rimehearthperks"
   },
   {
     "name": "shardrender perks",
-    "points": 58,
+    "points": 80,
     "expansion": "Trail of Ashes",
     "image": "character-perks/trail-of-ashes/toa-shardrender-perks.png",
     "xws": "shardrenderperks"
   },
   {
     "name": "tempest perks",
-    "points": 59,
+    "points": 81,
     "expansion": "Trail of Ashes",
     "image": "character-perks/trail-of-ashes/toa-tempest-perks.png",
     "xws": "tempestperks"
   },
   {
     "name": "thornreaper perks",
-    "points": 60,
+    "points": 82,
     "expansion": "Trail of Ashes",
     "image": "character-perks/trail-of-ashes/toa-thornreaper-perks.png",
     "xws": "thornreaperperks"
   },
   {
     "name": "vanquisher perks",
-    "points": 61,
+    "points": 83,
     "expansion": "Trail of Ashes",
     "image": "character-perks/trail-of-ashes/toa-vanquisher-perks.png",
     "xws": "vanquisherperks"
