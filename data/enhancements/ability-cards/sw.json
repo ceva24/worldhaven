@@ -478,7 +478,7 @@
         "enhancementSlots": [
             {
                 "id": 0,
-                "action": "pull",
+                "action": "pull-mainline",
                 "x": 261,
                 "y": 421
             }

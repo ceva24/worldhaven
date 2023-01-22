@@ -17,15 +17,23 @@
     },
     {
         "name": "push",
-        "type": ["numeric", "target-enemy"]
+        "type": ["numeric"]
     },
     {
         "name": "pull",
+        "type": ["numeric"]
+    },
+    {
+        "name": "push-mainline",
+        "type": ["numeric", "target-enemy"]
+    },
+    {
+        "name": "pull-mainline",
         "type": ["numeric", "target-enemy"]
     },
     {
         "name": "pierce",
-        "type": ["numeric", "target-enemy"]
+        "type": ["numeric"]
     },
     {
         "name": "retaliate",
