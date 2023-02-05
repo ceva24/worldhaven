@@ -16,24 +16,33 @@ This repository contains data and images for the following games and components:
 	- Trail of Ashes
 
 **Assets:**
+- art
 - attack-modifiers
 - battle-goals
+- books
+- challenge-cards
 - character-ability-cards
 - character-mats
 - character-perks
+- charts
 - deprecated-assets
 - events
 - items
+- loot-deck
 - map-tiles
 - milestone-ability-cards
 - milestones
 - monster-ability-cards
 - monster-stat-cards
+- outpost-building-cards
 - personal-quests
+- pet-cards
 - player-aid-cards
 - random-dungeons
 - random-scenarios
 - tokens
+- town-guard-cards
+- trial-cards
 - world-map
 
 There are four top-level directories; `data` , `images` , `pbf` ,and `xwc`.

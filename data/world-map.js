@@ -1335,5 +1335,12 @@
     "expansion": "Gloomhaven",
     "image": "world-map/gloomhaven/gh-gloomhaven-map.png",
     "xws": "gloomhavenmap"
+  },
+  {
+    "name": "frosthaven map",
+    "points": 191,
+    "expansion": "Frosthaven",
+    "image": "world-map/frosthaven/fh-frosthaven-map.png",
+    "xws": "frosthavenmap"
   }
 ]

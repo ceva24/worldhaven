@@ -135,76 +135,132 @@
   {
     "name": "random scenario back",
     "points": 19,
+    "expansion": "Frosthaven",
+    "image": "random-scenarios/frosthaven/fh-random-scenario-back.png",
+    "xws": "randomscenarioback"
+  },
+  {
+    "name": "random scenario 26.4",
+    "points": 20,
+    "expansion": "Frosthaven",
+    "image": "random-scenarios/frosthaven/fh-random-scenario-26.4.png",
+    "xws": "randomscenario264"
+  },
+  {
+    "name": "random scenario 81.1",
+    "points": 21,
+    "expansion": "Frosthaven",
+    "image": "random-scenarios/frosthaven/fh-random-scenario-81.1.png",
+    "xws": "randomscenario811"
+  },
+  {
+    "name": "random scenario 119.3",
+    "points": 22,
+    "expansion": "Frosthaven",
+    "image": "random-scenarios/frosthaven/fh-random-scenario-119.3.png",
+    "xws": "randomscenario1193"
+  },
+  {
+    "name": "random scenario 142.4",
+    "points": 23,
+    "expansion": "Frosthaven",
+    "image": "random-scenarios/frosthaven/fh-random-scenario-142.4.png",
+    "xws": "randomscenario1424"
+  },
+  {
+    "name": "random scenario 146.4",
+    "points": 24,
+    "expansion": "Frosthaven",
+    "image": "random-scenarios/frosthaven/fh-random-scenario-146.4.png",
+    "xws": "randomscenario1464"
+  },
+  {
+    "name": "random scenario 171.2",
+    "points": 25,
+    "expansion": "Frosthaven",
+    "image": "random-scenarios/frosthaven/fh-random-scenario-171.2.png",
+    "xws": "randomscenario1712"
+  },
+  {
+    "name": "random scenario 186.5",
+    "points": 26,
+    "expansion": "Frosthaven",
+    "image": "random-scenarios/frosthaven/fh-random-scenario-186.5.png",
+    "xws": "randomscenario1865"
+  },
+  {
+    "name": "random scenario back",
+    "points": 27,
     "expansion": "Trail of Ashes",
     "image": "random-scenarios/trail-of-ashes/toa-random-scenario-back.png",
     "xws": "toarandomscenarioback"
   },
   {
     "name": "random scenario 72",
-    "points": 20,
+    "points": 28,
     "expansion": "Trail of Ashes",
     "image": "random-scenarios/trail-of-ashes/toa-inox-salvation.png",
     "xws": "inoxsalvation"
   },
   {
     "name": "inox salvation",
-    "points": 21,
+    "points": 29,
     "expansion": "Trail of Ashes",
     "image": "random-scenarios/trail-of-ashes/toa-inox-salvation.png",
     "xws": "inoxsalvation"
   },
   {
     "name": "random scenario 73",
-    "points": 22,
+    "points": 30,
     "expansion": "Trail of Ashes",
     "image": "random-scenarios/trail-of-ashes/toa-lootpalooza.png",
     "xws": "lootpalooza"
   },
   {
     "name": "lootpalooza",
-    "points": 23,
+    "points": 31,
     "expansion": "Trail of Ashes",
     "image": "random-scenarios/trail-of-ashes/toa-lootpalooza.png",
     "xws": "lootpalooza"
   },
   {
     "name": "random scenario 74",
-    "points": 24,
+    "points": 32,
     "expansion": "Trail of Ashes",
     "image": "random-scenarios/trail-of-ashes/toa-song-of-the-harrower.png",
     "xws": "songoftheharrower"
   },
   {
     "name": "song of the harrower",
-    "points": 25,
+    "points": 33,
     "expansion": "Trail of Ashes",
     "image": "random-scenarios/trail-of-ashes/toa-song-of-the-harrower.png",
     "xws": "songoftheharrower"
   },
   {
     "name": "random scenario 75",
-    "points": 26,
+    "points": 34,
     "expansion": "Trail of Ashes",
     "image": "random-scenarios/trail-of-ashes/toa-sunken-temple.png",
     "xws": "sunkentemple"
   },
   {
     "name": "sunken temple",
-    "points": 27,
+    "points": 35,
     "expansion": "Trail of Ashes",
     "image": "random-scenarios/trail-of-ashes/toa-sunken-temple.png",
     "xws": "sunkentemple"
   },
   {
     "name": "random scenario 76",
-    "points": 28,
+    "points": 36,
     "expansion": "Trail of Ashes",
     "image": "random-scenarios/trail-of-ashes/toa-untold-woe.png",
     "xws": "untoldwoe"
   },
   {
     "name": "untold woe",
-    "points": 29,
+    "points": 37,
     "expansion": "Trail of Ashes",
     "image": "random-scenarios/trail-of-ashes/toa-untold-woe.png",
     "xws": "untoldwoe"
