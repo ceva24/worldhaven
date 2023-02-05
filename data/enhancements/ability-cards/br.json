@@ -56,5 +56,211 @@
                 "y": 399
             }
         ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/BR/gh-sweeping-blow.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 208,
+                "y": 192
+            },
+            {
+                "id": 1,
+                "action": "area-attack",
+                "x": 219,
+                "y": 135
+            },
+            {
+                "id": 2,
+                "action": "push-mainline",
+                "x": 264,
+                "y": 445
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/BR/gh-provoking-roar.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 267,
+                "y": 178
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/BR/gh-overwhelming-assault.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 265,
+                "y": 167
+            },
+            {
+                "id": 1,
+                "action": "attack",
+                "x": 299,
+                "y": 167
+            },
+            {
+                "id": 2,
+                "action": "push-mainline",
+                "x": 265,
+                "y": 445
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/BR/gh-grab-and-go.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "move",
+                "x": 260,
+                "y": 435
+            },
+            {
+                "id": 1,
+                "action": "move",
+                "x": 294,
+                "y": 435
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/BR/gh-warding-strength.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 267,
+                "y": 181
+            },
+            {
+                "id": 1,
+                "action": "push",
+                "x": 253,
+                "y": 209
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/BR/gh-shield-bash.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 264,
+                "y": 154
+            },
+            {
+                "id": 1,
+                "action": "attack",
+                "x": 297,
+                "y": 154
+            },
+            {
+                "id": 2,
+                "action": "shield",
+                "x": 259,
+                "y": 399
+            },
+            {
+                "id": 3,
+                "action": "shield",
+                "x": 292,
+                "y": 399
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/BR/gh-leaping-cleave.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 212,
+                "y": 175
+            },
+            {
+                "id": 1,
+                "action": "area-attack",
+                "x": 255,
+                "y": 237
+            },
+            {
+                "id": 2,
+                "action": "move",
+                "x": 264,
+                "y": 400
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/BR/gh-spare-dagger.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 266,
+                "y": 154
+            },
+            {
+                "id": 1,
+                "action": "attack",
+                "x": 266,
+                "y": 435
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/BR/gh-skewer.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 207,
+                "y": 143
+            },
+            {
+                "id": 1,
+                "action": "area-attack",
+                "x": 298,
+                "y": 122
+            },
+            {
+                "id": 2,
+                "action": "move",
+                "x": 260,
+                "y": 411
+            },
+            {
+                "id": 3,
+                "action": "move",
+                "x": 292,
+                "y": 411
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/BR/gh-wall-of-doom.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "retaliate",
+                "x": 277,
+                "y": 123
+            },
+            {
+                "id": 1,
+                "action": "shield",
+                "x": 263,
+                "y": 186
+            }
+        ]
     }
 ]

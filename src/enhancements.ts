@@ -5,7 +5,7 @@ import { CWebp } from "cwebp";
 import enhancementTypesData from "../data/enhancements/enhancement-types.json";
 import enhancementActionsData from "../data/enhancements/enhancement-actions.json";
 import enhancementData from "../data/enhancements/enhancements.json";
-import data from "../data/enhancements/ability-cards/sw.json";
+import data from "../data/enhancements/ability-cards/br.json";
 
 const enhancementTypes: EnhancementType[] = enhancementTypesData;
 const enhancementActions: EnhancementAction[] = enhancementActionsData;
@@ -19,7 +19,7 @@ interface ChosenEnhancement {
 }
 
 const main = async () => {
-    const card = cards[9];
+    const card = cards[11];
     const cardImage = await Jimp.read(`./${card.imageUrl}`);
 
     const enhancementIconImages: Map<string, Jimp> = new Map(await Promise.all(enhancements.filter((enhc: Enhancement) => enhc.imageUrl).map(async (enhc: Enhancement) => ([enhc.name, await Jimp.read(`./${enhc.imageUrl}`)] as [string, Jimp]))));
