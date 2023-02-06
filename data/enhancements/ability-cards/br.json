@@ -262,5 +262,324 @@
                 "y": 186
             }
         ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/BR/gh-fatal-advance.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "move",
+                "x": 263,
+                "y": 437
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/BR/gh-juggernaut.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "move",
+                "x": 262,
+                "y": 172
+            },
+            {
+                "id": 1,
+                "action": "attack",
+                "x": 266,
+                "y": 215
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/BR/gh-hook-and-chain.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 264,
+                "y": 165
+            },
+            {
+                "id": 1,
+                "action": "attack",
+                "x": 301,
+                "y": 165
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/BR/gh-brute-force.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 200,
+                "y": 163
+            },
+            {
+                "id": 1,
+                "action": "area-attack",
+                "x": 231,
+                "y": 150
+            },
+            {
+                "id": 2,
+                "action": "area-attack",
+                "x": 231,
+                "y": 218
+            },
+            {
+                "id": 3,
+                "action": "shield",
+                "x": 261,
+                "y": 422
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/BR/gh-unstoppable-charge.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 265,
+                "y": 170
+            },
+            {
+                "id": 1,
+                "action": "move",
+                "x": 262,
+                "y": 397
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/BR/gh-devastating-hack.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 262,
+                "y": 168
+            },
+            {
+                "id": 1,
+                "action": "attack",
+                "x": 295,
+                "y": 168
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/BR/gh-whirlwind.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 266,
+                "y": 166
+            },
+            {
+                "id": 1,
+                "action": "move",
+                "x": 263,
+                "y": 402
+            },
+            {
+                "id": 2,
+                "action": "push-mainline",
+                "x": 264,
+                "y": 448
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/BR/gh-skirmishing-maneuver.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "move",
+                "x": 263,
+                "y": 191
+            },
+            {
+                "id": 1,
+                "action": "attack",
+                "x": 265,
+                "y": 400
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/BR/gh-quietus.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "move",
+                "x": 261,
+                "y": 390
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/BR/gh-immovable-phalanx.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 268,
+                "y": 131
+            },
+            {
+                "id": 1,
+                "action": "shield",
+                "x": 262,
+                "y": 175
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/BR/gh-defensive-tactics.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 266,
+                "y": 126
+            },
+            {
+                "id": 1,
+                "action": "target",
+                "x": 252,
+                "y": 182
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/BR/gh-crippling-offensive.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 263,
+                "y": 140
+            },
+            {
+                "id": 1,
+                "action": "attack",
+                "x": 296,
+                "y": 140
+            },
+            {
+                "id": 2,
+                "action": "move",
+                "x": 261,
+                "y": 385
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/BR/gh-frenzied-onslaught.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 266,
+                "y": 169
+            },
+            {
+                "id": 1,
+                "action": "attack",
+                "x": 266,
+                "y": 256
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/BR/gh-selfish-retribution.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "move",
+                "x": 262,
+                "y": 166
+            },
+            {
+                "id": 1,
+                "action": "move",
+                "x": 262,
+                "y": 373
+            },
+            {
+                "id": 2,
+                "action": "retaliate",
+                "x": 277,
+                "y": 419
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/BR/gh-king-of-the-hill.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 263,
+                "y": 150
+            },
+            {
+                "id": 1,
+                "action": "attack",
+                "x": 295,
+                "y": 150
+            },
+            {
+                "id": 2,
+                "action": "heal",
+                "x": 255,
+                "y": 427
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/BR/gh-king-of-the-hill.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 263,
+                "y": 150
+            },
+            {
+                "id": 1,
+                "action": "attack",
+                "x": 295,
+                "y": 150
+            },
+            {
+                "id": 2,
+                "action": "heal",
+                "x": 255,
+                "y": 427
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/BR/gh-face-your-end.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 267,
+                "y": 126
+            },
+            {
+                "id": 1,
+                "action": "target",
+                "x": 252,
+                "y": 183
+            }
+        ]
     }
 ]
