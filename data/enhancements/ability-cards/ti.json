@@ -1,0 +1,288 @@
+[
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/TI/gh-proximity-mine.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "move",
+                "x": 262,
+                "y": 434
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/TI/gh-harmless-contraption.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "summon-hp",
+                "x": 159,
+                "y": 170
+            },
+            {
+                "id": 1,
+                "action": "summon-move",
+                "x": 233,
+                "y": 170
+            },
+            {
+                "id": 2,
+                "action": "heal",
+                "x": 256,
+                "y": 419
+            },
+            {
+                "id": 3,
+                "action": "range",
+                "x": 250,
+                "y": 452
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/TI/gh-flamethrower.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 207,
+                "y": 156
+            },
+            {
+                "id": 1,
+                "action": "area-attack",
+                "x": 270,
+                "y": 135
+            },
+            {
+                "id": 2,
+                "action": "area-attack",
+                "x": 305,
+                "y": 202
+            },
+            {
+                "id": 3,
+                "action": "shield",
+                "x": 260,
+                "y": 401
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/TI/gh-hook-gun.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "range",
+                "x": 251,
+                "y": 192
+            },
+            {
+                "id": 1,
+                "action": "pull",
+                "x": 250,
+                "y": 223
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/TI/gh-ink-bomb.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 214,
+                "y": 131
+            },
+            {
+                "id": 1,
+                "action": "move",
+                "x": 262,
+                "y": 434
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/TI/gh-net-shooter.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "area-attack",
+                "x": 232,
+                "y": 165
+            },
+            {
+                "id": 1,
+                "action": "negative-status",
+                "x": 293,
+                "y": 401
+            },
+            {
+                "id": 2,
+                "action": "move",
+                "x": 262,
+                "y": 474
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/TI/gh-stun-shot.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 265,
+                "y": 163
+            },
+            {
+                "id": 1,
+                "action": "range",
+                "x": 250,
+                "y": 196
+            },
+            {
+                "id": 2,
+                "action": "move",
+                "x": 262,
+                "y": 433
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/TI/gh-reinvigorating-elixir.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "heal",
+                "x": 257,
+                "y": 176
+            },
+            {
+                "id": 1,
+                "action": "range",
+                "x": 250,
+                "y": 209
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/TI/gh-restorative-mist.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "heal",
+                "x": 257,
+                "y": 176
+            },
+            {
+                "id": 1,
+                "action": "range",
+                "x": 250,
+                "y": 209
+            },
+            {
+                "id": 2,
+                "action": "move",
+                "x": 261,
+                "y": 402
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/TI/gh-energizing-tonic.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "heal",
+                "x": 253,
+                "y": 154
+            },
+            {
+                "id": 1,
+                "action": "heal",
+                "x": 286,
+                "y": 154
+            },
+            {
+                "id": 2,
+                "action": "move",
+                "x": 262,
+                "y": 414
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/TI/gh-enhancement-field.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 266,
+                "y": 181
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/TI/gh-toxic-bolt.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "range",
+                "x": 250,
+                "y": 169
+            },
+            {
+                "id": 1,
+                "action": "attack",
+                "x": 266,
+                "y": 402
+            },
+            {
+                "id": 2,
+                "action": "range",
+                "x": 250,
+                "y": 435
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/TI/gh-reviving-shock.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 266,
+                "y": 162
+            },
+            {
+                "id": 1,
+                "action": "target",
+                "x": 251,
+                "y": 218
+            },
+            {
+                "id": 2,
+                "action": "heal",
+                "x": 250,
+                "y": 402
+            },
+            {
+                "id": 3,
+                "action": "heal",
+                "x": 283,
+                "y": 402
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/TI/gh-potent-potables.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "move",
+                "x": 262,
+                "y": 434
+            }
+        ]
+    }
+]

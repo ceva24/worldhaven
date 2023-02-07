@@ -32,6 +32,10 @@
         "type": ["numeric", "target-enemy"]
     },
     {
+        "name": "negative-status",
+        "type": ["numeric", "target-enemy"]
+    },
+    {
         "name": "pierce",
         "type": ["numeric"]
     },
