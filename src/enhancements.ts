@@ -19,7 +19,7 @@ interface ChosenEnhancement {
 }
 
 const main = async () => {
-    const card = cards[12];
+    const card = cards[20];
     const cardImage = await Jimp.read(`./${card.imageUrl}`);
 
     const enhancementIconImages: Map<string, Jimp> = new Map(await Promise.all(enhancements.filter((enhc: Enhancement) => enhc.imageUrl).map(async (enhc: Enhancement) => ([enhc.name, await Jimp.read(`./${enhc.imageUrl}`)] as [string, Jimp]))));

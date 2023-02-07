@@ -284,5 +284,154 @@
                 "y": 434
             }
         ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/TI/gh-stamina-booster.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "heal",
+                "x": 258,
+                "y": 178
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/TI/gh-disorienting-flash.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "range",
+                "x": 250,
+                "y": 167
+            },
+            {
+                "id": 1,
+                "action": "target",
+                "x": 251,
+                "y": 200
+            },
+            {
+                "id": 2,
+                "action": "move",
+                "x": 261,
+                "y": 474
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/TI/gh-crank-bow.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 262,
+                "y": 154
+            },
+            {
+                "id": 1,
+                "action": "attack",
+                "x": 294,
+                "y": 154
+            },
+            {
+                "id": 2,
+                "action": "move",
+                "x": 262,
+                "y": 433
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/TI/gh-dangerous-contraption.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "summon-hp",
+                "x": 159,
+                "y": 170
+            },
+            {
+                "id": 1,
+                "action": "summon-move",
+                "x": 234,
+                "y": 170
+            },
+            {
+                "id": 2,
+                "action": "summon-attack",
+                "x": 159,
+                "y": 206
+            },
+            {
+                "id": 3,
+                "action": "move",
+                "x": 262,
+                "y": 432
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/TI/gh-micro-bots.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "heal",
+                "x": 257,
+                "y": 157
+            },
+            {
+                "id": 1,
+                "action": "heal",
+                "x": 289,
+                "y": 157
+            },
+            {
+                "id": 2,
+                "action": "move",
+                "x": 261,
+                "y": 416
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/TI/gh-noxious-vials.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 220,
+                "y": 384
+            },
+            {
+                "id": 1,
+                "action": "area-attack",
+                "x": 227,
+                "y": 411
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/TI/gh-disintegration-beam.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "area-attack",
+                "x": 314,
+                "y": 105
+            },
+            {
+                "id": 1,
+                "action": "move",
+                "x": 261,
+                "y": 402
+            },
+            {
+                "id": 2,
+                "action": "negative-status",
+                "x": 273,
+                "y": 448
+            }
+        ]
     }
 ]
