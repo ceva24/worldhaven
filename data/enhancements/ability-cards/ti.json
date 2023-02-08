@@ -433,5 +433,125 @@
                 "y": 448
             }
         ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/TI/gh-auto-turret.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "heal",
+                "x": 256,
+                "y": 420
+            },
+            {
+                "id": 1,
+                "action": "range",
+                "x": 250,
+                "y": 454
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/TI/gh-murderous-contraption.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "summon-hp",
+                "x": 159,
+                "y": 171
+            },
+            {
+                "id": 1,
+                "action": "summon-move",
+                "x": 234,
+                "y": 171
+            },
+            {
+                "id": 2,
+                "action": "summon-attack",
+                "x": 159,
+                "y": 207
+            },
+            {
+                "id": 3,
+                "action": "attack",
+                "x": 267,
+                "y": 423
+            },
+            {
+                "id": 4,
+                "action": "range",
+                "x": 250,
+                "y": 452
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/TI/gh-curative-aerosol.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "heal",
+                "x": 256,
+                "y": 146
+            },
+            {
+                "id": 1,
+                "action": "heal",
+                "x": 257,
+                "y": 241
+            },
+            {
+                "id": 2,
+                "action": "heal",
+                "x": 257,
+                "y": 389
+            },
+            {
+                "id": 3,
+                "action": "target",
+                "x": 250,
+                "y": 444
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/TI/gh-jet-propulsion.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "move",
+                "x": 262,
+                "y": 402
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/TI/gh-harsh-stimulants.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 262,
+                "y": 152
+            },
+            {
+                "id": 1,
+                "action": "attack",
+                "x": 296,
+                "y": 152
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/TI/gh-lethal-injection.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "move",
+                "x": 262,
+                "y": 402
+            }
+        ]
     }
 ]
