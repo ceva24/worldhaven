@@ -1,0 +1,351 @@
+[
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/MT/gh-submissive-affliction.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 265,
+                "y": 140
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/MT/gh-fearsome-blade.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 267,
+                "y": 156
+            },
+            {
+                "id": 1,
+                "action": "push",
+                "x": 252,
+                "y": 185
+            },
+            {
+                "id": 2,
+                "action": "attack",
+                "x": 262,
+                "y": 435
+            },
+            {
+                "id": 3,
+                "action": "attack",
+                "x": 294,
+                "y": 435
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/MT/gh-feedback-loop.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 265,
+                "y": 204
+            },
+            {
+                "id": 1,
+                "action": "move",
+                "x": 261,
+                "y": 368
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/MT/gh-gnawing-horde.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "summon-hp",
+                "x": 159,
+                "y": 170
+            },
+            {
+                "id": 1,
+                "action": "summon-move",
+                "x": 233,
+                "y": 170
+            },
+            {
+                "id": 2,
+                "action": "summon-attack",
+                "x": 159,
+                "y": 206
+            },
+            {
+                "id": 3,
+                "action": "move",
+                "x": 263,
+                "y": 438
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/MT/gh-the-minds-weakness.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 264,
+                "y": 205
+            },
+            {
+                "id": 1,
+                "action": "attack",
+                "x": 264,
+                "y": 426
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/MT/gh-parasitic-influence.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 264,
+                "y": 205
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/MT/gh-scurry.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "move",
+                "x": 262,
+                "y": 169
+            },
+            {
+                "id": 1,
+                "action": "attack",
+                "x": 265,
+                "y": 215
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/MT/gh-perverse-edge.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 266,
+                "y": 163
+            },
+            {
+                "id": 1,
+                "action": "attack",
+                "x": 266,
+                "y": 390
+            },
+            {
+                "id": 2,
+                "action": "range",
+                "x": 251,
+                "y": 419
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/MT/gh-empathetic-assault.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 263,
+                "y": 141
+            },
+            {
+                "id": 1,
+                "action": "attack",
+                "x": 295,
+                "y": 141
+            },
+            {
+                "id": 2,
+                "action": "move",
+                "x": 262,
+                "y": 398
+            },
+            {
+                "id": 3,
+                "action": "heal",
+                "x": 257,
+                "y": 446
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/MT/gh-withering-claw.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 263,
+                "y": 205
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/MT/gh-frigid-apparition.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 267,
+                "y": 174
+            },
+            {
+                "id": 1,
+                "action": "move",
+                "x": 262,
+                "y": 375
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/MT/gh-wretched-creature.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "summon-hp",
+                "x": 159,
+                "y": 170
+            },
+            {
+                "id": 1,
+                "action": "summon-move",
+                "x": 233,
+                "y": 170
+            },
+            {
+                "id": 2,
+                "action": "summon-attack",
+                "x": 159,
+                "y": 206
+            },
+            {
+                "id": 3,
+                "action": "move",
+                "x": 262,
+                "y": 406
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/MT/gh-hostile-takeover.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 266,
+                "y": 140
+            },
+            {
+                "id": 1,
+                "action": "range",
+                "x": 252,
+                "y": 169
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/MT/gh-brain-leech.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 268,
+                "y": 122
+            },
+            {
+                "id": 1,
+                "action": "heal",
+                "x": 257,
+                "y": 195
+            },
+            {
+                "id": 2,
+                "action": "attack",
+                "x": 264,
+                "y": 401
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/MT/gh-silent-scream.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 263,
+                "y": 206
+            },
+            {
+                "id": 1,
+                "action": "move",
+                "x": 261,
+                "y": 382
+            },
+            {
+                "id": 2,
+                "action": "push-mainline",
+                "x": 264,
+                "y": 429
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/MT/gh-pilfer.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 265,
+                "y": 372
+            },
+            {
+                "id": 1,
+                "action": "move",
+                "x": 261,
+                "y": 416
+            },
+            {
+                "id": 2,
+                "action": "attack",
+                "x": 265,
+                "y": 460
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/MT/gh-cranium-overload.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 264,
+                "y": 167
+            },
+            {
+                "id": 1,
+                "action": "attack",
+                "x": 296,
+                "y": 167
+            },
+            {
+                "id": 2,
+                "action": "move",
+                "x": 262,
+                "y": 437
+            }
+        ]
+    }
+]
