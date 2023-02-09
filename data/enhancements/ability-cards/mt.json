@@ -347,5 +347,170 @@
                 "y": 437
             }
         ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/MT/gh-mass-hysteria.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "target",
+                "x": 252,
+                "y": 184
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/MT/gh-frozen-mind.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 263,
+                "y": 204
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/MT/gh-corrupting-embrace.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 266,
+                "y": 144
+            },
+            {
+                "id": 1,
+                "action": "attack",
+                "x": 265,
+                "y": 214
+            },
+            {
+                "id": 2,
+                "action": "move",
+                "x": 261,
+                "y": 363
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/MT/gh-dark-frenzy.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 266,
+                "y": 151
+            },
+            {
+                "id": 1,
+                "action": "move",
+                "x": 261,
+                "y": 375
+            },
+            {
+                "id": 2,
+                "action": "attack",
+                "x": 266,
+                "y": 418
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/MT/gh-vicious-blood.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 263,
+                "y": 205
+            },
+            {
+                "id": 1,
+                "action": "move",
+                "x": 261,
+                "y": 416
+            },
+            {
+                "id": 2,
+                "action": "attack",
+                "x": 265,
+                "y": 458
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/MT/gh-psychic-projection.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "heal",
+                "x": 254,
+                "y": 120
+            },
+            {
+                "id": 1,
+                "action": "shield",
+                "x": 256,
+                "y": 179
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/MT/gh-shared-nightmare.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 266,
+                "y": 124
+            },
+            {
+                "id": 1,
+                "action": "target",
+                "x": 251,
+                "y": 179
+            },
+            {
+                "id": 2,
+                "action": "move",
+                "x": 261,
+                "y": 410
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/MT/gh-many-as-one.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "summon-hp",
+                "x": 159,
+                "y": 170
+            },
+            {
+                "id": 1,
+                "action": "summon-move",
+                "x": 233,
+                "y": 170
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/MT/gh-phantasmal-killer.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 262,
+                "y": 204
+            },
+            {
+                "id": 1,
+                "action": "move",
+                "x": 261,
+                "y": 362
+            }
+        ]
     }
 ]
