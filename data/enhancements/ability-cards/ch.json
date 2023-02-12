@@ -1,0 +1,538 @@
+[
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/CH/gh-opposing-strike.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 193,
+                "y": 175
+            },
+            {
+                "id": 1,
+                "action": "attack",
+                "x": 229,
+                "y": 175
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/CH/gh-crushing-grasp.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 267,
+                "y": 159
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/CH/gh-avalanche.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 212,
+                "y": 150
+            },
+            {
+                "id": 1,
+                "action": "area-attack",
+                "x": 250,
+                "y": 152
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/CH/gh-rumbling-advance.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "heal",
+                "x": 259,
+                "y": 152
+            },
+            {
+                "id": 1,
+                "action": "range",
+                "x": 251,
+                "y": 184
+            },
+            {
+                "id": 2,
+                "action": "move",
+                "x": 262,
+                "y": 382
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/CH/gh-massive-boulder.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 267,
+                "y": 130
+            },
+            {
+                "id": 1,
+                "action": "range",
+                "x": 251,
+                "y": 160
+            },
+            {
+                "id": 2,
+                "action": "move",
+                "x": 263,
+                "y": 435
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/CH/gh-backup-ammunition.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 262,
+                "y": 435
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/CH/gh-rock-tunnel.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "move",
+                "x": 261,
+                "y": 365
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/CH/gh-unstable-upheaval.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 267,
+                "y": 115
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/CH/gh-crater.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 267,
+                "y": 154
+            },
+            {
+                "id": 1,
+                "action": "range",
+                "x": 251,
+                "y": 183
+            },
+            {
+                "id": 2,
+                "action": "move",
+                "x": 260,
+                "y": 412
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/CH/gh-dirt-tornado.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 206,
+                "y": 131
+            },
+            {
+                "id": 1,
+                "action": "move",
+                "x": 262,
+                "y": 435
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/CH/gh-earthen-clod.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 267,
+                "y": 160
+            },
+            {
+                "id": 1,
+                "action": "heal",
+                "x": 258,
+                "y": 426
+            },
+            {
+                "id": 2,
+                "action": "range",
+                "x": 250,
+                "y": 457
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/CH/gh-heaving-swing.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 266,
+                "y": 122
+            },
+            {
+                "id": 1,
+                "action": "push",
+                "x": 250,
+                "y": 154
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/CH/gh-forceful-storm.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 207,
+                "y": 120
+            },
+            {
+                "id": 1,
+                "action": "area-attack",
+                "x": 232,
+                "y": 147
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/CH/gh-natures-lift.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "heal",
+                "x": 257,
+                "y": 159
+            },
+            {
+                "id": 1,
+                "action": "range",
+                "x": 250,
+                "y": 191
+            },
+            {
+                "id": 2,
+                "action": "target",
+                "x": 251,
+                "y": 223
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/CH/gh-explosive-punch.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 267,
+                "y": 165
+            },
+            {
+                "id": 1,
+                "action": "move",
+                "x": 262,
+                "y": 434
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/CH/gh-sentient-growth.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 213,
+                "y": 131
+            },
+            {
+                "id": 1,
+                "action": "area-attack",
+                "x": 239,
+                "y": 167
+            },
+            {
+                "id": 2,
+                "action": "heal",
+                "x": 203,
+                "y": 204
+            },
+            {
+                "id": 3,
+                "action": "heal",
+                "x": 255,
+                "y": 412
+            },
+            {
+                "id": 4,
+                "action": "attack",
+                "x": 265,
+                "y": 479
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/CH/gh-clear-the-way.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 266,
+                "y": 182
+            },
+            {
+                "id": 1,
+                "action": "move",
+                "x": 256,
+                "y": 370
+            },
+            {
+                "id": 2,
+                "action": "move",
+                "x": 288,
+                "y": 370
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/CH/gh-blunt-force.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 261,
+                "y": 141
+            },
+            {
+                "id": 1,
+                "action": "attack",
+                "x": 295,
+                "y": 141
+            },
+            {
+                "id": 2,
+                "action": "move",
+                "x": 261,
+                "y": 377
+            },
+            {
+                "id": 3,
+                "action": "retaliate",
+                "x": 273,
+                "y": 428
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/CH/gh-kinetic-assault.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "move",
+                "x": 259,
+                "y": 172
+            },
+            {
+                "id": 1,
+                "action": "attack",
+                "x": 266,
+                "y": 216
+            },
+            {
+                "id": 2,
+                "action": "retaliate",
+                "x": 275,
+                "y": 397
+            },
+            {
+                "id": 3,
+                "action": "range",
+                "x": 251,
+                "y": 427
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/CH/gh-petrify.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "move",
+                "x": 262,
+                "y": 401
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/CH/gh-stone-pummel.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 200,
+                "y": 155
+            },
+            {
+                "id": 1,
+                "action": "area-attack",
+                "x": 304,
+                "y": 154
+            },
+            {
+                "id": 2,
+                "action": "area-attack",
+                "x": 197,
+                "y": 222
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/CH/gh-dig-pit.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "move",
+                "x": 261,
+                "y": 401
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/CH/gh-cataclysm.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 207,
+                "y": 140
+            },
+            {
+                "id": 1,
+                "action": "move",
+                "x": 262,
+                "y": 419
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/CH/gh-meteor.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 207,
+                "y": 140
+            },
+            {
+                "id": 1,
+                "action": "move",
+                "x": 262,
+                "y": 419
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/CH/gh-brutal-momentum.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 265,
+                "y": 136
+            },
+            {
+                "id": 1,
+                "action": "push",
+                "x": 250,
+                "y": 165
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/CH/gh-lumbering-bash.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "move",
+                "x": 262,
+                "y": 150
+            },
+            {
+                "id": 1,
+                "action": "attack",
+                "x": 265,
+                "y": 190
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/CH/gh-blind-destruction.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "range",
+                "x": 251,
+                "y": 170
+            },
+            {
+                "id": 1,
+                "action": "move",
+                "x": 262,
+                "y": 374
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/CH/gh-pulverize.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 266,
+                "y": 116
+            },
+            {
+                "id": 1,
+                "action": "push",
+                "x": 250,
+                "y": 145
+            },
+            {
+                "id": 2,
+                "action": "attack",
+                "x": 265,
+                "y": 367
+            },
+            {
+                "id": 3,
+                "action": "attack",
+                "x": 265,
+                "y": 477
+            }
+        ]
+    }
+]
