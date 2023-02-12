@@ -33,7 +33,11 @@
     },
     {
         "name": "negative-status",
-        "type": ["numeric", "target-enemy"]
+        "type": ["target-enemy"]
+    },
+    {
+        "name": "positive-status",
+        "type": ["target-self-ally"]
     },
     {
         "name": "pierce",

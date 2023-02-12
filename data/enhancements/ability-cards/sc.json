@@ -1,0 +1,200 @@
+[
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/SC/gh-single-out.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 265,
+                "y": 164
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/SC/gh-flanking-strike.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 266,
+                "y": 164
+            },
+            {
+                "id": 1,
+                "action": "move",
+                "x": 261,
+                "y": 436
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/SC/gh-smoke-bomb.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "positive-status",
+                "x": 277,
+                "y": 117
+            },
+            {
+                "id": 1,
+                "action": "pull-mainline",
+                "x": 261,
+                "y": 420
+            },
+            {
+                "id": 2,
+                "action": "range",
+                "x": 250,
+                "y": 454
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/SC/gh-backstab.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 262,
+                "y": 130
+            },
+            {
+                "id": 1,
+                "action": "attack",
+                "x": 294,
+                "y": 130
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/SC/gh-thiefs-knack.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 265,
+                "y": 412
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/SC/gh-venom-shiv.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 265,
+                "y": 156
+            },
+            {
+                "id": 1,
+                "action": "move",
+                "x": 260,
+                "y": 435
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/SC/gh-throwing-knives.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "range",
+                "x": 250,
+                "y": 172
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/SC/gh-quick-hands.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "move",
+                "x": 261,
+                "y": 172
+            },
+            {
+                "id": 1,
+                "action": "attack",
+                "x": 265,
+                "y": 212
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/SC/gh-special-mixture.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "heal",
+                "x": 256,
+                "y": 181
+            },
+            {
+                "id": 1,
+                "action": "move",
+                "x": 260,
+                "y": 405
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/SC/gh-sinister-opportunity.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "heal",
+                "x": 266,
+                "y": 145
+            },
+            {
+                "id": 1,
+                "action": "move",
+                "x": 261,
+                "y": 375
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/SC/gh-tricksters-reversal.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 261,
+                "y": 144
+            },
+            {
+                "id": 1,
+                "action": "attack",
+                "x": 295,
+                "y": 144
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/SC/gh-swift-bow.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 266,
+                "y": 179
+            },
+            {
+                "id": 1,
+                "action": "range",
+                "x": 251,
+                "y": 208
+            },
+            {
+                "id": 2,
+                "action": "move",
+                "x": 262,
+                "y": 413
+            }
+        ]
+    }
+]
