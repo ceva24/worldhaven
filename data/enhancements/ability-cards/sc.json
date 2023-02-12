@@ -196,5 +196,272 @@
                 "y": 413
             }
         ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/SC/gh-open-wound.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 266,
+                "y": 163
+            },
+            {
+                "id": 1,
+                "action": "move",
+                "x": 261,
+                "y": 436
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/SC/gh-flintlock.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 261,
+                "y": 398
+            },
+            {
+                "id": 1,
+                "action": "attack",
+                "x": 295,
+                "y": 398
+            },
+            {
+                "id": 2,
+                "action": "range",
+                "x": 252,
+                "y": 431
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/SC/gh-hidden-daggers.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 266,
+                "y": 138
+            },
+            {
+                "id": 1,
+                "action": "range",
+                "x": 252,
+                "y": 168
+            },
+            {
+                "id": 2,
+                "action": "target",
+                "x": 251,
+                "y": 199
+            },
+            {
+                "id": 3,
+                "action": "positive-status",
+                "x": 279,
+                "y": 425
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/SC/gh-duelists-advance.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "move",
+                "x": 261,
+                "y": 172
+            },
+            {
+                "id": 1,
+                "action": "attack",
+                "x": 266,
+                "y": 215
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/SC/gh-flurry-of-blades.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "move",
+                "x": 252,
+                "y": 168
+            },
+            {
+                "id": 1,
+                "action": "attack",
+                "x": 261,
+                "y": 386
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/SC/gh-gruesome-advantage.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 260,
+                "y": 130
+            },
+            {
+                "id": 1,
+                "action": "attack",
+                "x": 293,
+                "y": 130
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/SC/gh-cull-the-weak.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 266,
+                "y": 157
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/SC/gh-visage-of-the-inevitable.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "move",
+                "x": 261,
+                "y": 403
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/SC/gh-crippling-poison.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 265,
+                "y": 389
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/SC/gh-burning-oil.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 267,
+                "y": 142
+            },
+            {
+                "id": 1,
+                "action": "range",
+                "x": 251,
+                "y": 171
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/SC/gh-stick-to-the-shadows.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 261,
+                "y": 164
+            },
+            {
+                "id": 1,
+                "action": "attack",
+                "x": 294,
+                "y": 164
+            },
+            {
+                "id": 2,
+                "action": "positive-status",
+                "x": 280,
+                "y": 442
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/SC/gh-stiletto-storm.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "range",
+                "x": 252,
+                "y": 169
+            },
+            {
+                "id": 1,
+                "action": "move",
+                "x": 262,
+                "y": 384
+            },
+            {
+                "id": 2,
+                "action": "retaliate",
+                "x": 274,
+                "y": 421
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/SC/gh-pains-end.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "heal",
+                "x": 253,
+                "y": 155
+            },
+            {
+                "id": 1,
+                "action": "heal",
+                "x": 287,
+                "y": 155
+            },
+            {
+                "id": 2,
+                "action": "move",
+                "x": 261,
+                "y": 411
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/SC/gh-long-con.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 265,
+                "y": 166
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/SC/gh-watch-it-burn.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "move",
+                "x": 261,
+                "y": 404
+            },
+            {
+                "id": 1,
+                "action": "negative-status",
+                "x": 274,
+                "y": 446
+            }
+        ]
     }
 ]
