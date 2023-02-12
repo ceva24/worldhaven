@@ -17,7 +17,7 @@ This repository contains data and images for the following games and components:
 
 **Assets:**
 - art
-- attack-modifiers
+- attack-modifiers (including town-guard-cards)
 - battle-goals
 - books
 - challenge-cards
@@ -41,7 +41,6 @@ This repository contains data and images for the following games and components:
 - random-dungeons
 - random-scenarios
 - tokens
-- town-guard-cards
 - trial-cards
 - world-map
 
