@@ -8,6 +8,13 @@ const createWebQualityImages = async () => {
     // createImagesForDirectory("./images/personal-quests/gloomhaven", 300, 400);
     // createImagesForDirectory("./images/items/gloomhaven/1-14", 200, 296);
     // createImagesForDirectory("./images/items/gloomhaven/15-21", 200, 296);
+    // createImagesForDirectory("./images/items/gloomhaven/22-28", 200, 296);
+    // createImagesForDirectory("./images/items/gloomhaven/29-35", 200, 296);
+    // createImagesForDirectory("./images/items/gloomhaven/36-42", 200, 296);
+    // createImagesForDirectory("./images/items/gloomhaven/43-49", 200, 296);
+    // createImagesForDirectory("./images/items/gloomhaven/50-56", 200, 296);
+    // createImagesForDirectory("./images/items/gloomhaven/57-63", 200, 296);
+    // createImagesForDirectory("./images/items/gloomhaven/64-151", 200, 296);
     // createImagesForDirectory("./images/character-ability-cards/gloomhaven", 300, 400);
     // createImagesForDirectory("./images/attack-modifiers/gloomhaven/base/player", 400, 300);
     // createImagesForDirectory("./images/attack-modifiers/gloomhaven/BR", 400, 300);
