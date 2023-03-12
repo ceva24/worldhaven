@@ -16,13 +16,7 @@ const createWebQualityImages = async () => {
     // createImagesForDirectory("./images/items/gloomhaven/57-63", 200, 296);
     // createImagesForDirectory("./images/items/gloomhaven/64-151", 200, 296);
     // createImagesForDirectory("./images/character-ability-cards/gloomhaven", 300, 400);
-    // createImagesForDirectory("./images/attack-modifiers/gloomhaven/base/player", 400, 300);
-    // createImagesForDirectory("./images/attack-modifiers/gloomhaven/BR", 400, 300);
-    // createImagesForDirectory("./images/attack-modifiers/gloomhaven/CH", 400, 300);
-    // createImagesForDirectory("./images/attack-modifiers/gloomhaven/MT", 400, 300);
-    // createImagesForDirectory("./images/attack-modifiers/gloomhaven/SC", 400, 300);
-    // createImagesForDirectory("./images/attack-modifiers/gloomhaven/SW", 400, 300);
-    // createImagesForDirectory("./images/attack-modifiers/gloomhaven/TI", 400, 300);
+    // createImagesForDirectory("./images/attack-modifiers/gloomhaven/", 400, 300);
     // createImagesForDirectory("./images/perk-icons/gloomhaven", 120, 120);
     // createImagesForDirectory("./images/enhancement-icons/gloomhaven", 30, 30);
     // createImages("./images/enhancement-icons/gloomhaven/+1-sm.png", 20, 20);
