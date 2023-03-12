@@ -353,1020 +353,1181 @@
     "name": "bane",
     "points": 50,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/conditions/fh-bane.png",
-    "xws": "bane"
+    "image": "tokens/frosthaven/conditions/fh-bane-condition.png",
+    "xws": "banecondition"
   },
   {
     "name": "bless",
     "points": 51,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/conditions/fh-bless.png",
-    "xws": "bless"
+    "image": "tokens/frosthaven/conditions/fh-bless-condition.png",
+    "xws": "blesscondition"
   },
   {
     "name": "brittle",
     "points": 52,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/conditions/fh-brittle.png",
-    "xws": "brittle"
+    "image": "tokens/frosthaven/conditions/fh-brittle-condition.png",
+    "xws": "brittlecondition"
   },
   {
     "name": "curse",
     "points": 53,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/conditions/fh-curse.png",
-    "xws": "curse"
+    "image": "tokens/frosthaven/conditions/fh-curse-condition.png",
+    "xws": "cursecondition"
   },
   {
     "name": "disarm",
     "points": 54,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/conditions/fh-disarm.png",
-    "xws": "disarm"
+    "image": "tokens/frosthaven/conditions/fh-disarm-condition.png",
+    "xws": "disarmcondition"
   },
   {
     "name": "immobilize",
     "points": 55,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/conditions/fh-immobilize.png",
-    "xws": "immobilize"
+    "image": "tokens/frosthaven/conditions/fh-immobilize-condition.png",
+    "xws": "immobilizecondition"
   },
   {
     "name": "impair",
     "points": 56,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/conditions/fh-impair.png",
-    "xws": "impair"
+    "image": "tokens/frosthaven/conditions/fh-impair-condition.png",
+    "xws": "impaircondition"
   },
   {
     "name": "invisible",
     "points": 57,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/conditions/fh-invisible.png",
-    "xws": "invisible"
+    "image": "tokens/frosthaven/conditions/fh-invisible-condition.png",
+    "xws": "invisiblecondition"
   },
   {
     "name": "muddle",
     "points": 58,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/conditions/fh-muddle.png",
-    "xws": "muddle"
-  },
-  {
-    "name": "pierce",
-    "points": 59,
-    "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/conditions/fh-pierce.png",
-    "xws": "pierce"
+    "image": "tokens/frosthaven/conditions/fh-muddle-condition.png",
+    "xws": "muddlecondition"
   },
   {
     "name": "poison",
-    "points": 60,
+    "points": 59,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/conditions/fh-poison.png",
-    "xws": "poison"
-  },
-  {
-    "name": "pull",
-    "points": 61,
-    "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/conditions/fh-pull.png",
-    "xws": "pull"
-  },
-  {
-    "name": "push",
-    "points": 62,
-    "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/conditions/fh-push.png",
-    "xws": "push"
+    "image": "tokens/frosthaven/conditions/fh-poison-condition.png",
+    "xws": "poisoncondition"
   },
   {
     "name": "regenerate",
-    "points": 63,
+    "points": 60,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/conditions/fh-regenerate.png",
-    "xws": "regenerate"
+    "image": "tokens/frosthaven/conditions/fh-regenerate-condition.png",
+    "xws": "regeneratecondition"
   },
   {
     "name": "strengthen",
-    "points": 64,
+    "points": 61,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/conditions/fh-strengthen.png",
-    "xws": "strengthen"
+    "image": "tokens/frosthaven/conditions/fh-strengthen-condition.png",
+    "xws": "strengthencondition"
   },
   {
     "name": "stun",
-    "points": 65,
+    "points": 62,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/conditions/fh-stun.png",
-    "xws": "stun"
+    "image": "tokens/frosthaven/conditions/fh-stun-condition.png",
+    "xws": "stuncondition"
   },
   {
     "name": "ward",
-    "points": 66,
+    "points": 63,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/conditions/fh-ward.png",
-    "xws": "ward"
+    "image": "tokens/frosthaven/conditions/fh-ward-condition.png",
+    "xws": "wardcondition"
   },
   {
     "name": "wound",
+    "points": 64,
+    "expansion": "Frosthaven",
+    "image": "tokens/frosthaven/conditions/fh-wound-condition.png",
+    "xws": "woundcondition"
+  },
+  {
+    "name": "1 damage",
+    "points": 65,
+    "expansion": "Frosthaven",
+    "image": "tokens/frosthaven/damage/fh-1-damage.png",
+    "xws": "1damage"
+  },
+  {
+    "name": "3 damage",
+    "points": 66,
+    "expansion": "Frosthaven",
+    "image": "tokens/frosthaven/damage/fh-3-damage.png",
+    "xws": "3damage"
+  },
+  {
+    "name": "10 damage",
     "points": 67,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/conditions/fh-wound.png",
-    "xws": "wound"
+    "image": "tokens/frosthaven/damage/fh-10-damage.png",
+    "xws": "10damage"
   },
   {
-    "name": "air",
+    "name": "20 damage",
     "points": 68,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/elements/fh-air.png",
-    "xws": "air"
+    "image": "tokens/frosthaven/damage/fh-20-damage.png",
+    "xws": "20damage"
+  },
+  {
+    "name": "100 damage",
+    "points": 69,
+    "expansion": "Frosthaven",
+    "image": "tokens/frosthaven/damage/fh-100-damage.png",
+    "xws": "100damage"
   },
   {
     "name": "air",
-    "points": 69,
-    "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/elements/fh-air-consume.png",
-    "xws": "air"
-  },
-  {
-    "name": "dark",
     "points": 70,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/elements/fh-dark.png",
-    "xws": "dark"
+    "image": "tokens/frosthaven/elements/fh-air-element.png",
+    "xws": "airelement"
   },
   {
     "name": "dark",
     "points": 71,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/elements/fh-dark-consume.png",
-    "xws": "dark"
+    "image": "tokens/frosthaven/elements/fh-dark-element.png",
+    "xws": "darkelement"
   },
   {
     "name": "earth",
     "points": 72,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/elements/fh-earth.png",
-    "xws": "earth"
+    "image": "tokens/frosthaven/elements/fh-earth-element.png",
+    "xws": "earthelement"
   },
   {
-    "name": "earth",
+    "name": "fire",
     "points": 73,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/elements/fh-earth-consume.png",
-    "xws": "earth"
+    "image": "tokens/frosthaven/elements/fh-fire-element.png",
+    "xws": "fireelement"
   },
   {
-    "name": "fire",
+    "name": "ice",
     "points": 74,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/elements/fh-fire.png",
-    "xws": "fire"
+    "image": "tokens/frosthaven/elements/fh-ice-element.png",
+    "xws": "iceelement"
   },
   {
-    "name": "fire",
+    "name": "light",
     "points": 75,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/elements/fh-fire-consume.png",
-    "xws": "fire"
+    "image": "tokens/frosthaven/elements/fh-light-element.png",
+    "xws": "lightelement"
   },
   {
-    "name": "ice",
+    "name": "scenario aid letter a",
     "points": 76,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/elements/fh-ice.png",
-    "xws": "ice"
+    "image": "tokens/frosthaven/scenario-aids/fh-scenario-aid-letter-a.png",
+    "xws": "scenarioaidlettera"
   },
   {
-    "name": "ice",
+    "name": "scenario aid letter b",
     "points": 77,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/elements/fh-ice-consume.png",
-    "xws": "ice"
+    "image": "tokens/frosthaven/scenario-aids/fh-scenario-aid-letter-b.png",
+    "xws": "scenarioaidletterb"
   },
   {
-    "name": "light",
+    "name": "scenario aid letter c",
     "points": 78,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/elements/fh-light.png",
-    "xws": "light"
+    "image": "tokens/frosthaven/scenario-aids/fh-scenario-aid-letter-c.png",
+    "xws": "scenarioaidletterc"
   },
   {
-    "name": "light",
+    "name": "scenario aid letter d",
     "points": 79,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/elements/fh-light-consume.png",
-    "xws": "light"
+    "image": "tokens/frosthaven/scenario-aids/fh-scenario-aid-letter-d.png",
+    "xws": "scenarioaidletterd"
   },
   {
-    "name": "wild",
+    "name": "scenario aid letter e",
     "points": 80,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/elements/fh-wild.png",
-    "xws": "wild"
+    "image": "tokens/frosthaven/scenario-aids/fh-scenario-aid-letter-e.png",
+    "xws": "scenarioaidlettere"
   },
   {
-    "name": "wild",
+    "name": "scenario aid letter f",
     "points": 81,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/elements/fh-wild-consume.png",
-    "xws": "wild"
+    "image": "tokens/frosthaven/scenario-aids/fh-scenario-aid-letter-f.png",
+    "xws": "scenarioaidletterf"
+  },
+  {
+    "name": "scenario aid letter g",
+    "points": 82,
+    "expansion": "Frosthaven",
+    "image": "tokens/frosthaven/scenario-aids/fh-scenario-aid-letter-g.png",
+    "xws": "scenarioaidletterg"
+  },
+  {
+    "name": "scenario aid letter h",
+    "points": 83,
+    "expansion": "Frosthaven",
+    "image": "tokens/frosthaven/scenario-aids/fh-scenario-aid-letter-h.png",
+    "xws": "scenarioaidletterh"
+  },
+  {
+    "name": "scenario aid letter i",
+    "points": 84,
+    "expansion": "Frosthaven",
+    "image": "tokens/frosthaven/scenario-aids/fh-scenario-aid-letter-i.png",
+    "xws": "scenarioaidletteri"
+  },
+  {
+    "name": "scenario aid letter j",
+    "points": 85,
+    "expansion": "Frosthaven",
+    "image": "tokens/frosthaven/scenario-aids/fh-scenario-aid-letter-j.png",
+    "xws": "scenarioaidletterj"
+  },
+  {
+    "name": "scenario aid letter k",
+    "points": 86,
+    "expansion": "Frosthaven",
+    "image": "tokens/frosthaven/scenario-aids/fh-scenario-aid-letter-k.png",
+    "xws": "scenarioaidletterk"
+  },
+  {
+    "name": "scenario aid letter m",
+    "points": 87,
+    "expansion": "Frosthaven",
+    "image": "tokens/frosthaven/scenario-aids/fh-scenario-aid-letter-m.png",
+    "xws": "scenarioaidletterm"
+  },
+  {
+    "name": "scenario aid number back",
+    "points": 88,
+    "expansion": "Frosthaven",
+    "image": "tokens/frosthaven/scenario-aids/fh-scenario-aid-number-back.png",
+    "xws": "scenarioaidnumberback"
+  },
+  {
+    "name": "scenario aid number 1",
+    "points": 89,
+    "expansion": "Frosthaven",
+    "image": "tokens/frosthaven/scenario-aids/fh-scenario-aid-number-01.png",
+    "xws": "scenarioaidnumber1"
+  },
+  {
+    "name": "scenario aid number 2",
+    "points": 90,
+    "expansion": "Frosthaven",
+    "image": "tokens/frosthaven/scenario-aids/fh-scenario-aid-number-02.png",
+    "xws": "scenarioaidnumber2"
+  },
+  {
+    "name": "scenario aid number 3",
+    "points": 91,
+    "expansion": "Frosthaven",
+    "image": "tokens/frosthaven/scenario-aids/fh-scenario-aid-number-03.png",
+    "xws": "scenarioaidnumber3"
+  },
+  {
+    "name": "scenario aid number 4",
+    "points": 92,
+    "expansion": "Frosthaven",
+    "image": "tokens/frosthaven/scenario-aids/fh-scenario-aid-number-04.png",
+    "xws": "scenarioaidnumber4"
+  },
+  {
+    "name": "scenario aid number 5",
+    "points": 93,
+    "expansion": "Frosthaven",
+    "image": "tokens/frosthaven/scenario-aids/fh-scenario-aid-number-05.png",
+    "xws": "scenarioaidnumber5"
+  },
+  {
+    "name": "scenario aid number 6",
+    "points": 94,
+    "expansion": "Frosthaven",
+    "image": "tokens/frosthaven/scenario-aids/fh-scenario-aid-number-06.png",
+    "xws": "scenarioaidnumber6"
+  },
+  {
+    "name": "scenario aid number 7",
+    "points": 95,
+    "expansion": "Frosthaven",
+    "image": "tokens/frosthaven/scenario-aids/fh-scenario-aid-number-07.png",
+    "xws": "scenarioaidnumber7"
+  },
+  {
+    "name": "scenario aid number 8",
+    "points": 96,
+    "expansion": "Frosthaven",
+    "image": "tokens/frosthaven/scenario-aids/fh-scenario-aid-number-08.png",
+    "xws": "scenarioaidnumber8"
+  },
+  {
+    "name": "scenario aid number 9",
+    "points": 97,
+    "expansion": "Frosthaven",
+    "image": "tokens/frosthaven/scenario-aids/fh-scenario-aid-number-09.png",
+    "xws": "scenarioaidnumber9"
+  },
+  {
+    "name": "scenario aid number 10",
+    "points": 98,
+    "expansion": "Frosthaven",
+    "image": "tokens/frosthaven/scenario-aids/fh-scenario-aid-number-10.png",
+    "xws": "scenarioaidnumber10"
+  },
+  {
+    "name": "scenario aid number 11",
+    "points": 99,
+    "expansion": "Frosthaven",
+    "image": "tokens/frosthaven/scenario-aids/fh-scenario-aid-number-11.png",
+    "xws": "scenarioaidnumber11"
+  },
+  {
+    "name": "scenario aid number 12",
+    "points": 100,
+    "expansion": "Frosthaven",
+    "image": "tokens/frosthaven/scenario-aids/fh-scenario-aid-number-12.png",
+    "xws": "scenarioaidnumber12"
   },
   {
     "name": "altar",
-    "points": 82,
+    "points": 101,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/terrain/fh-altar.png",
     "xws": "altar"
   },
   {
-    "name": "barrel",
-    "points": 83,
+    "name": "barrels",
+    "points": 102,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/terrain/fh-barrel.png",
-    "xws": "barrel"
+    "image": "tokens/frosthaven/terrain/fh-barrels.png",
+    "xws": "barrels"
   },
   {
     "name": "barricade",
-    "points": 84,
+    "points": 103,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/terrain/fh-barricade.png",
     "xws": "barricade"
   },
   {
     "name": "bear trap",
-    "points": 85,
+    "points": 104,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/terrain/fh-bear-trap.png",
     "xws": "beartrap"
   },
   {
     "name": "bookshelf",
-    "points": 86,
+    "points": 105,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/terrain/fh-bookshelf.png",
     "xws": "bookshelf"
   },
   {
-    "name": "cave",
-    "points": 87,
+    "name": "cave corridor",
+    "points": 106,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/terrain/fh-cave-1.png",
-    "xws": "cave"
+    "image": "tokens/frosthaven/terrain/fh-cave-corridor-small.png",
+    "xws": "cave corridor"
   },
   {
-    "name": "cave",
-    "points": 88,
+    "name": "cave corridor",
+    "points": 107,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/terrain/fh-cave-2.png",
-    "xws": "cave"
+    "image": "tokens/frosthaven/terrain/fh-cave-corridor-large.png",
+    "xws": "cavecorridor"
   },
   {
     "name": "cave door",
-    "points": 89,
+    "points": 108,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/terrain/fh-cave-door.png",
     "xws": "cavedoor"
   },
   {
     "name": "cave rock",
-    "points": 90,
+    "points": 109,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/terrain/fh-cave-rock.png",
     "xws": "caverock"
   },
   {
-    "name": "chest",
-    "points": 91,
-    "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/terrain/fh-chest.png",
-    "xws": "chest"
-  },
-  {
     "name": "control console",
-    "points": 92,
+    "points": 110,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/terrain/fh-control-console.png",
     "xws": "controlconsole"
   },
   {
     "name": "crate",
-    "points": 93,
+    "points": 111,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/terrain/fh-crate.png",
     "xws": "crate"
   },
   {
     "name": "debris",
-    "points": 94,
+    "points": 112,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/terrain/fh-debris-1.png",
+    "image": "tokens/frosthaven/terrain/fh-debris-small.png",
     "xws": "debris"
   },
   {
     "name": "debris",
-    "points": 95,
+    "points": 113,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/terrain/fh-debris-2.png",
+    "image": "tokens/frosthaven/terrain/fh-debris-large.png",
     "xws": "debris"
   },
   {
-    "name": "dungeon",
-    "points": 96,
+    "name": "dungeon corridor",
+    "points": 114,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/terrain/fh-dungeon-1.png",
-    "xws": "dungeon"
+    "image": "tokens/frosthaven/terrain/fh-dungeon-corridor-small.png",
+    "xws": "dungeoncorridor"
   },
   {
-    "name": "dungeon",
-    "points": 97,
+    "name": "dungeon corridor",
+    "points": 115,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/terrain/fh-dungeon-2.png",
-    "xws": "dungeon"
+    "image": "tokens/frosthaven/terrain/fh-dungeon-corridor-large.png",
+    "xws": "dungeoncorridor"
   },
   {
     "name": "dungeon door",
-    "points": 98,
+    "points": 116,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/terrain/fh-dungeon-door.png",
-    "xws": "dungeondoor"
+    "image": "tokens/frosthaven/terrain/fh-dungeon-door-closed.png",
+    "xws": "dungeondoorclosed"
+  },
+  {
+    "name": "dungeon door",
+    "points": 117,
+    "expansion": "Frosthaven",
+    "image": "tokens/frosthaven/terrain/fh-dungeon-door-open.png",
+    "xws": "dungeondooropen"
   },
   {
     "name": "glowing orb",
-    "points": 99,
+    "points": 118,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/terrain/fh-glowing-orb.png",
     "xws": "glowingorb"
   },
   {
-    "name": "ice",
-    "points": 100,
+    "name": "ice corridor",
+    "points": 119,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/terrain/fh-ice-1.png",
-    "xws": "ice"
+    "image": "tokens/frosthaven/terrain/fh-ice-corridor-small.png",
+    "xws": "icecorridor"
   },
   {
-    "name": "ice",
-    "points": 101,
+    "name": "ice corridor",
+    "points": 120,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/terrain/fh-ice-2.png",
-    "xws": "ice"
+    "image": "tokens/frosthaven/terrain/fh-ice-corridor-large.png",
+    "xws": "icecorridor"
   },
   {
     "name": "ice crystal",
-    "points": 102,
+    "points": 121,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/terrain/fh-ice-crystal.png",
     "xws": "icecrystal"
   },
   {
     "name": "ice pillar",
-    "points": 103,
+    "points": 122,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/terrain/fh-ice-pillar.png",
     "xws": "icepillar"
   },
   {
     "name": "ice spikes",
-    "points": 104,
+    "points": 123,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/terrain/fh-ice-spikes.png",
     "xws": "icespikes"
   },
   {
     "name": "lava",
-    "points": 105,
+    "points": 124,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/terrain/fh-lava.png",
     "xws": "lava"
   },
   {
     "name": "log",
-    "points": 106,
+    "points": 125,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/terrain/fh-log.png",
     "xws": "log"
   },
   {
+    "name": "loot",
+    "points": 126,
+    "expansion": "Frosthaven",
+    "image": "tokens/frosthaven/terrain/fh-loot.png",
+    "xws": "loot"
+  },
+  {
     "name": "mast",
-    "points": 107,
+    "points": 127,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/terrain/fh-mast.png",
     "xws": "mast"
   },
   {
     "name": "metal cabinet",
-    "points": 108,
+    "points": 128,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/terrain/fh-metal-cabinet.png",
     "xws": "metalcabinet"
   },
   {
-    "name": "metal",
-    "points": 109,
+    "name": "metal corridor",
+    "points": 129,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/terrain/fh-metal-1.png",
-    "xws": "metal"
+    "image": "tokens/frosthaven/terrain/fh-metal-corridor-small.png",
+    "xws": "metalcorridor"
   },
   {
-    "name": "metal",
-    "points": 110,
+    "name": "metal corridor",
+    "points": 130,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/terrain/fh-metal-2.png",
-    "xws": "metal"
+    "image": "tokens/frosthaven/terrain/fh-metal-corridor-large.png",
+    "xws": "metalcorridor"
   },
   {
     "name": "metal door",
-    "points": 111,
+    "points": 131,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/terrain/fh-metal-door.png",
-    "xws": "metaldoor"
+    "image": "tokens/frosthaven/terrain/fh-metal-door-closed.png",
+    "xws": "metaldoorclosed"
+  },
+  {
+    "name": "metal door",
+    "points": 132,
+    "expansion": "Frosthaven",
+    "image": "tokens/frosthaven/terrain/fh-metal-door-open.png",
+    "xws": "metaldooropen"
   },
   {
     "name": "nest",
-    "points": 112,
+    "points": 133,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/terrain/fh-nest.png",
     "xws": "nest"
   },
   {
     "name": "poison trap",
-    "points": 113,
+    "points": 134,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/terrain/fh-poison-trap.png",
     "xws": "poisontrap"
   },
   {
     "name": "power conduit",
-    "points": 114,
+    "points": 135,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/terrain/fh-power-conduit.png",
     "xws": "powerconduit"
   },
   {
     "name": "pressure plate",
-    "points": 115,
+    "points": 136,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/terrain/fh-pressure-plate.png",
     "xws": "pressureplate"
   },
   {
     "name": "rubble",
-    "points": 116,
+    "points": 137,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/terrain/fh-rubble.png",
     "xws": "rubble"
   },
   {
     "name": "sarcophagus",
-    "points": 117,
+    "points": 138,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/terrain/fh-sarcophagus.png",
-    "xws": "sarcophagus"
+    "image": "tokens/frosthaven/terrain/fh-sarcophagus-closed.png",
+    "xws": "sarcophagusclosed"
   },
   {
-    "name": "snow",
-    "points": 118,
+    "name": "sarcophagus",
+    "points": 139,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/terrain/fh-snow-1.png",
-    "xws": "snow"
+    "image": "tokens/frosthaven/terrain/fh-sarcophagus-open.png",
+    "xws": "sarcophagusopen"
   },
   {
-    "name": "snow",
-    "points": 119,
+    "name": "snow corridor",
+    "points": 140,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/terrain/fh-snow-2.png",
-    "xws": "snow"
+    "image": "tokens/frosthaven/terrain/fh-snow-corridor-small.png",
+    "xws": "snowcorridor"
+  },
+  {
+    "name": "snow corridor",
+    "points": 141,
+    "expansion": "Frosthaven",
+    "image": "tokens/frosthaven/terrain/fh-snow-corridor-large.png",
+    "xws": "snowcorridor"
   },
   {
     "name": "snow door",
-    "points": 120,
+    "points": 142,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/terrain/fh-snow-door.png",
     "xws": "snowdoor"
   },
   {
-    "name": "snow drift",
-    "points": 121,
+    "name": "snowdrift",
+    "points": 143,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/terrain/fh-snow-drift.png",
+    "image": "tokens/frosthaven/terrain/fh-snowdrift.png",
     "xws": "snowdrift"
   },
   {
     "name": "snow rock",
-    "points": 122,
+    "points": 144,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/terrain/fh-snow-rock-1.png",
-    "xws": "snow-rock"
+    "image": "tokens/frosthaven/terrain/fh-snow-rock-small.png",
+    "xws": "snowrock"
   },
   {
     "name": "snow rock",
-    "points": 123,
+    "points": 145,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/terrain/fh-snow-rock-2.png",
-    "xws": "snow-rock"
+    "image": "tokens/frosthaven/terrain/fh-snow-rock-large.png",
+    "xws": "snowrock"
   },
   {
     "name": "spike pit trap",
-    "points": 124,
+    "points": 146,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/terrain/fh-spike-pit-trap.png",
     "xws": "spikepittrap"
   },
   {
     "name": "stairs",
-    "points": 125,
+    "points": 147,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/terrain/fh-stairs.png",
     "xws": "stairs"
   },
   {
     "name": "stalagmites",
-    "points": 126,
+    "points": 148,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/terrain/fh-stalagmites.png",
     "xws": "stalagmites"
   },
   {
     "name": "supply shelf",
-    "points": 127,
+    "points": 149,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/terrain/fh-supply-shelf.png",
     "xws": "supplyshelf"
   },
   {
+    "name": "treasure chest",
+    "points": 150,
+    "expansion": "Frosthaven",
+    "image": "tokens/frosthaven/terrain/fh-treasure-chest.png",
+    "xws": "treasurechest"
+  },
+  {
     "name": "tree",
-    "points": 128,
+    "points": 151,
     "expansion": "Frosthaven",
     "image": "tokens/frosthaven/terrain/fh-tree.png",
     "xws": "tree"
   },
   {
     "name": "water",
-    "points": 129,
+    "points": 152,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/terrain/fh-water-1.png",
+    "image": "tokens/frosthaven/terrain/fh-water-small.png",
     "xws": "water"
   },
   {
     "name": "water",
-    "points": 130,
+    "points": 153,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/terrain/fh-water-2.png",
+    "image": "tokens/frosthaven/terrain/fh-water-large.png",
     "xws": "water"
   },
   {
     "name": "water",
-    "points": 131,
+    "points": 154,
     "expansion": "Frosthaven",
-    "image": "tokens/frosthaven/terrain/fh-water-3.png",
+    "image": "tokens/frosthaven/terrain/fh-water-huge.png",
     "xws": "water"
   },
   {
     "name": "amber aegis token",
-    "points": 132,
+    "points": 155,
     "expansion": "Crimson Scales",
     "image": "tokens/crimson-scales/character-tokens/cs-amber-aegis-token.png",
     "xws": "amberaegistoken"
   },
   {
     "name": "artificer token",
-    "points": 133,
+    "points": 156,
     "expansion": "Crimson Scales",
     "image": "tokens/crimson-scales/character-tokens/cs-artificer-token.png",
     "xws": "artificertoken"
   },
   {
     "name": "bombard token",
-    "points": 134,
+    "points": 157,
     "expansion": "Crimson Scales",
     "image": "tokens/crimson-scales/character-tokens/cs-bombard-token.png",
     "xws": "bombardtoken"
   },
   {
     "name": "brightspark token",
-    "points": 135,
+    "points": 158,
     "expansion": "Crimson Scales",
     "image": "tokens/crimson-scales/character-tokens/cs-brightspark-token.png",
     "xws": "brightsparktoken"
   },
   {
     "name": "chainguard token",
-    "points": 136,
+    "points": 159,
     "expansion": "Crimson Scales",
     "image": "tokens/crimson-scales/character-tokens/cs-chainguard-token.png",
     "xws": "chainguardtoken"
   },
   {
     "name": "chieftain token",
-    "points": 137,
+    "points": 160,
     "expansion": "Crimson Scales",
     "image": "tokens/crimson-scales/character-tokens/cs-chieftain-token.png",
     "xws": "chieftaintoken"
   },
   {
     "name": "fire knight token",
-    "points": 138,
+    "points": 161,
     "expansion": "Crimson Scales",
     "image": "tokens/crimson-scales/character-tokens/cs-fire-knight-token.png",
     "xws": "fireknighttoken"
   },
   {
     "name": "hierophant token",
-    "points": 139,
+    "points": 162,
     "expansion": "Crimson Scales",
     "image": "tokens/crimson-scales/character-tokens/cs-hierophant-token.png",
     "xws": "hierophanttoken"
   },
   {
     "name": "hollowpact token",
-    "points": 140,
+    "points": 163,
     "expansion": "Crimson Scales",
     "image": "tokens/crimson-scales/character-tokens/cs-hollowpact-token.png",
     "xws": "hollowpacttoken"
   },
   {
     "name": "luminary token",
-    "points": 141,
+    "points": 164,
     "expansion": "Crimson Scales",
     "image": "tokens/crimson-scales/character-tokens/cs-luminary-token.png",
     "xws": "luminarytoken"
   },
   {
     "name": "mirefoot token",
-    "points": 142,
+    "points": 165,
     "expansion": "Crimson Scales",
     "image": "tokens/crimson-scales/character-tokens/cs-mirefoot-token.png",
     "xws": "mirefoottoken"
   },
   {
     "name": "ruinmaw token",
-    "points": 143,
+    "points": 166,
     "expansion": "Crimson Scales",
     "image": "tokens/crimson-scales/character-tokens/cs-ruinmaw-token.png",
     "xws": "ruinmawtoken"
   },
   {
     "name": "spirit caller token",
-    "points": 144,
+    "points": 167,
     "expansion": "Crimson Scales",
     "image": "tokens/crimson-scales/character-tokens/cs-spirit-caller-token.png",
     "xws": "spiritcallertoken"
   },
   {
     "name": "starslinger token",
-    "points": 145,
+    "points": 168,
     "expansion": "Crimson Scales",
     "image": "tokens/crimson-scales/character-tokens/cs-starslinger-token.png",
     "xws": "starslingertoken"
   },
   {
     "name": "deathshroud spider",
-    "points": 146,
+    "points": 169,
     "expansion": "Crimson Scales",
     "image": "tokens/crimson-scales/class-tokens/cs-deathshroud-spider.png",
     "xws": "deathshroudspider"
   },
   {
     "name": "deathshroud spider",
-    "points": 147,
+    "points": 170,
     "expansion": "Crimson Scales",
     "image": "tokens/crimson-scales/class-tokens/cs-deathshroud-spider-back.png",
     "xws": "deathshroudspider"
   },
   {
     "name": "firespitter ant",
-    "points": 148,
+    "points": 171,
     "expansion": "Crimson Scales",
     "image": "tokens/crimson-scales/class-tokens/cs-firespitter-ant.png",
     "xws": "firespitterant"
   },
   {
     "name": "firespitter ant",
-    "points": 149,
+    "points": 172,
     "expansion": "Crimson Scales",
     "image": "tokens/crimson-scales/class-tokens/cs-firespitter-ant-back.png",
     "xws": "firespitterant"
   },
   {
     "name": "ghostshimmer bee",
-    "points": 150,
+    "points": 173,
     "expansion": "Crimson Scales",
     "image": "tokens/crimson-scales/class-tokens/cs-ghostshimmer-bee.png",
     "xws": "ghostshimmerbee"
   },
   {
     "name": "ghostshimmer bee",
-    "points": 151,
+    "points": 174,
     "expansion": "Crimson Scales",
     "image": "tokens/crimson-scales/class-tokens/cs-ghostshimmer-bee-back.png",
     "xws": "ghostshimmerbee"
   },
   {
     "name": "ladder",
-    "points": 152,
+    "points": 175,
     "expansion": "Crimson Scales",
     "image": "tokens/crimson-scales/class-tokens/cs-ladder.png",
     "xws": "ladder"
   },
   {
     "name": "rockspine termite",
-    "points": 153,
+    "points": 176,
     "expansion": "Crimson Scales",
     "image": "tokens/crimson-scales/class-tokens/cs-rockspine-termite.png",
     "xws": "rockspinetermite"
   },
   {
     "name": "rockspine termite",
-    "points": 154,
+    "points": 177,
     "expansion": "Crimson Scales",
     "image": "tokens/crimson-scales/class-tokens/cs-rockspine-termite-back.png",
     "xws": "rockspinetermite"
   },
   {
     "name": "sated",
-    "points": 155,
+    "points": 178,
     "expansion": "Crimson Scales",
     "image": "tokens/crimson-scales/class-tokens/cs-sated.png",
     "xws": "sated"
   },
   {
     "name": "sated",
-    "points": 156,
+    "points": 179,
     "expansion": "Crimson Scales",
     "image": "tokens/crimson-scales/class-tokens/cs-sated-back.png",
     "xws": "sated"
   },
   {
     "name": "scrap",
-    "points": 157,
+    "points": 180,
     "expansion": "Crimson Scales",
     "image": "tokens/crimson-scales/class-tokens/cs-scrap.png",
     "xws": "scrap"
   },
   {
     "name": "spawn blue",
-    "points": 158,
+    "points": 181,
     "expansion": "Crimson Scales",
     "image": "tokens/crimson-scales/class-tokens/cs-spawn-blue-large.png",
     "xws": "spawnblue"
   },
   {
     "name": "spawn blue",
-    "points": 159,
+    "points": 182,
     "expansion": "Crimson Scales",
     "image": "tokens/crimson-scales/class-tokens/cs-spawn-blue-small.png",
     "xws": "spawnblue"
   },
   {
     "name": "spawn green",
-    "points": 160,
+    "points": 183,
     "expansion": "Crimson Scales",
     "image": "tokens/crimson-scales/class-tokens/cs-spawn-green-large.png",
     "xws": "spawngreen"
   },
   {
     "name": "spawn green",
-    "points": 161,
+    "points": 184,
     "expansion": "Crimson Scales",
     "image": "tokens/crimson-scales/class-tokens/cs-spawn-green-small.png",
     "xws": "spawngreen"
   },
   {
     "name": "spawn purple",
-    "points": 162,
+    "points": 185,
     "expansion": "Crimson Scales",
     "image": "tokens/crimson-scales/class-tokens/cs-spawn-purple-large.png",
     "xws": "spawnpurple"
   },
   {
     "name": "spawn purple",
-    "points": 163,
+    "points": 186,
     "expansion": "Crimson Scales",
     "image": "tokens/crimson-scales/class-tokens/cs-spawn-purple-small.png",
     "xws": "spawnpurple"
   },
   {
     "name": "spawn red",
-    "points": 164,
+    "points": 187,
     "expansion": "Crimson Scales",
     "image": "tokens/crimson-scales/class-tokens/cs-spawn-red-large.png",
     "xws": "spawnred"
   },
   {
     "name": "spawn red",
-    "points": 165,
+    "points": 188,
     "expansion": "Crimson Scales",
     "image": "tokens/crimson-scales/class-tokens/cs-spawn-red-small.png",
     "xws": "spawnred"
   },
   {
     "name": "spawn white",
-    "points": 166,
+    "points": 189,
     "expansion": "Crimson Scales",
     "image": "tokens/crimson-scales/class-tokens/cs-spawn-white-large.png",
     "xws": "spawnwhite"
   },
   {
     "name": "spawn white",
-    "points": 167,
+    "points": 190,
     "expansion": "Crimson Scales",
     "image": "tokens/crimson-scales/class-tokens/cs-spawn-white-small.png",
     "xws": "spawnwhite"
   },
   {
     "name": "spawn yellow",
-    "points": 168,
+    "points": 191,
     "expansion": "Crimson Scales",
     "image": "tokens/crimson-scales/class-tokens/cs-spawn-yellow-large.png",
     "xws": "spawnyellow"
   },
   {
     "name": "spawn yellow",
-    "points": 169,
+    "points": 192,
     "expansion": "Crimson Scales",
     "image": "tokens/crimson-scales/class-tokens/cs-spawn-yellow-small.png",
     "xws": "spawnyellow"
   },
   {
     "name": "void energy",
-    "points": 170,
+    "points": 193,
     "expansion": "Crimson Scales",
     "image": "tokens/crimson-scales/class-tokens/cs-void-energy.png",
     "xws": "voidenergy"
   },
   {
     "name": "bane",
-    "points": 171,
+    "points": 194,
     "expansion": "Crimson Scales",
     "image": "tokens/crimson-scales/condition-tokens/cs-bane.png",
     "xws": "bane"
   },
   {
     "name": "chill",
-    "points": 172,
+    "points": 195,
     "expansion": "Crimson Scales",
     "image": "tokens/crimson-scales/condition-tokens/cs-chill.png",
     "xws": "chill"
   },
   {
     "name": "infect",
-    "points": 173,
+    "points": 196,
     "expansion": "Crimson Scales",
     "image": "tokens/crimson-scales/condition-tokens/cs-infect.png",
     "xws": "infect"
   },
   {
     "name": "poison 2",
-    "points": 174,
+    "points": 197,
     "expansion": "Crimson Scales",
     "image": "tokens/crimson-scales/condition-tokens/cs-poison-2.png",
     "xws": "poison2"
   },
   {
     "name": "poison 3",
-    "points": 175,
+    "points": 198,
     "expansion": "Crimson Scales",
     "image": "tokens/crimson-scales/condition-tokens/cs-poison-3.png",
     "xws": "poison3"
   },
   {
     "name": "poison 4",
-    "points": 176,
+    "points": 199,
     "expansion": "Crimson Scales",
     "image": "tokens/crimson-scales/condition-tokens/cs-poison-4.png",
     "xws": "poison4"
   },
   {
     "name": "rupture",
-    "points": 177,
+    "points": 200,
     "expansion": "Crimson Scales",
     "image": "tokens/crimson-scales/condition-tokens/cs-rupture.png",
     "xws": "rupture"
   },
   {
     "name": "ward",
-    "points": 178,
+    "points": 201,
     "expansion": "Crimson Scales",
     "image": "tokens/crimson-scales/condition-tokens/cs-ward.png",
     "xws": "ward"
   },
   {
     "name": "wound 2",
-    "points": 179,
+    "points": 202,
     "expansion": "Crimson Scales",
     "image": "tokens/crimson-scales/condition-tokens/cs-wound-2.png",
     "xws": "wound2"
   },
   {
     "name": "damage 20",
-    "points": 180,
+    "points": 203,
     "expansion": "Crimson Scales",
     "image": "tokens/crimson-scales/damage-tokens/cs-damage-20.png",
     "xws": "wound2"
   },
   {
     "name": "damage 50",
-    "points": 181,
+    "points": 204,
     "expansion": "Crimson Scales",
     "image": "tokens/crimson-scales/damage-tokens/cs-damage-50.png",
     "xws": "wound2"
   },
   {
     "name": "bog",
-    "points": 182,
+    "points": 205,
     "expansion": "Crimson Scales",
     "image": "tokens/crimson-scales/overlay-tokens/cs-bog.png",
     "xws": "bog"
   },
   {
     "name": "broken log",
-    "points": 183,
+    "points": 206,
     "expansion": "Crimson Scales",
     "image": "tokens/crimson-scales/overlay-tokens/cs-broken-log.png",
     "xws": "brokenlog"
   },
   {
     "name": "void pit",
-    "points": 184,
+    "points": 207,
     "expansion": "Crimson Scales",
     "image": "tokens/crimson-scales/overlay-tokens/cs-void-pit.png",
     "xws": "voidpit"
   },
   {
     "name": "incarnate token",
-    "points": 185,
+    "points": 208,
     "expansion": "Trail of Ashes",
     "image": "tokens/trail-of-ashes/character-tokens/toa-incarnate-token.png",
     "xws": "incarnatetoken"
   },
   {
     "name": "rimehearth token",
-    "points": 186,
+    "points": 209,
     "expansion": "Trail of Ashes",
     "image": "tokens/trail-of-ashes/character-tokens/toa-rimehearth-token.png",
     "xws": "rimehearthtoken"
   },
   {
     "name": "shardrender token",
-    "points": 187,
+    "points": 210,
     "expansion": "Trail of Ashes",
     "image": "tokens/trail-of-ashes/character-tokens/toa-shardrender-token.png",
     "xws": "shardrendertoken"
   },
   {
     "name": "tempest token",
-    "points": 188,
+    "points": 211,
     "expansion": "Trail of Ashes",
     "image": "tokens/trail-of-ashes/character-tokens/toa-tempest-token.png",
     "xws": "tempesttoken"
   },
   {
     "name": "thornreaper token",
-    "points": 189,
+    "points": 212,
     "expansion": "Trail of Ashes",
     "image": "tokens/trail-of-ashes/character-tokens/toa-thornreaper-token.png",
     "xws": "thornreapertoken"
   },
   {
     "name": "vanquisher token",
-    "points": 190,
+    "points": 213,
     "expansion": "Trail of Ashes",
     "image": "tokens/trail-of-ashes/character-tokens/toa-vanquisher-token.png",
     "xws": "vanquishertoken"
   },
   {
     "name": "sparks",
-    "points": 191,
+    "points": 214,
     "expansion": "Trail of Ashes",
     "image": "tokens/trail-of-ashes/class-tokens/toa-sparks.png",
     "xws": "sparks"
   },
   {
     "name": "thorns",
-    "points": 192,
+    "points": 215,
     "expansion": "Trail of Ashes",
     "image": "tokens/trail-of-ashes/class-tokens/toa-thorns.png",
     "xws": "thorns"
   },
   {
     "name": "brittle",
-    "points": 193,
+    "points": 216,
     "expansion": "Trail of Ashes",
     "image": "tokens/trail-of-ashes/condition-tokens/toa-brittle.png",
     "xws": "brittle"
   },
   {
     "name": "dodge",
-    "points": 194,
+    "points": 217,
     "expansion": "Trail of Ashes",
     "image": "tokens/trail-of-ashes/condition-tokens/toa-dodge.png",
     "xws": "dodge"
   },
   {
     "name": "rupture",
-    "points": 195,
+    "points": 218,
     "expansion": "Trail of Ashes",
     "image": "tokens/trail-of-ashes/condition-tokens/toa-rupture.png",
     "xws": "rupture"
