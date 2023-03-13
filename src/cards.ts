@@ -17,13 +17,20 @@ interface AbilityCardEntry {
     name: string;
     level: string;
     imageUrl: string;
+    enhancementSlots: EnhancementSlot[];
+}
+
+interface EnhancementSlot {
+    id: number;
+    name: string;
+    types: string[];
 }
 
 const data = readFileSync("./data/character-ability-cards.js");
 const abilityCardData: AbilityCardData[] = JSON.parse(data.toString()) as AbilityCardData[]
 
 const createAbilityCardEntries = () => {
-    const entries = createAbilityCardEntriesForClass("CH");
+    const entries = createAbilityCardEntriesForClass("NS");
 
     console.log(JSON.stringify(entries, null, 4));
 }
@@ -38,7 +45,34 @@ const createAbilityCardEntriesForClass = (classAbbreviation: string): AbilityCar
             id: parseInt(abilityCardData.cardno),
             name: titleCase(abilityCardData.name),
             level: abilityCardData.level,
-            imageUrl: `/${abilityCardData.image.replace(".png", ".webp")}`
+            imageUrl: `/${abilityCardData.image.replace(".png", ".webp")}`,
+            enhancementSlots: [
+                {
+                    id: 0,
+                    name: "Attack",
+                    types: ["numeric", "main-line-targets-enemies"]
+                },
+                {
+                    id: 1,
+                    name: "PIERCE",
+                    types: ["numeric"]
+                },
+                {
+                    id: 2,
+                    name: "Move",
+                    types: ["numeric", "main-line", "move"]
+                },
+                {
+                    id: 3,
+                    name: "Attack",
+                    types: ["numeric", "main-line-targets-enemies"]
+                },
+                {
+                    id: 4,
+                    name: "Attack",
+                    types: ["numeric", "main-line-targets-enemies"]
+                }
+            ]
         }
     });
 
