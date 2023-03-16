@@ -1,0 +1,302 @@
+[
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/NS/gh-cloak-of-shade.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 259,
+                "y": 168
+            },
+            {
+                "id": 1,
+                "action": "attack",
+                "x": 292,
+                "y": 168
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/NS/gh-doomed-breeze.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 264,
+                "y": 143
+            },
+            {
+                "id": 1,
+                "action": "range",
+                "x": 251,
+                "y": 172
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/NS/gh-enervating-wound.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 267,
+                "y": 125
+            },
+            {
+                "id": 1,
+                "action": "heal",
+                "x": 260,
+                "y": 189
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/NS/gh-spirit-of-the-night.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "move",
+                "x": 257,
+                "y": 416
+            },
+            {
+                "id": 1,
+                "action": "move",
+                "x": 292,
+                "y": 416
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/NS/gh-dancing-shadows.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "move",
+                "x": 262,
+                "y": 169
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/NS/gh-silent-force.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "move",
+                "x": 262,
+                "y": 416
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/NS/gh-smoke-step.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "move",
+                "x": 257,
+                "y": 414
+            },
+            {
+                "id": 1,
+                "action": "move",
+                "x": 289,
+                "y": 414
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/NS/gh-prepare-for-the-kill.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 260,
+                "y": 169
+            },
+            {
+                "id": 1,
+                "action": "attack",
+                "x": 294,
+                "y": 169
+            },
+            {
+                "id": 2,
+                "action": "move",
+                "x": 256,
+                "y": 413
+            },
+            {
+                "id": 3,
+                "action": "move",
+                "x": 290,
+                "y": 413
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/NS/gh-soulfire.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "range",
+                "x": 251,
+                "y": 165
+            },
+            {
+                "id": 1,
+                "action": "attack",
+                "x": 262,
+                "y": 425
+            },
+            {
+                "id": 2,
+                "action": "attack",
+                "x": 299,
+                "y": 425
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/NS/gh-terror-blade.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "push",
+                "x": 251,
+                "y": 205
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/NS/gh-armor-of-the-night.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "shield",
+                "x": 256,
+                "y": 402
+            },
+            {
+                "id": 1,
+                "action": "shield",
+                "x": 288,
+                "y": 402
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/NS/gh-claws-of-the-night.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 223,
+                "y": 160
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/NS/gh-black-arrow.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "range",
+                "x": 251,
+                "y": 159
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/NS/gh-unseen-dread.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 262,
+                "y": 166
+            },
+            {
+                "id": 1,
+                "action": "attack",
+                "x": 294,
+                "y": 166
+            },
+            {
+                "id": 2,
+                "action": "move",
+                "x": 262,
+                "y": 420
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/NS/gh-swallowed-by-fear.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 266,
+                "y": 167
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/NS/gh-gloom-darts.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "range",
+                "x": 251,
+                "y": 162
+            },
+            {
+                "id": 1,
+                "action": "move",
+                "x": 255,
+                "y": 414
+            },
+            {
+                "id": 2,
+                "action": "move",
+                "x": 289,
+                "y": 414
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/NS/gh-angel-of-death.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 266,
+                "y": 135
+            },
+            {
+                "id": 1,
+                "action": "move",
+                "x": 262,
+                "y": 398
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/NS/gh-voice-of-the-night.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "move",
+                "x": 262,
+                "y": 396
+            },
+            {
+                "id": 1,
+                "action": "attack",
+                "x": 266,
+                "y": 440
+            }
+        ]
+    }
+]
