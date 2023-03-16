@@ -19,7 +19,7 @@
 			.accordion {
 				padding-left: 40px;
 			}
-			h1 .fa, h2 .fa, h3 .fa {
+			h1 .fa, h2 .fa, h3 .fa, h4 .fa {
 				font-size: 10px;
 			}
 			.textzone {
@@ -50,10 +50,10 @@
 		<script>
 			// at statup hide all
 			function Initialize(){
-				var $accordionIO = $('.accordion h1, h2, h3');
+				var $accordionIO = $('.accordion h1, h2, h3, h4');
 				$accordionIO.next('div').hide();
 
-				$(".accordion h1, h2, h3").click(function() {
+				$(".accordion h1, h2, h3, h4").click(function() {
 					//catch icon to switch from + to - and the opposite
 					var Icon = $(this).children().first();
 
@@ -75,7 +75,7 @@
 				})
 				$(".title").click(function() {
 					var Icon = $(this).children().first();
-					var $Alltextzones = $('.accordion h1, h2, h3');
+					var $Alltextzones = $('.accordion h1, h2, h3, h4');
 					if (Icon.hasClass('fa-minus')) {
 						//switch all icons from + to -
 						$('.fa-plus').removeClass('fa-plus').addClass('fa-minus');
@@ -7023,37 +7023,59 @@
 								</table>
 							</div>
 						</div>
+						<h2><i class="fa fa-plus"></i> Scenario Layout </h2>
+						<div class="textzone">
+							<table class="table-padded">
+								<tr><td>Note: The Scenario Layout can be found in the Everything Spoiled section</td></tr>
+							</table>
+						</div>
 						<h2><i class="fa fa-plus"></i> Stickers </h2>
 						<div class="accordian textzone">
-							<h3><i class="fa fa-plus"></i> Die Lines </h3>
-							<div class="textzone">
-								<table class="table-padded">
-									<tr><td>Campaign Stickers DL          </td><td>Outpost Stickers 37 Trading Post DL     </td><td>Outpost Stickers 83 Library DL  </td><td>Wax Seal Stickers DL            </td></tr>
-									<tr><td>Enhancement Stickers DL       </td><td>Outpost Stickers 39 Jeweler DL          </td><td>Outpost Stickers 85 Carpenter DL</td></tr>
-									<tr><td>Location Stickers 1 DL        </td><td>Outpost Stickers 42 Temple DL           </td><td>Outpost Stickers 88 Stables DL  </td></tr>
-									<tr><td>Location Stickers 2 DL        </td><td>Outpost Stickers 44 Enhancer DL         </td><td>Outpost Stickers 90 Town Hall DL</td></tr>
-									<tr><td>Location Stickers 3 DL        </td><td>Outpost Stickers 65 Metal Depot DL      </td><td>Outpost Stickers Large 1 DL     </td></tr>
-									<tr><td>Location Stickers 4 DL        </td><td>Outpost Stickers 67 Lumber Depot DL     </td><td>Outpost Stickers Large 2 DL     </td></tr>
-									<tr><td>Location Stickers 5 DL        </td><td>Outpost Stickers 72 Hide Depot DL       </td><td>Outpost Stickers Large 3 DL     </td></tr>
-									<tr><td>Outpost Stickers 21 Inn DL    </td><td>Outpost Stickers 74 Tavern DL           </td><td>Puzzle Book DL                  </td></tr>
-									<tr><td>Outpost Stickers 24a Garden DL</td><td>Outpost Stickers 81 Hall Of Revelry 1 DL</td><td>Removable Sticker Set 1 DL      </td></tr>
-									<tr><td>Outpost Stickers 24b Garden DL</td><td>Outpost Stickers 81 Hall Of Revelry 2 DL</td><td>Removable Sticker Set 2 DL      </td></tr>
-								</table>
+							<h3><i class="fa fa-plus"></i> Individual </h3>
+							<div class="accordian textzone">
+								<h4><i class="fa fa-plus"></i> Campaign Stickers </h4>
+								<div class="textzone">
+									<table class="table-padded">
+										<tr><td>Note: The Campaign Stickers can be found in the Everything Spoiled section</td></tr>
+									</table>
+								</div>
+								<h4><i class="fa fa-plus"></i> Enhancement Stickers </h4>
+								<div class="textzone">
+									<table class="table-padded">
+										<tr><td>Air Sticker  </td><td>Fire Sticker      </td><td>Light Sticker     </td><td>Strengthen Sticker</td></tr>
+										<tr><td>Bless Sticker</td><td>Hex Attack Sticker</td><td>Muddle Sticker    </td><td>Ward Sticker      </td></tr>
+										<tr><td>Curse Sticker</td><td>Ice Sticker       </td><td>Plus One Sticker  </td><td>Wild Sticker      </td></tr>
+										<tr><td>Dark Sticker </td><td>Immobilize Sticker</td><td>Poison Sticker    </td><td>Wound Sticker     </td></tr>
+										<tr><td>Earth Sticker</td><td>Jump Sticker      </td><td>Regenerate Sticker</td></tr>
+									</table>
+								</div>
+								<h4><i class="fa fa-plus"></i> Location Stickers </h4>
+								<div class="textzone">
+									<table class="table-padded">
+										<tr><td>Note: The Location Stickers can be found in the Everything Spoiled section</td></tr>
+									</table>
+								</div>
+								<h4><i class="fa fa-plus"></i> Outpost Stickers </h4>
+								<div class="textzone">
+									<table class="table-padded">
+										<tr><td>Note: The Outpost Stickers can be found in the Everything Spoiled section</td></tr>
+									</table>
+								</div>
 							</div>
-							<h3><i class="fa fa-plus"></i> No Die Lines </h3>
-							<div class="textzone">
-								<table class="table-padded">
-									<tr><td>Campaign Stickers NDL          </td><td>Outpost Stickers 37 Trading Post NDL     </td><td>Outpost Stickers 83 Library NDL  </td><td>Wax Seal Stickers NDL            </td></tr>
-									<tr><td>Enhancement Stickers NDL       </td><td>Outpost Stickers 39 Jeweler NDL          </td><td>Outpost Stickers 85 Carpenter NDL</td></tr>
-									<tr><td>Location Stickers 1 NDL        </td><td>Outpost Stickers 42 Temple NDL           </td><td>Outpost Stickers 88 Stables NDL  </td></tr>
-									<tr><td>Location Stickers 2 NDL        </td><td>Outpost Stickers 44 Enhancer NDL         </td><td>Outpost Stickers 90 Town Hall NDL</td></tr>
-									<tr><td>Location Stickers 3 NDL        </td><td>Outpost Stickers 65 Metal Depot NDL      </td><td>Outpost Stickers Large 1 NDL     </td></tr>
-									<tr><td>Location Stickers 4 NDL        </td><td>Outpost Stickers 67 Lumber Depot NDL     </td><td>Outpost Stickers Large 2 NDL     </td></tr>
-									<tr><td>Location Stickers 5 NDL        </td><td>Outpost Stickers 72 Hide Depot NDL       </td><td>Outpost Stickers Large 3 NDL     </td></tr>
-									<tr><td>Outpost Stickers 21 Inn NDL    </td><td>Outpost Stickers 74 Tavern NDL           </td><td>Puzzle Book NDL                  </td></tr>
-									<tr><td>Outpost Stickers 24a Garden NDL</td><td>Outpost Stickers 81 Hall Of Revelry 1 NDL</td><td>Removable Sticker Set 1 NDL      </td></tr>
-									<tr><td>Outpost Stickers 24b Garden NDL</td><td>Outpost Stickers 81 Hall Of Revelry 2 NDL</td><td>Removable Sticker Set 2 NDL      </td></tr>
-								</table>
+							<h3><i class="fa fa-plus"></i> Sheets </h3>
+							<div class="accordian textzone">
+								<h4><i class="fa fa-plus"></i> Die Lines </h4>
+								<div class="textzone">
+									<table class="table-padded">
+										<tr><td>Note: The Sheets of Stickers with Die Lines can be found in the Everything Spoiled section</td></tr>
+									</table>
+								</div>
+								<h4><i class="fa fa-plus"></i> No Die Lines </h4>
+								<div class="textzone">
+									<table class="table-padded">
+										<tr><td>Note: The Sheets of Stickers with No Die Lines can be found in the Everything Spoiled section</td></tr>
+									</table>
+								</div>
 							</div>
 						</div>
 					</div>                                                                                                                                                                              
@@ -9851,40 +9873,164 @@
 								</table>
 							</div>
 						</div>
+						<h2><i class="fa fa-plus"></i> Scenario Layout </h2>
+						<div class="textzone">
+							<table class="table-padded">
+								<tr><td>A Contained Fire     </td><td>Dead Pass            </td><td>Lurker Necromancy         </td><td>Sunless Trench        </td></tr>
+								<tr><td>A Giant Block Of Ice </td><td>Deadly Pasttimes     </td><td>Lush Grotto               </td><td>Temple Entrance       </td></tr>
+								<tr><td>A Grand View         </td><td>Depths Of Delirium   </td><td>Lustrous Pit              </td><td>Temple Of Feline Power</td></tr>
+								<tr><td>A Growing Problem    </td><td>Derelict Elevator    </td><td>Midwinter Brawl           </td><td>Temple Of Liberation  </td></tr>
+								<tr><td>A Strong Foundation  </td><td>Derelict Freighter   </td><td>My Private Empire         </td><td>Thawed Wood           </td></tr>
+								<tr><td>A Tall Drunken Tale  </td><td>Edge Of The World    </td><td>Nerve Center              </td><td>The Collection        </td></tr>
+								<tr><td>A Town In Flames     </td><td>Elemental Cores      </td><td>Orphan's Core             </td><td>The Dancing Iceberg   </td></tr>
+								<tr><td>A Waiting Game       </td><td>Expedition North     </td><td>Orphan's Halls            </td><td>The Dead Mile         </td></tr>
+								<tr><td>Abandoned Hideout    </td><td>Explosive Descent    </td><td>Overrun Barricade         </td><td>The Eternal Crave     </td></tr>
+								<tr><td>Algox Offensive      </td><td>Fish King's Ascension</td><td>Pirate Queen's Haul       </td><td>The Face Of Torment   </td></tr>
+								<tr><td>Algox Scouting       </td><td>Fleeting Permanence  </td><td>Prison Break              </td><td>The Frosthaven Seal   </td></tr>
+								<tr><td>Among The Wreckage   </td><td>Flotsam              </td><td>Program Control Nexus     </td><td>The Lady In White     </td></tr>
+								<tr><td>Ancient Spire        </td><td>Frozen Crypt         </td><td>Pylon Problems            </td><td>The Lead Door         </td></tr>
+								<tr><td>And Then, A Stream   </td><td>Frozen Fjord         </td><td>Quatryl Library           </td><td>The Longest Second    </td></tr>
+								<tr><td>Apotheosis           </td><td>Frozen Treasure      </td><td>Radiant Dust              </td><td>The Lurker Problem    </td></tr>
+								<tr><td>Automaton Uprising   </td><td>Furious Factory      </td><td>Raised By Wolves          </td><td>The Savvas Seal       </td></tr>
+								<tr><td>Avalanche            </td><td>Gaps In The Road     </td><td>Ravens' Roost             </td><td>The Tempus Forge      </td></tr>
+								<tr><td>Belara's Keep        </td><td>Glowing Catacombs    </td><td>Realm Of The Endless Frost</td><td>The Titan             </td></tr>
+								<tr><td>Beneath See And Stone</td><td>Guardian's Temple    </td><td>Relic                     </td><td>The True Oak          </td></tr>
+								<tr><td>Black Memories       </td><td>Harrower Library     </td><td>Relic Renewed             </td><td>The Unfettered Seal   </td></tr>
+								<tr><td>Blizzard Island      </td><td>Haunted Vault        </td><td>Relief Effort             </td><td>The Way Forward       </td></tr>
+								<tr><td>Bolt                 </td><td>Heart Of Ice         </td><td>Rising Brine              </td><td>To Bury The Dead      </td></tr>
+								<tr><td>Buried Ducts         </td><td>Here There Be Oozes  </td><td>Ruinous Research Lab      </td><td>Top Of The Spire      </td></tr>
+								<tr><td>Call Of The Harbinger</td><td>How To Lay An Ambush </td><td>Ruins Of The Equinox      </td><td>Tower Of Knowledge    </td></tr>
+								<tr><td>Caravan Guards       </td><td>Howling In The Snow  </td><td>Ruins Of The Solstice     </td><td>Under The Influence   </td></tr>
+								<tr><td>Carrion Ridge        </td><td>Ice Cave             </td><td>Rusted Tunnels            </td><td>Underground Station   </td></tr>
+								<tr><td>Change Of Heart      </td><td>Ice Floes            </td><td>Sacred Soil               </td><td>Underwater Throne     </td></tr>
+								<tr><td>Collapsing Vent      </td><td>Infiltrating The Lair</td><td>Sanctuary Of Snow         </td><td>Unfettered Shard      </td></tr>
+								<tr><td>Collection's Capstone</td><td>Inside The Swarm     </td><td>Scrap Pit                 </td><td>Uniting The Crown     </td></tr>
+								<tr><td>Core Attunement      </td><td>Into The Black       </td><td>Shoreline Scramble        </td><td>Upper Spire           </td></tr>
+								<tr><td>Corrupted Camp       </td><td>Invasion Of The Dock </td><td>Sinking Ship              </td><td>War Of The Spire A    </td></tr>
+								<tr><td>Crackling Tunnel     </td><td>Jagged Shoals        </td><td>Skyhall                   </td><td>War Of The Spire B    </td></tr>
+								<tr><td>Crystal Enclosure    </td><td>Joseph The Lion      </td><td>Snowscorn Peak            </td><td>Work Freeze           </td></tr>
+								<tr><td>Crystal Fields       </td><td>Life And Death       </td><td>Spire Basement            </td></tr>
+								<tr><td>Crystal Trench       </td><td>Living Glacier       </td><td>Summit Meeting            </td></tr>
+							</table>
+						</div>
 						<h2><i class="fa fa-plus"></i> Stickers </h2>
 						<div class="accordian textzone">
-							<h3><i class="fa fa-plus"></i> Die Lines </h3>
-							<div class="textzone">
-								<table class="table-padded">
-									<tr><td>Campaign Stickers DL          </td><td>Outpost Stickers 37 Trading Post DL     </td><td>Outpost Stickers 83 Library DL  </td><td>Wax Seal Stickers DL            </td></tr>
-									<tr><td>Enhancement Stickers DL       </td><td>Outpost Stickers 39 Jeweler DL          </td><td>Outpost Stickers 85 Carpenter DL</td></tr>
-									<tr><td>Location Stickers 1 DL        </td><td>Outpost Stickers 42 Temple DL           </td><td>Outpost Stickers 88 Stables DL  </td></tr>
-									<tr><td>Location Stickers 2 DL        </td><td>Outpost Stickers 44 Enhancer DL         </td><td>Outpost Stickers 90 Town Hall DL</td></tr>
-									<tr><td>Location Stickers 3 DL        </td><td>Outpost Stickers 65 Metal Depot DL      </td><td>Outpost Stickers Large 1 DL     </td></tr>
-									<tr><td>Location Stickers 4 DL        </td><td>Outpost Stickers 67 Lumber Depot DL     </td><td>Outpost Stickers Large 2 DL     </td></tr>
-									<tr><td>Location Stickers 5 DL        </td><td>Outpost Stickers 72 Hide Depot DL       </td><td>Outpost Stickers Large 3 DL     </td></tr>
-									<tr><td>Outpost Stickers 21 Inn DL    </td><td>Outpost Stickers 74 Tavern DL           </td><td>Puzzle Book DL                  </td></tr>
-									<tr><td>Outpost Stickers 24a Garden DL</td><td>Outpost Stickers 81 Hall Of Revelry 1 DL</td><td>Removable Sticker Set 1 DL      </td></tr>
-									<tr><td>Outpost Stickers 24b Garden DL</td><td>Outpost Stickers 81 Hall Of Revelry 2 DL</td><td>Removable Sticker Set 2 DL      </td></tr>
-								</table>
+							<h3><i class="fa fa-plus"></i> Individual </h3>
+							<div class="accordian textzone">
+								<h4><i class="fa fa-plus"></i> Campaign Stickers </h4>
+								<div class="textzone">
+									<table class="table-padded">
+										<tr><td>Brummix Tracks              </td><td>Destroyer Of The Snowspeakers</td><td>Friend Of The Snowspeakers</td><td>Overlay Y             </td></tr>
+										<tr><td>Bug In Jar                  </td><td>Empty Jar                    </td><td>Harvest Festival          </td><td>Overlay Z             </td></tr>
+										<tr><td>Charged Core                </td><td>Firepepper                   </td><td>Into The Forest           </td><td>Shard Seeker          </td></tr>
+										<tr><td>Coral Crown                 </td><td>Friend Of The Fish King      </td><td>Lockout                   </td><td>Uncharged Core        </td></tr>
+										<tr><td>Crown United                </td><td>Friend Of The Frostspeakers  </td><td>Overlay W                 </td><td>Unfettered Allies     </td></tr>
+										<tr><td>Destroyer Of The Icespeakers</td><td>Friend Of The Icespeakers    </td><td>Overlay X                 </td><td>Unfettered Deactivated</td></tr>
+									</table>
+								</div>
+								<h4><i class="fa fa-plus"></i> Enhancement Stickers </h4>
+								<div class="textzone">
+									<table class="table-padded">
+										<tr><td>Air Sticker  </td><td>Fire Sticker      </td><td>Light Sticker     </td><td>Strengthen Sticker</td></tr>
+										<tr><td>Bless Sticker</td><td>Hex Attack Sticker</td><td>Muddle Sticker    </td><td>Ward Sticker      </td></tr>
+										<tr><td>Curse Sticker</td><td>Ice Sticker       </td><td>Plus One Sticker  </td><td>Wild Sticker      </td></tr>
+										<tr><td>Dark Sticker </td><td>Immobilize Sticker</td><td>Poison Sticker    </td><td>Wound Sticker     </td></tr>
+										<tr><td>Earth Sticker</td><td>Jump Sticker      </td><td>Regenerate Sticker</td></tr>
+									</table>
+								</div>
+								<h4><i class="fa fa-plus"></i> Location Stickers </h4>
+								<div class="textzone">
+									<table class="table-padded">
+										<tr><td>000 Howling In The Snow   </td><td>035 Scrap Pit            </td><td>070 The True Oak         </td><td>105 Ruins Of The Equinox  </td></tr>
+										<tr><td>001 A Town In Flames      </td><td>036 Buried Ducts         </td><td>071 Invasion Of The Dock </td><td>106 The Tempus Forge      </td></tr>
+										<tr><td>002 Algox Scouting        </td><td>037 The Dead Mile        </td><td>072 A Giant Block Of Ice </td><td>107 My Private Empire     </td></tr>
+										<tr><td>003 Algox Offensive       </td><td>038 The Way Forward      </td><td>073 Flotsam              </td><td>108 Lustrous Pit          </td></tr>
+										<tr><td>004 Heart Of Ice          </td><td>039 Corrupted Camp       </td><td>074 Gaps In The Road     </td><td>109 Furious Factory       </td></tr>
+										<tr><td>005 Frozen Crypt          </td><td>040 Relief Effort        </td><td>075 Infiltrating The Lair</td><td>110 Guardian's Temple     </td></tr>
+										<tr><td>006 Avalanche             </td><td>041 Unfettered Shard     </td><td>076 Apotheosis           </td><td>111 Ice Cave              </td></tr>
+										<tr><td>007 Edge Of The World     </td><td>042 Sunless Trench       </td><td>077 Fish King's Ascension</td><td>112 Raised By Wolves      </td></tr>
+										<tr><td>008 Crystal Trench        </td><td>043 Overrun Barricade    </td><td>078 The Lurker Problem   </td><td>113 Lush Grotto           </td></tr>
+										<tr><td>009 Glowing Catacombs     </td><td>044 Nerve Center         </td><td>079 Relic                </td><td>114 Work Freeze           </td></tr>
+										<tr><td>010 Crystal Enclosure     </td><td>045 Living Glacier       </td><td>080 Relic Renewed        </td><td>115 Pylon Problems        </td></tr>
+										<tr><td>011 Snowscorn Peak        </td><td>046 Dead Pass            </td><td>081 Ruinous Research Lab </td><td>116 Caravan Guards        </td></tr>
+										<tr><td>012 Temple Entrance       </td><td>047 Carrion Ridge        </td><td>082 Expedition North     </td><td>117 A Waiting Game        </td></tr>
+										<tr><td>013 Frozen Fjord          </td><td>048 Blizzard Island      </td><td>083 Rising Brine         </td><td>118 Lurker Necromancy     </td></tr>
+										<tr><td>014 Jagged Shoals         </td><td>049 Beneath Sea And Stone</td><td>084 Here There Be Oozes  </td><td>119 Radiant Dust          </td></tr>
+										<tr><td>015 Ancient Spire         </td><td>050 Explosive Descent    </td><td>085 Deadly Pastimes      </td><td>120 Under The Influence   </td></tr>
+										<tr><td>016 Derelict Elevator     </td><td>051 Orphan's Halls       </td><td>086 The Lady In White    </td><td>121 Black Memories        </td></tr>
+										<tr><td>017 Haunted Vault         </td><td>052 Fleeting Permanence  </td><td>087 The Collection       </td><td>122 The Eternal Crave     </td></tr>
+										<tr><td>018 Crystal Fields        </td><td>053 Underwater Throne    </td><td>088 Collection's Capstone</td><td>123 The Titan             </td></tr>
+										<tr><td>019 Skyhall               </td><td>054 Among The Wreckage   </td><td>089 A Contained Fire     </td><td>124 A Growing Problem     </td></tr>
+										<tr><td>020 Temple Of Liberation  </td><td>055 Change Of Heart      </td><td>090 Frozen Treasure      </td><td>125 The Longest Second    </td></tr>
+										<tr><td>021 Realm Of Endless Frost</td><td>056 Call Of The Harbinger</td><td>091 Shoreline Scramble   </td><td>126 Joseph The Lion       </td></tr>
+										<tr><td>022 Ice Floes             </td><td>057 Sanctuary Of Snow    </td><td>092 Sinking Ship         </td><td>127 Derelict Freighter    </td></tr>
+										<tr><td>023 Spire Basement        </td><td>058 Orphan's Core        </td><td>093 Midwinter Brawl      </td><td>128 A Tall Drunken Tale   </td></tr>
+										<tr><td>024 Upper Spire           </td><td>059 Automaton Uprising   </td><td>094 A Grand View         </td><td>129 How To Lay An Ambush  </td></tr>
+										<tr><td>025 Rusted Tunnels        </td><td>060 Uniting The Crown    </td><td>095 To Bury The Dead     </td><td>130 And Then, A Stream    </td></tr>
+										<tr><td>026 Quatryl Library       </td><td>061 Life And Death       </td><td>096 Underground Station  </td><td>131 The Dancing Iceberg   </td></tr>
+										<tr><td>027 Depths Of Delirium    </td><td>062 The Unfettered Seal  </td><td>097 Program Control Nexus</td><td>132 Temple Of Feline Power</td></tr>
+										<tr><td>028 Summit Meeting        </td><td>063 The Savvas Seal      </td><td>098 Collapsing Vent      </td><td>133 Bolt                  </td></tr>
+										<tr><td>029 War Of The Spire A    </td><td>064 The Frosthaven Seal  </td><td>099 Prison Break         </td><td>134 Tower Of Knowledge    </td></tr>
+										<tr><td>030 War Of The Spire B    </td><td>065 A Strong Foundation  </td><td>100 Inside The Swarm     </td><td>135 Belara's Keep         </td></tr>
+										<tr><td>031 Crackling Tunnel      </td><td>066 Elemental Cores      </td><td>101 Harrower Library     </td><td>136 Abandoned Hideout     </td></tr>
+										<tr><td>032 Ravens' Roost         </td><td>067 Core Attunement      </td><td>102 Into The Black       </td><td>137 Pirate Queen's Haul   </td></tr>
+										<tr><td>033 Thawed Wood           </td><td>068 The Face Of Torment  </td><td>103 The Lead Door        </td><td>New Growth | 42 Temple L3 </td></tr>
+										<tr><td>034 Top Of The Spire      </td><td>069 Sacred Soil          </td><td>104 Ruins Of The Solstice</td></tr>
+									</table>
+								</div>
+								<h4><i class="fa fa-plus"></i> Outpost Stickers </h4>
+								<div class="textzone">
+									<table class="table-padded">
+										<tr><td>12 Hunting Lodge     </td><td>35 Alchemist      </td><td>83 Library   </td><td>Sled  </td></tr>
+										<tr><td>17 Logging Camp      </td><td>37 Trading Post   </td><td>85 Capenter  </td><td>Stage </td></tr>
+										<tr><td>21 Inn               </td><td>39 Jeweler        </td><td>88 Stables   </td><td>Statue</td></tr>
+										<tr><td>24 Garden            </td><td>42 Temple         </td><td>90 Town Hall </td><td>Wall J</td></tr>
+										<tr><td>24 Garden Arrowvine  </td><td>44 Enhancer       </td><td>98 Barracks  </td><td>Wall K</td></tr>
+										<tr><td>24 Garden Axenut     </td><td>5 Mining Camp     </td><td>Blue Well    </td><td>Wall L</td></tr>
+										<tr><td>24 Garden Corpsecap  </td><td>65 Metal Depot    </td><td>Boat         </td><td>Wall M</td></tr>
+										<tr><td>24 Garden Flamefruit </td><td>67 Lumber Depot   </td><td>Climbing Gear</td><td>Wall N</td></tr>
+										<tr><td>24 Garden Rockroot   </td><td>72 Hide Depot     </td><td>Ice Spike    </td></tr>
+										<tr><td>24 Garden Snowthistle</td><td>74 Tavern         </td><td>Portcullis   </td></tr>
+										<tr><td>34 Craftsman         </td><td>81 Hall Of Revelry</td><td>Red Well     </td></tr>
+									</table>
+								</div>
 							</div>
-							<h3><i class="fa fa-plus"></i> No Die Lines </h3>
-							<div class="textzone">
-								<table class="table-padded">
-									<tr><td>Campaign Stickers NDL          </td><td>Outpost Stickers 37 Trading Post NDL     </td><td>Outpost Stickers 83 Library NDL  </td><td>Wax Seal Stickers NDL            </td></tr>
-									<tr><td>Enhancement Stickers NDL       </td><td>Outpost Stickers 39 Jeweler NDL          </td><td>Outpost Stickers 85 Carpenter NDL</td></tr>
-									<tr><td>Location Stickers 1 NDL        </td><td>Outpost Stickers 42 Temple NDL           </td><td>Outpost Stickers 88 Stables NDL  </td></tr>
-									<tr><td>Location Stickers 2 NDL        </td><td>Outpost Stickers 44 Enhancer NDL         </td><td>Outpost Stickers 90 Town Hall NDL</td></tr>
-									<tr><td>Location Stickers 3 NDL        </td><td>Outpost Stickers 65 Metal Depot NDL      </td><td>Outpost Stickers Large 1 NDL     </td></tr>
-									<tr><td>Location Stickers 4 NDL        </td><td>Outpost Stickers 67 Lumber Depot NDL     </td><td>Outpost Stickers Large 2 NDL     </td></tr>
-									<tr><td>Location Stickers 5 NDL        </td><td>Outpost Stickers 72 Hide Depot NDL       </td><td>Outpost Stickers Large 3 NDL     </td></tr>
-									<tr><td>Outpost Stickers 21 Inn NDL    </td><td>Outpost Stickers 74 Tavern NDL           </td><td>Puzzle Book NDL                  </td></tr>
-									<tr><td>Outpost Stickers 24a Garden NDL</td><td>Outpost Stickers 81 Hall Of Revelry 1 NDL</td><td>Removable Sticker Set 1 NDL      </td></tr>
-									<tr><td>Outpost Stickers 24b Garden NDL</td><td>Outpost Stickers 81 Hall Of Revelry 2 NDL</td><td>Removable Sticker Set 2 NDL      </td></tr>
-								</table>
+							<h3><i class="fa fa-plus"></i> Sheets </h3>
+							<div class="accordian textzone">
+								<h4><i class="fa fa-plus"></i> Die Lines </h4>
+								<div class="textzone">
+									<table class="table-padded">
+										<tr><td>Campaign Stickers DL          </td><td>Outpost Stickers 37 Trading Post DL     </td><td>Outpost Stickers 83 Library DL  </td><td>Wax Seal Stickers DL            </td></tr>
+										<tr><td>Enhancement Stickers DL       </td><td>Outpost Stickers 39 Jeweler DL          </td><td>Outpost Stickers 85 Carpenter DL</td></tr>
+										<tr><td>Location Stickers 1 DL        </td><td>Outpost Stickers 42 Temple DL           </td><td>Outpost Stickers 88 Stables DL  </td></tr>
+										<tr><td>Location Stickers 2 DL        </td><td>Outpost Stickers 44 Enhancer DL         </td><td>Outpost Stickers 90 Town Hall DL</td></tr>
+										<tr><td>Location Stickers 3 DL        </td><td>Outpost Stickers 65 Metal Depot DL      </td><td>Outpost Stickers Large 1 DL     </td></tr>
+										<tr><td>Location Stickers 4 DL        </td><td>Outpost Stickers 67 Lumber Depot DL     </td><td>Outpost Stickers Large 2 DL     </td></tr>
+										<tr><td>Location Stickers 5 DL        </td><td>Outpost Stickers 72 Hide Depot DL       </td><td>Outpost Stickers Large 3 DL     </td></tr>
+										<tr><td>Outpost Stickers 21 Inn DL    </td><td>Outpost Stickers 74 Tavern DL           </td><td>Puzzle Book DL                  </td></tr>
+										<tr><td>Outpost Stickers 24a Garden DL</td><td>Outpost Stickers 81 Hall Of Revelry 1 DL</td><td>Removable Sticker Set 1 DL      </td></tr>
+										<tr><td>Outpost Stickers 24b Garden DL</td><td>Outpost Stickers 81 Hall Of Revelry 2 DL</td><td>Removable Sticker Set 2 DL      </td></tr>
+									</table>
+								</div>
+								<h4><i class="fa fa-plus"></i> No Die Lines </h4>
+								<div class="textzone">
+									<table class="table-padded">
+										<tr><td>Campaign Stickers NDL          </td><td>Outpost Stickers 37 Trading Post NDL     </td><td>Outpost Stickers 83 Library NDL  </td><td>Wax Seal Stickers NDL            </td></tr>
+										<tr><td>Enhancement Stickers NDL       </td><td>Outpost Stickers 39 Jeweler NDL          </td><td>Outpost Stickers 85 Carpenter NDL</td></tr>
+										<tr><td>Location Stickers 1 NDL        </td><td>Outpost Stickers 42 Temple NDL           </td><td>Outpost Stickers 88 Stables NDL  </td></tr>
+										<tr><td>Location Stickers 2 NDL        </td><td>Outpost Stickers 44 Enhancer NDL         </td><td>Outpost Stickers 90 Town Hall NDL</td></tr>
+										<tr><td>Location Stickers 3 NDL        </td><td>Outpost Stickers 65 Metal Depot NDL      </td><td>Outpost Stickers Large 1 NDL     </td></tr>
+										<tr><td>Location Stickers 4 NDL        </td><td>Outpost Stickers 67 Lumber Depot NDL     </td><td>Outpost Stickers Large 2 NDL     </td></tr>
+										<tr><td>Location Stickers 5 NDL        </td><td>Outpost Stickers 72 Hide Depot NDL       </td><td>Outpost Stickers Large 3 NDL     </td></tr>
+										<tr><td>Outpost Stickers 21 Inn NDL    </td><td>Outpost Stickers 74 Tavern NDL           </td><td>Puzzle Book NDL                  </td></tr>
+										<tr><td>Outpost Stickers 24a Garden NDL</td><td>Outpost Stickers 81 Hall Of Revelry 1 NDL</td><td>Removable Sticker Set 1 NDL      </td></tr>
+										<tr><td>Outpost Stickers 24b Garden NDL</td><td>Outpost Stickers 81 Hall Of Revelry 2 NDL</td><td>Removable Sticker Set 2 NDL      </td></tr>
+									</table>
+								</div>
 							</div>
 						</div>
 					</div>                                                                                                                                                                              
+
 
 					<h1><i class="fa fa-plus"></i> Attack Modifiers </h1>
 					<div class="accordion textzone">
