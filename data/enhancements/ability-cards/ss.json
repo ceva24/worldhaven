@@ -174,5 +174,225 @@
                 "y": 432
             }
         ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/SS/gh-soothing-lullaby.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "heal",
+                "x": 257,
+                "y": 400
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/SS/gh-change-tempo.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "move",
+                "x": 262,
+                "y": 431
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/SS/gh-crippling-chorus.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "negative-status",
+                "x": 260,
+                "y": 156
+            },
+            {
+                "id": 1,
+                "action": "move",
+                "x": 261,
+                "y": 402
+            },
+            {
+                "id": 2,
+                "action": "negative-status",
+                "x": 273,
+                "y": 445
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/SS/gh-disorienting-dirge.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "negative-status",
+                "x": 264,
+                "y": 368
+            },
+            {
+                "id": 1,
+                "action": "positive-status",
+                "x": 260,
+                "y": 436
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/SS/gh-inspiring-anthem.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "move",
+                "x": 262,
+                "y": 206
+            },
+            {
+                "id": 1,
+                "action": "attack",
+                "x": 267,
+                "y": 450
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/SS/gh-melody-and-harmony.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "move",
+                "x": 262,
+                "y": 397
+            },
+            {
+                "id": 1,
+                "action": "attack",
+                "x": 267,
+                "y": 446
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/SS/gh-mobilizing-measure.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "move",
+                "x": 263,
+                "y": 412
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/SS/gh-provoke-terror.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "area-attack",
+                "x": 230,
+                "y": 166
+            },
+            {
+                "id": 1,
+                "action": "attack",
+                "x": 267,
+                "y": 408
+            },
+            {
+                "id": 2,
+                "action": "push",
+                "x": 250,
+                "y": 464
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/SS/gh-nightmare-serenade.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 204,
+                "y": 388
+            },
+            {
+                "id": 1,
+                "action": "area-attack",
+                "x": 232,
+                "y": 402
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/SS/gh-booming-proclamation.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 265,
+                "y": 168
+            },
+            {
+                "id": 1,
+                "action": "push",
+                "x": 250,
+                "y": 223
+            },
+            {
+                "id": 2,
+                "action": "attack",
+                "x": 266,
+                "y": 428
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/SS/gh-tranquil-trill.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "negative-status",
+                "x": 272,
+                "y": 400
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/SS/gh-commanding-presence.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 267,
+                "y": 192
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/SS/gh-captivating-performance.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "negative-status",
+                "x": 257,
+                "y": 388
+            },
+            {
+                "id": 1,
+                "action": "target",
+                "x": 251,
+                "y": 443
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/SS/gh-shadow-puppets.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "move",
+                "x": 263,
+                "y": 123
+            }
+        ]
     }
 ]
