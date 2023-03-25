@@ -1,0 +1,178 @@
+[
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/SS/gh-power-ballad.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "move",
+                "x": 261,
+                "y": 377
+            },
+            {
+                "id": 1,
+                "action": "positive-status",
+                "x": 298,
+                "y": 423
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/SS/gh-tuning-the-outcome.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "positive-status",
+                "x": 260,
+                "y": 182
+            },
+            {
+                "id": 1,
+                "action": "move",
+                "x": 262,
+                "y": 400
+            },
+            {
+                "id": 2,
+                "action": "negative-status",
+                "x": 264,
+                "y": 448
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/SS/gh-call-to-action.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 267,
+                "y": 448
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/SS/gh-warding-dagger.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 267,
+                "y": 179
+            },
+            {
+                "id": 1,
+                "action": "move",
+                "x": 263,
+                "y": 374
+            },
+            {
+                "id": 2,
+                "action": "shield",
+                "x": 262,
+                "y": 420
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/SS/gh-throw-voice.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "area-attack",
+                "x": 230,
+                "y": 162
+            },
+            {
+                "id": 1,
+                "action": "area-attack",
+                "x": 254,
+                "y": 401
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/SS/gh-singing-arrow.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "area-attack",
+                "x": 230,
+                "y": 166
+            },
+            {
+                "id": 1,
+                "action": "attack",
+                "x": 264,
+                "y": 411
+            },
+            {
+                "id": 2,
+                "action": "range",
+                "x": 248,
+                "y": 440
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/SS/gh-marching-beat.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "move",
+                "x": 263,
+                "y": 206
+            },
+            {
+                "id": 1,
+                "action": "move",
+                "x": 262,
+                "y": 435
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/SS/gh-wistful-wounding.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "range",
+                "x": 251,
+                "y": 403
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/SS/gh-unending-chant.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "shield",
+                "x": 260,
+                "y": 421
+            }
+        ]
+    },
+    {
+        "imageUrl": "images/character-ability-cards/gloomhaven/SS/gh-nimble-knife.png",
+        "enhancementSlots": [
+            {
+                "id": 0,
+                "action": "attack",
+                "x": 267,
+                "y": 144
+            },
+            {
+                "id": 1,
+                "action": "positive-status",
+                "x": 261,
+                "y": 218
+            },
+            {
+                "id": 2,
+                "action": "move",
+                "x": 263,
+                "y": 432
+            }
+        ]
+    }
+]

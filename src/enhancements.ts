@@ -5,7 +5,7 @@ import { CWebp } from "cwebp";
 import enhancementTypesData from "../data/enhancements/enhancement-types.json";
 import enhancementActionsData from "../data/enhancements/enhancement-actions.json";
 import enhancementData from "../data/enhancements/enhancements.json";
-import data from "../data/enhancements/ability-cards/ns.json";
+import data from "../data/enhancements/ability-cards/ss.json";
 
 const enhancementTypes: EnhancementType[] = enhancementTypesData;
 const enhancementActions: EnhancementAction[] = enhancementActionsData;
