@@ -7,7 +7,8 @@
     "xws": "beback",
     "level": "-",
     "initiative": "-",
-    "cardno": "-"
+    "cardno": "-",
+    "character-xws": "beserker"
   },
   {
     "name": "blood pact",
@@ -17,7 +18,8 @@
     "xws": "bloodpact",
     "level": "1",
     "initiative": "76",
-    "cardno": "324"
+    "cardno": "324",
+    "character-xws": "beserker"
   },
   {
     "name": "bone breaker",
@@ -27,7 +29,8 @@
     "xws": "bonebreaker",
     "level": "8",
     "initiative": "41",
-    "cardno": "344"
+    "cardno": "344",
+    "character-xws": "beserker"
   },
   {
     "name": "bounce back",
@@ -37,7 +40,8 @@
     "xws": "bounceback",
     "level": "1",
     "initiative": "14",
-    "cardno": "328"
+    "cardno": "328",
+    "character-xws": "beserker"
   },
   {
     "name": "break the chains",
@@ -47,7 +51,8 @@
     "xws": "breakthechains",
     "level": "2",
     "initiative": "53",
-    "cardno": "333"
+    "cardno": "333",
+    "character-xws": "beserker"
   },
   {
     "name": "burning hatred",
@@ -57,7 +62,8 @@
     "xws": "burninghatred",
     "level": "7",
     "initiative": "40",
-    "cardno": "342"
+    "cardno": "342",
+    "character-xws": "beserker"
   },
   {
     "name": "careless charge",
@@ -67,7 +73,8 @@
     "xws": "carelesscharge",
     "level": "7",
     "initiative": "20",
-    "cardno": "343"
+    "cardno": "343",
+    "character-xws": "beserker"
   },
   {
     "name": "cauterize",
@@ -77,7 +84,8 @@
     "xws": "cauterize",
     "level": "1",
     "initiative": "40",
-    "cardno": "325"
+    "cardno": "325",
+    "character-xws": "beserker"
   },
   {
     "name": "dazing wound",
@@ -87,7 +95,8 @@
     "xws": "dazingwound",
     "level": "1",
     "initiative": "29",
-    "cardno": "326"
+    "cardno": "326",
+    "character-xws": "beserker"
   },
   {
     "name": "defiance of death",
@@ -97,7 +106,8 @@
     "xws": "defianceofdeath",
     "level": "1",
     "initiative": "31",
-    "cardno": "322"
+    "cardno": "322",
+    "character-xws": "beserker"
   },
   {
     "name": "devil horns",
@@ -107,7 +117,8 @@
     "xws": "devilhorns",
     "level": "6",
     "initiative": "31",
-    "cardno": "340"
+    "cardno": "340",
+    "character-xws": "beserker"
   },
   {
     "name": "fatal fury",
@@ -117,7 +128,8 @@
     "xws": "fatalfury",
     "level": "3",
     "initiative": "34",
-    "cardno": "335"
+    "cardno": "335",
+    "character-xws": "beserker"
   },
   {
     "name": "final fight",
@@ -127,7 +139,8 @@
     "xws": "finalfight",
     "level": "5",
     "initiative": "89",
-    "cardno": "339"
+    "cardno": "339",
+    "character-xws": "beserker"
   },
   {
     "name": "flurry of axes",
@@ -137,7 +150,8 @@
     "xws": "flurryofaxes",
     "level": "4",
     "initiative": "27",
-    "cardno": "336"
+    "cardno": "336",
+    "character-xws": "beserker"
   },
   {
     "name": "from the brink",
@@ -147,7 +161,8 @@
     "xws": "fromthebrink",
     "level": "1",
     "initiative": "24",
-    "cardno": "323"
+    "cardno": "323",
+    "character-xws": "beserker"
   },
   {
     "name": "furious aid",
@@ -157,7 +172,8 @@
     "xws": "furiousaid",
     "level": "1",
     "initiative": "43",
-    "cardno": "327"
+    "cardno": "327",
+    "character-xws": "beserker"
   },
   {
     "name": "glass hammer",
@@ -167,7 +183,8 @@
     "xws": "glasshammer",
     "level": "X",
     "initiative": "11",
-    "cardno": "330"
+    "cardno": "330",
+    "character-xws": "beserker"
   },
   {
     "name": "growing rage",
@@ -177,7 +194,8 @@
     "xws": "growingrage",
     "level": "1",
     "initiative": "85",
-    "cardno": "320"
+    "cardno": "320",
+    "character-xws": "beserker"
   },
   {
     "name": "immortality",
@@ -187,7 +205,8 @@
     "xws": "immortality",
     "level": "9",
     "initiative": "33",
-    "cardno": "346"
+    "cardno": "346",
+    "character-xws": "beserker"
   },
   {
     "name": "numb the pain",
@@ -197,7 +216,8 @@
     "xws": "numbthepain",
     "level": "X",
     "initiative": "35",
-    "cardno": "331"
+    "cardno": "331",
+    "character-xws": "beserker"
   },
   {
     "name": "reckless offensive",
@@ -207,7 +227,8 @@
     "xws": "recklessoffensive",
     "level": "2",
     "initiative": "21",
-    "cardno": "332"
+    "cardno": "332",
+    "character-xws": "beserker"
   },
   {
     "name": "resolute stand",
@@ -217,7 +238,8 @@
     "xws": "resolutestand",
     "level": "1",
     "initiative": "09",
-    "cardno": "319"
+    "cardno": "319",
+    "character-xws": "beserker"
   },
   {
     "name": "seeing red",
@@ -227,7 +249,8 @@
     "xws": "seeingred",
     "level": "5",
     "initiative": "22",
-    "cardno": "338"
+    "cardno": "338",
+    "character-xws": "beserker"
   },
   {
     "name": "shiny distraction",
@@ -237,7 +260,8 @@
     "xws": "shinydistraction",
     "level": "4",
     "initiative": "08",
-    "cardno": "337"
+    "cardno": "337",
+    "character-xws": "beserker"
   },
   {
     "name": "spiked armor",
@@ -247,7 +271,8 @@
     "xws": "spikedarmor",
     "level": "3",
     "initiative": "16",
-    "cardno": "334"
+    "cardno": "334",
+    "character-xws": "beserker"
   },
   {
     "name": "strength in agony",
@@ -257,7 +282,8 @@
     "xws": "strengthinagony",
     "level": "1",
     "initiative": "37",
-    "cardno": "321"
+    "cardno": "321",
+    "character-xws": "beserker"
   },
   {
     "name": "the maw of madness",
@@ -267,7 +293,8 @@
     "xws": "themawofmadness",
     "level": "9",
     "initiative": "10",
-    "cardno": "347"
+    "cardno": "347",
+    "character-xws": "beserker"
   },
   {
     "name": "unbridled power",
@@ -277,7 +304,8 @@
     "xws": "unbridledpower",
     "level": "X",
     "initiative": "67",
-    "cardno": "329"
+    "cardno": "329",
+    "character-xws": "beserker"
   },
   {
     "name": "unstoppable destruction",
@@ -287,7 +315,8 @@
     "xws": "unstoppabledestruction",
     "level": "6",
     "initiative": "57",
-    "cardno": "341"
+    "cardno": "341",
+    "character-xws": "beserker"
   },
   {
     "name": "vengeful barrage",
@@ -297,7 +326,8 @@
     "xws": "vengefulbarrage",
     "level": "8",
     "initiative": "38",
-    "cardno": "345"
+    "cardno": "345",
+    "character-xws": "beserker"
   },
   {
     "name": "br-back",
@@ -307,7 +337,8 @@
     "xws": "brback",
     "level": "-",
     "initiative": "-",
-    "cardno": "-"
+    "cardno": "-",
+    "character-xws": "brute"
   },
   {
     "name": "balanced measure",
@@ -317,7 +348,8 @@
     "xws": "balancedmeasure",
     "level": "X",
     "initiative": "77",
-    "cardno": "012"
+    "cardno": "012",
+    "character-xws": "brute"
   },
   {
     "name": "brute force",
@@ -327,7 +359,8 @@
     "xws": "bruteforce",
     "level": "3",
     "initiative": "51",
-    "cardno": "017"
+    "cardno": "017",
+    "character-xws": "brute"
   },
   {
     "name": "crippling offensive",
@@ -337,7 +370,8 @@
     "xws": "cripplingoffensive",
     "level": "7",
     "initiative": "33",
-    "cardno": "025"
+    "cardno": "025",
+    "character-xws": "brute"
   },
   {
     "name": "defensive tactics",
@@ -347,7 +381,8 @@
     "xws": "defensivetactics",
     "level": "7",
     "initiative": "26",
-    "cardno": "024"
+    "cardno": "024",
+    "character-xws": "brute"
   },
   {
     "name": "devastating hack",
@@ -357,7 +392,8 @@
     "xws": "devastatinghack",
     "level": "4",
     "initiative": "27",
-    "cardno": "019"
+    "cardno": "019",
+    "character-xws": "brute"
   },
   {
     "name": "eye for an eye",
@@ -367,7 +403,8 @@
     "xws": "eyeforaneye",
     "level": "1",
     "initiative": "18",
-    "cardno": "002"
+    "cardno": "002",
+    "character-xws": "brute"
   },
   {
     "name": "face your end",
@@ -377,7 +414,8 @@
     "xws": "faceyourend",
     "level": "9",
     "initiative": "67",
-    "cardno": "029"
+    "cardno": "029",
+    "character-xws": "brute"
   },
   {
     "name": "fatal advance",
@@ -387,7 +425,8 @@
     "xws": "fataladvance",
     "level": "2",
     "initiative": "40",
-    "cardno": "014"
+    "cardno": "014",
+    "character-xws": "brute"
   },
   {
     "name": "frenzied onslaught",
@@ -397,7 +436,8 @@
     "xws": "frenziedonslaught",
     "level": "8",
     "initiative": "41",
-    "cardno": "026"
+    "cardno": "026",
+    "character-xws": "brute"
   },
   {
     "name": "grab and go",
@@ -407,7 +447,8 @@
     "xws": "grabandgo",
     "level": "1",
     "initiative": "87",
-    "cardno": "006"
+    "cardno": "006",
+    "character-xws": "brute"
   },
   {
     "name": "hook and chain",
@@ -417,7 +458,8 @@
     "xws": "hookandchain",
     "level": "3",
     "initiative": "42",
-    "cardno": "016"
+    "cardno": "016",
+    "character-xws": "brute"
   },
   {
     "name": "immovable phalanx",
@@ -427,7 +469,8 @@
     "xws": "immovablephalanx",
     "level": "6",
     "initiative": "17",
-    "cardno": "023"
+    "cardno": "023",
+    "character-xws": "brute"
   },
   {
     "name": "juggernaut",
@@ -437,7 +480,8 @@
     "xws": "juggernaut",
     "level": "2",
     "initiative": "34",
-    "cardno": "015"
+    "cardno": "015",
+    "character-xws": "brute"
   },
   {
     "name": "king of the hill",
@@ -447,7 +491,8 @@
     "xws": "kingofthehill",
     "level": "9",
     "initiative": "39",
-    "cardno": "028"
+    "cardno": "028",
+    "character-xws": "brute"
   },
   {
     "name": "leaping cleave",
@@ -457,7 +502,8 @@
     "xws": "leapingcleave",
     "level": "1",
     "initiative": "54",
-    "cardno": "009"
+    "cardno": "009",
+    "character-xws": "brute"
   },
   {
     "name": "overwhelming assault",
@@ -467,7 +513,8 @@
     "xws": "overwhelmingassault",
     "level": "1",
     "initiative": "61",
-    "cardno": "005"
+    "cardno": "005",
+    "character-xws": "brute"
   },
   {
     "name": "provoking roar",
@@ -477,7 +524,8 @@
     "xws": "provokingroar",
     "level": "1",
     "initiative": "10",
-    "cardno": "004"
+    "cardno": "004",
+    "character-xws": "brute"
   },
   {
     "name": "quietus",
@@ -487,7 +535,8 @@
     "xws": "quietus",
     "level": "6",
     "initiative": "57",
-    "cardno": "022"
+    "cardno": "022",
+    "character-xws": "brute"
   },
   {
     "name": "selfish retribution",
@@ -497,7 +546,8 @@
     "xws": "selfishretribution",
     "level": "8",
     "initiative": "12",
-    "cardno": "027"
+    "cardno": "027",
+    "character-xws": "brute"
   },
   {
     "name": "shield bash",
@@ -507,7 +557,8 @@
     "xws": "shieldbash",
     "level": "1",
     "initiative": "15",
-    "cardno": "008"
+    "cardno": "008",
+    "character-xws": "brute"
   },
   {
     "name": "skewer",
@@ -517,7 +568,8 @@
     "xws": "skewer",
     "level": "X",
     "initiative": "35",
-    "cardno": "011"
+    "cardno": "011",
+    "character-xws": "brute"
   },
   {
     "name": "skirmishing maneuver",
@@ -527,7 +579,8 @@
     "xws": "skirmishingmaneuver",
     "level": "5",
     "initiative": "29",
-    "cardno": "021"
+    "cardno": "021",
+    "character-xws": "brute"
   },
   {
     "name": "spare dagger",
@@ -537,7 +590,8 @@
     "xws": "sparedagger",
     "level": "1",
     "initiative": "27",
-    "cardno": "010"
+    "cardno": "010",
+    "character-xws": "brute"
   },
   {
     "name": "sweeping blow",
@@ -547,7 +601,8 @@
     "xws": "sweepingblow",
     "level": "1",
     "initiative": "64",
-    "cardno": "003"
+    "cardno": "003",
+    "character-xws": "brute"
   },
   {
     "name": "trample",
@@ -557,7 +612,8 @@
     "xws": "trample",
     "level": "1",
     "initiative": "72",
-    "cardno": "001"
+    "cardno": "001",
+    "character-xws": "brute"
   },
   {
     "name": "unstoppable charge",
@@ -567,7 +623,8 @@
     "xws": "unstoppablecharge",
     "level": "4",
     "initiative": "86",
-    "cardno": "018"
+    "cardno": "018",
+    "character-xws": "brute"
   },
   {
     "name": "wall of doom",
@@ -577,7 +634,8 @@
     "xws": "wallofdoom",
     "level": "X",
     "initiative": "20",
-    "cardno": "013"
+    "cardno": "013",
+    "character-xws": "brute"
   },
   {
     "name": "warding strength",
@@ -587,7 +645,8 @@
     "xws": "wardingstrength",
     "level": "1",
     "initiative": "32",
-    "cardno": "007"
+    "cardno": "007",
+    "character-xws": "brute"
   },
   {
     "name": "whirlwind",
@@ -597,7 +656,8 @@
     "xws": "whirlwind",
     "level": "5",
     "initiative": "28",
-    "cardno": "020"
+    "cardno": "020",
+    "character-xws": "brute"
   },
   {
     "name": "bs-back",
@@ -607,7 +667,8 @@
     "xws": "bsback",
     "level": "-",
     "initiative": "-",
-    "cardno": "-"
+    "cardno": "-",
+    "character-xws": "bladeswarm"
   },
   {
     "name": "armed and dangerous",
@@ -617,7 +678,8 @@
     "xws": "armedanddangerous",
     "level": "3",
     "initiative": "78",
-    "cardno": "641"
+    "cardno": "641",
+    "character-xws": "bladeswarm"
   },
   {
     "name": "bioluminescence",
@@ -627,7 +689,8 @@
     "xws": "bioluminescence",
     "level": "5",
     "initiative": "80",
-    "cardno": "644"
+    "cardno": "644",
+    "character-xws": "bladeswarm"
   },
   {
     "name": "lightning moths",
@@ -637,7 +700,8 @@
     "xws": "bioluminescence",
     "level": "5",
     "initiative": "80",
-    "cardno": "644"
+    "cardno": "644",
+    "character-xws": "bladeswarm"
   },
   {
     "name": "blood drain",
@@ -647,7 +711,8 @@
     "xws": "blooddrain",
     "level": "6",
     "initiative": "47",
-    "cardno": "647"
+    "cardno": "647",
+    "character-xws": "bladeswarm"
   },
   {
     "name": "bone daggers",
@@ -657,7 +722,8 @@
     "xws": "bonedaggers",
     "level": "8",
     "initiative": "68",
-    "cardno": "650"
+    "cardno": "650",
+    "character-xws": "bladeswarm"
   },
   {
     "name": "call of the grave",
@@ -667,7 +733,8 @@
     "xws": "callofthegrave",
     "level": "1",
     "initiative": "49",
-    "cardno": "633"
+    "cardno": "633",
+    "character-xws": "bladeswarm"
   },
   {
     "name": "corrupting parasites",
@@ -677,7 +744,8 @@
     "xws": "corruptingparasites",
     "level": "1",
     "initiative": "97",
-    "cardno": "628"
+    "cardno": "628",
+    "character-xws": "bladeswarm"
   },
   {
     "name": "soul leeches",
@@ -687,7 +755,8 @@
     "xws": "corruptingparasites",
     "level": "1",
     "initiative": "97",
-    "cardno": "628"
+    "cardno": "628",
+    "character-xws": "bladeswarm"
   },
   {
     "name": "cyclone of blades",
@@ -697,7 +766,8 @@
     "xws": "cycloneofblades",
     "level": "5",
     "initiative": "27",
-    "cardno": "645"
+    "cardno": "645",
+    "character-xws": "bladeswarm"
   },
   {
     "name": "death march",
@@ -707,7 +777,8 @@
     "xws": "deathmarch",
     "level": "1",
     "initiative": "84",
-    "cardno": "629"
+    "cardno": "629",
+    "character-xws": "bladeswarm"
   },
   {
     "name": "creeping beetles",
@@ -717,7 +788,8 @@
     "xws": "deathmarch",
     "level": "1",
     "initiative": "84",
-    "cardno": "629"
+    "cardno": "629",
+    "character-xws": "bladeswarm"
   },
   {
     "name": "deflecting blades",
@@ -727,7 +799,8 @@
     "xws": "deflectingblades",
     "level": "1",
     "initiative": "11",
-    "cardno": "625"
+    "cardno": "625",
+    "character-xws": "bladeswarm"
   },
   {
     "name": "endless biting",
@@ -737,7 +810,8 @@
     "xws": "endlessbiting",
     "level": "8",
     "initiative": "41",
-    "cardno": "651"
+    "cardno": "651",
+    "character-xws": "bladeswarm"
   },
   {
     "name": "engulfing stingers",
@@ -747,7 +821,8 @@
     "xws": "engulfingstingers",
     "level": "1",
     "initiative": "88",
-    "cardno": "630"
+    "cardno": "630",
+    "character-xws": "bladeswarm"
   },
   {
     "name": "angry wasps",
@@ -757,7 +832,8 @@
     "xws": "engulfingstingers",
     "level": "1",
     "initiative": "88",
-    "cardno": "630"
+    "cardno": "630",
+    "character-xws": "bladeswarm"
   },
   {
     "name": "focused scourge",
@@ -767,7 +843,8 @@
     "xws": "focusedscourge",
     "level": "1",
     "initiative": "50",
-    "cardno": "624"
+    "cardno": "624",
+    "character-xws": "bladeswarm"
   },
   {
     "name": "fury of the horde",
@@ -777,7 +854,8 @@
     "xws": "furyofthehorde",
     "level": "7",
     "initiative": "86",
-    "cardno": "648"
+    "cardno": "648",
+    "character-xws": "bladeswarm"
   },
   {
     "name": "rage hornets",
@@ -787,7 +865,8 @@
     "xws": "furyofthehorde",
     "level": "7",
     "initiative": "86",
-    "cardno": "648"
+    "cardno": "648",
+    "character-xws": "bladeswarm"
   },
   {
     "name": "grasping advance",
@@ -797,7 +876,8 @@
     "xws": "graspingadvance",
     "level": "X",
     "initiative": "18",
-    "cardno": "636"
+    "cardno": "636",
+    "character-xws": "bladeswarm"
   },
   {
     "name": "hive mind",
@@ -807,7 +887,8 @@
     "xws": "hivemind",
     "level": "1",
     "initiative": "05",
-    "cardno": "627"
+    "cardno": "627",
+    "character-xws": "bladeswarm"
   },
   {
     "name": "incubation",
@@ -817,7 +898,8 @@
     "xws": "incubation",
     "level": "4",
     "initiative": "09",
-    "cardno": "643"
+    "cardno": "643",
+    "character-xws": "bladeswarm"
   },
   {
     "name": "infest",
@@ -827,7 +909,8 @@
     "xws": "infest",
     "level": "2",
     "initiative": "43",
-    "cardno": "639"
+    "cardno": "639",
+    "character-xws": "bladeswarm"
   },
   {
     "name": "oasis",
@@ -837,7 +920,8 @@
     "xws": "oasis",
     "level": "9",
     "initiative": "04",
-    "cardno": "653"
+    "cardno": "653",
+    "character-xws": "bladeswarm"
   },
   {
     "name": "omniscient assault",
@@ -847,7 +931,8 @@
     "xws": "omniscientassault",
     "level": "1",
     "initiative": "22",
-    "cardno": "626"
+    "cardno": "626",
+    "character-xws": "bladeswarm"
   },
   {
     "name": "overwhelming offensive",
@@ -857,7 +942,8 @@
     "xws": "overwhelmingoffensive",
     "level": "2",
     "initiative": "12",
-    "cardno": "638"
+    "cardno": "638",
+    "character-xws": "bladeswarm"
   },
   {
     "name": "putrid grubs",
@@ -867,7 +953,8 @@
     "xws": "putridgrubs",
     "level": "3",
     "initiative": "16",
-    "cardno": "640"
+    "cardno": "640",
+    "character-xws": "bladeswarm"
   },
   {
     "name": "bloat maggots",
@@ -877,7 +964,8 @@
     "xws": "putridgrubs",
     "level": "3",
     "initiative": "16",
-    "cardno": "640"
+    "cardno": "640",
+    "character-xws": "bladeswarm"
   },
   {
     "name": "repulsive host",
@@ -887,7 +975,8 @@
     "xws": "repulsivehost",
     "level": "7",
     "initiative": "19",
-    "cardno": "649"
+    "cardno": "649",
+    "character-xws": "bladeswarm"
   },
   {
     "name": "scattered defense",
@@ -897,7 +986,8 @@
     "xws": "scattereddefense",
     "level": "1",
     "initiative": "13",
-    "cardno": "632"
+    "cardno": "632",
+    "character-xws": "bladeswarm"
   },
   {
     "name": "sunstroke",
@@ -907,7 +997,8 @@
     "xws": "sunstroke",
     "level": "6",
     "initiative": "32",
-    "cardno": "646"
+    "cardno": "646",
+    "character-xws": "bladeswarm"
   },
   {
     "name": "swarming minions",
@@ -917,7 +1008,8 @@
     "xws": "swarmingminions",
     "level": "1",
     "initiative": "61",
-    "cardno": "631"
+    "cardno": "631",
+    "character-xws": "bladeswarm"
   },
   {
     "name": "the storm's edge",
@@ -927,7 +1019,8 @@
     "xws": "thestormsedge",
     "level": "1",
     "initiative": "37",
-    "cardno": "634"
+    "cardno": "634",
+    "character-xws": "bladeswarm"
   },
   {
     "name": "tomb of the immortal",
@@ -937,7 +1030,8 @@
     "xws": "tomboftheimmortal",
     "level": "X",
     "initiative": "59",
-    "cardno": "637"
+    "cardno": "637",
+    "character-xws": "bladeswarm"
   },
   {
     "name": "unstoppable army",
@@ -947,7 +1041,8 @@
     "xws": "unstoppablearmy",
     "level": "X",
     "initiative": "94",
-    "cardno": "635"
+    "cardno": "635",
+    "character-xws": "bladeswarm"
   },
   {
     "name": "steel scarabs",
@@ -957,7 +1052,8 @@
     "xws": "unstoppablearmy",
     "level": "X",
     "initiative": "94",
-    "cardno": "635"
+    "cardno": "635",
+    "character-xws": "bladeswarm"
   },
   {
     "name": "vampiric tempest",
@@ -967,7 +1063,8 @@
     "xws": "vampirictempest",
     "level": "4",
     "initiative": "64",
-    "cardno": "642"
+    "cardno": "642",
+    "character-xws": "bladeswarm"
   },
   {
     "name": "wasteland",
@@ -977,7 +1074,8 @@
     "xws": "wasteland",
     "level": "9",
     "initiative": "96",
-    "cardno": "652"
+    "cardno": "652",
+    "character-xws": "bladeswarm"
   },
   {
     "name": "rust vermin",
@@ -987,7 +1085,8 @@
     "xws": "wasteland",
     "level": "9",
     "initiative": "96",
-    "cardno": "652"
+    "cardno": "652",
+    "character-xws": "bladeswarm"
   },
   {
     "name": "bt-back",
@@ -997,7 +1096,8 @@
     "xws": "btback",
     "level": "-",
     "initiative": "-",
-    "cardno": "-"
+    "cardno": "-",
+    "character-xws": "beast tyrant"
   },
   {
     "name": "bear-reference-back",
@@ -1007,7 +1107,8 @@
     "xws": "bearreferenceback",
     "level": "-",
     "initiative": "-",
-    "cardno": "-"
+    "cardno": "-",
+    "character-xws": "beast tyrant"
   },
   {
     "name": "ancient ward",
@@ -1017,7 +1118,8 @@
     "xws": "ancientward",
     "level": "4",
     "initiative": "19",
-    "cardno": "494"
+    "cardno": "494",
+    "character-xws": "beast tyrant"
   },
   {
     "name": "bear-reference",
@@ -1027,7 +1129,8 @@
     "xws": "bearreference",
     "level": "-",
     "initiative": "-",
-    "cardno": "476"
+    "cardno": "476",
+    "character-xws": "beast tyrant"
   },
   {
     "name": "blood hunger",
@@ -1037,7 +1140,8 @@
     "xws": "bloodhunger",
     "level": "6",
     "initiative": "42",
-    "cardno": "499"
+    "cardno": "499",
+    "character-xws": "beast tyrant"
   },
   {
     "name": "borrowed essence",
@@ -1047,7 +1151,8 @@
     "xws": "borrowedessence",
     "level": "X",
     "initiative": "56",
-    "cardno": "489"
+    "cardno": "489",
+    "character-xws": "beast tyrant"
   },
   {
     "name": "concentrated rage",
@@ -1057,7 +1162,8 @@
     "xws": "concentratedrage",
     "level": "1",
     "initiative": "51",
-    "cardno": "481"
+    "cardno": "481",
+    "character-xws": "beast tyrant"
   },
   {
     "name": "disappearing wounds",
@@ -1067,7 +1173,8 @@
     "xws": "disappearingwounds",
     "level": "1",
     "initiative": "23",
-    "cardno": "482"
+    "cardno": "482",
+    "character-xws": "beast tyrant"
   },
   {
     "name": "disorienting roar",
@@ -1077,7 +1184,8 @@
     "xws": "disorientingroar",
     "level": "1",
     "initiative": "17",
-    "cardno": "477"
+    "cardno": "477",
+    "character-xws": "beast tyrant"
   },
   {
     "name": "earthen spikes",
@@ -1087,7 +1195,8 @@
     "xws": "earthenspikes",
     "level": "2",
     "initiative": "11",
-    "cardno": "491"
+    "cardno": "491",
+    "character-xws": "beast tyrant"
   },
   {
     "name": "energizing strike",
@@ -1097,7 +1206,8 @@
     "xws": "energizingstrike",
     "level": "2",
     "initiative": "29",
-    "cardno": "490"
+    "cardno": "490",
+    "character-xws": "beast tyrant"
   },
   {
     "name": "focused aggression",
@@ -1107,7 +1217,8 @@
     "xws": "focusedaggression",
     "level": "X",
     "initiative": "31",
-    "cardno": "488"
+    "cardno": "488",
+    "character-xws": "beast tyrant"
   },
   {
     "name": "forceful swipe",
@@ -1117,7 +1228,8 @@
     "xws": "forcefulswipe",
     "level": "1",
     "initiative": "35",
-    "cardno": "485"
+    "cardno": "485",
+    "character-xws": "beast tyrant"
   },
   {
     "name": "howling bolts",
@@ -1127,7 +1239,8 @@
     "xws": "howlingbolts",
     "level": "1",
     "initiative": "47",
-    "cardno": "486"
+    "cardno": "486",
+    "character-xws": "beast tyrant"
   },
   {
     "name": "jaws of death",
@@ -1137,7 +1250,8 @@
     "xws": "jawsofdeath",
     "level": "9",
     "initiative": "48",
-    "cardno": "504"
+    "cardno": "504",
+    "character-xws": "beast tyrant"
   },
   {
     "name": "lash out",
@@ -1147,7 +1261,8 @@
     "xws": "lashout",
     "level": "8",
     "initiative": "18",
-    "cardno": "502"
+    "cardno": "502",
+    "character-xws": "beast tyrant"
   },
   {
     "name": "maul",
@@ -1157,7 +1272,8 @@
     "xws": "maul",
     "level": "1",
     "initiative": "14",
-    "cardno": "484"
+    "cardno": "484",
+    "character-xws": "beast tyrant"
   },
   {
     "name": "natural remedy",
@@ -1167,7 +1283,8 @@
     "xws": "naturalremedy",
     "level": "8",
     "initiative": "25",
-    "cardno": "503"
+    "cardno": "503",
+    "character-xws": "beast tyrant"
   },
   {
     "name": "patch fur",
@@ -1177,7 +1294,8 @@
     "xws": "patchfur",
     "level": "1",
     "initiative": "20",
-    "cardno": "483"
+    "cardno": "483",
+    "character-xws": "beast tyrant"
   },
   {
     "name": "primal blessing",
@@ -1187,7 +1305,8 @@
     "xws": "primalblessing",
     "level": "6",
     "initiative": "28",
-    "cardno": "498"
+    "cardno": "498",
+    "character-xws": "beast tyrant"
   },
   {
     "name": "punch through",
@@ -1197,7 +1316,8 @@
     "xws": "punchthrough",
     "level": "4",
     "initiative": "44",
-    "cardno": "495"
+    "cardno": "495",
+    "character-xws": "beast tyrant"
   },
   {
     "name": "rampage",
@@ -1207,7 +1327,8 @@
     "xws": "rampage",
     "level": "5",
     "initiative": "34",
-    "cardno": "496"
+    "cardno": "496",
+    "character-xws": "beast tyrant"
   },
   {
     "name": "relentless ally",
@@ -1217,7 +1338,8 @@
     "xws": "relentlessally",
     "level": "1",
     "initiative": "81",
-    "cardno": "480"
+    "cardno": "480",
+    "character-xws": "beast tyrant"
   },
   {
     "name": "tattered wolf",
@@ -1227,7 +1349,8 @@
     "xws": "relentlessally",
     "level": "1",
     "initiative": "81",
-    "cardno": "480"
+    "cardno": "480",
+    "character-xws": "beast tyrant"
   },
   {
     "name": "soaring ally",
@@ -1237,7 +1360,8 @@
     "xws": "soaringally",
     "level": "X",
     "initiative": "77",
-    "cardno": "487"
+    "cardno": "487",
+    "character-xws": "beast tyrant"
   },
   {
     "name": "red falcon",
@@ -1247,7 +1371,8 @@
     "xws": "soaringally",
     "level": "X",
     "initiative": "77",
-    "cardno": "487"
+    "cardno": "487",
+    "character-xws": "beast tyrant"
   },
   {
     "name": "spirit swap",
@@ -1257,7 +1382,8 @@
     "xws": "spiritswap",
     "level": "1",
     "initiative": "22",
-    "cardno": "478"
+    "cardno": "478",
+    "character-xws": "beast tyrant"
   },
   {
     "name": "stone sigil",
@@ -1267,7 +1393,8 @@
     "xws": "stonesigil",
     "level": "5",
     "initiative": "95",
-    "cardno": "497"
+    "cardno": "497",
+    "character-xws": "beast tyrant"
   },
   {
     "name": "monolith",
@@ -1277,7 +1404,8 @@
     "xws": "stonesigil",
     "level": "5",
     "initiative": "95",
-    "cardno": "497"
+    "cardno": "497",
+    "character-xws": "beast tyrant"
   },
   {
     "name": "storm sigil",
@@ -1287,7 +1415,8 @@
     "xws": "stormsigil",
     "level": "7",
     "initiative": "93",
-    "cardno": "500"
+    "cardno": "500",
+    "character-xws": "beast tyrant"
   },
   {
     "name": "wind totem",
@@ -1297,7 +1426,8 @@
     "xws": "stormsigil",
     "level": "7",
     "initiative": "93",
-    "cardno": "500"
+    "cardno": "500",
+    "character-xws": "beast tyrant"
   },
   {
     "name": "tribal sigil",
@@ -1307,7 +1437,8 @@
     "xws": "tribalsigil",
     "level": "9",
     "initiative": "91",
-    "cardno": "505"
+    "cardno": "505",
+    "character-xws": "beast tyrant"
   },
   {
     "name": "spirit banner",
@@ -1317,7 +1448,8 @@
     "xws": "tribalsigil",
     "level": "9",
     "initiative": "91",
-    "cardno": "505"
+    "cardno": "505",
+    "character-xws": "beast tyrant"
   },
   {
     "name": "tyrannical force",
@@ -1327,7 +1459,8 @@
     "xws": "tyrannicalforce",
     "level": "7",
     "initiative": "37",
-    "cardno": "501"
+    "cardno": "501",
+    "character-xws": "beast tyrant"
   },
   {
     "name": "unstoppable beast",
@@ -1337,7 +1470,8 @@
     "xws": "unstoppablebeast",
     "level": "3",
     "initiative": "32",
-    "cardno": "493"
+    "cardno": "493",
+    "character-xws": "beast tyrant"
   },
   {
     "name": "venomous ally",
@@ -1347,7 +1481,8 @@
     "xws": "venomousally",
     "level": "1",
     "initiative": "79",
-    "cardno": "479"
+    "cardno": "479",
+    "character-xws": "beast tyrant"
   },
   {
     "name": "green adder",
@@ -1357,7 +1492,8 @@
     "xws": "venomousally",
     "level": "1",
     "initiative": "79",
-    "cardno": "479"
+    "cardno": "479",
+    "character-xws": "beast tyrant"
   },
   {
     "name": "vicious ally",
@@ -1367,7 +1503,8 @@
     "xws": "viciousally",
     "level": "3",
     "initiative": "86",
-    "cardno": "492"
+    "cardno": "492",
+    "character-xws": "beast tyrant"
   },
   {
     "name": "swamp alligator",
@@ -1377,7 +1514,8 @@
     "xws": "viciousally",
     "level": "3",
     "initiative": "86",
-    "cardno": "492"
+    "cardno": "492",
+    "character-xws": "beast tyrant"
   },
   {
     "name": "ch-back",
@@ -1387,7 +1525,8 @@
     "xws": "chback",
     "level": "-",
     "initiative": "-",
-    "cardno": "-"
+    "cardno": "-",
+    "character-xws": "cragheart"
   },
   {
     "name": "avalanche",
@@ -1397,7 +1536,8 @@
     "xws": "avalanche",
     "level": "1",
     "initiative": "75",
-    "cardno": "118"
+    "cardno": "118",
+    "character-xws": "cragheart"
   },
   {
     "name": "backup ammunition",
@@ -1407,7 +1547,8 @@
     "xws": "backupammunition",
     "level": "1",
     "initiative": "77",
-    "cardno": "121"
+    "cardno": "121",
+    "character-xws": "cragheart"
   },
   {
     "name": "blind destruction",
@@ -1417,7 +1558,8 @@
     "xws": "blinddestruction",
     "level": "9",
     "initiative": "74",
-    "cardno": "144"
+    "cardno": "144",
+    "character-xws": "cragheart"
   },
   {
     "name": "blunt force",
@@ -1427,7 +1569,8 @@
     "xws": "bluntforce",
     "level": "3",
     "initiative": "21",
-    "cardno": "133"
+    "cardno": "133",
+    "character-xws": "cragheart"
   },
   {
     "name": "brutal momentum",
@@ -1437,7 +1580,8 @@
     "xws": "brutalmomentum",
     "level": "7",
     "initiative": "52",
-    "cardno": "141"
+    "cardno": "141",
+    "character-xws": "cragheart"
   },
   {
     "name": "cataclysm",
@@ -1447,7 +1591,8 @@
     "xws": "cataclysm",
     "level": "6",
     "initiative": "26",
-    "cardno": "139"
+    "cardno": "139",
+    "character-xws": "cragheart"
   },
   {
     "name": "clear the way",
@@ -1457,7 +1602,8 @@
     "xws": "cleartheway",
     "level": "3",
     "initiative": "43",
-    "cardno": "132"
+    "cardno": "132",
+    "character-xws": "cragheart"
   },
   {
     "name": "crater",
@@ -1467,7 +1613,8 @@
     "xws": "crater",
     "level": "1",
     "initiative": "61",
-    "cardno": "124"
+    "cardno": "124",
+    "character-xws": "cragheart"
   },
   {
     "name": "crushing grasp",
@@ -1477,7 +1624,8 @@
     "xws": "crushinggrasp",
     "level": "1",
     "initiative": "35",
-    "cardno": "117"
+    "cardno": "117",
+    "character-xws": "cragheart"
   },
   {
     "name": "dig pit",
@@ -1487,7 +1635,8 @@
     "xws": "digpit",
     "level": "6",
     "initiative": "78",
-    "cardno": "138"
+    "cardno": "138",
+    "character-xws": "cragheart"
   },
   {
     "name": "dirt tornado",
@@ -1497,7 +1646,8 @@
     "xws": "dirttornado",
     "level": "1",
     "initiative": "82",
-    "cardno": "125"
+    "cardno": "125",
+    "character-xws": "cragheart"
   },
   {
     "name": "earthen clod",
@@ -1507,7 +1657,8 @@
     "xws": "earthenclod",
     "level": "1",
     "initiative": "38",
-    "cardno": "126"
+    "cardno": "126",
+    "character-xws": "cragheart"
   },
   {
     "name": "explosive punch",
@@ -1517,7 +1668,8 @@
     "xws": "explosivepunch",
     "level": "2",
     "initiative": "28",
-    "cardno": "130"
+    "cardno": "130",
+    "character-xws": "cragheart"
   },
   {
     "name": "forceful storm",
@@ -1527,7 +1679,8 @@
     "xws": "forcefulstorm",
     "level": "X",
     "initiative": "53",
-    "cardno": "128"
+    "cardno": "128",
+    "character-xws": "cragheart"
   },
   {
     "name": "heaving swing",
@@ -1537,7 +1690,8 @@
     "xws": "heavingswing",
     "level": "X",
     "initiative": "57",
-    "cardno": "127"
+    "cardno": "127",
+    "character-xws": "cragheart"
   },
   {
     "name": "kinetic assault",
@@ -1547,7 +1701,8 @@
     "xws": "kineticassault",
     "level": "4",
     "initiative": "19",
-    "cardno": "135"
+    "cardno": "135",
+    "character-xws": "cragheart"
   },
   {
     "name": "lumbering bash",
@@ -1557,7 +1712,8 @@
     "xws": "lumberingbash",
     "level": "8",
     "initiative": "85",
-    "cardno": "143"
+    "cardno": "143",
+    "character-xws": "cragheart"
   },
   {
     "name": "massive boulder",
@@ -1567,7 +1723,8 @@
     "xws": "massiveboulder",
     "level": "1",
     "initiative": "87",
-    "cardno": "120"
+    "cardno": "120",
+    "character-xws": "cragheart"
   },
   {
     "name": "meteor",
@@ -1577,7 +1734,8 @@
     "xws": "meteor",
     "level": "7",
     "initiative": "23",
-    "cardno": "140"
+    "cardno": "140",
+    "character-xws": "cragheart"
   },
   {
     "name": "nature's lift",
@@ -1587,7 +1745,8 @@
     "xws": "natureslift",
     "level": "X",
     "initiative": "64",
-    "cardno": "129"
+    "cardno": "129",
+    "character-xws": "cragheart"
   },
   {
     "name": "opposing strike",
@@ -1597,7 +1756,8 @@
     "xws": "opposingstrike",
     "level": "1",
     "initiative": "46",
-    "cardno": "116"
+    "cardno": "116",
+    "character-xws": "cragheart"
   },
   {
     "name": "petrify",
@@ -1607,7 +1767,8 @@
     "xws": "petrify",
     "level": "5",
     "initiative": "47",
-    "cardno": "136"
+    "cardno": "136",
+    "character-xws": "cragheart"
   },
   {
     "name": "pulverize",
@@ -1617,7 +1778,8 @@
     "xws": "pulverize",
     "level": "9",
     "initiative": "31",
-    "cardno": "145"
+    "cardno": "145",
+    "character-xws": "cragheart"
   },
   {
     "name": "rock slide",
@@ -1627,7 +1789,8 @@
     "xws": "rockslide",
     "level": "4",
     "initiative": "81",
-    "cardno": "134"
+    "cardno": "134",
+    "character-xws": "cragheart"
   },
   {
     "name": "rock tunnel",
@@ -1637,7 +1800,8 @@
     "xws": "rocktunnel",
     "level": "1",
     "initiative": "41",
-    "cardno": "122"
+    "cardno": "122",
+    "character-xws": "cragheart"
   },
   {
     "name": "rocky end",
@@ -1647,7 +1811,8 @@
     "xws": "rockyend",
     "level": "8",
     "initiative": "37",
-    "cardno": "142"
+    "cardno": "142",
+    "character-xws": "cragheart"
   },
   {
     "name": "rumbling advance",
@@ -1657,7 +1822,8 @@
     "xws": "rumblingadvance",
     "level": "1",
     "initiative": "29",
-    "cardno": "119"
+    "cardno": "119",
+    "character-xws": "cragheart"
   },
   {
     "name": "sentient growth",
@@ -1667,7 +1833,8 @@
     "xws": "sentientgrowth",
     "level": "2",
     "initiative": "78",
-    "cardno": "131"
+    "cardno": "131",
+    "character-xws": "cragheart"
   },
   {
     "name": "stone pummel",
@@ -1677,7 +1844,8 @@
     "xws": "stonepummel",
     "level": "5",
     "initiative": "32",
-    "cardno": "137"
+    "cardno": "137",
+    "character-xws": "cragheart"
   },
   {
     "name": "unstable upheaval",
@@ -1687,7 +1855,8 @@
     "xws": "unstableupheaval",
     "level": "1",
     "initiative": "13",
-    "cardno": "123"
+    "cardno": "123",
+    "character-xws": "cragheart"
   },
   {
     "name": "ds-back",
@@ -1697,7 +1866,8 @@
     "xws": "dsback",
     "level": "-",
     "initiative": "-",
-    "cardno": "-"
+    "cardno": "-",
+    "character-xws": "doomstalker"
   },
   {
     "name": "a moment's peace",
@@ -1707,7 +1877,8 @@
     "xws": "amomentspeace",
     "level": "1",
     "initiative": "88",
-    "cardno": "386"
+    "cardno": "386",
+    "character-xws": "doomstalker"
   },
   {
     "name": "camouflage",
@@ -1717,7 +1888,8 @@
     "xws": "camouflage",
     "level": "6",
     "initiative": "23",
-    "cardno": "400"
+    "cardno": "400",
+    "character-xws": "doomstalker"
   },
   {
     "name": "crashing wave",
@@ -1727,7 +1899,8 @@
     "xws": "crashingwave",
     "level": "7",
     "initiative": "22",
-    "cardno": "402"
+    "cardno": "402",
+    "character-xws": "doomstalker"
   },
   {
     "name": "crippling noose",
@@ -1737,7 +1910,8 @@
     "xws": "cripplingnoose",
     "level": "1",
     "initiative": "57",
-    "cardno": "377"
+    "cardno": "377",
+    "character-xws": "doomstalker"
   },
   {
     "name": "darkened skies",
@@ -1747,7 +1921,8 @@
     "xws": "darkenedskies",
     "level": "3",
     "initiative": "25",
-    "cardno": "393"
+    "cardno": "393",
+    "character-xws": "doomstalker"
   },
   {
     "name": "detonation",
@@ -1757,7 +1932,8 @@
     "xws": "detonation",
     "level": "1",
     "initiative": "54",
-    "cardno": "382"
+    "cardno": "382",
+    "character-xws": "doomstalker"
   },
   {
     "name": "expose",
@@ -1767,7 +1943,8 @@
     "xws": "expose",
     "level": "2",
     "initiative": "13",
-    "cardno": "391"
+    "cardno": "391",
+    "character-xws": "doomstalker"
   },
   {
     "name": "felling swoop",
@@ -1777,7 +1954,8 @@
     "xws": "fellingswoop",
     "level": "1",
     "initiative": "75",
-    "cardno": "378"
+    "cardno": "378",
+    "character-xws": "doomstalker"
   },
   {
     "name": "war hawk",
@@ -1787,7 +1965,8 @@
     "xws": "fellingswoop",
     "level": "1",
     "initiative": "75",
-    "cardno": "378"
+    "cardno": "378",
+    "character-xws": "doomstalker"
   },
   {
     "name": "feral instincts",
@@ -1797,7 +1976,8 @@
     "xws": "feralinstincts",
     "level": "8",
     "initiative": "35",
-    "cardno": "404"
+    "cardno": "404",
+    "character-xws": "doomstalker"
   },
   {
     "name": "flight of flame",
@@ -1807,7 +1987,8 @@
     "xws": "flightofflame",
     "level": "4",
     "initiative": "53",
-    "cardno": "396"
+    "cardno": "396",
+    "character-xws": "doomstalker"
   },
   {
     "name": "foot snare",
@@ -1817,7 +1998,8 @@
     "xws": "footsnare",
     "level": "1",
     "initiative": "61",
-    "cardno": "384"
+    "cardno": "384",
+    "character-xws": "doomstalker"
   },
   {
     "name": "fresh kill",
@@ -1827,7 +2009,8 @@
     "xws": "freshkill",
     "level": "X",
     "initiative": "65",
-    "cardno": "390"
+    "cardno": "390",
+    "character-xws": "doomstalker"
   },
   {
     "name": "frightening curse",
@@ -1837,7 +2020,8 @@
     "xws": "frighteningcurse",
     "level": "1",
     "initiative": "37",
-    "cardno": "383"
+    "cardno": "383",
+    "character-xws": "doomstalker"
   },
   {
     "name": "impending end",
@@ -1847,7 +2031,8 @@
     "xws": "impendingend",
     "level": "7",
     "initiative": "47",
-    "cardno": "401"
+    "cardno": "401",
+    "character-xws": "doomstalker"
   },
   {
     "name": "inescapable fate",
@@ -1857,7 +2042,8 @@
     "xws": "inescapablefate",
     "level": "5",
     "initiative": "97",
-    "cardno": "397"
+    "cardno": "397",
+    "character-xws": "doomstalker"
   },
   {
     "name": "lead to slaughter",
@@ -1867,7 +2053,8 @@
     "xws": "leadtoslaughter",
     "level": "9",
     "initiative": "40",
-    "cardno": "406"
+    "cardno": "406",
+    "character-xws": "doomstalker"
   },
   {
     "name": "multi-pronged assault",
@@ -1877,7 +2064,8 @@
     "xws": "multiprongedassault",
     "level": "1",
     "initiative": "14",
-    "cardno": "381"
+    "cardno": "381",
+    "character-xws": "doomstalker"
   },
   {
     "name": "nature's hunger",
@@ -1887,7 +2075,8 @@
     "xws": "natureshunger",
     "level": "6",
     "initiative": "82",
-    "cardno": "399"
+    "cardno": "399",
+    "character-xws": "doomstalker"
   },
   {
     "name": "giant toad",
@@ -1897,7 +2086,8 @@
     "xws": "natureshunger",
     "level": "6",
     "initiative": "82",
-    "cardno": "399"
+    "cardno": "399",
+    "character-xws": "doomstalker"
   },
   {
     "name": "predator and prey",
@@ -1907,7 +2097,8 @@
     "xws": "predatorandprey",
     "level": "9",
     "initiative": "86",
-    "cardno": "405"
+    "cardno": "405",
+    "character-xws": "doomstalker"
   },
   {
     "name": "spitting cobra",
@@ -1917,7 +2108,8 @@
     "xws": "predatorandprey",
     "level": "9",
     "initiative": "86",
-    "cardno": "405"
+    "cardno": "405",
+    "character-xws": "doomstalker"
   },
   {
     "name": "press the attack",
@@ -1927,7 +2119,8 @@
     "xws": "presstheattack",
     "level": "3",
     "initiative": "10",
-    "cardno": "394"
+    "cardno": "394",
+    "character-xws": "doomstalker"
   },
   {
     "name": "race to the grave",
@@ -1937,7 +2130,8 @@
     "xws": "racetothegrave",
     "level": "1",
     "initiative": "09",
-    "cardno": "380"
+    "cardno": "380",
+    "character-xws": "doomstalker"
   },
   {
     "name": "rain of arrows",
@@ -1947,7 +2141,8 @@
     "xws": "rainofarrows",
     "level": "1",
     "initiative": "33",
-    "cardno": "376"
+    "cardno": "376",
+    "character-xws": "doomstalker"
   },
   {
     "name": "relentless offensive",
@@ -1957,7 +2152,8 @@
     "xws": "relentlessoffensive",
     "level": "2",
     "initiative": "52",
-    "cardno": "392"
+    "cardno": "392",
+    "character-xws": "doomstalker"
   },
   {
     "name": "rising momentum",
@@ -1967,7 +2163,8 @@
     "xws": "risingmomentum",
     "level": "8",
     "initiative": "12",
-    "cardno": "403"
+    "cardno": "403",
+    "character-xws": "doomstalker"
   },
   {
     "name": "sap life",
@@ -1977,7 +2174,8 @@
     "xws": "saplife",
     "level": "X",
     "initiative": "14",
-    "cardno": "388"
+    "cardno": "388",
+    "character-xws": "doomstalker"
   },
   {
     "name": "singular focus",
@@ -1987,7 +2185,8 @@
     "xws": "singularfocus",
     "level": "4",
     "initiative": "28",
-    "cardno": "395"
+    "cardno": "395",
+    "character-xws": "doomstalker"
   },
   {
     "name": "solid bow",
@@ -1997,7 +2196,8 @@
     "xws": "solidbow",
     "level": "1",
     "initiative": "31",
-    "cardno": "385"
+    "cardno": "385",
+    "character-xws": "doomstalker"
   },
   {
     "name": "swift trickery",
@@ -2007,7 +2207,8 @@
     "xws": "swifttrickery",
     "level": "1",
     "initiative": "11",
-    "cardno": "387"
+    "cardno": "387",
+    "character-xws": "doomstalker"
   },
   {
     "name": "the hunt begins",
@@ -2017,7 +2218,8 @@
     "xws": "thehuntbegins",
     "level": "X",
     "initiative": "71",
-    "cardno": "389"
+    "cardno": "389",
+    "character-xws": "doomstalker"
   },
   {
     "name": "vicious jackal",
@@ -2027,7 +2229,8 @@
     "xws": "thehuntbegins",
     "level": "X",
     "initiative": "71",
-    "cardno": "389"
+    "cardno": "389",
+    "character-xws": "doomstalker"
   },
   {
     "name": "vital charge",
@@ -2037,7 +2240,8 @@
     "xws": "vitalcharge",
     "level": "1",
     "initiative": "78",
-    "cardno": "379"
+    "cardno": "379",
+    "character-xws": "doomstalker"
   },
   {
     "name": "battle boar",
@@ -2047,7 +2251,8 @@
     "xws": "vitalcharge",
     "level": "1",
     "initiative": "78",
-    "cardno": "379"
+    "cardno": "379",
+    "character-xws": "doomstalker"
   },
   {
     "name": "wild command",
@@ -2057,7 +2262,8 @@
     "xws": "wildcommand",
     "level": "5",
     "initiative": "46",
-    "cardno": "398"
+    "cardno": "398",
+    "character-xws": "doomstalker"
   },
   {
     "name": "el-back",
@@ -2067,7 +2273,8 @@
     "xws": "elback",
     "level": "-",
     "initiative": "-",
-    "cardno": "-"
+    "cardno": "-",
+    "character-xws": "elementalist"
   },
   {
     "name": "boiling arc",
@@ -2077,7 +2284,8 @@
     "xws": "boilingarc",
     "level": "2",
     "initiative": "47",
-    "cardno": "460"
+    "cardno": "460",
+    "character-xws": "elementalist"
   },
   {
     "name": "brilliant flash",
@@ -2087,7 +2295,8 @@
     "xws": "brilliantflash",
     "level": "X",
     "initiative": "67",
-    "cardno": "458"
+    "cardno": "458",
+    "character-xws": "elementalist"
   },
   {
     "name": "burial",
@@ -2097,7 +2306,8 @@
     "xws": "burial",
     "level": "3",
     "initiative": "65",
-    "cardno": "462"
+    "cardno": "462",
+    "character-xws": "elementalist"
   },
   {
     "name": "chain lightning",
@@ -2107,7 +2317,8 @@
     "xws": "chainlightning",
     "level": "3",
     "initiative": "41",
-    "cardno": "463"
+    "cardno": "463",
+    "character-xws": "elementalist"
   },
   {
     "name": "crystallizing blast",
@@ -2117,7 +2328,8 @@
     "xws": "crystallizingblast",
     "level": "2",
     "initiative": "67",
-    "cardno": "461"
+    "cardno": "461",
+    "character-xws": "elementalist"
   },
   {
     "name": "elemental aegis",
@@ -2127,7 +2339,8 @@
     "xws": "elementalaegis",
     "level": "8",
     "initiative": "14",
-    "cardno": "473"
+    "cardno": "473",
+    "character-xws": "elementalist"
   },
   {
     "name": "encompassing shadow",
@@ -2137,7 +2350,8 @@
     "xws": "encompassingshadow",
     "level": "X",
     "initiative": "23",
-    "cardno": "459"
+    "cardno": "459",
+    "character-xws": "elementalist"
   },
   {
     "name": "eternal equilibrium",
@@ -2147,7 +2361,8 @@
     "xws": "eternalequilibrium",
     "level": "9",
     "initiative": "27",
-    "cardno": "475"
+    "cardno": "475",
+    "character-xws": "elementalist"
   },
   {
     "name": "ethereal manifestation",
@@ -2157,7 +2372,8 @@
     "xws": "etherealmanifestation",
     "level": "9",
     "initiative": "98",
-    "cardno": "474"
+    "cardno": "474",
+    "character-xws": "elementalist"
   },
   {
     "name": "mana sphere",
@@ -2167,7 +2383,8 @@
     "xws": "etherealmanifestation",
     "level": "9",
     "initiative": "98",
-    "cardno": "474"
+    "cardno": "474",
+    "character-xws": "elementalist"
   },
   {
     "name": "eye of the hurricane",
@@ -2177,7 +2394,8 @@
     "xws": "eyeofthehurricane",
     "level": "6",
     "initiative": "29",
-    "cardno": "468"
+    "cardno": "468",
+    "character-xws": "elementalist"
   },
   {
     "name": "formless power",
@@ -2187,7 +2405,8 @@
     "xws": "formlesspower",
     "level": "1",
     "initiative": "45",
-    "cardno": "449"
+    "cardno": "449",
+    "character-xws": "elementalist"
   },
   {
     "name": "frigid torrent",
@@ -2197,7 +2416,8 @@
     "xws": "frigidtorrent",
     "level": "1",
     "initiative": "35",
-    "cardno": "456"
+    "cardno": "456",
+    "character-xws": "elementalist"
   },
   {
     "name": "gravel vortex",
@@ -2207,7 +2427,8 @@
     "xws": "gravelvortex",
     "level": "4",
     "initiative": "62",
-    "cardno": "465"
+    "cardno": "465",
+    "character-xws": "elementalist"
   },
   {
     "name": "ice spikes",
@@ -2217,7 +2438,8 @@
     "xws": "icespikes",
     "level": "1",
     "initiative": "40",
-    "cardno": "455"
+    "cardno": "455",
+    "character-xws": "elementalist"
   },
   {
     "name": "infernal vortex",
@@ -2227,7 +2449,8 @@
     "xws": "infernalvortex",
     "level": "1",
     "initiative": "17",
-    "cardno": "453"
+    "cardno": "453",
+    "character-xws": "elementalist"
   },
   {
     "name": "lava eruption",
@@ -2237,7 +2460,8 @@
     "xws": "lavaeruption",
     "level": "1",
     "initiative": "19",
-    "cardno": "454"
+    "cardno": "454",
+    "character-xws": "elementalist"
   },
   {
     "name": "malleable evocation",
@@ -2247,7 +2471,8 @@
     "xws": "malleableevocation",
     "level": "X",
     "initiative": "50",
-    "cardno": "457"
+    "cardno": "457",
+    "character-xws": "elementalist"
   },
   {
     "name": "obsidian shards",
@@ -2257,7 +2482,8 @@
     "xws": "obsidianshards",
     "level": "5",
     "initiative": "36",
-    "cardno": "466"
+    "cardno": "466",
+    "character-xws": "elementalist"
   },
   {
     "name": "pragmatic reinforcement",
@@ -2267,7 +2493,8 @@
     "xws": "pragmaticreinforcement",
     "level": "7",
     "initiative": "56",
-    "cardno": "471"
+    "cardno": "471",
+    "character-xws": "elementalist"
   },
   {
     "name": "primal duality",
@@ -2277,7 +2504,8 @@
     "xws": "primalduality",
     "level": "4",
     "initiative": "15",
-    "cardno": "464"
+    "cardno": "464",
+    "character-xws": "elementalist"
   },
   {
     "name": "pure augmentation",
@@ -2287,7 +2515,8 @@
     "xws": "pureaugmentation",
     "level": "1",
     "initiative": "48",
-    "cardno": "448"
+    "cardno": "448",
+    "character-xws": "elementalist"
   },
   {
     "name": "raw enhancement",
@@ -2297,7 +2526,8 @@
     "xws": "rawenhancement",
     "level": "1",
     "initiative": "48",
-    "cardno": "447"
+    "cardno": "447",
+    "character-xws": "elementalist"
   },
   {
     "name": "shaping the ether",
@@ -2307,7 +2537,8 @@
     "xws": "shapingtheether",
     "level": "1",
     "initiative": "54",
-    "cardno": "450"
+    "cardno": "450",
+    "character-xws": "elementalist"
   },
   {
     "name": "simulacrum",
@@ -2317,7 +2548,8 @@
     "xws": "simulacrum",
     "level": "6",
     "initiative": "94",
-    "cardno": "469"
+    "cardno": "469",
+    "character-xws": "elementalist"
   },
   {
     "name": "doppelganger",
@@ -2327,7 +2559,8 @@
     "xws": "simulacrum",
     "level": "6",
     "initiative": "94",
-    "cardno": "469"
+    "cardno": "469",
+    "character-xws": "elementalist"
   },
   {
     "name": "stoking hail",
@@ -2337,7 +2570,8 @@
     "xws": "stokinghail",
     "level": "1",
     "initiative": "28",
-    "cardno": "451"
+    "cardno": "451",
+    "character-xws": "elementalist"
   },
   {
     "name": "tremulant cyclone",
@@ -2347,7 +2581,8 @@
     "xws": "tremulantcyclone",
     "level": "1",
     "initiative": "26",
-    "cardno": "452"
+    "cardno": "452",
+    "character-xws": "elementalist"
   },
   {
     "name": "vengeance",
@@ -2357,7 +2592,8 @@
     "xws": "vengeance",
     "level": "7",
     "initiative": "33",
-    "cardno": "470"
+    "cardno": "470",
+    "character-xws": "elementalist"
   },
   {
     "name": "volatile consumption",
@@ -2367,7 +2603,8 @@
     "xws": "volatileconsumption",
     "level": "8",
     "initiative": "64",
-    "cardno": "472"
+    "cardno": "472",
+    "character-xws": "elementalist"
   },
   {
     "name": "winter's edge",
@@ -2377,7 +2614,8 @@
     "xws": "wintersedge",
     "level": "5",
     "initiative": "43",
-    "cardno": "467"
+    "cardno": "467",
+    "character-xws": "elementalist"
   },
   {
     "name": "mt-back",
@@ -2387,7 +2625,8 @@
     "xws": "mtback",
     "level": "-",
     "initiative": "-",
-    "cardno": "-"
+    "cardno": "-",
+    "character-xws": "mindthief"
   },
   {
     "name": "brain leech",
@@ -2397,7 +2636,8 @@
     "xws": "brainleech",
     "level": "3",
     "initiative": "16",
-    "cardno": "161"
+    "cardno": "161",
+    "character-xws": "mindthief"
   },
   {
     "name": "corrupting embrace",
@@ -2407,7 +2647,8 @@
     "xws": "corruptingembrace",
     "level": "6",
     "initiative": "39",
-    "cardno": "167"
+    "cardno": "167",
+    "character-xws": "mindthief"
   },
   {
     "name": "cranium overload",
@@ -2417,7 +2658,8 @@
     "xws": "craniumoverload",
     "level": "4",
     "initiative": "05",
-    "cardno": "164"
+    "cardno": "164",
+    "character-xws": "mindthief"
   },
   {
     "name": "dark frenzy",
@@ -2427,7 +2669,8 @@
     "xws": "darkfrenzy",
     "level": "6",
     "initiative": "10",
-    "cardno": "168"
+    "cardno": "168",
+    "character-xws": "mindthief"
   },
   {
     "name": "domination",
@@ -2437,7 +2680,8 @@
     "xws": "domination",
     "level": "8",
     "initiative": "13",
-    "cardno": "172"
+    "cardno": "172",
+    "character-xws": "mindthief"
   },
   {
     "name": "empathetic assault",
@@ -2447,7 +2691,8 @@
     "xws": "empatheticassault",
     "level": "1",
     "initiative": "11",
-    "cardno": "155"
+    "cardno": "155",
+    "character-xws": "mindthief"
   },
   {
     "name": "fearsome blade",
@@ -2457,7 +2702,8 @@
     "xws": "fearsomeblade",
     "level": "1",
     "initiative": "27",
-    "cardno": "148"
+    "cardno": "148",
+    "character-xws": "mindthief"
   },
   {
     "name": "feedback loop",
@@ -2467,7 +2713,8 @@
     "xws": "feedbackloop",
     "level": "1",
     "initiative": "79",
-    "cardno": "149"
+    "cardno": "149",
+    "character-xws": "mindthief"
   },
   {
     "name": "frigid apparition",
@@ -2477,7 +2724,8 @@
     "xws": "frigidapparition",
     "level": "X",
     "initiative": "29",
-    "cardno": "158"
+    "cardno": "158",
+    "character-xws": "mindthief"
   },
   {
     "name": "frozen mind",
@@ -2487,7 +2735,8 @@
     "xws": "frozenmind",
     "level": "5",
     "initiative": "81",
-    "cardno": "166"
+    "cardno": "166",
+    "character-xws": "mindthief"
   },
   {
     "name": "gnawing horde",
@@ -2497,7 +2746,8 @@
     "xws": "gnawinghorde",
     "level": "1",
     "initiative": "82",
-    "cardno": "150"
+    "cardno": "150",
+    "character-xws": "mindthief"
   },
   {
     "name": "rat swarm",
@@ -2507,7 +2757,8 @@
     "xws": "gnawinghorde",
     "level": "1",
     "initiative": "82",
-    "cardno": "150"
+    "cardno": "150",
+    "character-xws": "mindthief"
   },
   {
     "name": "hostile takeover",
@@ -2517,7 +2768,8 @@
     "xws": "hostiletakeover",
     "level": "2",
     "initiative": "09",
-    "cardno": "160"
+    "cardno": "160",
+    "character-xws": "mindthief"
   },
   {
     "name": "into the night",
@@ -2527,7 +2779,8 @@
     "xws": "intothenight",
     "level": "1",
     "initiative": "14",
-    "cardno": "147"
+    "cardno": "147",
+    "character-xws": "mindthief"
   },
   {
     "name": "many as one",
@@ -2537,7 +2790,8 @@
     "xws": "manyasone",
     "level": "9",
     "initiative": "91",
-    "cardno": "173"
+    "cardno": "173",
+    "character-xws": "mindthief"
   },
   {
     "name": "rat king",
@@ -2547,7 +2801,8 @@
     "xws": "manyasone",
     "level": "9",
     "initiative": "91",
-    "cardno": "173"
+    "cardno": "173",
+    "character-xws": "mindthief"
   },
   {
     "name": "mass hysteria",
@@ -2557,7 +2812,8 @@
     "xws": "masshysteria",
     "level": "5",
     "initiative": "12",
-    "cardno": "165"
+    "cardno": "165",
+    "character-xws": "mindthief"
   },
   {
     "name": "parasitic influence",
@@ -2567,7 +2823,8 @@
     "xws": "parasiticinfluence",
     "level": "1",
     "initiative": "71",
-    "cardno": "152"
+    "cardno": "152",
+    "character-xws": "mindthief"
   },
   {
     "name": "perverse edge",
@@ -2577,7 +2834,8 @@
     "xws": "perverseedge",
     "level": "1",
     "initiative": "08",
-    "cardno": "154"
+    "cardno": "154",
+    "character-xws": "mindthief"
   },
   {
     "name": "phantasmal killer",
@@ -2587,7 +2845,8 @@
     "xws": "phantasmalkiller",
     "level": "9",
     "initiative": "67",
-    "cardno": "174"
+    "cardno": "174",
+    "character-xws": "mindthief"
   },
   {
     "name": "pilfer",
@@ -2597,7 +2856,8 @@
     "xws": "pilfer",
     "level": "4",
     "initiative": "68",
-    "cardno": "163"
+    "cardno": "163",
+    "character-xws": "mindthief"
   },
   {
     "name": "possession",
@@ -2607,7 +2867,8 @@
     "xws": "possession",
     "level": "X",
     "initiative": "51",
-    "cardno": "157"
+    "cardno": "157",
+    "character-xws": "mindthief"
   },
   {
     "name": "psychic projection",
@@ -2617,7 +2878,8 @@
     "xws": "psychicprojection",
     "level": "7",
     "initiative": "92",
-    "cardno": "170"
+    "cardno": "170",
+    "character-xws": "mindthief"
   },
   {
     "name": "scurry",
@@ -2627,7 +2889,8 @@
     "xws": "scurry",
     "level": "1",
     "initiative": "20",
-    "cardno": "153"
+    "cardno": "153",
+    "character-xws": "mindthief"
   },
   {
     "name": "shared nightmare",
@@ -2637,7 +2900,8 @@
     "xws": "sharednightmare",
     "level": "8",
     "initiative": "07",
-    "cardno": "171"
+    "cardno": "171",
+    "character-xws": "mindthief"
   },
   {
     "name": "silent scream",
@@ -2647,7 +2911,8 @@
     "xws": "silentscream",
     "level": "3",
     "initiative": "73",
-    "cardno": "162"
+    "cardno": "162",
+    "character-xws": "mindthief"
   },
   {
     "name": "submissive affliction",
@@ -2657,7 +2922,8 @@
     "xws": "submissiveaffliction",
     "level": "1",
     "initiative": "48",
-    "cardno": "146"
+    "cardno": "146",
+    "character-xws": "mindthief"
   },
   {
     "name": "the mind's weakness",
@@ -2667,7 +2933,8 @@
     "xws": "themindsweakness",
     "level": "1",
     "initiative": "75",
-    "cardno": "151"
+    "cardno": "151",
+    "character-xws": "mindthief"
   },
   {
     "name": "vicious blood",
@@ -2677,7 +2944,8 @@
     "xws": "viciousblood",
     "level": "7",
     "initiative": "83",
-    "cardno": "169"
+    "cardno": "169",
+    "character-xws": "mindthief"
   },
   {
     "name": "withering claw",
@@ -2687,7 +2955,8 @@
     "xws": "witheringclaw",
     "level": "X",
     "initiative": "77",
-    "cardno": "156"
+    "cardno": "156",
+    "character-xws": "mindthief"
   },
   {
     "name": "wretched creature",
@@ -2697,7 +2966,8 @@
     "xws": "wretchedcreature",
     "level": "2",
     "initiative": "84",
-    "cardno": "159"
+    "cardno": "159",
+    "character-xws": "mindthief"
   },
   {
     "name": "monstrous rat",
@@ -2707,7 +2977,8 @@
     "xws": "wretchedcreature",
     "level": "2",
     "initiative": "84",
-    "cardno": "159"
+    "cardno": "159",
+    "character-xws": "mindthief"
   },
   {
     "name": "ns-back",
@@ -2717,7 +2988,8 @@
     "xws": "nsback",
     "level": "-",
     "initiative": "-",
-    "cardno": "-"
+    "cardno": "-",
+    "character-xws": "nightshroud"
   },
   {
     "name": "angel of death",
@@ -2727,7 +2999,8 @@
     "xws": "angelofdeath",
     "level": "9",
     "initiative": "38",
-    "cardno": "287"
+    "cardno": "287",
+    "character-xws": "nightshroud"
   },
   {
     "name": "armor of the night",
@@ -2737,7 +3010,8 @@
     "xws": "armorofthenight",
     "level": "3",
     "initiative": "23",
-    "cardno": "276"
+    "cardno": "276",
+    "character-xws": "nightshroud"
   },
   {
     "name": "black arrow",
@@ -2747,7 +3021,8 @@
     "xws": "blackarrow",
     "level": "5",
     "initiative": "11",
-    "cardno": "280"
+    "cardno": "280",
+    "character-xws": "nightshroud"
   },
   {
     "name": "black knives",
@@ -2757,7 +3032,8 @@
     "xws": "blackknives",
     "level": "1",
     "initiative": "44",
-    "cardno": "261"
+    "cardno": "261",
+    "character-xws": "nightshroud"
   },
   {
     "name": "claws of the night",
@@ -2767,7 +3043,8 @@
     "xws": "clawsofthenight",
     "level": "5",
     "initiative": "26",
-    "cardno": "279"
+    "cardno": "279",
+    "character-xws": "nightshroud"
   },
   {
     "name": "cloak of shade",
@@ -2777,7 +3054,8 @@
     "xws": "cloakofshade",
     "level": "1",
     "initiative": "13",
-    "cardno": "262"
+    "cardno": "262",
+    "character-xws": "nightshroud"
   },
   {
     "name": "concealed dominance",
@@ -2787,7 +3065,8 @@
     "xws": "concealeddominance",
     "level": "X",
     "initiative": "35",
-    "cardno": "271"
+    "cardno": "271",
+    "character-xws": "nightshroud"
   },
   {
     "name": "dancing shadows",
@@ -2797,7 +3076,8 @@
     "xws": "dancingshadows",
     "level": "1",
     "initiative": "09",
-    "cardno": "267"
+    "cardno": "267",
+    "character-xws": "nightshroud"
   },
   {
     "name": "dark cloud",
@@ -2807,7 +3087,8 @@
     "xws": "darkcloud",
     "level": "X",
     "initiative": "74",
-    "cardno": "272"
+    "cardno": "272",
+    "character-xws": "nightshroud"
   },
   {
     "name": "doomed breeze",
@@ -2817,7 +3098,8 @@
     "xws": "doomedbreeze",
     "level": "1",
     "initiative": "15",
-    "cardno": "264"
+    "cardno": "264",
+    "character-xws": "nightshroud"
   },
   {
     "name": "empowering void",
@@ -2827,7 +3109,8 @@
     "xws": "empoweringvoid",
     "level": "1",
     "initiative": "21",
-    "cardno": "263"
+    "cardno": "263",
+    "character-xws": "nightshroud"
   },
   {
     "name": "enervating wound",
@@ -2837,7 +3120,8 @@
     "xws": "enervatingwound",
     "level": "1",
     "initiative": "77",
-    "cardno": "265"
+    "cardno": "265",
+    "character-xws": "nightshroud"
   },
   {
     "name": "eyes of the night",
@@ -2847,7 +3131,8 @@
     "xws": "eyesofthenight",
     "level": "7",
     "initiative": "35",
-    "cardno": "283"
+    "cardno": "283",
+    "character-xws": "nightshroud"
   },
   {
     "name": "gloom darts",
@@ -2857,7 +3142,8 @@
     "xws": "gloomdarts",
     "level": "8",
     "initiative": "78",
-    "cardno": "285"
+    "cardno": "285",
+    "character-xws": "nightshroud"
   },
   {
     "name": "grim sustenance",
@@ -2867,7 +3153,8 @@
     "xws": "grimsustenance",
     "level": "4",
     "initiative": "29",
-    "cardno": "278"
+    "cardno": "278",
+    "character-xws": "nightshroud"
   },
   {
     "name": "lurking ruin",
@@ -2877,7 +3164,8 @@
     "xws": "lurkingruin",
     "level": "8",
     "initiative": "18",
-    "cardno": "286"
+    "cardno": "286",
+    "character-xws": "nightshroud"
   },
   {
     "name": "nightfall",
@@ -2887,7 +3175,8 @@
     "xws": "nightfall",
     "level": "4",
     "initiative": "73",
-    "cardno": "277"
+    "cardno": "277",
+    "character-xws": "nightshroud"
   },
   {
     "name": "prepare for the kill",
@@ -2897,7 +3186,8 @@
     "xws": "prepareforthekill",
     "level": "2",
     "initiative": "07",
-    "cardno": "273"
+    "cardno": "273",
+    "character-xws": "nightshroud"
   },
   {
     "name": "quiet frenzy",
@@ -2907,7 +3197,8 @@
     "xws": "quietfrenzy",
     "level": "7",
     "initiative": "19",
-    "cardno": "284"
+    "cardno": "284",
+    "character-xws": "nightshroud"
   },
   {
     "name": "silent force",
@@ -2917,7 +3208,8 @@
     "xws": "silentforce",
     "level": "1",
     "initiative": "91",
-    "cardno": "268"
+    "cardno": "268",
+    "character-xws": "nightshroud"
   },
   {
     "name": "smoke step",
@@ -2927,7 +3219,8 @@
     "xws": "smokestep",
     "level": "1",
     "initiative": "28",
-    "cardno": "269"
+    "cardno": "269",
+    "character-xws": "nightshroud"
   },
   {
     "name": "soulfire",
@@ -2937,7 +3230,8 @@
     "xws": "soulfire",
     "level": "2",
     "initiative": "85",
-    "cardno": "274"
+    "cardno": "274",
+    "character-xws": "nightshroud"
   },
   {
     "name": "spirit of the night",
@@ -2947,7 +3241,8 @@
     "xws": "spiritofthenight",
     "level": "1",
     "initiative": "84",
-    "cardno": "266"
+    "cardno": "266",
+    "character-xws": "nightshroud"
   },
   {
     "name": "swallowed by fear",
@@ -2957,7 +3252,8 @@
     "xws": "swallowedbyfear",
     "level": "6",
     "initiative": "90",
-    "cardno": "282"
+    "cardno": "282",
+    "character-xws": "nightshroud"
   },
   {
     "name": "terror blade",
@@ -2967,7 +3263,8 @@
     "xws": "terrorblade",
     "level": "3",
     "initiative": "17",
-    "cardno": "275"
+    "cardno": "275",
+    "character-xws": "nightshroud"
   },
   {
     "name": "unseen dread",
@@ -2977,7 +3274,8 @@
     "xws": "unseendread",
     "level": "6",
     "initiative": "05",
-    "cardno": "281"
+    "cardno": "281",
+    "character-xws": "nightshroud"
   },
   {
     "name": "voice of the night",
@@ -2987,7 +3285,8 @@
     "xws": "voiceofthenight",
     "level": "9",
     "initiative": "06",
-    "cardno": "288"
+    "cardno": "288",
+    "character-xws": "nightshroud"
   },
   {
     "name": "wings of the night",
@@ -2997,7 +3296,8 @@
     "xws": "wingsofthenight",
     "level": "X",
     "initiative": "24",
-    "cardno": "270"
+    "cardno": "270",
+    "character-xws": "nightshroud"
   },
   {
     "name": "ph-back",
@@ -3007,7 +3307,8 @@
     "xws": "phback",
     "level": "-",
     "initiative": "-",
-    "cardno": "-"
+    "cardno": "-",
+    "character-xws": "plagueherald"
   },
   {
     "name": "accelerated end",
@@ -3017,7 +3318,8 @@
     "xws": "acceleratedend",
     "level": "5",
     "initiative": "62",
-    "cardno": "309"
+    "cardno": "309",
+    "character-xws": "plagueherald"
   },
   {
     "name": "airborne toxin",
@@ -3027,7 +3329,8 @@
     "xws": "airbornetoxin",
     "level": "7",
     "initiative": "57",
-    "cardno": "313"
+    "cardno": "313",
+    "character-xws": "plagueherald"
   },
   {
     "name": "baneful hex",
@@ -3037,7 +3340,8 @@
     "xws": "banefulhex",
     "level": "7",
     "initiative": "33",
-    "cardno": "314"
+    "cardno": "314",
+    "character-xws": "plagueherald"
   },
   {
     "name": "biting gnats",
@@ -3047,7 +3351,8 @@
     "xws": "bitinggnats",
     "level": "1",
     "initiative": "47",
-    "cardno": "293"
+    "cardno": "293",
+    "character-xws": "plagueherald"
   },
   {
     "name": "black tides",
@@ -3057,7 +3362,8 @@
     "xws": "blacktides",
     "level": "6",
     "initiative": "37",
-    "cardno": "312"
+    "cardno": "312",
+    "character-xws": "plagueherald"
   },
   {
     "name": "blistering vortex",
@@ -3067,7 +3373,8 @@
     "xws": "blisteringvortex",
     "level": "X",
     "initiative": "21",
-    "cardno": "302"
+    "cardno": "302",
+    "character-xws": "plagueherald"
   },
   {
     "name": "convert the flock",
@@ -3077,7 +3384,8 @@
     "xws": "converttheflock",
     "level": "9",
     "initiative": "29",
-    "cardno": "318"
+    "cardno": "318",
+    "character-xws": "plagueherald"
   },
   {
     "name": "creeping curse",
@@ -3087,7 +3395,8 @@
     "xws": "creepingcurse",
     "level": "1",
     "initiative": "72",
-    "cardno": "295"
+    "cardno": "295",
+    "character-xws": "plagueherald"
   },
   {
     "name": "epidemic",
@@ -3097,7 +3406,8 @@
     "xws": "epidemic",
     "level": "X",
     "initiative": "43",
-    "cardno": "300"
+    "cardno": "300",
+    "character-xws": "plagueherald"
   },
   {
     "name": "fetid flurry",
@@ -3107,7 +3417,8 @@
     "xws": "fetidflurry",
     "level": "3",
     "initiative": "26",
-    "cardno": "306"
+    "cardno": "306",
+    "character-xws": "plagueherald"
   },
   {
     "name": "foul wind",
@@ -3117,7 +3428,8 @@
     "xws": "foulwind",
     "level": "1",
     "initiative": "35",
-    "cardno": "298"
+    "cardno": "298",
+    "character-xws": "plagueherald"
   },
   {
     "name": "gathering doom",
@@ -3127,7 +3439,8 @@
     "xws": "gatheringdoom",
     "level": "1",
     "initiative": "76",
-    "cardno": "296"
+    "cardno": "296",
+    "character-xws": "plagueherald"
   },
   {
     "name": "grasping vermin",
@@ -3137,7 +3450,8 @@
     "xws": "graspingvermin",
     "level": "1",
     "initiative": "69",
-    "cardno": "290"
+    "cardno": "290",
+    "character-xws": "plagueherald"
   },
   {
     "name": "grim bargain",
@@ -3147,7 +3461,8 @@
     "xws": "grimbargain",
     "level": "8",
     "initiative": "46",
-    "cardno": "316"
+    "cardno": "316",
+    "character-xws": "plagueherald"
   },
   {
     "name": "mass extinction",
@@ -3157,7 +3472,8 @@
     "xws": "massextinction",
     "level": "9",
     "initiative": "94",
-    "cardno": "317"
+    "cardno": "317",
+    "character-xws": "plagueherald"
   },
   {
     "name": "nightmarish affliction",
@@ -3167,7 +3483,8 @@
     "xws": "nightmarishaffliction",
     "level": "4",
     "initiative": "43",
-    "cardno": "308"
+    "cardno": "308",
+    "character-xws": "plagueherald"
   },
   {
     "name": "paralyzing bite",
@@ -3177,7 +3494,8 @@
     "xws": "paralyzingbite",
     "level": "1",
     "initiative": "31",
-    "cardno": "297"
+    "cardno": "297",
+    "character-xws": "plagueherald"
   },
   {
     "name": "rot maggots",
@@ -3187,7 +3505,8 @@
     "xws": "rotmaggots",
     "level": "2",
     "initiative": "69",
-    "cardno": "304"
+    "cardno": "304",
+    "character-xws": "plagueherald"
   },
   {
     "name": "scattered terror",
@@ -3197,7 +3516,8 @@
     "xws": "scatteredterror",
     "level": "1",
     "initiative": "11",
-    "cardno": "299"
+    "cardno": "299",
+    "character-xws": "plagueherald"
   },
   {
     "name": "spreading scourge",
@@ -3207,7 +3527,8 @@
     "xws": "spreadingscourge",
     "level": "8",
     "initiative": "71",
-    "cardno": "315"
+    "cardno": "315",
+    "character-xws": "plagueherald"
   },
   {
     "name": "spread the plague",
@@ -3217,7 +3538,8 @@
     "xws": "spreadtheplague",
     "level": "1",
     "initiative": "27",
-    "cardno": "292"
+    "cardno": "292",
+    "character-xws": "plagueherald"
   },
   {
     "name": "stinging cloud",
@@ -3227,7 +3549,8 @@
     "xws": "stingingcloud",
     "level": "6",
     "initiative": "66",
-    "cardno": "311"
+    "cardno": "311",
+    "character-xws": "plagueherald"
   },
   {
     "name": "storm of wings",
@@ -3237,7 +3560,8 @@
     "xws": "stormofwings",
     "level": "4",
     "initiative": "91",
-    "cardno": "307"
+    "cardno": "307",
+    "character-xws": "plagueherald"
   },
   {
     "name": "succumb to the gift",
@@ -3247,7 +3571,8 @@
     "xws": "succumbtothegift",
     "level": "3",
     "initiative": "70",
-    "cardno": "305"
+    "cardno": "305",
+    "character-xws": "plagueherald"
   },
   {
     "name": "under the skin",
@@ -3257,7 +3582,8 @@
     "xws": "undertheskin",
     "level": "2",
     "initiative": "59",
-    "cardno": "303"
+    "cardno": "303",
+    "character-xws": "plagueherald"
   },
   {
     "name": "vile pestilence",
@@ -3267,7 +3593,8 @@
     "xws": "vilepestilence",
     "level": "1",
     "initiative": "61",
-    "cardno": "289"
+    "cardno": "289",
+    "character-xws": "plagueherald"
   },
   {
     "name": "virulent strain",
@@ -3277,7 +3604,8 @@
     "xws": "virulentstrain",
     "level": "X",
     "initiative": "50",
-    "cardno": "301"
+    "cardno": "301",
+    "character-xws": "plagueherald"
   },
   {
     "name": "willing sacrifice",
@@ -3287,7 +3615,8 @@
     "xws": "willingsacrifice",
     "level": "5",
     "initiative": "84",
-    "cardno": "310"
+    "cardno": "310",
+    "character-xws": "plagueherald"
   },
   {
     "name": "winged congregation",
@@ -3297,7 +3626,8 @@
     "xws": "wingedcongregation",
     "level": "1",
     "initiative": "16",
-    "cardno": "294"
+    "cardno": "294",
+    "character-xws": "plagueherald"
   },
   {
     "name": "wretched swarm",
@@ -3307,7 +3637,8 @@
     "xws": "wretchedswarm",
     "level": "1",
     "initiative": "84",
-    "cardno": "291"
+    "cardno": "291",
+    "character-xws": "plagueherald"
   },
   {
     "name": "qm-back",
@@ -3317,7 +3648,8 @@
     "xws": "qmback",
     "level": "-",
     "initiative": "-",
-    "cardno": "-"
+    "cardno": "-",
+    "character-xws": "quartermaster"
   },
   {
     "name": "bag of holding",
@@ -3327,7 +3659,8 @@
     "xws": "bagofholding",
     "level": "9",
     "initiative": "91",
-    "cardno": "232"
+    "cardno": "232",
+    "character-xws": "quartermaster"
   },
   {
     "name": "bladed boomerang",
@@ -3337,7 +3670,8 @@
     "xws": "bladedboomerang",
     "level": "2",
     "initiative": "40",
-    "cardno": "218"
+    "cardno": "218",
+    "character-xws": "quartermaster"
   },
   {
     "name": "catastrophic bomb",
@@ -3347,7 +3681,8 @@
     "xws": "catastrophicbomb",
     "level": "6",
     "initiative": "46",
-    "cardno": "225"
+    "cardno": "225",
+    "character-xws": "quartermaster"
   },
   {
     "name": "cleaving axe",
@@ -3357,7 +3692,8 @@
     "xws": "cleavingaxe",
     "level": "1",
     "initiative": "52",
-    "cardno": "211"
+    "cardno": "211",
+    "character-xws": "quartermaster"
   },
   {
     "name": "continual supply",
@@ -3367,7 +3703,8 @@
     "xws": "continualsupply",
     "level": "3",
     "initiative": "86",
-    "cardno": "219"
+    "cardno": "219",
+    "character-xws": "quartermaster"
   },
   {
     "name": "crippling bow",
@@ -3377,7 +3714,8 @@
     "xws": "cripplingbow",
     "level": "1",
     "initiative": "44",
-    "cardno": "213"
+    "cardno": "213",
+    "character-xws": "quartermaster"
   },
   {
     "name": "crushing hammer",
@@ -3387,7 +3725,8 @@
     "xws": "crushinghammer",
     "level": "X",
     "initiative": "17",
-    "cardno": "214"
+    "cardno": "214",
+    "character-xws": "quartermaster"
   },
   {
     "name": "fortified position",
@@ -3397,7 +3736,8 @@
     "xws": "fortifiedposition",
     "level": "8",
     "initiative": "10",
-    "cardno": "230"
+    "cardno": "230",
+    "character-xws": "quartermaster"
   },
   {
     "name": "giant club",
@@ -3407,7 +3747,8 @@
     "xws": "giantclub",
     "level": "4",
     "initiative": "61",
-    "cardno": "222"
+    "cardno": "222",
+    "character-xws": "quartermaster"
   },
   {
     "name": "hastened step",
@@ -3417,7 +3758,8 @@
     "xws": "hastenedstep",
     "level": "1",
     "initiative": "26",
-    "cardno": "210"
+    "cardno": "210",
+    "character-xws": "quartermaster"
   },
   {
     "name": "impaling spear",
@@ -3427,7 +3769,8 @@
     "xws": "impalingspear",
     "level": "1",
     "initiative": "48",
-    "cardno": "212"
+    "cardno": "212",
+    "character-xws": "quartermaster"
   },
   {
     "name": "iron bulwark",
@@ -3437,7 +3780,8 @@
     "xws": "ironbulwark",
     "level": "1",
     "initiative": "19",
-    "cardno": "209"
+    "cardno": "209",
+    "character-xws": "quartermaster"
   },
   {
     "name": "oversized pack",
@@ -3447,7 +3791,8 @@
     "xws": "oversizedpack",
     "level": "1",
     "initiative": "81",
-    "cardno": "206"
+    "cardno": "206",
+    "character-xws": "quartermaster"
   },
   {
     "name": "portable ballista",
@@ -3457,7 +3802,8 @@
     "xws": "portableballista",
     "level": "8",
     "initiative": "41",
-    "cardno": "229"
+    "cardno": "229",
+    "character-xws": "quartermaster"
   },
   {
     "name": "proficiency",
@@ -3467,7 +3813,8 @@
     "xws": "proficiency",
     "level": "1",
     "initiative": "62",
-    "cardno": "208"
+    "cardno": "208",
+    "character-xws": "quartermaster"
   },
   {
     "name": "quiver of arrows",
@@ -3477,7 +3824,8 @@
     "xws": "quiverofarrows",
     "level": "6",
     "initiative": "31",
-    "cardno": "226"
+    "cardno": "226",
+    "character-xws": "quartermaster"
   },
   {
     "name": "refreshment",
@@ -3487,7 +3835,8 @@
     "xws": "refreshment",
     "level": "2",
     "initiative": "95",
-    "cardno": "217"
+    "cardno": "217",
+    "character-xws": "quartermaster"
   },
   {
     "name": "reforge",
@@ -3497,7 +3846,8 @@
     "xws": "reforge",
     "level": "7",
     "initiative": "89",
-    "cardno": "228"
+    "cardno": "228",
+    "character-xws": "quartermaster"
   },
   {
     "name": "reinforced steel",
@@ -3507,7 +3857,8 @@
     "xws": "reinforcedsteel",
     "level": "5",
     "initiative": "12",
-    "cardno": "223"
+    "cardno": "223",
+    "character-xws": "quartermaster"
   },
   {
     "name": "reserved energy",
@@ -3517,7 +3868,8 @@
     "xws": "reservedenergy",
     "level": "X",
     "initiative": "88",
-    "cardno": "216"
+    "cardno": "216",
+    "character-xws": "quartermaster"
   },
   {
     "name": "restock",
@@ -3527,7 +3879,8 @@
     "xws": "restock",
     "level": "1",
     "initiative": "73",
-    "cardno": "205"
+    "cardno": "205",
+    "character-xws": "quartermaster"
   },
   {
     "name": "scroll of annihilation",
@@ -3537,7 +3890,8 @@
     "xws": "scrollofannihilation",
     "level": "9",
     "initiative": "56",
-    "cardno": "231"
+    "cardno": "231",
+    "character-xws": "quartermaster"
   },
   {
     "name": "scroll of blizzards",
@@ -3547,7 +3901,8 @@
     "xws": "scrollofblizzards",
     "level": "7",
     "initiative": "46",
-    "cardno": "227"
+    "cardno": "227",
+    "character-xws": "quartermaster"
   },
   {
     "name": "scroll of judgment",
@@ -3557,7 +3912,8 @@
     "xws": "scrollofjudgment",
     "level": "5",
     "initiative": "66",
-    "cardno": "224"
+    "cardno": "224",
+    "character-xws": "quartermaster"
   },
   {
     "name": "scroll of lightning",
@@ -3567,7 +3923,8 @@
     "xws": "scrolloflightning",
     "level": "3",
     "initiative": "77",
-    "cardno": "220"
+    "cardno": "220",
+    "character-xws": "quartermaster"
   },
   {
     "name": "scroll of recall",
@@ -3577,7 +3934,8 @@
     "xws": "scrollofrecall",
     "level": "X",
     "initiative": "98",
-    "cardno": "215"
+    "cardno": "215",
+    "character-xws": "quartermaster"
   },
   {
     "name": "sharpening kit",
@@ -3587,7 +3945,8 @@
     "xws": "sharpeningkit",
     "level": "1",
     "initiative": "23",
-    "cardno": "207"
+    "cardno": "207",
+    "character-xws": "quartermaster"
   },
   {
     "name": "side pouch",
@@ -3597,7 +3956,8 @@
     "xws": "sidepouch",
     "level": "4",
     "initiative": "84",
-    "cardno": "221"
+    "cardno": "221",
+    "character-xws": "quartermaster"
   },
   {
     "name": "sb-back",
@@ -3607,7 +3967,8 @@
     "xws": "sbback",
     "level": "-",
     "initiative": "-",
-    "cardno": "-"
+    "cardno": "-",
+    "character-xws": "sawbones"
   },
   {
     "name": "amputate",
@@ -3617,7 +3978,8 @@
     "xws": "amputate",
     "level": "5",
     "initiative": "86",
-    "cardno": "438"
+    "cardno": "438",
+    "character-xws": "sawbones"
   },
   {
     "name": "battlefield medicine",
@@ -3627,7 +3989,8 @@
     "xws": "battlefieldmedicine",
     "level": "1",
     "initiative": "83",
-    "cardno": "414"
+    "cardno": "414",
+    "character-xws": "sawbones"
   },
   {
     "name": "bedside manner",
@@ -3637,7 +4000,8 @@
     "xws": "bedsidemanner",
     "level": "8",
     "initiative": "05",
-    "cardno": "443"
+    "cardno": "443",
+    "character-xws": "sawbones"
   },
   {
     "name": "blood transfusion",
@@ -3647,7 +4011,8 @@
     "xws": "bloodtransfusion",
     "level": "4",
     "initiative": "52",
-    "cardno": "435"
+    "cardno": "435",
+    "character-xws": "sawbones"
   },
   {
     "name": "bloody saw",
@@ -3657,7 +4022,8 @@
     "xws": "bloodysaw",
     "level": "1",
     "initiative": "25",
-    "cardno": "411"
+    "cardno": "411",
+    "character-xws": "sawbones"
   },
   {
     "name": "booster shot",
@@ -3667,7 +4033,8 @@
     "xws": "boostershot",
     "level": "1",
     "initiative": "42",
-    "cardno": "410"
+    "cardno": "410",
+    "character-xws": "sawbones"
   },
   {
     "name": "curative mixture",
@@ -3677,7 +4044,8 @@
     "xws": "curativemixture",
     "level": "1",
     "initiative": "19",
-    "cardno": "412"
+    "cardno": "412",
+    "character-xws": "sawbones"
   },
   {
     "name": "do no harm",
@@ -3687,7 +4055,8 @@
     "xws": "donoharm",
     "level": "4",
     "initiative": "76",
-    "cardno": "436"
+    "cardno": "436",
+    "character-xws": "sawbones"
   },
   {
     "name": "euthanize",
@@ -3697,7 +4066,8 @@
     "xws": "euthanize",
     "level": "6",
     "initiative": "27",
-    "cardno": "439"
+    "cardno": "439",
+    "character-xws": "sawbones"
   },
   {
     "name": "first aid",
@@ -3707,7 +4077,8 @@
     "xws": "firstaid",
     "level": "1",
     "initiative": "08",
-    "cardno": "407"
+    "cardno": "407",
+    "character-xws": "sawbones"
   },
   {
     "name": "gentleman's anger",
@@ -3717,7 +4088,8 @@
     "xws": "gentlemansanger",
     "level": "8",
     "initiative": "29",
-    "cardno": "444"
+    "cardno": "444",
+    "character-xws": "sawbones"
   },
   {
     "name": "grisly trauma",
@@ -3727,7 +4099,8 @@
     "xws": "grislytrauma",
     "level": "9",
     "initiative": "81",
-    "cardno": "446"
+    "cardno": "446",
+    "character-xws": "sawbones"
   },
   {
     "name": "hamstring",
@@ -3737,7 +4110,8 @@
     "xws": "hamstring",
     "level": "2",
     "initiative": "62",
-    "cardno": "431"
+    "cardno": "431",
+    "character-xws": "sawbones"
   },
   {
     "name": "hand of the surgeon",
@@ -3747,7 +4121,8 @@
     "xws": "handofthesurgeon",
     "level": "1",
     "initiative": "62",
-    "cardno": "408"
+    "cardno": "408",
+    "character-xws": "sawbones"
   },
   {
     "name": "hold back the pain",
@@ -3757,7 +4132,8 @@
     "xws": "holdbackthepain",
     "level": "1",
     "initiative": "57",
-    "cardno": "409"
+    "cardno": "409",
+    "character-xws": "sawbones"
   },
   {
     "name": "large medical pack",
@@ -3767,7 +4143,8 @@
     "xws": "largemedicalpack",
     "level": "M",
     "initiative": "30",
-    "cardno": "424"
+    "cardno": "424",
+    "character-xws": "sawbones"
   },
   {
     "name": "master physician",
@@ -3777,7 +4154,8 @@
     "xws": "masterphysician",
     "level": "7",
     "initiative": "49",
-    "cardno": "441"
+    "cardno": "441",
+    "character-xws": "sawbones"
   },
   {
     "name": "medical pack",
@@ -3787,7 +4165,8 @@
     "xws": "medicalpack",
     "level": "M",
     "initiative": "50",
-    "cardno": "417"
+    "cardno": "417",
+    "character-xws": "sawbones"
   },
   {
     "name": "mobile response",
@@ -3797,7 +4176,8 @@
     "xws": "mobileresponse",
     "level": "1",
     "initiative": "12",
-    "cardno": "416"
+    "cardno": "416",
+    "character-xws": "sawbones"
   },
   {
     "name": "precaution",
@@ -3807,7 +4187,8 @@
     "xws": "precaution",
     "level": "2",
     "initiative": "09",
-    "cardno": "432"
+    "cardno": "432",
+    "character-xws": "sawbones"
   },
   {
     "name": "prep for surgery",
@@ -3817,7 +4198,8 @@
     "xws": "prepforsurgery",
     "level": "9",
     "initiative": "22",
-    "cardno": "445"
+    "cardno": "445",
+    "character-xws": "sawbones"
   },
   {
     "name": "prescription",
@@ -3827,7 +4209,8 @@
     "xws": "prescription",
     "level": "6",
     "initiative": "06",
-    "cardno": "440"
+    "cardno": "440",
+    "character-xws": "sawbones"
   },
   {
     "name": "prevention is key",
@@ -3837,7 +4220,8 @@
     "xws": "preventioniskey",
     "level": "X",
     "initiative": "13",
-    "cardno": "428"
+    "cardno": "428",
+    "character-xws": "sawbones"
   },
   {
     "name": "regenerative tissue",
@@ -3847,7 +4231,8 @@
     "xws": "regenerativetissue",
     "level": "3",
     "initiative": "46",
-    "cardno": "433"
+    "cardno": "433",
+    "character-xws": "sawbones"
   },
   {
     "name": "research the cure",
@@ -3857,7 +4242,8 @@
     "xws": "researchthecure",
     "level": "5",
     "initiative": "40",
-    "cardno": "437"
+    "cardno": "437",
+    "character-xws": "sawbones"
   },
   {
     "name": "surgeon's satchel",
@@ -3867,7 +4253,8 @@
     "xws": "surgeonssatchel",
     "level": "7",
     "initiative": "10",
-    "cardno": "442"
+    "cardno": "442",
+    "character-xws": "sawbones"
   },
   {
     "name": "syringe",
@@ -3877,7 +4264,8 @@
     "xws": "syringe",
     "level": "1",
     "initiative": "15",
-    "cardno": "413"
+    "cardno": "413",
+    "character-xws": "sawbones"
   },
   {
     "name": "teamwork",
@@ -3887,7 +4275,8 @@
     "xws": "teamwork",
     "level": "X",
     "initiative": "89",
-    "cardno": "429"
+    "cardno": "429",
+    "character-xws": "sawbones"
   },
   {
     "name": "triage",
@@ -3897,7 +4286,8 @@
     "xws": "triage",
     "level": "1",
     "initiative": "53",
-    "cardno": "415"
+    "cardno": "415",
+    "character-xws": "sawbones"
   },
   {
     "name": "vaccine",
@@ -3907,7 +4297,8 @@
     "xws": "vaccine",
     "level": "X",
     "initiative": "44",
-    "cardno": "430"
+    "cardno": "430",
+    "character-xws": "sawbones"
   },
   {
     "name": "vital strike",
@@ -3917,7 +4308,8 @@
     "xws": "vitalstrike",
     "level": "3",
     "initiative": "38",
-    "cardno": "434"
+    "cardno": "434",
+    "character-xws": "sawbones"
   },
   {
     "name": "sc-back",
@@ -3927,7 +4319,8 @@
     "xws": "scback",
     "level": "-",
     "initiative": "-",
-    "cardno": "-"
+    "cardno": "-",
+    "character-xws": "scoundrel"
   },
   {
     "name": "backstab",
@@ -3937,7 +4330,8 @@
     "xws": "backstab",
     "level": "1",
     "initiative": "06",
-    "cardno": "091"
+    "cardno": "091",
+    "character-xws": "scoundrel"
   },
   {
     "name": "burning oil",
@@ -3947,7 +4341,8 @@
     "xws": "burningoil",
     "level": "6",
     "initiative": "95",
-    "cardno": "109"
+    "cardno": "109",
+    "character-xws": "scoundrel"
   },
   {
     "name": "crippling poison",
@@ -3957,7 +4352,8 @@
     "xws": "cripplingpoison",
     "level": "6",
     "initiative": "30",
-    "cardno": "108"
+    "cardno": "108",
+    "character-xws": "scoundrel"
   },
   {
     "name": "cull the weak",
@@ -3967,7 +4363,8 @@
     "xws": "culltheweak",
     "level": "5",
     "initiative": "16",
-    "cardno": "106"
+    "cardno": "106",
+    "character-xws": "scoundrel"
   },
   {
     "name": "duelist's advance",
@@ -3977,7 +4374,8 @@
     "xws": "duelistsadvance",
     "level": "3",
     "initiative": "16",
-    "cardno": "103"
+    "cardno": "103",
+    "character-xws": "scoundrel"
   },
   {
     "name": "flanking strike",
@@ -3987,7 +4385,8 @@
     "xws": "flankingstrike",
     "level": "1",
     "initiative": "04",
-    "cardno": "89"
+    "cardno": "89",
+    "character-xws": "scoundrel"
   },
   {
     "name": "flintlock",
@@ -3997,7 +4396,8 @@
     "xws": "flintlock",
     "level": "2",
     "initiative": "90",
-    "cardno": "101"
+    "cardno": "101",
+    "character-xws": "scoundrel"
   },
   {
     "name": "flurry of blades",
@@ -4007,7 +4407,8 @@
     "xws": "flurryofblades",
     "level": "4",
     "initiative": "03",
-    "cardno": "104"
+    "cardno": "104",
+    "character-xws": "scoundrel"
   },
   {
     "name": "gruesome advantage",
@@ -4017,7 +4418,8 @@
     "xws": "gruesomeadvantage",
     "level": "4",
     "initiative": "62",
-    "cardno": "105"
+    "cardno": "105",
+    "character-xws": "scoundrel"
   },
   {
     "name": "hidden daggers",
@@ -4027,7 +4429,8 @@
     "xws": "hiddendaggers",
     "level": "3",
     "initiative": "85",
-    "cardno": "102"
+    "cardno": "102",
+    "character-xws": "scoundrel"
   },
   {
     "name": "long con",
@@ -4037,7 +4440,8 @@
     "xws": "longcon",
     "level": "9",
     "initiative": "02",
-    "cardno": "114"
+    "cardno": "114",
+    "character-xws": "scoundrel"
   },
   {
     "name": "open wound",
@@ -4047,7 +4451,8 @@
     "xws": "openwound",
     "level": "2",
     "initiative": "11",
-    "cardno": "100"
+    "cardno": "100",
+    "character-xws": "scoundrel"
   },
   {
     "name": "pain's end",
@@ -4057,7 +4462,8 @@
     "xws": "painsend",
     "level": "8",
     "initiative": "38",
-    "cardno": "113"
+    "cardno": "113",
+    "character-xws": "scoundrel"
   },
   {
     "name": "quick hands",
@@ -4067,7 +4473,8 @@
     "xws": "quickhands",
     "level": "1",
     "initiative": "64",
-    "cardno": "095"
+    "cardno": "095",
+    "character-xws": "scoundrel"
   },
   {
     "name": "single out",
@@ -4077,7 +4484,8 @@
     "xws": "singleout",
     "level": "1",
     "initiative": "86",
-    "cardno": "088"
+    "cardno": "088",
+    "character-xws": "scoundrel"
   },
   {
     "name": "sinister opportunity",
@@ -4087,7 +4495,8 @@
     "xws": "sinisteropportunity",
     "level": "X",
     "initiative": "93",
-    "cardno": "097"
+    "cardno": "097",
+    "character-xws": "scoundrel"
   },
   {
     "name": "smoke bomb",
@@ -4097,7 +4506,8 @@
     "xws": "smokebomb",
     "level": "1",
     "initiative": "12",
-    "cardno": "090"
+    "cardno": "090",
+    "character-xws": "scoundrel"
   },
   {
     "name": "special mixture",
@@ -4107,7 +4517,8 @@
     "xws": "specialmixture",
     "level": "1",
     "initiative": "33",
-    "cardno": "096"
+    "cardno": "096",
+    "character-xws": "scoundrel"
   },
   {
     "name": "spring the trap",
@@ -4117,7 +4528,8 @@
     "xws": "springthetrap",
     "level": "7",
     "initiative": "13",
-    "cardno": "111"
+    "cardno": "111",
+    "character-xws": "scoundrel"
   },
   {
     "name": "stick to the shadows",
@@ -4127,7 +4539,8 @@
     "xws": "sticktotheshadows",
     "level": "7",
     "initiative": "26",
-    "cardno": "110"
+    "cardno": "110",
+    "character-xws": "scoundrel"
   },
   {
     "name": "stiletto storm",
@@ -4137,7 +4550,8 @@
     "xws": "stilettostorm",
     "level": "8",
     "initiative": "80",
-    "cardno": "112"
+    "cardno": "112",
+    "character-xws": "scoundrel"
   },
   {
     "name": "swift bow",
@@ -4147,7 +4561,8 @@
     "xws": "swiftbow",
     "level": "X",
     "initiative": "36",
-    "cardno": "099"
+    "cardno": "099",
+    "character-xws": "scoundrel"
   },
   {
     "name": "thief's knack",
@@ -4157,7 +4572,8 @@
     "xws": "thiefsknack",
     "level": "1",
     "initiative": "23",
-    "cardno": "092"
+    "cardno": "092",
+    "character-xws": "scoundrel"
   },
   {
     "name": "throwing knives",
@@ -4167,7 +4583,8 @@
     "xws": "throwingknives",
     "level": "1",
     "initiative": "10",
-    "cardno": "094"
+    "cardno": "094",
+    "character-xws": "scoundrel"
   },
   {
     "name": "trickster's reversal",
@@ -4177,7 +4594,8 @@
     "xws": "trickstersreversal",
     "level": "X",
     "initiative": "09",
-    "cardno": "098"
+    "cardno": "098",
+    "character-xws": "scoundrel"
   },
   {
     "name": "venom shiv",
@@ -4187,7 +4605,8 @@
     "xws": "venomshiv",
     "level": "1",
     "initiative": "60",
-    "cardno": "093"
+    "cardno": "093",
+    "character-xws": "scoundrel"
   },
   {
     "name": "visage of the inevitable",
@@ -4197,7 +4616,8 @@
     "xws": "visageoftheinevitable",
     "level": "5",
     "initiative": "88",
-    "cardno": "107"
+    "cardno": "107",
+    "character-xws": "scoundrel"
   },
   {
     "name": "watch it burn",
@@ -4207,7 +4627,8 @@
     "xws": "watchitburn",
     "level": "9",
     "initiative": "98",
-    "cardno": "115"
+    "cardno": "115",
+    "character-xws": "scoundrel"
   },
   {
     "name": "sk-back",
@@ -4217,7 +4638,8 @@
     "xws": "skback",
     "level": "-",
     "initiative": "-",
-    "cardno": "-"
+    "cardno": "-",
+    "character-xws": "sunkeeper"
   },
   {
     "name": "angelic ascension",
@@ -4227,7 +4649,8 @@
     "xws": "angelicascension",
     "level": "9",
     "initiative": "87",
-    "cardno": "203"
+    "cardno": "203",
+    "character-xws": "sunkeeper"
   },
   {
     "name": "beacon of light",
@@ -4237,7 +4660,8 @@
     "xws": "beaconoflight",
     "level": "X",
     "initiative": "36",
-    "cardno": "187"
+    "cardno": "187",
+    "character-xws": "sunkeeper"
   },
   {
     "name": "bright aegis",
@@ -4247,7 +4671,8 @@
     "xws": "brightaegis",
     "level": "7",
     "initiative": "14",
-    "cardno": "200"
+    "cardno": "200",
+    "character-xws": "sunkeeper"
   },
   {
     "name": "brilliant prayer",
@@ -4257,7 +4682,8 @@
     "xws": "brilliantprayer",
     "level": "1",
     "initiative": "27",
-    "cardno": "177"
+    "cardno": "177",
+    "character-xws": "sunkeeper"
   },
   {
     "name": "burning flash",
@@ -4267,7 +4693,8 @@
     "xws": "burningflash",
     "level": "3",
     "initiative": "51",
-    "cardno": "191"
+    "cardno": "191",
+    "character-xws": "sunkeeper"
   },
   {
     "name": "cautious advance",
@@ -4277,7 +4704,8 @@
     "xws": "cautiousadvance",
     "level": "1",
     "initiative": "23",
-    "cardno": "176"
+    "cardno": "176",
+    "character-xws": "sunkeeper"
   },
   {
     "name": "cleansing force",
@@ -4287,7 +4715,8 @@
     "xws": "cleansingforce",
     "level": "8",
     "initiative": "25",
-    "cardno": "201"
+    "cardno": "201",
+    "character-xws": "sunkeeper"
   },
   {
     "name": "daybreak",
@@ -4297,7 +4726,8 @@
     "xws": "daybreak",
     "level": "X",
     "initiative": "85",
-    "cardno": "186"
+    "cardno": "186",
+    "character-xws": "sunkeeper"
   },
   {
     "name": "dazzling charge",
@@ -4307,7 +4737,8 @@
     "xws": "dazzlingcharge",
     "level": "1",
     "initiative": "57",
-    "cardno": "180"
+    "cardno": "180",
+    "character-xws": "sunkeeper"
   },
   {
     "name": "defensive stance",
@@ -4317,7 +4748,8 @@
     "xws": "defensivestance",
     "level": "1",
     "initiative": "65",
-    "cardno": "184"
+    "cardno": "184",
+    "character-xws": "sunkeeper"
   },
   {
     "name": "divine intervention",
@@ -4327,7 +4759,8 @@
     "xws": "divineintervention",
     "level": "9",
     "initiative": "09",
-    "cardno": "204"
+    "cardno": "204",
+    "character-xws": "sunkeeper"
   },
   {
     "name": "empowering command",
@@ -4337,7 +4770,8 @@
     "xws": "empoweringcommand",
     "level": "1",
     "initiative": "32",
-    "cardno": "178"
+    "cardno": "178",
+    "character-xws": "sunkeeper"
   },
   {
     "name": "engulfing radiance",
@@ -4347,7 +4781,8 @@
     "xws": "engulfingradiance",
     "level": "4",
     "initiative": "20",
-    "cardno": "194"
+    "cardno": "194",
+    "character-xws": "sunkeeper"
   },
   {
     "name": "glorious bolt",
@@ -4357,7 +4792,8 @@
     "xws": "gloriousbolt",
     "level": "X",
     "initiative": "39",
-    "cardno": "188"
+    "cardno": "188",
+    "character-xws": "sunkeeper"
   },
   {
     "name": "hammer blow",
@@ -4367,7 +4803,8 @@
     "xws": "hammerblow",
     "level": "1",
     "initiative": "55",
-    "cardno": "183"
+    "cardno": "183",
+    "character-xws": "sunkeeper"
   },
   {
     "name": "holy strike",
@@ -4377,7 +4814,8 @@
     "xws": "holystrike",
     "level": "1",
     "initiative": "85",
-    "cardno": "182"
+    "cardno": "182",
+    "character-xws": "sunkeeper"
   },
   {
     "name": "illuminate the target",
@@ -4387,7 +4825,8 @@
     "xws": "illuminatethetarget",
     "level": "6",
     "initiative": "91",
-    "cardno": "198"
+    "cardno": "198",
+    "character-xws": "sunkeeper"
   },
   {
     "name": "inspiring sanctity",
@@ -4397,7 +4836,8 @@
     "xws": "inspiringsanctity",
     "level": "8",
     "initiative": "79",
-    "cardno": "202"
+    "cardno": "202",
+    "character-xws": "sunkeeper"
   },
   {
     "name": "lay on hands",
@@ -4407,7 +4847,8 @@
     "xws": "layonhands",
     "level": "1",
     "initiative": "90",
-    "cardno": "185"
+    "cardno": "185",
+    "character-xws": "sunkeeper"
   },
   {
     "name": "mobilizing axiom",
@@ -4417,7 +4858,8 @@
     "xws": "mobilizingaxiom",
     "level": "3",
     "initiative": "23",
-    "cardno": "192"
+    "cardno": "192",
+    "character-xws": "sunkeeper"
   },
   {
     "name": "path of glory",
@@ -4427,7 +4869,8 @@
     "xws": "pathofglory",
     "level": "5",
     "initiative": "48",
-    "cardno": "195"
+    "cardno": "195",
+    "character-xws": "sunkeeper"
   },
   {
     "name": "practical plans",
@@ -4437,7 +4880,8 @@
     "xws": "practicalplans",
     "level": "2",
     "initiative": "56",
-    "cardno": "189"
+    "cardno": "189",
+    "character-xws": "sunkeeper"
   },
   {
     "name": "protective blessing",
@@ -4447,7 +4891,8 @@
     "xws": "protectiveblessing",
     "level": "1",
     "initiative": "61",
-    "cardno": "179"
+    "cardno": "179",
+    "character-xws": "sunkeeper"
   },
   {
     "name": "purifying aura",
@@ -4457,7 +4902,8 @@
     "xws": "purifyingaura",
     "level": "1",
     "initiative": "21",
-    "cardno": "175"
+    "cardno": "175",
+    "character-xws": "sunkeeper"
   },
   {
     "name": "righteous strength",
@@ -4467,7 +4913,8 @@
     "xws": "righteousstrength",
     "level": "4",
     "initiative": "18",
-    "cardno": "193"
+    "cardno": "193",
+    "character-xws": "sunkeeper"
   },
   {
     "name": "scales of justice",
@@ -4477,7 +4924,8 @@
     "xws": "scalesofjustice",
     "level": "5",
     "initiative": "68",
-    "cardno": "196"
+    "cardno": "196",
+    "character-xws": "sunkeeper"
   },
   {
     "name": "supportive chant",
@@ -4487,7 +4935,8 @@
     "xws": "supportivechant",
     "level": "6",
     "initiative": "11",
-    "cardno": "197"
+    "cardno": "197",
+    "character-xws": "sunkeeper"
   },
   {
     "name": "tactical order",
@@ -4497,7 +4946,8 @@
     "xws": "tacticalorder",
     "level": "1",
     "initiative": "29",
-    "cardno": "181"
+    "cardno": "181",
+    "character-xws": "sunkeeper"
   },
   {
     "name": "unwavering mandate",
@@ -4507,7 +4957,8 @@
     "xws": "visageoftheinevitable",
     "level": "2",
     "initiative": "72",
-    "cardno": "190"
+    "cardno": "190",
+    "character-xws": "sunkeeper"
   },
   {
     "name": "weapon of purity",
@@ -4517,7 +4968,8 @@
     "xws": "weaponofpurity",
     "level": "7",
     "initiative": "73",
-    "cardno": "199"
+    "cardno": "199",
+    "character-xws": "sunkeeper"
   },
   {
     "name": "ss-back",
@@ -4527,7 +4979,8 @@
     "xws": "ssback",
     "level": "-",
     "initiative": "-",
-    "cardno": "-"
+    "cardno": "-",
+    "character-xws": "soothsinger"
   },
   {
     "name": "booming proclamation",
@@ -4537,7 +4990,8 @@
     "xws": "boomingproclamation",
     "level": "7",
     "initiative": "65",
-    "cardno": "371"
+    "cardno": "371",
+    "character-xws": "soothsinger"
   },
   {
     "name": "call to action",
@@ -4547,7 +5001,8 @@
     "xws": "calltoaction",
     "level": "1",
     "initiative": "85",
-    "cardno": "352"
+    "cardno": "352",
+    "character-xws": "soothsinger"
   },
   {
     "name": "captivating performance",
@@ -4557,7 +5012,8 @@
     "xws": "captivatingperformance",
     "level": "9",
     "initiative": "25",
-    "cardno": "374"
+    "cardno": "374",
+    "character-xws": "soothsinger"
   },
   {
     "name": "change tempo",
@@ -4567,7 +5023,8 @@
     "xws": "changetempo",
     "level": "2",
     "initiative": "91",
-    "cardno": "361"
+    "cardno": "361",
+    "character-xws": "soothsinger"
   },
   {
     "name": "commanding presence",
@@ -4577,7 +5034,8 @@
     "xws": "commandingpresence",
     "level": "8",
     "initiative": "59",
-    "cardno": "373"
+    "cardno": "373",
+    "character-xws": "soothsinger"
   },
   {
     "name": "crippling chorus",
@@ -4587,7 +5045,8 @@
     "xws": "cripplingchorus",
     "level": "3",
     "initiative": "62",
-    "cardno": "363"
+    "cardno": "363",
+    "character-xws": "soothsinger"
   },
   {
     "name": "defensive ditty",
@@ -4597,7 +5056,8 @@
     "xws": "defensiveditty",
     "level": "1",
     "initiative": "09",
-    "cardno": "349"
+    "cardno": "349",
+    "character-xws": "soothsinger"
   },
   {
     "name": "disorienting dirge",
@@ -4607,7 +5067,8 @@
     "xws": "disorientingdirge",
     "level": "4",
     "initiative": "14",
-    "cardno": "364"
+    "cardno": "364",
+    "character-xws": "soothsinger"
   },
   {
     "name": "echoing aria",
@@ -4617,7 +5078,8 @@
     "xws": "echoingaria",
     "level": "3",
     "initiative": "08",
-    "cardno": "362"
+    "cardno": "362",
+    "character-xws": "soothsinger"
   },
   {
     "name": "inspiring anthem",
@@ -4627,7 +5089,8 @@
     "xws": "inspiringanthem",
     "level": "4",
     "initiative": "50",
-    "cardno": "365"
+    "cardno": "365",
+    "character-xws": "soothsinger"
   },
   {
     "name": "marching beat",
@@ -4637,7 +5100,8 @@
     "xws": "marchingbeat",
     "level": "1",
     "initiative": "32",
-    "cardno": "356"
+    "cardno": "356",
+    "character-xws": "soothsinger"
   },
   {
     "name": "melody and harmony",
@@ -4647,7 +5111,8 @@
     "xws": "melodyandharmony",
     "level": "5",
     "initiative": "78",
-    "cardno": "366"
+    "cardno": "366",
+    "character-xws": "soothsinger"
   },
   {
     "name": "mobilizing measure",
@@ -4657,7 +5122,8 @@
     "xws": "mobilizingmeasure",
     "level": "5",
     "initiative": "06",
-    "cardno": "367"
+    "cardno": "367",
+    "character-xws": "soothsinger"
   },
   {
     "name": "nightmare serenade",
@@ -4667,7 +5133,8 @@
     "xws": "nightmareserenade",
     "level": "7",
     "initiative": "13",
-    "cardno": "370"
+    "cardno": "370",
+    "character-xws": "soothsinger"
   },
   {
     "name": "nimble knife",
@@ -4677,7 +5144,8 @@
     "xws": "nimbleknife",
     "level": "X",
     "initiative": "27",
-    "cardno": "359"
+    "cardno": "359",
+    "character-xws": "soothsinger"
   },
   {
     "name": "power ballad",
@@ -4687,7 +5155,8 @@
     "xws": "powerballad",
     "level": "1",
     "initiative": "19",
-    "cardno": "348"
+    "cardno": "348",
+    "character-xws": "soothsinger"
   },
   {
     "name": "provoke terror",
@@ -4697,7 +5166,8 @@
     "xws": "provoketerror",
     "level": "6",
     "initiative": "60",
-    "cardno": "369"
+    "cardno": "369",
+    "character-xws": "soothsinger"
   },
   {
     "name": "pull the strings",
@@ -4707,7 +5177,8 @@
     "xws": "pullthestrings",
     "level": "6",
     "initiative": "20",
-    "cardno": "368"
+    "cardno": "368",
+    "character-xws": "soothsinger"
   },
   {
     "name": "shadow puppets",
@@ -4717,7 +5188,8 @@
     "xws": "shadowpuppets",
     "level": "9",
     "initiative": "52",
-    "cardno": "375"
+    "cardno": "375",
+    "character-xws": "soothsinger"
   },
   {
     "name": "singing arrow",
@@ -4727,7 +5199,8 @@
     "xws": "singingarrow",
     "level": "1",
     "initiative": "89",
-    "cardno": "355"
+    "cardno": "355",
+    "character-xws": "soothsinger"
   },
   {
     "name": "song of speed",
@@ -4737,7 +5210,8 @@
     "xws": "songofspeed",
     "level": "1",
     "initiative": "05",
-    "cardno": "350"
+    "cardno": "350",
+    "character-xws": "soothsinger"
   },
   {
     "name": "soothing lullaby",
@@ -4747,7 +5221,8 @@
     "xws": "soothinglullaby",
     "level": "2",
     "initiative": "11",
-    "cardno": "360"
+    "cardno": "360",
+    "character-xws": "soothsinger"
   },
   {
     "name": "throw voice",
@@ -4757,7 +5232,8 @@
     "xws": "throwvoice",
     "level": "1",
     "initiative": "44",
-    "cardno": "354"
+    "cardno": "354",
+    "character-xws": "soothsinger"
   },
   {
     "name": "tranquil trill",
@@ -4767,7 +5243,8 @@
     "xws": "tranquiltrill",
     "level": "8",
     "initiative": "10",
-    "cardno": "372"
+    "cardno": "372",
+    "character-xws": "soothsinger"
   },
   {
     "name": "tuning the outcome",
@@ -4777,7 +5254,8 @@
     "xws": "tuningtheoutcome",
     "level": "1",
     "initiative": "78",
-    "cardno": "351"
+    "cardno": "351",
+    "character-xws": "soothsinger"
   },
   {
     "name": "unending chant",
@@ -4787,7 +5265,8 @@
     "xws": "unendingchant",
     "level": "X",
     "initiative": "51",
-    "cardno": "358"
+    "cardno": "358",
+    "character-xws": "soothsinger"
   },
   {
     "name": "warding dagger",
@@ -4797,7 +5276,8 @@
     "xws": "wardingdagger",
     "level": "1",
     "initiative": "56",
-    "cardno": "353"
+    "cardno": "353",
+    "character-xws": "soothsinger"
   },
   {
     "name": "wistful wounding",
@@ -4807,7 +5287,8 @@
     "xws": "wistfulwounding",
     "level": "X",
     "initiative": "16",
-    "cardno": "357"
+    "cardno": "357",
+    "character-xws": "soothsinger"
   },
   {
     "name": "su-back",
@@ -4817,7 +5298,8 @@
     "xws": "suback",
     "level": "-",
     "initiative": "-",
-    "cardno": "-"
+    "cardno": "-",
+    "character-xws": "summoner"
   },
   {
     "name": "biting wind",
@@ -4827,7 +5309,8 @@
     "xws": "bitingwind",
     "level": "1",
     "initiative": "25",
-    "cardno": "240"
+    "cardno": "240",
+    "character-xws": "summoner"
   },
   {
     "name": "black fire",
@@ -4837,7 +5320,8 @@
     "xws": "blackfire",
     "level": "1",
     "initiative": "24",
-    "cardno": "241"
+    "cardno": "241",
+    "character-xws": "summoner"
   },
   {
     "name": "bonded might",
@@ -4847,7 +5331,8 @@
     "xws": "bondedmight",
     "level": "1",
     "initiative": "61",
-    "cardno": "239"
+    "cardno": "239",
+    "character-xws": "summoner"
   },
   {
     "name": "conjured aid",
@@ -4857,7 +5342,8 @@
     "xws": "conjuredaid",
     "level": "5",
     "initiative": "81",
-    "cardno": "252"
+    "cardno": "252",
+    "character-xws": "summoner"
   },
   {
     "name": "healing sprite",
@@ -4867,7 +5353,8 @@
     "xws": "conjuredaid",
     "level": "5",
     "initiative": "81",
-    "cardno": "252"
+    "cardno": "252",
+    "character-xws": "summoner"
   },
   {
     "name": "divided mind",
@@ -4877,7 +5364,8 @@
     "xws": "dividedmind",
     "level": "4",
     "initiative": "55",
-    "cardno": "250"
+    "cardno": "250",
+    "character-xws": "summoner"
   },
   {
     "name": "earthen steed",
@@ -4887,7 +5375,8 @@
     "xws": "earthensteed",
     "level": "2",
     "initiative": "13",
-    "cardno": "245"
+    "cardno": "245",
+    "character-xws": "summoner"
   },
   {
     "name": "endless spikes",
@@ -4897,7 +5386,8 @@
     "xws": "endlessspikes",
     "level": "6",
     "initiative": "97",
-    "cardno": "253"
+    "cardno": "253",
+    "character-xws": "summoner"
   },
   {
     "name": "nail spheres",
@@ -4907,7 +5397,8 @@
     "xws": "endlessspikes",
     "level": "6",
     "initiative": "97",
-    "cardno": "253"
+    "cardno": "253",
+    "character-xws": "summoner"
   },
   {
     "name": "ethereal vines",
@@ -4917,7 +5408,8 @@
     "xws": "etherealvines",
     "level": "X",
     "initiative": "30",
-    "cardno": "244"
+    "cardno": "244",
+    "character-xws": "summoner"
   },
   {
     "name": "forged ferocity",
@@ -4927,7 +5419,8 @@
     "xws": "forgedferocity",
     "level": "1",
     "initiative": "96",
-    "cardno": "233"
+    "cardno": "233",
+    "character-xws": "summoner"
   },
   {
     "name": "iron beast",
@@ -4937,7 +5430,8 @@
     "xws": "forgedferocity",
     "level": "1",
     "initiative": "96",
-    "cardno": "233"
+    "cardno": "233",
+    "character-xws": "summoner"
   },
   {
     "name": "grasping the void",
@@ -4947,7 +5441,8 @@
     "xws": "graspingthevoid",
     "level": "2",
     "initiative": "62",
-    "cardno": "246"
+    "cardno": "246",
+    "character-xws": "summoner"
   },
   {
     "name": "horned majesty",
@@ -4957,7 +5452,8 @@
     "xws": "hornedmajesty",
     "level": "9",
     "initiative": "80",
-    "cardno": "260"
+    "cardno": "260",
+    "character-xws": "summoner"
   },
   {
     "name": "black unicorn",
@@ -4967,7 +5463,8 @@
     "xws": "hornedmajesty",
     "level": "9",
     "initiative": "80",
-    "cardno": "260"
+    "cardno": "260",
+    "character-xws": "summoner"
   },
   {
     "name": "inexorable momentum",
@@ -4977,7 +5474,8 @@
     "xws": "inexorablemomentum",
     "level": "6",
     "initiative": "32",
-    "cardno": "254"
+    "cardno": "254",
+    "character-xws": "summoner"
   },
   {
     "name": "interplanar mastery",
@@ -4987,7 +5485,8 @@
     "xws": "interplanarmastery",
     "level": "9",
     "initiative": "22",
-    "cardno": "259"
+    "cardno": "259",
+    "character-xws": "summoner"
   },
   {
     "name": "intervening apparitions",
@@ -4997,7 +5496,8 @@
     "xws": "interveningapparitions",
     "level": "8",
     "initiative": "68",
-    "cardno": "257"
+    "cardno": "257",
+    "character-xws": "summoner"
   },
   {
     "name": "leathery wings",
@@ -5007,7 +5507,8 @@
     "xws": "leatherywings",
     "level": "X",
     "initiative": "90",
-    "cardno": "242"
+    "cardno": "242",
+    "character-xws": "summoner"
   },
   {
     "name": "bat swarm",
@@ -5017,7 +5518,8 @@
     "xws": "leatherywings",
     "level": "X",
     "initiative": "90",
-    "cardno": "242"
+    "cardno": "242",
+    "character-xws": "summoner"
   },
   {
     "name": "living mountain",
@@ -5027,7 +5529,8 @@
     "xws": "livingmountain",
     "level": "4",
     "initiative": "88",
-    "cardno": "249"
+    "cardno": "249",
+    "character-xws": "summoner"
   },
   {
     "name": "rock colossus",
@@ -5037,7 +5540,8 @@
     "xws": "livingmountain",
     "level": "4",
     "initiative": "88",
-    "cardno": "249"
+    "cardno": "249",
+    "character-xws": "summoner"
   },
   {
     "name": "living night",
@@ -5047,7 +5551,8 @@
     "xws": "livingnight",
     "level": "1",
     "initiative": "82",
-    "cardno": "235"
+    "cardno": "235",
+    "character-xws": "summoner"
   },
   {
     "name": "shadow wolves",
@@ -5057,7 +5562,8 @@
     "xws": "livingnight",
     "level": "1",
     "initiative": "82",
-    "cardno": "235"
+    "cardno": "235",
+    "character-xws": "summoner"
   },
   {
     "name": "mighty bond",
@@ -5067,7 +5573,8 @@
     "xws": "mightybond",
     "level": "1",
     "initiative": "51",
-    "cardno": "238"
+    "cardno": "238",
+    "character-xws": "summoner"
   },
   {
     "name": "negative energy",
@@ -5077,7 +5584,8 @@
     "xws": "negativeenergy",
     "level": "7",
     "initiative": "95",
-    "cardno": "255"
+    "cardno": "255",
+    "character-xws": "summoner"
   },
   {
     "name": "void eater",
@@ -5087,7 +5595,8 @@
     "xws": "negativeenergy",
     "level": "7",
     "initiative": "95",
-    "cardno": "255"
+    "cardno": "255",
+    "character-xws": "summoner"
   },
   {
     "name": "oozing manifestation",
@@ -5097,7 +5606,8 @@
     "xws": "oozingmanifestation",
     "level": "3",
     "initiative": "86",
-    "cardno": "248"
+    "cardno": "248",
+    "character-xws": "summoner"
   },
   {
     "name": "slime spirit",
@@ -5107,7 +5617,8 @@
     "xws": "oozingmanifestation",
     "level": "3",
     "initiative": "86",
-    "cardno": "248"
+    "cardno": "248",
+    "character-xws": "summoner"
   },
   {
     "name": "otherworldly rage",
@@ -5117,7 +5628,8 @@
     "xws": "otherworldlyrage",
     "level": "8",
     "initiative": "35",
-    "cardno": "258"
+    "cardno": "258",
+    "character-xws": "summoner"
   },
   {
     "name": "staff of visions",
@@ -5127,7 +5639,8 @@
     "xws": "staffofvisions",
     "level": "7",
     "initiative": "27",
-    "cardno": "256"
+    "cardno": "256",
+    "character-xws": "summoner"
   },
   {
     "name": "strength in numbers",
@@ -5137,7 +5650,8 @@
     "xws": "strengthinnumbers",
     "level": "5",
     "initiative": "45",
-    "cardno": "251"
+    "cardno": "251",
+    "character-xws": "summoner"
   },
   {
     "name": "tear the fabric",
@@ -5147,7 +5661,8 @@
     "xws": "tearthefabric",
     "level": "3",
     "initiative": "41",
-    "cardno": "247"
+    "cardno": "247",
+    "character-xws": "summoner"
   },
   {
     "name": "unending dominance",
@@ -5157,7 +5672,8 @@
     "xws": "unendingdominance",
     "level": "1",
     "initiative": "98",
-    "cardno": "236"
+    "cardno": "236",
+    "character-xws": "summoner"
   },
   {
     "name": "lava golem",
@@ -5167,7 +5683,8 @@
     "xws": "unendingdominance",
     "level": "1",
     "initiative": "98",
-    "cardno": "236"
+    "cardno": "236",
+    "character-xws": "summoner"
   },
   {
     "name": "unwavering hand",
@@ -5177,7 +5694,8 @@
     "xws": "unwaveringhand",
     "level": "1",
     "initiative": "31",
-    "cardno": "237"
+    "cardno": "237",
+    "character-xws": "summoner"
   },
   {
     "name": "volatile flame",
@@ -5187,7 +5705,8 @@
     "xws": "volatileflame",
     "level": "X",
     "initiative": "94",
-    "cardno": "243"
+    "cardno": "243",
+    "character-xws": "summoner"
   },
   {
     "name": "living bomb",
@@ -5197,7 +5716,8 @@
     "xws": "volatileflame",
     "level": "X",
     "initiative": "94",
-    "cardno": "243"
+    "cardno": "243",
+    "character-xws": "summoner"
   },
   {
     "name": "wild animation",
@@ -5207,7 +5727,8 @@
     "xws": "wildanimation",
     "level": "1",
     "initiative": "92",
-    "cardno": "234"
+    "cardno": "234",
+    "character-xws": "summoner"
   },
   {
     "name": "thorn shooter",
@@ -5217,7 +5738,8 @@
     "xws": "wildanimation",
     "level": "1",
     "initiative": "92",
-    "cardno": "234"
+    "cardno": "234",
+    "character-xws": "summoner"
   },
   {
     "name": "sw-back",
@@ -5227,7 +5749,8 @@
     "xws": "swback",
     "level": "-",
     "initiative": "-",
-    "cardno": "-"
+    "cardno": "-",
+    "character-xws": "spellweaver"
   },
   {
     "name": "aid from the ether",
@@ -5237,7 +5760,8 @@
     "xws": "aidfromtheether",
     "level": "X",
     "initiative": "91",
-    "cardno": "071"
+    "cardno": "071",
+    "character-xws": "spellweaver"
   },
   {
     "name": "mystic ally",
@@ -5247,7 +5771,8 @@
     "xws": "aidfromtheether",
     "level": "X",
     "initiative": "91",
-    "cardno": "071"
+    "cardno": "071",
+    "character-xws": "spellweaver"
   },
   {
     "name": "black hole",
@@ -5257,7 +5782,8 @@
     "xws": "blackhole",
     "level": "9",
     "initiative": "41",
-    "cardno": "086"
+    "cardno": "086",
+    "character-xws": "spellweaver"
   },
   {
     "name": "chromatic explosion",
@@ -5267,7 +5793,8 @@
     "xws": "chromaticexplosion",
     "level": "5",
     "initiative": "71",
-    "cardno": "078"
+    "cardno": "078",
+    "character-xws": "spellweaver"
   },
   {
     "name": "cold fire",
@@ -5277,7 +5804,8 @@
     "xws": "coldfire",
     "level": "3",
     "initiative": "67",
-    "cardno": "074"
+    "cardno": "074",
+    "character-xws": "spellweaver"
   },
   {
     "name": "cold front",
@@ -5287,7 +5815,8 @@
     "xws": "coldfront",
     "level": "8",
     "initiative": "61",
-    "cardno": "085"
+    "cardno": "085",
+    "character-xws": "spellweaver"
   },
   {
     "name": "crackling air",
@@ -5297,7 +5826,8 @@
     "xws": "cracklingair",
     "level": "X",
     "initiative": "25",
-    "cardno": "069"
+    "cardno": "069",
+    "character-xws": "spellweaver"
   },
   {
     "name": "elemental aid",
@@ -5307,7 +5837,8 @@
     "xws": "elementalaid",
     "level": "3",
     "initiative": "84",
-    "cardno": "075"
+    "cardno": "075",
+    "character-xws": "spellweaver"
   },
   {
     "name": "engulfed in flames",
@@ -5317,7 +5848,8 @@
     "xws": "engulfedinflames",
     "level": "5",
     "initiative": "44",
-    "cardno": "079"
+    "cardno": "079",
+    "character-xws": "spellweaver"
   },
   {
     "name": "fire orbs",
@@ -5327,7 +5859,8 @@
     "xws": "fireorbs",
     "level": "1",
     "initiative": "69",
-    "cardno": "061"
+    "cardno": "061",
+    "character-xws": "spellweaver"
   },
   {
     "name": "flame strike",
@@ -5337,7 +5870,8 @@
     "xws": "flamestrike",
     "level": "1",
     "initiative": "36",
-    "cardno": "067"
+    "cardno": "067",
+    "character-xws": "spellweaver"
   },
   {
     "name": "flashing burst",
@@ -5347,7 +5881,8 @@
     "xws": "flashingburst",
     "level": "2",
     "initiative": "26",
-    "cardno": "072"
+    "cardno": "072",
+    "character-xws": "spellweaver"
   },
   {
     "name": "forked beam",
@@ -5357,7 +5892,8 @@
     "xws": "forkedbeam",
     "level": "4",
     "initiative": "20",
-    "cardno": "077"
+    "cardno": "077",
+    "character-xws": "spellweaver"
   },
   {
     "name": "freezing nova",
@@ -5367,7 +5903,8 @@
     "xws": "freezingnova",
     "level": "1",
     "initiative": "21",
-    "cardno": "064"
+    "cardno": "064",
+    "character-xws": "spellweaver"
   },
   {
     "name": "frost armor",
@@ -5377,7 +5914,8 @@
     "xws": "frostarmor",
     "level": "1",
     "initiative": "20",
-    "cardno": "066"
+    "cardno": "066",
+    "character-xws": "spellweaver"
   },
   {
     "name": "frozen night",
@@ -5387,7 +5925,8 @@
     "xws": "frozennight",
     "level": "6",
     "initiative": "46",
-    "cardno": "081"
+    "cardno": "081",
+    "character-xws": "spellweaver"
   },
   {
     "name": "hardened spikes",
@@ -5397,7 +5936,8 @@
     "xws": "hardenedspikes",
     "level": "X",
     "initiative": "26",
-    "cardno": "070"
+    "cardno": "070",
+    "character-xws": "spellweaver"
   },
   {
     "name": "icy blast",
@@ -5407,7 +5947,8 @@
     "xws": "icyblast",
     "level": "2",
     "initiative": "66",
-    "cardno": "073"
+    "cardno": "073",
+    "character-xws": "spellweaver"
   },
   {
     "name": "impaling eruption",
@@ -5417,7 +5958,8 @@
     "xws": "impalingeruption",
     "level": "1",
     "initiative": "70",
-    "cardno": "062"
+    "cardno": "062",
+    "character-xws": "spellweaver"
   },
   {
     "name": "inferno",
@@ -5427,7 +5969,8 @@
     "xws": "inferno",
     "level": "9",
     "initiative": "19",
-    "cardno": "087"
+    "cardno": "087",
+    "character-xws": "spellweaver"
   },
   {
     "name": "living torch",
@@ -5437,7 +5980,8 @@
     "xws": "livingtorch",
     "level": "6",
     "initiative": "96",
-    "cardno": "080"
+    "cardno": "080",
+    "character-xws": "spellweaver"
   },
   {
     "name": "burning avatar",
@@ -5447,7 +5991,8 @@
     "xws": "livingtorch",
     "level": "6",
     "initiative": "96",
-    "cardno": "080"
+    "cardno": "080",
+    "character-xws": "spellweaver"
   },
   {
     "name": "mana bolt",
@@ -5457,7 +6002,8 @@
     "xws": "manabolt",
     "level": "1",
     "initiative": "07",
-    "cardno": "065"
+    "cardno": "065",
+    "character-xws": "spellweaver"
   },
   {
     "name": "reviving ether",
@@ -5467,7 +6013,8 @@
     "xws": "revivingether",
     "level": "1",
     "initiative": "80",
-    "cardno": "063"
+    "cardno": "063",
+    "character-xws": "spellweaver"
   },
   {
     "name": "ride the wind",
@@ -5477,7 +6024,8 @@
     "xws": "ridethewind",
     "level": "1",
     "initiative": "83",
-    "cardno": "068"
+    "cardno": "068",
+    "character-xws": "spellweaver"
   },
   {
     "name": "spirit of doom",
@@ -5487,7 +6035,8 @@
     "xws": "spiritofdoom",
     "level": "4",
     "initiative": "81",
-    "cardno": "076"
+    "cardno": "076",
+    "character-xws": "spellweaver"
   },
   {
     "name": "stone fists",
@@ -5497,7 +6046,8 @@
     "xws": "stonefists",
     "level": "7",
     "initiative": "62",
-    "cardno": "083"
+    "cardno": "083",
+    "character-xws": "spellweaver"
   },
   {
     "name": "twin restoration",
@@ -5507,7 +6057,8 @@
     "xws": "twinrestoration",
     "level": "7",
     "initiative": "75",
-    "cardno": "082"
+    "cardno": "082",
+    "character-xws": "spellweaver"
   },
   {
     "name": "zephyr wings",
@@ -5517,7 +6068,8 @@
     "xws": "zephyrwings",
     "level": "8",
     "initiative": "85",
-    "cardno": "084"
+    "cardno": "084",
+    "character-xws": "spellweaver"
   },
   {
     "name": "ti-back",
@@ -5527,7 +6079,8 @@
     "xws": "tiback",
     "level": "-",
     "initiative": "-",
-    "cardno": "-"
+    "cardno": "-",
+    "character-xws": "tinkerer"
   },
   {
     "name": "auto turret",
@@ -5537,7 +6090,8 @@
     "xws": "autoturret",
     "level": "6",
     "initiative": "34",
-    "cardno": "054"
+    "cardno": "054",
+    "character-xws": "tinkerer"
   },
   {
     "name": "chimeric formula",
@@ -5547,7 +6101,8 @@
     "xws": "chimericformula",
     "level": "9",
     "initiative": "43",
-    "cardno": "060"
+    "cardno": "060",
+    "character-xws": "tinkerer"
   },
   {
     "name": "crank bow",
@@ -5557,7 +6112,8 @@
     "xws": "crankbow",
     "level": "3",
     "initiative": "66",
-    "cardno": "048"
+    "cardno": "048",
+    "character-xws": "tinkerer"
   },
   {
     "name": "curative aerosol",
@@ -5567,7 +6123,8 @@
     "xws": "curativeaerosol",
     "level": "7",
     "initiative": "21",
-    "cardno": "056"
+    "cardno": "056",
+    "character-xws": "tinkerer"
   },
   {
     "name": "dangerous contraption",
@@ -5577,7 +6134,8 @@
     "xws": "dangerouscontraption",
     "level": "4",
     "initiative": "84",
-    "cardno": "049"
+    "cardno": "049",
+    "character-xws": "tinkerer"
   },
   {
     "name": "battle bot",
@@ -5587,7 +6145,8 @@
     "xws": "dangerouscontraption",
     "level": "4",
     "initiative": "84",
-    "cardno": "049"
+    "cardno": "049",
+    "character-xws": "tinkerer"
   },
   {
     "name": "disintegration beam",
@@ -5597,7 +6156,8 @@
     "xws": "disintegrationbeam",
     "level": "5",
     "initiative": "36",
-    "cardno": "052"
+    "cardno": "052",
+    "character-xws": "tinkerer"
   },
   {
     "name": "disorienting flash",
@@ -5607,7 +6167,8 @@
     "xws": "disorientingflash",
     "level": "2",
     "initiative": "73",
-    "cardno": "046"
+    "cardno": "046",
+    "character-xws": "tinkerer"
   },
   {
     "name": "energizing tonic",
@@ -5617,7 +6178,8 @@
     "xws": "energizingtonic",
     "level": "1",
     "initiative": "16",
-    "cardno": "039"
+    "cardno": "039",
+    "character-xws": "tinkerer"
   },
   {
     "name": "enhancement field",
@@ -5627,7 +6189,8 @@
     "xws": "enhancementfield",
     "level": "1",
     "initiative": "61",
-    "cardno": "040"
+    "cardno": "040",
+    "character-xws": "tinkerer"
   },
   {
     "name": "flamethrower",
@@ -5637,7 +6200,8 @@
     "xws": "flamethrower",
     "level": "1",
     "initiative": "47",
-    "cardno": "032"
+    "cardno": "032",
+    "character-xws": "tinkerer"
   },
   {
     "name": "gas canister",
@@ -5647,7 +6211,8 @@
     "xws": "gascanister",
     "level": "6",
     "initiative": "71",
-    "cardno": "053"
+    "cardno": "053",
+    "character-xws": "tinkerer"
   },
   {
     "name": "harmless contraption",
@@ -5657,7 +6222,8 @@
     "xws": "harmlesscontraption",
     "level": "1",
     "initiative": "74",
-    "cardno": "031"
+    "cardno": "031",
+    "character-xws": "tinkerer"
   },
   {
     "name": "decoy",
@@ -5667,7 +6233,8 @@
     "xws": "harmlesscontraption",
     "level": "1",
     "initiative": "74",
-    "cardno": "031"
+    "cardno": "031",
+    "character-xws": "tinkerer"
   },
   {
     "name": "harsh stimulants",
@@ -5677,7 +6244,8 @@
     "xws": "harshstimulants",
     "level": "8",
     "initiative": "27",
-    "cardno": "058"
+    "cardno": "058",
+    "character-xws": "tinkerer"
   },
   {
     "name": "hook gun",
@@ -5687,7 +6255,8 @@
     "xws": "hookgun",
     "level": "1",
     "initiative": "72",
-    "cardno": "033"
+    "cardno": "033",
+    "character-xws": "tinkerer"
   },
   {
     "name": "ink bomb",
@@ -5697,7 +6266,8 @@
     "xws": "inkbomb",
     "level": "1",
     "initiative": "74",
-    "cardno": "034"
+    "cardno": "034",
+    "character-xws": "tinkerer"
   },
   {
     "name": "jet propulsion",
@@ -5707,7 +6277,8 @@
     "xws": "jetpropulsion",
     "level": "8",
     "initiative": "38",
-    "cardno": "057"
+    "cardno": "057",
+    "character-xws": "tinkerer"
   },
   {
     "name": "lethal injection",
@@ -5717,7 +6288,8 @@
     "xws": "lethalinjection",
     "level": "9",
     "initiative": "85",
-    "cardno": "059"
+    "cardno": "059",
+    "character-xws": "tinkerer"
   },
   {
     "name": "micro bots",
@@ -5727,7 +6299,8 @@
     "xws": "microbots",
     "level": "4",
     "initiative": "22",
-    "cardno": "050"
+    "cardno": "050",
+    "character-xws": "tinkerer"
   },
   {
     "name": "murderous contraption",
@@ -5737,7 +6310,8 @@
     "xws": "murderouscontraption",
     "level": "7",
     "initiative": "94",
-    "cardno": "055"
+    "cardno": "055",
+    "character-xws": "tinkerer"
   },
   {
     "name": "kill bot",
@@ -5747,7 +6321,8 @@
     "xws": "murderouscontraption",
     "level": "7",
     "initiative": "94",
-    "cardno": "055"
+    "cardno": "055",
+    "character-xws": "tinkerer"
   },
   {
     "name": "net shooter",
@@ -5757,7 +6332,8 @@
     "xws": "netshooter",
     "level": "1",
     "initiative": "19",
-    "cardno": "035"
+    "cardno": "035",
+    "character-xws": "tinkerer"
   },
   {
     "name": "noxious vials",
@@ -5767,7 +6343,8 @@
     "xws": "noxiousvials",
     "level": "5",
     "initiative": "75",
-    "cardno": "051"
+    "cardno": "051",
+    "character-xws": "tinkerer"
   },
   {
     "name": "potent potables",
@@ -5777,7 +6354,8 @@
     "xws": "potentpotables",
     "level": "X",
     "initiative": "46",
-    "cardno": "044"
+    "cardno": "044",
+    "character-xws": "tinkerer"
   },
   {
     "name": "proximity mine",
@@ -5787,7 +6365,8 @@
     "xws": "proximitymine",
     "level": "1",
     "initiative": "62",
-    "cardno": "030"
+    "cardno": "030",
+    "character-xws": "tinkerer"
   },
   {
     "name": "reinvigorating elixir",
@@ -5797,7 +6376,8 @@
     "xws": "reinvigorating-elixir",
     "level": "1",
     "initiative": "37",
-    "cardno": "037"
+    "cardno": "037",
+    "character-xws": "tinkerer"
   },
   {
     "name": "restorative mist",
@@ -5807,7 +6387,8 @@
     "xws": "restorativemist",
     "level": "1",
     "initiative": "17",
-    "cardno": "038"
+    "cardno": "038",
+    "character-xws": "tinkerer"
   },
   {
     "name": "reviving shock",
@@ -5817,7 +6398,8 @@
     "xws": "revivingshock",
     "level": "X",
     "initiative": "34",
-    "cardno": "042"
+    "cardno": "042",
+    "character-xws": "tinkerer"
   },
   {
     "name": "stamina booster",
@@ -5827,7 +6409,8 @@
     "xws": "staminabooster",
     "level": "2",
     "initiative": "48",
-    "cardno": "045"
+    "cardno": "045",
+    "character-xws": "tinkerer"
   },
   {
     "name": "stun shot",
@@ -5837,7 +6420,8 @@
     "xws": "stunshot",
     "level": "1",
     "initiative": "20",
-    "cardno": "036"
+    "cardno": "036",
+    "character-xws": "tinkerer"
   },
   {
     "name": "tinkerer's tools",
@@ -5847,7 +6431,8 @@
     "xws": "tinkererstools",
     "level": "3",
     "initiative": "26",
-    "cardno": "047"
+    "cardno": "047",
+    "character-xws": "tinkerer"
   },
   {
     "name": "toxic bolt",
@@ -5857,7 +6442,8 @@
     "xws": "toxicbolt",
     "level": "1",
     "initiative": "18",
-    "cardno": "041"
+    "cardno": "041",
+    "character-xws": "tinkerer"
   },
   {
     "name": "volatile concoction",
@@ -5867,7 +6453,8 @@
     "xws": "volatileconcoction",
     "level": "X",
     "initiative": "76",
-    "cardno": "043"
+    "cardno": "043",
+    "character-xws": "tinkerer"
   },
   {
     "name": "dr-back",
@@ -5877,7 +6464,8 @@
     "xws": "drback",
     "level": "-",
     "initiative": "-",
-    "cardno": "-"
+    "cardno": "-",
+    "character-xws": "diviner"
   },
   {
     "name": "anguish and salvation",
@@ -5887,7 +6475,8 @@
     "xws": "anguishandsalvation",
     "level": "8",
     "initiative": "21",
-    "cardno": "599"
+    "cardno": "599",
+    "character-xws": "diviner"
   },
   {
     "name": "anticipate intricacies",
@@ -5897,7 +6486,8 @@
     "xws": "anticipateintricacies",
     "level": "1",
     "initiative": "79",
-    "cardno": "575"
+    "cardno": "575",
+    "character-xws": "diviner"
   },
   {
     "name": "bad omen",
@@ -5907,7 +6497,8 @@
     "xws": "badomen",
     "level": "X",
     "initiative": "66",
-    "cardno": "583"
+    "cardno": "583",
+    "character-xws": "diviner"
   },
   {
     "name": "call of the nether",
@@ -5917,7 +6508,8 @@
     "xws": "callofthenether",
     "level": "3",
     "initiative": "43",
-    "cardno": "589"
+    "cardno": "589",
+    "character-xws": "diviner"
   },
   {
     "name": "careful attunement",
@@ -5927,7 +6519,8 @@
     "xws": "carefulattunement",
     "level": "6",
     "initiative": "07",
-    "cardno": "595"
+    "cardno": "595",
+    "character-xws": "diviner"
   },
   {
     "name": "clairvoyance",
@@ -5937,7 +6530,8 @@
     "xws": "clairvoyance",
     "level": "1",
     "initiative": "08",
-    "cardno": "577"
+    "cardno": "577",
+    "character-xws": "diviner"
   },
   {
     "name": "cleansing rite",
@@ -5947,7 +6541,8 @@
     "xws": "cleansingrite",
     "level": "4",
     "initiative": "62",
-    "cardno": "591"
+    "cardno": "591",
+    "character-xws": "diviner"
   },
   {
     "name": "curative flux",
@@ -5957,7 +6552,8 @@
     "xws": "curativeflux",
     "level": "7",
     "initiative": "40",
-    "cardno": "596"
+    "cardno": "596",
+    "character-xws": "diviner"
   },
   {
     "name": "cursed ground",
@@ -5967,7 +6563,8 @@
     "xws": "cursedground",
     "level": "1",
     "initiative": "17",
-    "cardno": "582"
+    "cardno": "582",
+    "character-xws": "diviner"
   },
   {
     "name": "deep contemplation",
@@ -5977,7 +6574,8 @@
     "xws": "deepcontemplation",
     "level": "8",
     "initiative": "91",
-    "cardno": "598"
+    "cardno": "598",
+    "character-xws": "diviner"
   },
   {
     "name": "dimensional divide",
@@ -5987,7 +6585,8 @@
     "xws": "dimensionaldivide",
     "level": "5",
     "initiative": "13",
-    "cardno": "593"
+    "cardno": "593",
+    "character-xws": "diviner"
   },
   {
     "name": "dimensional transfer",
@@ -5997,7 +6596,8 @@
     "xws": "dimensionaltransfer",
     "level": "1",
     "initiative": "57",
-    "cardno": "580"
+    "cardno": "580",
+    "character-xws": "diviner"
   },
   {
     "name": "duality shards",
@@ -6007,7 +6607,8 @@
     "xws": "dualityshards",
     "level": "X",
     "initiative": "39",
-    "cardno": "585"
+    "cardno": "585",
+    "character-xws": "diviner"
   },
   {
     "name": "enfeebling hex",
@@ -6017,7 +6618,8 @@
     "xws": "enfeeblinghex",
     "level": "6",
     "initiative": "52",
-    "cardno": "594"
+    "cardno": "594",
+    "character-xws": "diviner"
   },
   {
     "name": "envision the course",
@@ -6027,7 +6629,8 @@
     "xws": "envisionthecourse",
     "level": "3",
     "initiative": "80",
-    "cardno": "588"
+    "cardno": "588",
+    "character-xws": "diviner"
   },
   {
     "name": "ghost falcons",
@@ -6037,7 +6640,8 @@
     "xws": "envisionthecourse",
     "level": "3",
     "initiative": "80",
-    "cardno": "588"
+    "cardno": "588",
+    "character-xws": "diviner"
   },
   {
     "name": "ethereal vortex",
@@ -6047,7 +6651,8 @@
     "xws": "etherealvortex",
     "level": "7",
     "initiative": "59",
-    "cardno": "597"
+    "cardno": "597",
+    "character-xws": "diviner"
   },
   {
     "name": "gift of the void",
@@ -6057,7 +6662,8 @@
     "xws": "giftofthevoid",
     "level": "2",
     "initiative": "72",
-    "cardno": "587"
+    "cardno": "587",
+    "character-xws": "diviner"
   },
   {
     "name": "hand of destiny",
@@ -6067,7 +6673,8 @@
     "xws": "handofdestiny",
     "level": "9",
     "initiative": "96",
-    "cardno": "600"
+    "cardno": "600",
+    "character-xws": "diviner"
   },
   {
     "name": "inspiration from beyond",
@@ -6077,7 +6684,8 @@
     "xws": "inspirationfrombeyond",
     "level": "X",
     "initiative": "23",
-    "cardno": "584"
+    "cardno": "584",
+    "character-xws": "diviner"
   },
   {
     "name": "otherworldly journey",
@@ -6087,7 +6695,8 @@
     "xws": "otherworldlyjourney",
     "level": "1",
     "initiative": "34",
-    "cardno": "578"
+    "cardno": "578",
+    "character-xws": "diviner"
   },
   {
     "name": "peer into battle",
@@ -6097,7 +6706,8 @@
     "xws": "peerintobattle",
     "level": "1",
     "initiative": "82",
-    "cardno": "574"
+    "cardno": "574",
+    "character-xws": "diviner"
   },
   {
     "name": "planar fissure",
@@ -6107,7 +6717,8 @@
     "xws": "planarfissure",
     "level": "9",
     "initiative": "75",
-    "cardno": "601"
+    "cardno": "601",
+    "character-xws": "diviner"
   },
   {
     "name": "twilight archon",
@@ -6117,7 +6728,8 @@
     "xws": "planarfissure",
     "level": "9",
     "initiative": "75",
-    "cardno": "601"
+    "cardno": "601",
+    "character-xws": "diviner"
   },
   {
     "name": "preordain the path",
@@ -6127,7 +6739,8 @@
     "xws": "preordainthepath",
     "level": "4",
     "initiative": "87",
-    "cardno": "590"
+    "cardno": "590",
+    "character-xws": "diviner"
   },
   {
     "name": "protective aura",
@@ -6137,7 +6750,8 @@
     "xws": "protectiveaura",
     "level": "1",
     "initiative": "13",
-    "cardno": "576"
+    "cardno": "576",
+    "character-xws": "diviner"
   },
   {
     "name": "ray of light",
@@ -6147,7 +6761,8 @@
     "xws": "rayoflight",
     "level": "1",
     "initiative": "48",
-    "cardno": "579"
+    "cardno": "579",
+    "character-xws": "diviner"
   },
   {
     "name": "revitalizing fount",
@@ -6157,7 +6772,8 @@
     "xws": "revitalizingfount",
     "level": "2",
     "initiative": "21",
-    "cardno": "586"
+    "cardno": "586",
+    "character-xws": "diviner"
   },
   {
     "name": "seal their fate",
@@ -6167,7 +6783,8 @@
     "xws": "sealtheirfate",
     "level": "5",
     "initiative": "37",
-    "cardno": "592"
+    "cardno": "592",
+    "character-xws": "diviner"
   },
   {
     "name": "void snare",
@@ -6177,7 +6794,8 @@
     "xws": "voidsnare",
     "level": "1",
     "initiative": "25",
-    "cardno": "581"
+    "cardno": "581",
+    "character-xws": "diviner"
   },
   {
     "name": "bb-back",
@@ -6187,7 +6805,8 @@
     "xws": "bbback",
     "level": "-",
     "initiative": "-",
-    "cardno": "-"
+    "cardno": "-",
+    "character-xws": "blinkblade"
   },
   {
     "name": "blurry jab",
@@ -6197,7 +6816,8 @@
     "xws": "blurryjab",
     "level": "1",
     "initiative": "20/50",
-    "cardno": "032"
+    "cardno": "032",
+    "character-xws": "blinkblade"
   },
   {
     "name": "borrowed time",
@@ -6207,7 +6827,8 @@
     "xws": "borrowedtime",
     "level": "X",
     "initiative": "02/32",
-    "cardno": "044"
+    "cardno": "044",
+    "character-xws": "blinkblade"
   },
   {
     "name": "breakneck speed",
@@ -6217,7 +6838,8 @@
     "xws": "breakneckspeed",
     "level": "5",
     "initiative": "03/33",
-    "cardno": "051"
+    "cardno": "051",
+    "character-xws": "blinkblade"
   },
   {
     "name": "cascading reaction",
@@ -6227,7 +6849,8 @@
     "xws": "cascadingreaction",
     "level": "1",
     "initiative": "19/49",
-    "cardno": "040"
+    "cardno": "040",
+    "character-xws": "blinkblade"
   },
   {
     "name": "double time",
@@ -6237,7 +6860,8 @@
     "xws": "doubletime",
     "level": "3",
     "initiative": "22/52",
-    "cardno": "048"
+    "cardno": "048",
+    "character-xws": "blinkblade"
   },
   {
     "name": "drive recharge",
@@ -6247,7 +6871,8 @@
     "xws": "driverecharge",
     "level": "1",
     "initiative": "69/99",
-    "cardno": "039"
+    "cardno": "039",
+    "character-xws": "blinkblade"
   },
   {
     "name": "experimental adjustment",
@@ -6257,7 +6882,8 @@
     "xws": "experimentaladjustment",
     "level": "X",
     "initiative": "12/42",
-    "cardno": "042"
+    "cardno": "042",
+    "character-xws": "blinkblade"
   },
   {
     "name": "fastest alive",
@@ -6267,7 +6893,8 @@
     "xws": "fastestalive",
     "level": "8",
     "initiative": "01/31",
-    "cardno": "058"
+    "cardno": "058",
+    "character-xws": "blinkblade"
   },
   {
     "name": "flashing flurry",
@@ -6277,7 +6904,8 @@
     "xws": "flashingflurry",
     "level": "5",
     "initiative": "40/70",
-    "cardno": "052"
+    "cardno": "052",
+    "character-xws": "blinkblade"
   },
   {
     "name": "fractured timeline",
@@ -6287,7 +6915,8 @@
     "xws": "fracturedtimeline",
     "level": "9",
     "initiative": "55/85",
-    "cardno": "060"
+    "cardno": "060",
+    "character-xws": "blinkblade"
   },
   {
     "name": "hit and run",
@@ -6297,7 +6926,8 @@
     "xws": "hitandrun",
     "level": "1",
     "initiative": "41/71",
-    "cardno": "038"
+    "cardno": "038",
+    "character-xws": "blinkblade"
   },
   {
     "name": "kinetic transfer",
@@ -6307,7 +6937,8 @@
     "xws": "kinetictransfer",
     "level": "1",
     "initiative": "36/66",
-    "cardno": "035"
+    "cardno": "035",
+    "character-xws": "blinkblade"
   },
   {
     "name": "make it count",
@@ -6317,7 +6948,8 @@
     "xws": "makeitcount",
     "level": "3",
     "initiative": "51/81",
-    "cardno": "047"
+    "cardno": "047",
+    "character-xws": "blinkblade"
   },
   {
     "name": "overdrive",
@@ -6327,7 +6959,8 @@
     "xws": "overdrive",
     "level": "1",
     "initiative": "60/90",
-    "cardno": "036"
+    "cardno": "036",
+    "character-xws": "blinkblade"
   },
   {
     "name": "phasing blades",
@@ -6337,7 +6970,8 @@
     "xws": "phasingblades",
     "level": "7",
     "initiative": "63/93",
-    "cardno": "055"
+    "cardno": "055",
+    "character-xws": "blinkblade"
   },
   {
     "name": "potential energy",
@@ -6347,7 +6981,8 @@
     "xws": "potentialenergy",
     "level": "4",
     "initiative": "32/62",
-    "cardno": "050"
+    "cardno": "050",
+    "character-xws": "blinkblade"
   },
   {
     "name": "power leak",
@@ -6357,7 +6992,8 @@
     "xws": "powerleak",
     "level": "1",
     "initiative": "17/47",
-    "cardno": "037"
+    "cardno": "037",
+    "character-xws": "blinkblade"
   },
   {
     "name": "precision timing",
@@ -6367,7 +7003,8 @@
     "xws": "precisiontiming",
     "level": "4",
     "initiative": "15/45",
-    "cardno": "049"
+    "cardno": "049",
+    "character-xws": "blinkblade"
   },
   {
     "name": "quantum uncertainty",
@@ -6377,7 +7014,8 @@
     "xws": "quantumuncertainty",
     "level": "8",
     "initiative": "35/65",
-    "cardno": "057"
+    "cardno": "057",
+    "character-xws": "blinkblade"
   },
   {
     "name": "reckless augmentation",
@@ -6387,7 +7025,8 @@
     "xws": "recklessaugmentation",
     "level": "2",
     "initiative": "10/40",
-    "cardno": "046"
+    "cardno": "046",
+    "character-xws": "blinkblade"
   },
   {
     "name": "reverse the flow",
@@ -6397,7 +7036,8 @@
     "xws": "reversetheflow",
     "level": "9",
     "initiative": "58/88",
-    "cardno": "059"
+    "cardno": "059",
+    "character-xws": "blinkblade"
   },
   {
     "name": "rushed to the end",
@@ -6407,7 +7047,8 @@
     "xws": "rushedtotheend",
     "level": "7",
     "initiative": "32/62",
-    "cardno": "056"
+    "cardno": "056",
+    "character-xws": "blinkblade"
   },
   {
     "name": "sand in the hourglass",
@@ -6417,7 +7058,8 @@
     "xws": "sandinthehourglass",
     "level": "X",
     "initiative": "52/82",
-    "cardno": "043"
+    "cardno": "043",
+    "character-xws": "blinkblade"
   },
   {
     "name": "sap speed",
@@ -6427,7 +7069,8 @@
     "xws": "sapspeed",
     "level": "1",
     "initiative": "45/75",
-    "cardno": "034"
+    "cardno": "034",
+    "character-xws": "blinkblade"
   },
   {
     "name": "stab them all",
@@ -6437,7 +7080,8 @@
     "xws": "stabthemall",
     "level": "6",
     "initiative": "04/34",
-    "cardno": "053"
+    "cardno": "053",
+    "character-xws": "blinkblade"
   },
   {
     "name": "systems reboot",
@@ -6447,7 +7091,8 @@
     "xws": "systemsreboot",
     "level": "2",
     "initiative": "57/87",
-    "cardno": "045"
+    "cardno": "045",
+    "character-xws": "blinkblade"
   },
   {
     "name": "temporal displacement",
@@ -6457,7 +7102,8 @@
     "xws": "temporaldisplacement",
     "level": "1",
     "initiative": "44/74",
-    "cardno": "041"
+    "cardno": "041",
+    "character-xws": "blinkblade"
   },
   {
     "name": "the knife's edge",
@@ -6467,7 +7113,8 @@
     "xws": "theknifesedge",
     "level": "6",
     "initiative": "65/95",
-    "cardno": "054"
+    "cardno": "054",
+    "character-xws": "blinkblade"
   },
   {
     "name": "twin strike",
@@ -6477,7 +7124,8 @@
     "xws": "twinstrike",
     "level": "1",
     "initiative": "24/54",
-    "cardno": "033"
+    "cardno": "033",
+    "character-xws": "blinkblade"
   },
   {
     "name": "bn-back",
@@ -6487,7 +7135,8 @@
     "xws": "bnback",
     "level": "-",
     "initiative": "-",
-    "cardno": "-"
+    "cardno": "-",
+    "character-xws": "banner spear"
   },
   {
     "name": "air support",
@@ -6497,7 +7146,8 @@
     "xws": "airsupport",
     "level": "4",
     "initiative": "20",
-    "cardno": "079"
+    "cardno": "079",
+    "character-xws": "banner spear"
   },
   {
     "name": "trained falcon",
@@ -6507,7 +7157,8 @@
     "xws": "airsupport",
     "level": "4",
     "initiative": "20",
-    "cardno": "079"
+    "cardno": "079",
+    "character-xws": "banner spear"
   },
   {
     "name": "at all costs",
@@ -6517,7 +7168,8 @@
     "xws": "atallcosts",
     "level": "1",
     "initiative": "60",
-    "cardno": "061"
+    "cardno": "061",
+    "character-xws": "banner spear"
   },
   {
     "name": "reinforcement",
@@ -6527,7 +7179,8 @@
     "xws": "atallcosts",
     "level": "1",
     "initiative": "60",
-    "cardno": "061"
+    "cardno": "061",
+    "character-xws": "banner spear"
   },
   {
     "name": "barricade",
@@ -6537,7 +7190,8 @@
     "xws": "barricade",
     "level": "6",
     "initiative": "16",
-    "cardno": "082"
+    "cardno": "082",
+    "character-xws": "banner spear"
   },
   {
     "name": "banner of valor",
@@ -6547,7 +7201,8 @@
     "xws": "barricade",
     "level": "6",
     "initiative": "16",
-    "cardno": "082"
+    "cardno": "082",
+    "character-xws": "banner spear"
   },
   {
     "name": "boldening blow",
@@ -6557,7 +7212,8 @@
     "xws": "boldeningblow",
     "level": "4",
     "initiative": "72",
-    "cardno": "078"
+    "cardno": "078",
+    "character-xws": "banner spear"
   },
   {
     "name": "bolstering shout",
@@ -6567,7 +7223,8 @@
     "xws": "blsteringshout",
     "level": "6",
     "initiative": "75",
-    "cardno": "083"
+    "cardno": "083",
+    "character-xws": "banner spear"
   },
   {
     "name": "combined effort",
@@ -6577,7 +7234,8 @@
     "xws": "combinedeffort",
     "level": "1",
     "initiative": "32",
-    "cardno": "067"
+    "cardno": "067",
+    "character-xws": "banner spear"
   },
   {
     "name": "deflecting maneuver",
@@ -6587,7 +7245,8 @@
     "xws": "deflectingmaneuver",
     "level": "1",
     "initiative": "15",
-    "cardno": "065"
+    "cardno": "065",
+    "character-xws": "banner spear"
   },
   {
     "name": "driving inspiration",
@@ -6597,7 +7256,8 @@
     "xws": "drivinginspiration",
     "level": "X",
     "initiative": "18",
-    "cardno": "073"
+    "cardno": "073",
+    "character-xws": "banner spear"
   },
   {
     "name": "banner of hope",
@@ -6607,7 +7267,8 @@
     "xws": "drivinginspiration",
     "level": "X",
     "initiative": "18",
-    "cardno": "073"
+    "cardno": "073",
+    "character-xws": "banner spear"
   },
   {
     "name": "explosive epicenter",
@@ -6617,7 +7278,8 @@
     "xws": "explosiveepicenter",
     "level": "5",
     "initiative": "78",
-    "cardno": "080"
+    "cardno": "080",
+    "character-xws": "banner spear"
   },
   {
     "name": "hail of spears",
@@ -6627,7 +7289,8 @@
     "xws": "hailofspears",
     "level": "9",
     "initiative": "44",
-    "cardno": "089"
+    "cardno": "089",
+    "character-xws": "banner spear"
   },
   {
     "name": "head of the hammer",
@@ -6637,7 +7300,8 @@
     "xws": "headofthehammer",
     "level": "3",
     "initiative": "87",
-    "cardno": "077"
+    "cardno": "077",
+    "character-xws": "banner spear"
   },
   {
     "name": "hold the line",
@@ -6647,7 +7311,8 @@
     "xws": "holdtheline",
     "level": "5",
     "initiative": "05",
-    "cardno": "081"
+    "cardno": "081",
+    "character-xws": "banner spear"
   },
   {
     "name": "incendiary throw",
@@ -6657,7 +7322,8 @@
     "xws": "incendiarythrow",
     "level": "X",
     "initiative": "22",
-    "cardno": "072"
+    "cardno": "072",
+    "character-xws": "banner spear"
   },
   {
     "name": "torch bearer",
@@ -6667,7 +7333,8 @@
     "xws": "incendiarythrow",
     "level": "X",
     "initiative": "22",
-    "cardno": "072"
+    "cardno": "072",
+    "character-xws": "banner spear"
   },
   {
     "name": "javelin",
@@ -6677,7 +7344,8 @@
     "xws": "javelin",
     "level": "1",
     "initiative": "21",
-    "cardno": "064"
+    "cardno": "064",
+    "character-xws": "banner spear"
   },
   {
     "name": "lead from afar",
@@ -6687,7 +7355,8 @@
     "xws": "leadfromafar",
     "level": "7",
     "initiative": "80",
-    "cardno": "085"
+    "cardno": "085",
+    "character-xws": "banner spear"
   },
   {
     "name": "longbowman",
@@ -6697,7 +7366,8 @@
     "xws": "leadfromafar",
     "level": "7",
     "initiative": "80",
-    "cardno": "085"
+    "cardno": "085",
+    "character-xws": "banner spear"
   },
   {
     "name": "let them come",
@@ -6707,7 +7377,8 @@
     "xws": "letthemcome",
     "level": "3",
     "initiative": "24",
-    "cardno": "076"
+    "cardno": "076",
+    "character-xws": "banner spear"
   },
   {
     "name": "banner of courage",
@@ -6717,7 +7388,8 @@
     "xws": "letthemcome",
     "level": "3",
     "initiative": "24",
-    "cardno": "076"
+    "cardno": "076",
+    "character-xws": "banner spear"
   },
   {
     "name": "meat grinder",
@@ -6727,7 +7399,8 @@
     "xws": "meatgrinder",
     "level": "2",
     "initiative": "62",
-    "cardno": "074"
+    "cardno": "074",
+    "character-xws": "banner spear"
   },
   {
     "name": "pincer movement",
@@ -6737,7 +7410,8 @@
     "xws": "pincermovement",
     "level": "1",
     "initiative": "69",
-    "cardno": "069"
+    "cardno": "069",
+    "character-xws": "banner spear"
   },
   {
     "name": "pinning charge",
@@ -6747,7 +7421,8 @@
     "xws": "pinningcharge",
     "level": "2",
     "initiative": "17",
-    "cardno": "075"
+    "cardno": "075",
+    "character-xws": "banner spear"
   },
   {
     "name": "rallying cry",
@@ -6757,7 +7432,8 @@
     "xws": "rallyingcry",
     "level": "1",
     "initiative": "71",
-    "cardno": "062"
+    "cardno": "062",
+    "character-xws": "banner spear"
   },
   {
     "name": "banner of strength",
@@ -6767,7 +7443,8 @@
     "xws": "rallyingcry",
     "level": "1",
     "initiative": "71",
-    "cardno": "062"
+    "cardno": "062",
+    "character-xws": "banner spear"
   },
   {
     "name": "regroup",
@@ -6777,7 +7454,8 @@
     "xws": "regroup",
     "level": "1",
     "initiative": "25",
-    "cardno": "070"
+    "cardno": "070",
+    "character-xws": "banner spear"
   },
   {
     "name": "resolved courage",
@@ -6787,7 +7465,8 @@
     "xws": "resolvedcourage",
     "level": "X",
     "initiative": "10",
-    "cardno": "071"
+    "cardno": "071",
+    "character-xws": "banner spear"
   },
   {
     "name": "set for the charge",
@@ -6797,7 +7476,8 @@
     "xws": "setforthecharge",
     "level": "1",
     "initiative": "06",
-    "cardno": "068"
+    "cardno": "068",
+    "character-xws": "banner spear"
   },
   {
     "name": "sweeping aid",
@@ -6807,7 +7487,8 @@
     "xws": "sweepingaid",
     "level": "8",
     "initiative": "73",
-    "cardno": "086"
+    "cardno": "086",
+    "character-xws": "banner spear"
   },
   {
     "name": "take no prisoners",
@@ -6817,7 +7498,8 @@
     "xws": "takenoprisoners",
     "level": "9",
     "initiative": "85",
-    "cardno": "088"
+    "cardno": "088",
+    "character-xws": "banner spear"
   },
   {
     "name": "banner of doom",
@@ -6827,7 +7509,8 @@
     "xws": "takenoprisoners",
     "level": "9",
     "initiative": "85",
-    "cardno": "088"
+    "cardno": "088",
+    "character-xws": "banner spear"
   },
   {
     "name": "taunting howl",
@@ -6837,7 +7520,8 @@
     "xws": "tauntinghowl",
     "level": "8",
     "initiative": "11",
-    "cardno": "087"
+    "cardno": "087",
+    "character-xws": "banner spear"
   },
   {
     "name": "tip of the spear",
@@ -6847,7 +7531,8 @@
     "xws": "tipofthespear",
     "level": "1",
     "initiative": "67",
-    "cardno": "066"
+    "cardno": "066",
+    "character-xws": "banner spear"
   },
   {
     "name": "tri-thrust",
@@ -6857,7 +7542,8 @@
     "xws": "trithrust",
     "level": "7",
     "initiative": "27",
-    "cardno": "084"
+    "cardno": "084",
+    "character-xws": "banner spear"
   },
   {
     "name": "unbreakable wall",
@@ -6867,7 +7553,8 @@
     "xws": "unbreakablewall",
     "level": "1",
     "initiative": "83",
-    "cardno": "063"
+    "cardno": "063",
+    "character-xws": "banner spear"
   },
   {
     "name": "bo-back",
@@ -6877,7 +7564,8 @@
     "xws": "anback",
     "level": "-",
     "initiative": "-",
-    "cardno": "-"
+    "cardno": "-",
+    "character-xws": "boneshaper"
   },
   {
     "name": "angry spirits",
@@ -6887,7 +7575,8 @@
     "xws": "angryspirits",
     "level": "1",
     "initiative": "76",
-    "cardno": "126"
+    "cardno": "126",
+    "character-xws": "boneshaper"
   },
   {
     "name": "wraith",
@@ -6897,7 +7586,8 @@
     "xws": "angryspirits",
     "level": "1",
     "initiative": "76",
-    "cardno": "126"
+    "cardno": "126",
+    "character-xws": "boneshaper"
   },
   {
     "name": "approach oblivion",
@@ -6907,7 +7597,8 @@
     "xws": "approachoblivion",
     "level": "X",
     "initiative": "53",
-    "cardno": "132"
+    "cardno": "132",
+    "character-xws": "boneshaper"
   },
   {
     "name": "behold the shrouded sun",
@@ -6917,7 +7608,8 @@
     "xws": "beholdtheshroudedsun",
     "level": "9",
     "initiative": "10",
-    "cardno": "150"
+    "cardno": "150",
+    "character-xws": "boneshaper"
   },
   {
     "name": "bone dagger",
@@ -6927,7 +7619,8 @@
     "xws": "bonedagger",
     "level": "2",
     "initiative": "29",
-    "cardno": "136"
+    "cardno": "136",
+    "character-xws": "boneshaper"
   },
   {
     "name": "command the wretched",
@@ -6937,7 +7630,8 @@
     "xws": "commandthewretched",
     "level": "1",
     "initiative": "83",
-    "cardno": "129"
+    "cardno": "129",
+    "character-xws": "boneshaper"
   },
   {
     "name": "critical failure",
@@ -6947,7 +7641,8 @@
     "xws": "criticalfailure",
     "level": "4",
     "initiative": "95",
-    "cardno": "139"
+    "cardno": "139",
+    "character-xws": "boneshaper"
   },
   {
     "name": "damned horde",
@@ -6957,7 +7652,8 @@
     "xws": "damnedhorde",
     "level": "1",
     "initiative": "71",
-    "cardno": "122"
+    "cardno": "122",
+    "character-xws": "boneshaper"
   },
   {
     "name": "shambling skeleton",
@@ -6967,7 +7663,8 @@
     "xws": "damnedhorde",
     "level": "1",
     "initiative": "71",
-    "cardno": "122"
+    "cardno": "122",
+    "character-xws": "boneshaper"
   },
   {
     "name": "dark tidings",
@@ -6977,7 +7674,8 @@
     "xws": "darktidings",
     "level": "1",
     "initiative": "43",
-    "cardno": "125"
+    "cardno": "125",
+    "character-xws": "boneshaper"
   },
   {
     "name": "decaying will",
@@ -6987,7 +7685,8 @@
     "xws": "decayingwill",
     "level": "1",
     "initiative": "46",
-    "cardno": "124"
+    "cardno": "124",
+    "character-xws": "boneshaper"
   },
   {
     "name": "endless numbers",
@@ -6997,7 +7696,8 @@
     "xws": "endlessnumbers",
     "level": "8",
     "initiative": "86",
-    "cardno": "147"
+    "cardno": "147",
+    "character-xws": "boneshaper"
   },
   {
     "name": "bone horde",
@@ -7007,7 +7707,8 @@
     "xws": "endlessnumbers",
     "level": "8",
     "initiative": "86",
-    "cardno": "147"
+    "cardno": "147",
+    "character-xws": "boneshaper"
   },
   {
     "name": "eternal torment",
@@ -7017,7 +7718,8 @@
     "xws": "eternaltorment",
     "level": "1",
     "initiative": "70",
-    "cardno": "130"
+    "cardno": "130",
+    "character-xws": "boneshaper"
   },
   {
     "name": "exploding corpse",
@@ -7027,7 +7729,8 @@
     "xws": "explodingcorpse",
     "level": "X",
     "initiative": "21",
-    "cardno": "133"
+    "cardno": "133",
+    "character-xws": "boneshaper"
   },
   {
     "name": "fell remedy",
@@ -7037,7 +7740,8 @@
     "xws": "fellremedy",
     "level": "1",
     "initiative": "30",
-    "cardno": "127"
+    "cardno": "127",
+    "character-xws": "boneshaper"
   },
   {
     "name": "flesh shield",
@@ -7047,7 +7751,8 @@
     "xws": "fleshshield",
     "level": "4",
     "initiative": "16",
-    "cardno": "140"
+    "cardno": "140",
+    "character-xws": "boneshaper"
   },
   {
     "name": "flow of the black river",
@@ -7057,7 +7762,8 @@
     "xws": "flowoftheblackriver",
     "level": "1",
     "initiative": "18",
-    "cardno": "128"
+    "cardno": "128",
+    "character-xws": "boneshaper"
   },
   {
     "name": "grave digging",
@@ -7067,7 +7773,8 @@
     "xws": "gravedigging",
     "level": "3",
     "initiative": "96",
-    "cardno": "137"
+    "cardno": "137",
+    "character-xws": "boneshaper"
   },
   {
     "name": "shambling skeleton",
@@ -7077,7 +7784,8 @@
     "xws": "gravedigging",
     "level": "3",
     "initiative": "96",
-    "cardno": "137"
+    "cardno": "137",
+    "character-xws": "boneshaper"
   },
   {
     "name": "life in death",
@@ -7087,7 +7795,8 @@
     "xws": "lifeindeath",
     "level": "1",
     "initiative": "91",
-    "cardno": "120"
+    "cardno": "120",
+    "character-xws": "boneshaper"
   },
   {
     "name": "shambling skeleton",
@@ -7097,7 +7806,8 @@
     "xws": "lifeindeath",
     "level": "1",
     "initiative": "91",
-    "cardno": "120"
+    "cardno": "120",
+    "character-xws": "boneshaper"
   },
   {
     "name": "malicious conversion",
@@ -7107,7 +7817,8 @@
     "xws": "maliciousconversion",
     "level": "1",
     "initiative": "26",
-    "cardno": "131"
+    "cardno": "131",
+    "character-xws": "boneshaper"
   },
   {
     "name": "putrid cloud",
@@ -7117,7 +7828,8 @@
     "xws": "putridcloud",
     "level": "3",
     "initiative": "28",
-    "cardno": "138"
+    "cardno": "138",
+    "character-xws": "boneshaper"
   },
   {
     "name": "recycled limbs",
@@ -7127,7 +7839,8 @@
     "xws": "recycledlimbs",
     "level": "7",
     "initiative": "52",
-    "cardno": "145"
+    "cardno": "145",
+    "character-xws": "boneshaper"
   },
   {
     "name": "returned servant",
@@ -7137,7 +7850,8 @@
     "xws": "returnedservant",
     "level": "1",
     "initiative": "81",
-    "cardno": "121"
+    "cardno": "121",
+    "character-xws": "boneshaper"
   },
   {
     "name": "shambling skeleton",
@@ -7147,7 +7861,8 @@
     "xws": "returnedservant",
     "level": "1",
     "initiative": "81",
-    "cardno": "121"
+    "cardno": "121",
+    "character-xws": "boneshaper"
   },
   {
     "name": "rotting multitude",
@@ -7157,7 +7872,8 @@
     "xws": "rottingmultitude",
     "level": "6",
     "initiative": "66",
-    "cardno": "143"
+    "cardno": "143",
+    "character-xws": "boneshaper"
   },
   {
     "name": "two shambling skeletons",
@@ -7167,7 +7883,8 @@
     "xws": "rottingmultitude",
     "level": "6",
     "initiative": "66",
-    "cardno": "143"
+    "cardno": "143",
+    "character-xws": "boneshaper"
   },
   {
     "name": "solid bones",
@@ -7177,7 +7894,8 @@
     "xws": "solidbones",
     "level": "5",
     "initiative": "32",
-    "cardno": "142"
+    "cardno": "142",
+    "character-xws": "boneshaper"
   },
   {
     "name": "soul claim",
@@ -7187,7 +7905,8 @@
     "xws": "soulclaim",
     "level": "7",
     "initiative": "23",
-    "cardno": "146"
+    "cardno": "146",
+    "character-xws": "boneshaper"
   },
   {
     "name": "transfer of essence",
@@ -7197,7 +7916,8 @@
     "xws": "transferofessence",
     "level": "1",
     "initiative": "62",
-    "cardno": "123"
+    "cardno": "123",
+    "character-xws": "boneshaper"
   },
   {
     "name": "twisted decree",
@@ -7207,7 +7927,8 @@
     "xws": "twisteddecree",
     "level": "6",
     "initiative": "85",
-    "cardno": "144"
+    "cardno": "144",
+    "character-xws": "boneshaper"
   },
   {
     "name": "unearthed horror",
@@ -7217,7 +7938,8 @@
     "xws": "unearthedhorror",
     "level": "2",
     "initiative": "94",
-    "cardno": "135"
+    "cardno": "135",
+    "character-xws": "boneshaper"
   },
   {
     "name": "raging corpse",
@@ -7227,7 +7949,8 @@
     "xws": "unearthedhorror",
     "level": "2",
     "initiative": "94",
-    "cardno": "135"
+    "cardno": "135",
+    "character-xws": "boneshaper"
   },
   {
     "name": "unforgivable methods",
@@ -7237,7 +7960,8 @@
     "xws": "unforgivablemethods",
     "level": "5",
     "initiative": "98",
-    "cardno": "141"
+    "cardno": "141",
+    "character-xws": "boneshaper"
   },
   {
     "name": "stitched atrocity",
@@ -7247,7 +7971,8 @@
     "xws": "unforgivablemethods",
     "level": "5",
     "initiative": "98",
-    "cardno": "141"
+    "cardno": "141",
+    "character-xws": "boneshaper"
   },
   {
     "name": "unholy prowess",
@@ -7257,7 +7982,8 @@
     "xws": "unholyprowess",
     "level": "9",
     "initiative": "97",
-    "cardno": "149"
+    "cardno": "149",
+    "character-xws": "boneshaper"
   },
   {
     "name": "skeleton sorcerer",
@@ -7267,7 +7993,8 @@
     "xws": "unholyprowess",
     "level": "9",
     "initiative": "97",
-    "cardno": "149"
+    "cardno": "149",
+    "character-xws": "boneshaper"
   },
   {
     "name": "wailing from beyond",
@@ -7277,7 +8004,8 @@
     "xws": "wailingfrombeyond",
     "level": "8",
     "initiative": "73",
-    "cardno": "148"
+    "cardno": "148",
+    "character-xws": "boneshaper"
   },
   {
     "name": "wrath of the turned earth",
@@ -7287,7 +8015,8 @@
     "xws": "wrathoftheturnedearth",
     "level": "X",
     "initiative": "80",
-    "cardno": "134"
+    "cardno": "134",
+    "character-xws": "boneshaper"
   },
   {
     "name": "cr-back",
@@ -7297,7 +8026,8 @@
     "xws": "crback",
     "level": "-",
     "initiative": "-",
-    "cardno": "-"
+    "cardno": "-",
+    "character-xws": "crashing tide"
   },
   {
     "name": "blood in the water",
@@ -7307,7 +8037,8 @@
     "xws": "bloodinthewater",
     "level": "2",
     "initiative": "53",
-    "cardno": "490"
+    "cardno": "490",
+    "character-xws": "crashing tide"
   },
   {
     "name": "chaotic refraction",
@@ -7317,7 +8048,8 @@
     "xws": "chaoticrefraction",
     "level": "4",
     "initiative": "26",
-    "cardno": "493"
+    "cardno": "493",
+    "character-xws": "crashing tide"
   },
   {
     "name": "cleansing swell",
@@ -7327,7 +8059,8 @@
     "xws": "cleansingswell",
     "level": "1",
     "initiative": "45",
-    "cardno": "481"
+    "cardno": "481",
+    "character-xws": "crashing tide"
   },
   {
     "name": "clean sweep",
@@ -7337,7 +8070,8 @@
     "xws": "cleansweep",
     "level": "4",
     "initiative": "65",
-    "cardno": "494"
+    "cardno": "494",
+    "character-xws": "crashing tide"
   },
   {
     "name": "crashing surge",
@@ -7347,7 +8081,8 @@
     "xws": "crashingsurge",
     "level": "1",
     "initiative": "34",
-    "cardno": "483"
+    "cardno": "483",
+    "character-xws": "crashing tide"
   },
   {
     "name": "cresting force",
@@ -7357,7 +8092,8 @@
     "xws": "crestingforce",
     "level": "1",
     "initiative": "87",
-    "cardno": "482"
+    "cardno": "482",
+    "character-xws": "crashing tide"
   },
   {
     "name": "crush armor",
@@ -7367,7 +8103,8 @@
     "xws": "crusharmor",
     "level": "X",
     "initiative": "42",
-    "cardno": "488"
+    "cardno": "488",
+    "character-xws": "crashing tide"
   },
   {
     "name": "death on all sides",
@@ -7377,7 +8114,8 @@
     "xws": "deathonallsides",
     "level": "8",
     "initiative": "73",
-    "cardno": "501"
+    "cardno": "501",
+    "character-xws": "crashing tide"
   },
   {
     "name": "down to the depths",
@@ -7387,7 +8125,8 @@
     "xws": "downtothedepths",
     "level": "1",
     "initiative": "74",
-    "cardno": "478"
+    "cardno": "478",
+    "character-xws": "crashing tide"
   },
   {
     "name": "drown beneath the waves",
@@ -7397,7 +8136,8 @@
     "xws": "drownbeneaththewaves",
     "level": "7",
     "initiative": "09",
-    "cardno": "500"
+    "cardno": "500",
+    "character-xws": "crashing tide"
   },
   {
     "name": "dug in",
@@ -7407,7 +8147,8 @@
     "xws": "dugin",
     "level": "7",
     "initiative": "76",
-    "cardno": "499"
+    "cardno": "499",
+    "character-xws": "crashing tide"
   },
   {
     "name": "ebb and flow",
@@ -7417,7 +8158,8 @@
     "xws": "ebbandflow",
     "level": "8",
     "initiative": "24",
-    "cardno": "502"
+    "cardno": "502",
+    "character-xws": "crashing tide"
   },
   {
     "name": "endless cycle",
@@ -7427,7 +8169,8 @@
     "xws": "endlesscycle",
     "level": "3",
     "initiative": "08",
-    "cardno": "492"
+    "cardno": "492",
+    "character-xws": "crashing tide"
   },
   {
     "name": "high tide",
@@ -7437,7 +8180,8 @@
     "xws": "hightide",
     "level": "9",
     "initiative": "90",
-    "cardno": "503"
+    "cardno": "503",
+    "character-xws": "crashing tide"
   },
   {
     "name": "low tide",
@@ -7447,7 +8191,8 @@
     "xws": "lowtide",
     "level": "9",
     "initiative": "10",
-    "cardno": "504"
+    "cardno": "504",
+    "character-xws": "crashing tide"
   },
   {
     "name": "mighty claws",
@@ -7457,7 +8202,8 @@
     "xws": "mightyclaws",
     "level": "1",
     "initiative": "23",
-    "cardno": "484"
+    "cardno": "484",
+    "character-xws": "crashing tide"
   },
   {
     "name": "overwhelming wave",
@@ -7467,7 +8213,8 @@
     "xws": "overwhelmingwave",
     "level": "1",
     "initiative": "86",
-    "cardno": "474"
+    "cardno": "474",
+    "character-xws": "crashing tide"
   },
   {
     "name": "pool of power",
@@ -7477,7 +8224,8 @@
     "xws": "poolofpower",
     "level": "1",
     "initiative": "41",
-    "cardno": "479"
+    "cardno": "479",
+    "character-xws": "crashing tide"
   },
   {
     "name": "powerful pincer",
@@ -7487,7 +8235,8 @@
     "xws": "powerfulpincer",
     "level": "6",
     "initiative": "70",
-    "cardno": "497"
+    "cardno": "497",
+    "character-xws": "crashing tide"
   },
   {
     "name": "rancid brine",
@@ -7497,7 +8246,8 @@
     "xws": "rancidbrine",
     "level": "1",
     "initiative": "62",
-    "cardno": "476"
+    "cardno": "476",
+    "character-xws": "crashing tide"
   },
   {
     "name": "rising flood",
@@ -7507,7 +8257,8 @@
     "xws": "risingflood",
     "level": "X",
     "initiative": "49",
-    "cardno": "486"
+    "cardno": "486",
+    "character-xws": "crashing tide"
   },
   {
     "name": "sharp chitin",
@@ -7517,7 +8268,8 @@
     "xws": "sharpchitin",
     "level": "1",
     "initiative": "25",
-    "cardno": "477"
+    "cardno": "477",
+    "character-xws": "crashing tide"
   },
   {
     "name": "shuck",
@@ -7527,7 +8279,8 @@
     "xws": "shuck",
     "level": "3",
     "initiative": "55",
-    "cardno": "491"
+    "cardno": "491",
+    "character-xws": "crashing tide"
   },
   {
     "name": "skitter",
@@ -7537,7 +8290,8 @@
     "xws": "skitter",
     "level": "1",
     "initiative": "51",
-    "cardno": "480"
+    "cardno": "480",
+    "character-xws": "crashing tide"
   },
   {
     "name": "smashing torrent",
@@ -7547,7 +8301,8 @@
     "xws": "smashingtorrent",
     "level": "2",
     "initiative": "79",
-    "cardno": "489"
+    "cardno": "489",
+    "character-xws": "crashing tide"
   },
   {
     "name": "sodden soil",
@@ -7557,7 +8312,8 @@
     "xws": "soddensoil",
     "level": "5",
     "initiative": "17",
-    "cardno": "496"
+    "cardno": "496",
+    "character-xws": "crashing tide"
   },
   {
     "name": "soft flesh",
@@ -7567,7 +8323,8 @@
     "xws": "softflesh",
     "level": "1",
     "initiative": "75",
-    "cardno": "475"
+    "cardno": "475",
+    "character-xws": "crashing tide"
   },
   {
     "name": "submerge",
@@ -7577,7 +8334,8 @@
     "xws": "submerge",
     "level": "1",
     "initiative": "68",
-    "cardno": "485"
+    "cardno": "485",
+    "character-xws": "crashing tide"
   },
   {
     "name": "tidal blast",
@@ -7587,7 +8345,8 @@
     "xws": "tidalblast",
     "level": "5",
     "initiative": "71",
-    "cardno": "495"
+    "cardno": "495",
+    "character-xws": "crashing tide"
   },
   {
     "name": "twilight grasp",
@@ -7597,7 +8356,8 @@
     "xws": "twilightgrasp",
     "level": "6",
     "initiative": "33",
-    "cardno": "498"
+    "cardno": "498",
+    "character-xws": "crashing tide"
   },
   {
     "name": "undertow",
@@ -7607,7 +8367,8 @@
     "xws": "undertow",
     "level": "X",
     "initiative": "15",
-    "cardno": "487"
+    "cardno": "487",
+    "character-xws": "crashing tide"
   },
   {
     "name": "df-back",
@@ -7617,7 +8378,8 @@
     "xws": "dfback",
     "level": "-",
     "initiative": "-",
-    "cardno": "-"
+    "cardno": "-",
+    "character-xws": "drifter"
   },
   {
     "name": "accurate strikes",
@@ -7627,7 +8389,8 @@
     "xws": "accuratestrikes",
     "level": "6",
     "initiative": "56",
-    "cardno": "024"
+    "cardno": "024",
+    "character-xws": "drifter"
   },
   {
     "name": "against all odds",
@@ -7637,7 +8400,8 @@
     "xws": "againstallodds",
     "level": "8",
     "initiative": "37",
-    "cardno": "028"
+    "cardno": "028",
+    "character-xws": "drifter"
   },
   {
     "name": "bloodletting",
@@ -7647,7 +8411,8 @@
     "xws": "bloodletting",
     "level": "1",
     "initiative": "65",
-    "cardno": "011"
+    "cardno": "011",
+    "character-xws": "drifter"
   },
   {
     "name": "break through",
@@ -7657,7 +8422,8 @@
     "xws": "breakthrough",
     "level": "5",
     "initiative": "34",
-    "cardno": "023"
+    "cardno": "023",
+    "character-xws": "drifter"
   },
   {
     "name": "chunk of flesh",
@@ -7667,7 +8433,8 @@
     "xws": "chunkofflesh",
     "level": "4",
     "initiative": "62",
-    "cardno": "020"
+    "cardno": "020",
+    "character-xws": "drifter"
   },
   {
     "name": "consume stamina",
@@ -7677,7 +8444,8 @@
     "xws": "consumestamina",
     "level": "6",
     "initiative": "21",
-    "cardno": "025"
+    "cardno": "025",
+    "character-xws": "drifter"
   },
   {
     "name": "continuous health",
@@ -7687,7 +8455,8 @@
     "xws": "continuoushealth",
     "level": "1",
     "initiative": "61",
-    "cardno": "004"
+    "cardno": "004",
+    "character-xws": "drifter"
   },
   {
     "name": "crushing weight",
@@ -7697,7 +8466,8 @@
     "xws": "crushingweight",
     "level": "1",
     "initiative": "71",
-    "cardno": "001"
+    "cardno": "001",
+    "character-xws": "drifter"
   },
   {
     "name": "deadly shot",
@@ -7707,7 +8477,8 @@
     "xws": "deadlyshot",
     "level": "1",
     "initiative": "32",
-    "cardno": "010"
+    "cardno": "010",
+    "character-xws": "drifter"
   },
   {
     "name": "destructive fury",
@@ -7717,7 +8488,8 @@
     "xws": "destructivefury",
     "level": "X",
     "initiative": "19",
-    "cardno": "015"
+    "cardno": "015",
+    "character-xws": "drifter"
   },
   {
     "name": "draining arrows",
@@ -7727,7 +8499,8 @@
     "xws": "drainingarrows",
     "level": "1",
     "initiative": "23",
-    "cardno": "008"
+    "cardno": "008",
+    "character-xws": "drifter"
   },
   {
     "name": "dual bow",
@@ -7737,7 +8510,8 @@
     "xws": "dualbow",
     "level": "3",
     "initiative": "26",
-    "cardno": "019"
+    "cardno": "019",
+    "character-xws": "drifter"
   },
   {
     "name": "ever forward",
@@ -7747,7 +8521,8 @@
     "xws": "everforward",
     "level": "2",
     "initiative": "67",
-    "cardno": "017"
+    "cardno": "017",
+    "character-xws": "drifter"
   },
   {
     "name": "everlasting",
@@ -7757,7 +8532,8 @@
     "xws": "everlasting",
     "level": "9",
     "initiative": "96",
-    "cardno": "030"
+    "cardno": "030",
+    "character-xws": "drifter"
   },
   {
     "name": "fierce barrage",
@@ -7767,7 +8543,8 @@
     "xws": "fiercebarrage",
     "level": "3",
     "initiative": "32",
-    "cardno": "018"
+    "cardno": "018",
+    "character-xws": "drifter"
   },
   {
     "name": "fortitude",
@@ -7777,7 +8554,8 @@
     "xws": "fortitude",
     "level": "X",
     "initiative": "31",
-    "cardno": "013"
+    "cardno": "013",
+    "character-xws": "drifter"
   },
   {
     "name": "gift of the prey",
@@ -7787,7 +8565,8 @@
     "xws": "giftoftheprey",
     "level": "4",
     "initiative": "40",
-    "cardno": "021"
+    "cardno": "021",
+    "character-xws": "drifter"
   },
   {
     "name": "inevitable conclusion",
@@ -7797,7 +8576,8 @@
     "xws": "inevitableconclusion",
     "level": "8",
     "initiative": "29",
-    "cardno": "029"
+    "cardno": "029",
+    "character-xws": "drifter"
   },
   {
     "name": "like the wind",
@@ -7807,7 +8587,8 @@
     "xws": "likethewind",
     "level": "7",
     "initiative": "77",
-    "cardno": "026"
+    "cardno": "026",
+    "character-xws": "drifter"
   },
   {
     "name": "no remorse",
@@ -7817,7 +8598,8 @@
     "xws": "noremorse",
     "level": "X",
     "initiative": "20",
-    "cardno": "014"
+    "cardno": "014",
+    "character-xws": "drifter"
   },
   {
     "name": "precision aim",
@@ -7827,7 +8609,8 @@
     "xws": "precisionaim",
     "level": "1",
     "initiative": "66",
-    "cardno": "003"
+    "cardno": "003",
+    "character-xws": "drifter"
   },
   {
     "name": "prudent preparation",
@@ -7837,7 +8620,8 @@
     "xws": "prudentpreparation",
     "level": "1",
     "initiative": "14",
-    "cardno": "009"
+    "cardno": "009",
+    "character-xws": "drifter"
   },
   {
     "name": "relentless",
@@ -7847,7 +8631,8 @@
     "xws": "relentless",
     "level": "1",
     "initiative": "89",
-    "cardno": "005"
+    "cardno": "005",
+    "character-xws": "drifter"
   },
   {
     "name": "shockwave",
@@ -7857,7 +8642,8 @@
     "xws": "shockwave",
     "level": "2",
     "initiative": "17",
-    "cardno": "016"
+    "cardno": "016",
+    "character-xws": "drifter"
   },
   {
     "name": "survivalist",
@@ -7867,7 +8653,8 @@
     "xws": "survivalist",
     "level": "5",
     "initiative": "91",
-    "cardno": "022"
+    "cardno": "022",
+    "character-xws": "drifter"
   },
   {
     "name": "sustained momentum",
@@ -7877,7 +8664,8 @@
     "xws": "sustainedmomentum",
     "level": "1",
     "initiative": "76",
-    "cardno": "002"
+    "cardno": "002",
+    "character-xws": "drifter"
   },
   {
     "name": "unbreakable",
@@ -7887,7 +8675,8 @@
     "xws": "unbreakable",
     "level": "1",
     "initiative": "90",
-    "cardno": "006"
+    "cardno": "006",
+    "character-xws": "drifter"
   },
   {
     "name": "unending fight",
@@ -7897,7 +8686,8 @@
     "xws": "unendingfight",
     "level": "7",
     "initiative": "25",
-    "cardno": "027"
+    "cardno": "027",
+    "character-xws": "drifter"
   },
   {
     "name": "use every part",
@@ -7907,7 +8697,8 @@
     "xws": "useeverypart",
     "level": "9",
     "initiative": "18",
-    "cardno": "031"
+    "cardno": "031",
+    "character-xws": "drifter"
   },
   {
     "name": "vile assault",
@@ -7917,7 +8708,8 @@
     "xws": "vileassault",
     "level": "1",
     "initiative": "27",
-    "cardno": "007"
+    "cardno": "007",
+    "character-xws": "drifter"
   },
   {
     "name": "violent inheritance",
@@ -7927,7 +8719,8 @@
     "xws": "violentinheritance",
     "level": "1",
     "initiative": "70",
-    "cardno": "012"
+    "cardno": "012",
+    "character-xws": "drifter"
   },
   {
     "name": "dt-back",
@@ -7937,7 +8730,8 @@
     "xws": "dtback",
     "level": "-",
     "initiative": "-",
-    "cardno": "-"
+    "cardno": "-",
+    "character-xws": "deepwraith"
   },
   {
     "name": "black night of the deep",
@@ -7947,7 +8741,8 @@
     "xws": "blacknightofthedeep",
     "level": "9",
     "initiative": "26",
-    "cardno": "472"
+    "cardno": "472",
+    "character-xws": "deepwraith"
   },
   {
     "name": "black scythe",
@@ -7957,7 +8752,8 @@
     "xws": "blackscythe",
     "level": "1",
     "initiative": "45",
-    "cardno": "453"
+    "cardno": "453",
+    "character-xws": "deepwraith"
   },
   {
     "name": "claw of doom",
@@ -7967,7 +8763,8 @@
     "xws": "clawofdoom",
     "level": "6",
     "initiative": "30",
-    "cardno": "466"
+    "cardno": "466",
+    "character-xws": "deepwraith"
   },
   {
     "name": "consume the helpless",
@@ -7977,7 +8774,8 @@
     "xws": "consumethehelpless",
     "level": "9",
     "initiative": "12",
-    "cardno": "473"
+    "cardno": "473",
+    "character-xws": "deepwraith"
   },
   {
     "name": "crippling terror",
@@ -7987,7 +8785,8 @@
     "xws": "cripplingterror",
     "level": "3",
     "initiative": "15",
-    "cardno": "460"
+    "cardno": "460",
+    "character-xws": "deepwraith"
   },
   {
     "name": "crushing darkness",
@@ -7997,7 +8796,8 @@
     "xws": "crushingdarkness",
     "level": "4",
     "initiative": "40",
-    "cardno": "462"
+    "cardno": "462",
+    "character-xws": "deepwraith"
   },
   {
     "name": "death spiral",
@@ -8007,7 +8807,8 @@
     "xws": "deathspiral",
     "level": "5",
     "initiative": "48",
-    "cardno": "465"
+    "cardno": "465",
+    "character-xws": "deepwraith"
   },
   {
     "name": "dire frenzy",
@@ -8017,7 +8818,8 @@
     "xws": "direfrenzy",
     "level": "7",
     "initiative": "26",
-    "cardno": "469"
+    "cardno": "469",
+    "character-xws": "deepwraith"
   },
   {
     "name": "extra decoration",
@@ -8027,7 +8829,8 @@
     "xws": "extradecoration",
     "level": "5",
     "initiative": "92",
-    "cardno": "464"
+    "cardno": "464",
+    "character-xws": "deepwraith"
   },
   {
     "name": "grim trophies",
@@ -8037,7 +8840,8 @@
     "xws": "grimtrophies",
     "level": "4",
     "initiative": "18",
-    "cardno": "463"
+    "cardno": "463",
+    "character-xws": "deepwraith"
   },
   {
     "name": "hasten the end",
@@ -8047,7 +8851,8 @@
     "xws": "hastentheend",
     "level": "7",
     "initiative": "65",
-    "cardno": "468"
+    "cardno": "468",
+    "character-xws": "deepwraith"
   },
   {
     "name": "haunting brutality",
@@ -8057,7 +8862,8 @@
     "xws": "hauntingbrutality",
     "level": "X",
     "initiative": "23",
-    "cardno": "457"
+    "cardno": "457",
+    "character-xws": "deepwraith"
   },
   {
     "name": "hollow aura",
@@ -8067,7 +8873,8 @@
     "xws": "hollowaura",
     "level": "1",
     "initiative": "88",
-    "cardno": "446"
+    "cardno": "446",
+    "character-xws": "deepwraith"
   },
   {
     "name": "ink cloud",
@@ -8077,7 +8884,8 @@
     "xws": "inkcloud",
     "level": "1",
     "initiative": "28",
-    "cardno": "449"
+    "cardno": "449",
+    "character-xws": "deepwraith"
   },
   {
     "name": "lacerating stabs",
@@ -8087,7 +8895,8 @@
     "xws": "laceratingstabs",
     "level": "1",
     "initiative": "14",
-    "cardno": "450"
+    "cardno": "450",
+    "character-xws": "deepwraith"
   },
   {
     "name": "lie in wait",
@@ -8097,7 +8906,8 @@
     "xws": "lieinwait",
     "level": "2",
     "initiative": "98",
-    "cardno": "459"
+    "cardno": "459",
+    "character-xws": "deepwraith"
   },
   {
     "name": "mantle of dread",
@@ -8107,7 +8917,8 @@
     "xws": "mantleofdread",
     "level": "1",
     "initiative": "96",
-    "cardno": "452"
+    "cardno": "452",
+    "character-xws": "deepwraith"
   },
   {
     "name": "morbid camouflage",
@@ -8117,7 +8928,8 @@
     "xws": "morbidcamouflage",
     "level": "X",
     "initiative": "31",
-    "cardno": "456"
+    "cardno": "456",
+    "character-xws": "deepwraith"
   },
   {
     "name": "pinning spines",
@@ -8127,7 +8939,8 @@
     "xws": "pinningspines",
     "level": "3",
     "initiative": "25",
-    "cardno": "461"
+    "cardno": "461",
+    "character-xws": "deepwraith"
   },
   {
     "name": "rip from the bone",
@@ -8137,7 +8950,8 @@
     "xws": "ripfromthebone",
     "level": "8",
     "initiative": "11",
-    "cardno": "471"
+    "cardno": "471",
+    "character-xws": "deepwraith"
   },
   {
     "name": "skewer the flesh",
@@ -8147,7 +8961,8 @@
     "xws": "skewertheflesh",
     "level": "1",
     "initiative": "86",
-    "cardno": "447"
+    "cardno": "447",
+    "character-xws": "deepwraith"
   },
   {
     "name": "skull collection",
@@ -8157,7 +8972,8 @@
     "xws": "skullcollection",
     "level": "1",
     "initiative": "22",
-    "cardno": "445"
+    "cardno": "445",
+    "character-xws": "deepwraith"
   },
   {
     "name": "slipping into death",
@@ -8167,7 +8983,8 @@
     "xws": "slippingintodeath",
     "level": "2",
     "initiative": "89",
-    "cardno": "458"
+    "cardno": "458",
+    "character-xws": "deepwraith"
   },
   {
     "name": "soul hunger",
@@ -8177,7 +8994,8 @@
     "xws": "soulhunger",
     "level": "X",
     "initiative": "91",
-    "cardno": "455"
+    "cardno": "455",
+    "character-xws": "deepwraith"
   },
   {
     "name": "staring into the abyss",
@@ -8187,7 +9005,8 @@
     "xws": "staringintotheabyss",
     "level": "1",
     "initiative": "63",
-    "cardno": "451"
+    "cardno": "451",
+    "character-xws": "deepwraith"
   },
   {
     "name": "succumb to fear",
@@ -8197,7 +9016,8 @@
     "xws": "succumbtofear",
     "level": "1",
     "initiative": "20",
-    "cardno": "448"
+    "cardno": "448",
+    "character-xws": "deepwraith"
   },
   {
     "name": "the remorseless deep",
@@ -8207,7 +9027,8 @@
     "xws": "theremorselessdeep",
     "level": "6",
     "initiative": "22",
-    "cardno": "467"
+    "cardno": "467",
+    "character-xws": "deepwraith"
   },
   {
     "name": "tumultuous panic",
@@ -8217,7 +9038,8 @@
     "xws": "tumultuouspanic",
     "level": "1",
     "initiative": "66",
-    "cardno": "454"
+    "cardno": "454",
+    "character-xws": "deepwraith"
   },
   {
     "name": "unseen horror",
@@ -8227,7 +9049,8 @@
     "xws": "unseenhorror",
     "level": "8",
     "initiative": "19",
-    "cardno": "470"
+    "cardno": "470",
+    "character-xws": "deepwraith"
   },
   {
     "name": "dw-back",
@@ -8237,7 +9060,8 @@
     "xws": "dwback",
     "level": "-",
     "initiative": "-",
-    "cardno": "-"
+    "cardno": "-",
+    "character-xws": "deathwalker"
   },
   {
     "name": "anger of the dead",
@@ -8247,7 +9071,8 @@
     "xws": "angerofthedead",
     "level": "1",
     "initiative": "14",
-    "cardno": "091"
+    "cardno": "091",
+    "character-xws": "deathwalker"
   },
   {
     "name": "black barrage",
@@ -8257,7 +9082,8 @@
     "xws": "blackbarrage",
     "level": "1",
     "initiative": "28",
-    "cardno": "095"
+    "cardno": "095",
+    "character-xws": "deathwalker"
   },
   {
     "name": "black lance",
@@ -8267,7 +9093,8 @@
     "xws": "blacklance",
     "level": "9",
     "initiative": "16",
-    "cardno": "119"
+    "cardno": "119",
+    "character-xws": "deathwalker"
   },
   {
     "name": "call of doom",
@@ -8277,7 +9104,8 @@
     "xws": "callofdoom",
     "level": "1",
     "initiative": "32",
-    "cardno": "096"
+    "cardno": "096",
+    "character-xws": "deathwalker"
   },
   {
     "name": "call to the abyss",
@@ -8287,7 +9115,8 @@
     "xws": "calltotheabyss",
     "level": "1",
     "initiative": "82",
-    "cardno": "090"
+    "cardno": "090",
+    "character-xws": "deathwalker"
   },
   {
     "name": "dark fog",
@@ -8297,7 +9126,8 @@
     "xws": "darkfog",
     "level": "1",
     "initiative": "46",
-    "cardno": "094"
+    "cardno": "094",
+    "character-xws": "deathwalker"
   },
   {
     "name": "dead bolt",
@@ -8307,7 +9137,8 @@
     "xws": "deadbolt",
     "level": "3",
     "initiative": "88",
-    "cardno": "106"
+    "cardno": "106",
+    "character-xws": "deathwalker"
   },
   {
     "name": "deepening despair",
@@ -8317,7 +9148,8 @@
     "xws": "deepeningdespair",
     "level": "2",
     "initiative": "11",
-    "cardno": "105"
+    "cardno": "105",
+    "character-xws": "deathwalker"
   },
   {
     "name": "dominate",
@@ -8327,7 +9159,8 @@
     "xws": "dominate",
     "level": "5",
     "initiative": "29",
-    "cardno": "111"
+    "cardno": "111",
+    "character-xws": "deathwalker"
   },
   {
     "name": "eclipse",
@@ -8337,7 +9170,8 @@
     "xws": "eclipse",
     "level": "1",
     "initiative": "86",
-    "cardno": "097"
+    "cardno": "097",
+    "character-xws": "deathwalker"
   },
   {
     "name": "fleeting dusk",
@@ -8347,7 +9181,8 @@
     "xws": "fleetingdusk",
     "level": "4",
     "initiative": "36",
-    "cardno": "108"
+    "cardno": "108",
+    "character-xws": "deathwalker"
   },
   {
     "name": "fluid night",
@@ -8357,7 +9192,8 @@
     "xws": "fluidnight",
     "level": "1",
     "initiative": "24",
-    "cardno": "093"
+    "cardno": "093",
+    "character-xws": "deathwalker"
   },
   {
     "name": "forceful spirits",
@@ -8367,7 +9203,8 @@
     "xws": "forcefulspirits",
     "level": "X",
     "initiative": "34",
-    "cardno": "102"
+    "cardno": "102",
+    "character-xws": "deathwalker"
   },
   {
     "name": "frozen in fear",
@@ -8377,7 +9214,8 @@
     "xws": "frozeninfear",
     "level": "8",
     "initiative": "21",
-    "cardno": "117"
+    "cardno": "117",
+    "character-xws": "deathwalker"
   },
   {
     "name": "hungry grasps",
@@ -8387,7 +9225,8 @@
     "xws": "hungrygrasps",
     "level": "7",
     "initiative": "25",
-    "cardno": "115"
+    "cardno": "115",
+    "character-xws": "deathwalker"
   },
   {
     "name": "lashing tendrils",
@@ -8397,7 +9236,8 @@
     "xws": "lashingtendrils",
     "level": "8",
     "initiative": "80",
-    "cardno": "116"
+    "cardno": "116",
+    "character-xws": "deathwalker"
   },
   {
     "name": "lingering rot",
@@ -8407,7 +9247,8 @@
     "xws": "lingeringrot",
     "level": "1",
     "initiative": "64",
-    "cardno": "098"
+    "cardno": "098",
+    "character-xws": "deathwalker"
   },
   {
     "name": "medium",
@@ -8417,7 +9258,8 @@
     "xws": "medium",
     "level": "5",
     "initiative": "55",
-    "cardno": "110"
+    "cardno": "110",
+    "character-xws": "deathwalker"
   },
   {
     "name": "proliferation of the abyss",
@@ -8427,7 +9269,8 @@
     "xws": "proliferationoftheabyss",
     "level": "7",
     "initiative": "38",
-    "cardno": "114"
+    "cardno": "114",
+    "character-xws": "deathwalker"
   },
   {
     "name": "pulled across",
@@ -8437,7 +9280,8 @@
     "xws": "pulledacross",
     "level": "4",
     "initiative": "77",
-    "cardno": "109"
+    "cardno": "109",
+    "character-xws": "deathwalker"
   },
   {
     "name": "rest in the shade",
@@ -8447,7 +9291,8 @@
     "xws": "restintheshade",
     "level": "X",
     "initiative": "26",
-    "cardno": "103"
+    "cardno": "103",
+    "character-xws": "deathwalker"
   },
   {
     "name": "restless spirits",
@@ -8457,7 +9302,8 @@
     "xws": "restlessspirits",
     "level": "2",
     "initiative": "20",
-    "cardno": "104"
+    "cardno": "104",
+    "character-xws": "deathwalker"
   },
   {
     "name": "ritual sacrifice",
@@ -8467,7 +9313,8 @@
     "xws": "ritualsacrifice",
     "level": "3",
     "initiative": "13",
-    "cardno": "107"
+    "cardno": "107",
+    "character-xws": "deathwalker"
   },
   {
     "name": "shadow step",
@@ -8477,7 +9324,8 @@
     "xws": "shadowstep",
     "level": "1",
     "initiative": "19",
-    "cardno": "099"
+    "cardno": "099",
+    "character-xws": "deathwalker"
   },
   {
     "name": "strength of the abyss",
@@ -8487,7 +9335,8 @@
     "xws": "strengthoftheabyss",
     "level": "1",
     "initiative": "50",
-    "cardno": "100"
+    "cardno": "100",
+    "character-xws": "deathwalker"
   },
   {
     "name": "sunless apparition",
@@ -8497,7 +9346,8 @@
     "xws": "sunlessapparition",
     "level": "1",
     "initiative": "96",
-    "cardno": "092"
+    "cardno": "092",
+    "character-xws": "deathwalker"
   },
   {
     "name": "shadow beast",
@@ -8507,7 +9357,8 @@
     "xws": "sunlessapparition",
     "level": "1",
     "initiative": "96",
-    "cardno": "092"
+    "cardno": "092",
+    "character-xws": "deathwalker"
   },
   {
     "name": "the night takes shape",
@@ -8517,7 +9368,8 @@
     "xws": "thenighttakesshape",
     "level": "6",
     "initiative": "94",
-    "cardno": "112"
+    "cardno": "112",
+    "character-xws": "deathwalker"
   },
   {
     "name": "shadow horror",
@@ -8527,7 +9379,8 @@
     "xws": "thenighttakesshape",
     "level": "6",
     "initiative": "94",
-    "cardno": "112"
+    "cardno": "112",
+    "character-xws": "deathwalker"
   },
   {
     "name": "vengeful storm",
@@ -8537,7 +9390,8 @@
     "xws": "vengefulstorm",
     "level": "6",
     "initiative": "18",
-    "cardno": "113"
+    "cardno": "113",
+    "character-xws": "deathwalker"
   },
   {
     "name": "wave of anguish",
@@ -8547,7 +9401,8 @@
     "xws": "waveofanguish",
     "level": "X",
     "initiative": "58",
-    "cardno": "101"
+    "cardno": "101",
+    "character-xws": "deathwalker"
   },
   {
     "name": "when your time comes",
@@ -8557,7 +9412,8 @@
     "xws": "whenyourtimecomes",
     "level": "9",
     "initiative": "72",
-    "cardno": "118"
+    "cardno": "118",
+    "character-xws": "deathwalker"
   },
   {
     "name": "ff-back",
@@ -8567,7 +9423,8 @@
     "xws": "ffback",
     "level": "-",
     "initiative": "-",
-    "cardno": "-"
+    "cardno": "-",
+    "character-xws": "frozen fist"
   },
   {
     "name": "bring down the mountain",
@@ -8577,7 +9434,8 @@
     "xws": "bringdownthemountain",
     "level": "9",
     "initiative": "09",
-    "cardno": "385"
+    "cardno": "385",
+    "character-xws": "frozen fist"
   },
   {
     "name": "cold boulder",
@@ -8587,7 +9445,8 @@
     "xws": "coldboulder",
     "level": "1",
     "initiative": "70",
-    "cardno": "361"
+    "cardno": "361",
+    "character-xws": "frozen fist"
   },
   {
     "name": "crushing crystals",
@@ -8597,7 +9456,8 @@
     "xws": "crushingcrystals",
     "level": "2",
     "initiative": "67",
-    "cardno": "372"
+    "cardno": "372",
+    "character-xws": "frozen fist"
   },
   {
     "name": "draw of the bedrock",
@@ -8607,7 +9467,8 @@
     "xws": "drawofthebedrock",
     "level": "2",
     "initiative": "10",
-    "cardno": "371"
+    "cardno": "371",
+    "character-xws": "frozen fist"
   },
   {
     "name": "draw strength",
@@ -8617,7 +9478,8 @@
     "xws": "drawstrength",
     "level": "8",
     "initiative": "28",
-    "cardno": "384"
+    "cardno": "384",
+    "character-xws": "frozen fist"
   },
   {
     "name": "encased punch",
@@ -8627,7 +9489,8 @@
     "xws": "encasedpunch",
     "level": "1",
     "initiative": "19",
-    "cardno": "364"
+    "cardno": "364",
+    "character-xws": "frozen fist"
   },
   {
     "name": "freezing shell",
@@ -8637,7 +9500,8 @@
     "xws": "freezingshell",
     "level": "X",
     "initiative": "17",
-    "cardno": "370"
+    "cardno": "370",
+    "character-xws": "frozen fist"
   },
   {
     "name": "frost eruption",
@@ -8647,7 +9511,8 @@
     "xws": "frosteruption",
     "level": "1",
     "initiative": "61",
-    "cardno": "362"
+    "cardno": "362",
+    "character-xws": "frozen fist"
   },
   {
     "name": "frozen over",
@@ -8657,7 +9522,8 @@
     "xws": "frozenover",
     "level": "3",
     "initiative": "20",
-    "cardno": "374"
+    "cardno": "374",
+    "character-xws": "frozen fist"
   },
   {
     "name": "frozen spike",
@@ -8667,7 +9533,8 @@
     "xws": "frozenspike",
     "level": "9",
     "initiative": "33",
-    "cardno": "386"
+    "cardno": "386",
+    "character-xws": "frozen fist"
   },
   {
     "name": "fury of the mountain",
@@ -8677,7 +9544,8 @@
     "xws": "furyofthemountain",
     "level": "1",
     "initiative": "23",
-    "cardno": "363"
+    "cardno": "363",
+    "character-xws": "frozen fist"
   },
   {
     "name": "gift of the mountain",
@@ -8687,7 +9555,8 @@
     "xws": "giftofthemountain",
     "level": "7",
     "initiative": "73",
-    "cardno": "381"
+    "cardno": "381",
+    "character-xws": "frozen fist"
   },
   {
     "name": "glacier slam",
@@ -8697,7 +9566,8 @@
     "xws": "glacierslam",
     "level": "6",
     "initiative": "84",
-    "cardno": "380"
+    "cardno": "380",
+    "character-xws": "frozen fist"
   },
   {
     "name": "ice blast",
@@ -8707,7 +9577,8 @@
     "xws": "iceblast",
     "level": "1",
     "initiative": "32",
-    "cardno": "367"
+    "cardno": "367",
+    "character-xws": "frozen fist"
   },
   {
     "name": "ice uppercut",
@@ -8717,7 +9588,8 @@
     "xws": "iceuppercut",
     "level": "5",
     "initiative": "15",
-    "cardno": "378"
+    "cardno": "378",
+    "character-xws": "frozen fist"
   },
   {
     "name": "lacerating eruption",
@@ -8727,7 +9599,8 @@
     "xws": "laceratingeruption",
     "level": "3",
     "initiative": "51",
-    "cardno": "373"
+    "cardno": "373",
+    "character-xws": "frozen fist"
   },
   {
     "name": "one with the mountain",
@@ -8737,7 +9610,8 @@
     "xws": "onewiththemountain",
     "level": "1",
     "initiative": "83",
-    "cardno": "360"
+    "cardno": "360",
+    "character-xws": "frozen fist"
   },
   {
     "name": "packed solid",
@@ -8747,7 +9621,8 @@
     "xws": "packedsolid",
     "level": "4",
     "initiative": "55",
-    "cardno": "376"
+    "cardno": "376",
+    "character-xws": "frozen fist"
   },
   {
     "name": "piercing pummel",
@@ -8757,7 +9632,8 @@
     "xws": "piercingpummel",
     "level": "1",
     "initiative": "30",
-    "cardno": "366"
+    "cardno": "366",
+    "character-xws": "frozen fist"
   },
   {
     "name": "preserved fury",
@@ -8767,7 +9643,8 @@
     "xws": "preservedfury",
     "level": "5",
     "initiative": "49",
-    "cardno": "377"
+    "cardno": "377",
+    "character-xws": "frozen fist"
   },
   {
     "name": "primal bellow",
@@ -8777,7 +9654,8 @@
     "xws": "primalbellow",
     "level": "X",
     "initiative": "84",
-    "cardno": "369"
+    "cardno": "369",
+    "character-xws": "frozen fist"
   },
   {
     "name": "seeing stars",
@@ -8787,7 +9665,8 @@
     "xws": "seeingstars",
     "level": "7",
     "initiative": "29",
-    "cardno": "382"
+    "cardno": "382",
+    "character-xws": "frozen fist"
   },
   {
     "name": "shard launch",
@@ -8797,7 +9676,8 @@
     "xws": "shardlaunch",
     "level": "X",
     "initiative": "52",
-    "cardno": "368"
+    "cardno": "368",
+    "character-xws": "frozen fist"
   },
   {
     "name": "shattering blow",
@@ -8807,7 +9687,8 @@
     "xws": "shatteringblow",
     "level": "8",
     "initiative": "18",
-    "cardno": "383"
+    "cardno": "383",
+    "character-xws": "frozen fist"
   },
   {
     "name": "the mountain's fist",
@@ -8817,7 +9698,8 @@
     "xws": "themountainsfist",
     "level": "4",
     "initiative": "16",
-    "cardno": "375"
+    "cardno": "375",
+    "character-xws": "frozen fist"
   },
   {
     "name": "thick frost",
@@ -8827,7 +9709,8 @@
     "xws": "thickfrost",
     "level": "6",
     "initiative": "21",
-    "cardno": "379"
+    "cardno": "379",
+    "character-xws": "frozen fist"
   },
   {
     "name": "voice from below",
@@ -8837,7 +9720,8 @@
     "xws": "voicefrombelow",
     "level": "1",
     "initiative": "22",
-    "cardno": "365"
+    "cardno": "365",
+    "character-xws": "frozen fist"
   },
   {
     "name": "ge-back",
@@ -8847,7 +9731,8 @@
     "xws": "geback",
     "level": "-",
     "initiative": "-",
-    "cardno": "-"
+    "cardno": "-",
+    "character-xws": "deminate"
   },
   {
     "name": "accelerated metabolism",
@@ -8857,7 +9742,8 @@
     "xws": "acceleratedmetabolism",
     "level": "8",
     "initiative": "85",
-    "cardno": "181"
+    "cardno": "181",
+    "character-xws": "deminate"
   },
   {
     "name": "alluring pheromones",
@@ -8867,7 +9753,8 @@
     "xws": "alluringpheromones",
     "level": "7",
     "initiative": "49",
-    "cardno": "180"
+    "cardno": "180",
+    "character-xws": "deminate"
   },
   {
     "name": "changeling's boon",
@@ -8877,7 +9764,8 @@
     "xws": "changelingsboon",
     "level": "1",
     "initiative": "40",
-    "cardno": "154"
+    "cardno": "154",
+    "character-xws": "deminate"
   },
   {
     "name": "chitinous horde",
@@ -8887,7 +9775,8 @@
     "xws": "chitinoushorde",
     "level": "5",
     "initiative": "15",
-    "cardno": "176"
+    "cardno": "176",
+    "character-xws": "deminate"
   },
   {
     "name": "corrosive acids",
@@ -8897,7 +9786,8 @@
     "xws": "corrosiveacids",
     "level": "6",
     "initiative": "28",
-    "cardno": "177"
+    "cardno": "177",
+    "character-xws": "deminate"
   },
   {
     "name": "drag down",
@@ -8907,7 +9797,8 @@
     "xws": "dragdown",
     "level": "1",
     "initiative": "34",
-    "cardno": "156"
+    "cardno": "156",
+    "character-xws": "deminate"
   },
   {
     "name": "dragonfly surge",
@@ -8917,7 +9808,8 @@
     "xws": "dragonflysurge",
     "level": "3",
     "initiative": "50",
-    "cardno": "172"
+    "cardno": "172",
+    "character-xws": "deminate"
   },
   {
     "name": "draining pincers",
@@ -8927,7 +9819,8 @@
     "xws": "drainingpincers",
     "level": "1",
     "initiative": "72",
-    "cardno": "152"
+    "cardno": "152",
+    "character-xws": "deminate"
   },
   {
     "name": "feeding frenzy",
@@ -8937,7 +9830,8 @@
     "xws": "feedingfrenzy",
     "level": "X",
     "initiative": "62",
-    "cardno": "159"
+    "cardno": "159",
+    "character-xws": "deminate"
   },
   {
     "name": "firefly swarm",
@@ -8947,7 +9841,8 @@
     "xws": "fireflyswarm",
     "level": "1",
     "initiative": "76",
-    "cardno": "162"
+    "cardno": "162",
+    "character-xws": "deminate"
   },
   {
     "name": "flailing tendrils",
@@ -8957,7 +9852,8 @@
     "xws": "flailingtendrils",
     "level": "1",
     "initiative": "12",
-    "cardno": "155"
+    "cardno": "155",
+    "character-xws": "deminate"
   },
   {
     "name": "formless grace",
@@ -8967,7 +9863,8 @@
     "xws": "formlessgrace",
     "level": "5",
     "initiative": "75",
-    "cardno": "175"
+    "cardno": "175",
+    "character-xws": "deminate"
   },
   {
     "name": "hail of thorns",
@@ -8977,7 +9874,8 @@
     "xws": "hailofthorns",
     "level": "1",
     "initiative": "88",
-    "cardno": "166"
+    "cardno": "166",
+    "character-xws": "deminate"
   },
   {
     "name": "harbinger of ruin",
@@ -8987,7 +9885,8 @@
     "xws": "harbingerofruin",
     "level": "9",
     "initiative": "11",
-    "cardno": "183"
+    "cardno": "183",
+    "character-xws": "deminate"
   },
   {
     "name": "harvest the essence",
@@ -8997,7 +9896,8 @@
     "xws": "harvesttheessence",
     "level": "1",
     "initiative": "60",
-    "cardno": "165"
+    "cardno": "165",
+    "character-xws": "deminate"
   },
   {
     "name": "hirudotherapy",
@@ -9007,7 +9907,8 @@
     "xws": "hirudotherapy",
     "level": "6",
     "initiative": "92",
-    "cardno": "178"
+    "cardno": "178",
+    "character-xws": "deminate"
   },
   {
     "name": "hornbeetle carapace",
@@ -9017,7 +9918,8 @@
     "xws": "hornbeetlecarapace",
     "level": "1",
     "initiative": "20",
-    "cardno": "157"
+    "cardno": "157",
+    "character-xws": "deminate"
   },
   {
     "name": "hornet stingers",
@@ -9027,7 +9929,8 @@
     "xws": "hornetstingers",
     "level": "1",
     "initiative": "23",
-    "cardno": "153"
+    "cardno": "153",
+    "character-xws": "deminate"
   },
   {
     "name": "icebound quills",
@@ -9037,7 +9940,8 @@
     "xws": "iceboundquills",
     "level": "1",
     "initiative": "14",
-    "cardno": "151"
+    "cardno": "151",
+    "character-xws": "deminate"
   },
   {
     "name": "into my embrace",
@@ -9047,7 +9951,8 @@
     "xws": "intomyembrace",
     "level": "1",
     "initiative": "36",
-    "cardno": "161"
+    "cardno": "161",
+    "character-xws": "deminate"
   },
   {
     "name": "locust host",
@@ -9057,7 +9962,8 @@
     "xws": "locusthost",
     "level": "2",
     "initiative": "23",
-    "cardno": "170"
+    "cardno": "170",
+    "character-xws": "deminate"
   },
   {
     "name": "luminous descent",
@@ -9067,7 +9973,8 @@
     "xws": "luminousdescent",
     "level": "4",
     "initiative": "67",
-    "cardno": "174"
+    "cardno": "174",
+    "character-xws": "deminate"
   },
   {
     "name": "mandible storm",
@@ -9077,7 +9984,8 @@
     "xws": "mandiblestorm",
     "level": "3",
     "initiative": "30",
-    "cardno": "171"
+    "cardno": "171",
+    "character-xws": "deminate"
   },
   {
     "name": "mind spike",
@@ -9087,7 +9995,8 @@
     "xws": "mindspike",
     "level": "1",
     "initiative": "18",
-    "cardno": "164"
+    "cardno": "164",
+    "character-xws": "deminate"
   },
   {
     "name": "oscillating entity",
@@ -9097,7 +10006,8 @@
     "xws": "oscillatingentity",
     "level": "8",
     "initiative": "55",
-    "cardno": "182"
+    "cardno": "182",
+    "character-xws": "deminate"
   },
   {
     "name": "reckless jab",
@@ -9107,7 +10017,8 @@
     "xws": "recklessjab",
     "level": "X",
     "initiative": "38",
-    "cardno": "158"
+    "cardno": "158",
+    "character-xws": "deminate"
   },
   {
     "name": "reshape the guise",
@@ -9117,7 +10028,8 @@
     "xws": "reshapetheguise",
     "level": "X",
     "initiative": "38",
-    "cardno": "168"
+    "cardno": "168",
+    "character-xws": "deminate"
   },
   {
     "name": "scarab flight",
@@ -9127,7 +10039,8 @@
     "xws": "scarabflight",
     "level": "1",
     "initiative": "30",
-    "cardno": "163"
+    "cardno": "163",
+    "character-xws": "deminate"
   },
   {
     "name": "selfless offering",
@@ -9137,7 +10050,8 @@
     "xws": "selflessoffering",
     "level": "1",
     "initiative": "27",
-    "cardno": "160"
+    "cardno": "160",
+    "character-xws": "deminate"
   },
   {
     "name": "smoldering hatred",
@@ -9147,7 +10061,8 @@
     "xws": "smolderinghatred",
     "level": "X",
     "initiative": "32",
-    "cardno": "167"
+    "cardno": "167",
+    "character-xws": "deminate"
   },
   {
     "name": "thresh and flail",
@@ -9157,7 +10072,8 @@
     "xws": "threshandflail",
     "level": "4",
     "initiative": "43",
-    "cardno": "173"
+    "cardno": "173",
+    "character-xws": "deminate"
   },
   {
     "name": "two-pronged entrapment",
@@ -9167,7 +10083,8 @@
     "xws": "twoprongedentrapment",
     "level": "7",
     "initiative": "21",
-    "cardno": "179"
+    "cardno": "179",
+    "character-xws": "deminate"
   },
   {
     "name": "venomous barbs",
@@ -9177,7 +10094,8 @@
     "xws": "venomousbarbs",
     "level": "2",
     "initiative": "17",
-    "cardno": "169"
+    "cardno": "169",
+    "character-xws": "deminate"
   },
   {
     "name": "voice of salvation",
@@ -9187,7 +10105,8 @@
     "xws": "voiceofsalvation",
     "level": "9",
     "initiative": "39",
-    "cardno": "184"
+    "cardno": "184",
+    "character-xws": "deminate"
   },
   {
     "name": "hv-back",
@@ -9197,7 +10116,8 @@
     "xws": "hvback",
     "level": "-",
     "initiative": "-",
-    "cardno": "-"
+    "cardno": "-",
+    "character-xws": "hive"
   },
   {
     "name": "aimed assault",
@@ -9207,7 +10127,8 @@
     "xws": "aimedassault",
     "level": "1",
     "initiative": "88",
-    "cardno": "391"
+    "cardno": "391",
+    "character-xws": "hive"
   },
   {
     "name": "sniper turret",
@@ -9217,7 +10138,8 @@
     "xws": "aimedassault",
     "level": "1",
     "initiative": "88",
-    "cardno": "391"
+    "cardno": "391",
+    "character-xws": "hive"
   },
   {
     "name": "burning slash",
@@ -9227,7 +10149,8 @@
     "xws": "burningslash",
     "level": "8",
     "initiative": "29",
-    "cardno": "414"
+    "cardno": "414",
+    "character-xws": "hive"
   },
   {
     "name": "code geminate",
@@ -9237,7 +10160,8 @@
     "xws": "codegeminate",
     "level": "5",
     "initiative": "28",
-    "cardno": "408"
+    "cardno": "408",
+    "character-xws": "hive"
   },
   {
     "name": "coiled limbs",
@@ -9247,7 +10171,8 @@
     "xws": "coiledlimbs",
     "level": "1",
     "initiative": "82",
-    "cardno": "390"
+    "cardno": "390",
+    "character-xws": "hive"
   },
   {
     "name": "leaper",
@@ -9257,7 +10182,8 @@
     "xws": "coiledlimbs",
     "level": "1",
     "initiative": "82",
-    "cardno": "390"
+    "cardno": "390",
+    "character-xws": "hive"
   },
   {
     "name": "disassemble",
@@ -9267,7 +10193,8 @@
     "xws": "disassemble",
     "level": "9",
     "initiative": "20",
-    "cardno": "416"
+    "cardno": "416",
+    "character-xws": "hive"
   },
   {
     "name": "divergent destruction",
@@ -9277,7 +10204,8 @@
     "xws": "divergentdestruction",
     "level": "4",
     "initiative": "22",
-    "cardno": "406"
+    "cardno": "406",
+    "character-xws": "hive"
   },
   {
     "name": "faceless entity",
@@ -9287,7 +10215,8 @@
     "xws": "facelessentity",
     "level": "1",
     "initiative": "12",
-    "cardno": "393"
+    "cardno": "393",
+    "character-xws": "hive"
   },
   {
     "name": "force field",
@@ -9297,7 +10226,8 @@
     "xws": "forcefield",
     "level": "2",
     "initiative": "78",
-    "cardno": "401"
+    "cardno": "401",
+    "character-xws": "hive"
   },
   {
     "name": "dampening unit",
@@ -9307,7 +10237,8 @@
     "xws": "forcefield",
     "level": "2",
     "initiative": "78",
-    "cardno": "401"
+    "cardno": "401",
+    "character-xws": "hive"
   },
   {
     "name": "heavy metal",
@@ -9317,7 +10248,8 @@
     "xws": "heavymetal",
     "level": "9",
     "initiative": "76",
-    "cardno": "415"
+    "cardno": "415",
+    "character-xws": "hive"
   },
   {
     "name": "sledge driver",
@@ -9327,7 +10259,8 @@
     "xws": "heavymetal",
     "level": "9",
     "initiative": "76",
-    "cardno": "415"
+    "cardno": "415",
+    "character-xws": "hive"
   },
   {
     "name": "high impact projectiles",
@@ -9337,7 +10270,8 @@
     "xws": "highimpactprojectiles",
     "level": "1",
     "initiative": "16",
-    "cardno": "396"
+    "cardno": "396",
+    "character-xws": "hive"
   },
   {
     "name": "hijack",
@@ -9347,7 +10281,8 @@
     "xws": "hijack",
     "level": "3",
     "initiative": "40",
-    "cardno": "404"
+    "cardno": "404",
+    "character-xws": "hive"
   },
   {
     "name": "hunter-killer",
@@ -9357,7 +10292,8 @@
     "xws": "hunterkiller",
     "level": "1",
     "initiative": "84",
-    "cardno": "389"
+    "cardno": "389",
+    "character-xws": "hive"
   },
   {
     "name": "jackal mech",
@@ -9367,7 +10303,8 @@
     "xws": "hunterkiller",
     "level": "1",
     "initiative": "84",
-    "cardno": "389"
+    "cardno": "389",
+    "character-xws": "hive"
   },
   {
     "name": "interference",
@@ -9377,7 +10314,8 @@
     "xws": "interference",
     "level": "1",
     "initiative": "21",
-    "cardno": "397"
+    "cardno": "397",
+    "character-xws": "hive"
   },
   {
     "name": "launch pod",
@@ -9387,7 +10325,8 @@
     "xws": "launchpod",
     "level": "1",
     "initiative": "77",
-    "cardno": "392"
+    "cardno": "392",
+    "character-xws": "hive"
   },
   {
     "name": "long-range missile",
@@ -9397,7 +10336,8 @@
     "xws": "longrangemissile",
     "level": "2",
     "initiative": "19",
-    "cardno": "402"
+    "cardno": "402",
+    "character-xws": "hive"
   },
   {
     "name": "mortar shells",
@@ -9407,7 +10347,8 @@
     "xws": "mortarshells",
     "level": "7",
     "initiative": "85",
-    "cardno": "411"
+    "cardno": "411",
+    "character-xws": "hive"
   },
   {
     "name": "bombardier",
@@ -9417,7 +10358,8 @@
     "xws": "mortarshells",
     "level": "7",
     "initiative": "85",
-    "cardno": "411"
+    "cardno": "411",
+    "character-xws": "hive"
   },
   {
     "name": "net dispersal",
@@ -9427,7 +10369,8 @@
     "xws": "netdispersal",
     "level": "5",
     "initiative": "94",
-    "cardno": "407"
+    "cardno": "407",
+    "character-xws": "hive"
   },
   {
     "name": "trapping unit",
@@ -9437,7 +10380,8 @@
     "xws": "netdispersal",
     "level": "5",
     "initiative": "94",
-    "cardno": "407"
+    "cardno": "407",
+    "character-xws": "hive"
   },
   {
     "name": "plague protocol",
@@ -9447,7 +10391,8 @@
     "xws": "plagueprotocol",
     "level": "4",
     "initiative": "98",
-    "cardno": "405"
+    "cardno": "405",
+    "character-xws": "hive"
   },
   {
     "name": "toxin distributor",
@@ -9457,7 +10402,8 @@
     "xws": "plagueprotocol",
     "level": "4",
     "initiative": "98",
-    "cardno": "405"
+    "cardno": "405",
+    "character-xws": "hive"
   },
   {
     "name": "plated defense",
@@ -9467,7 +10413,8 @@
     "xws": "plateddefense",
     "level": "1",
     "initiative": "80",
-    "cardno": "387"
+    "cardno": "387",
+    "character-xws": "hive"
   },
   {
     "name": "armored tank",
@@ -9477,7 +10424,8 @@
     "xws": "plateddefense",
     "level": "1",
     "initiative": "80",
-    "cardno": "387"
+    "cardno": "387",
+    "character-xws": "hive"
   },
   {
     "name": "prepare for deployment",
@@ -9487,7 +10435,8 @@
     "xws": "preparefordeployment",
     "level": "1",
     "initiative": "64",
-    "cardno": "394"
+    "cardno": "394",
+    "character-xws": "hive"
   },
   {
     "name": "rapid fire",
@@ -9497,7 +10446,8 @@
     "xws": "rapidfire",
     "level": "3",
     "initiative": "92",
-    "cardno": "403"
+    "cardno": "403",
+    "character-xws": "hive"
   },
   {
     "name": "machine bolter",
@@ -9507,7 +10457,8 @@
     "xws": "rapidfire",
     "level": "3",
     "initiative": "92",
-    "cardno": "403"
+    "cardno": "403",
+    "character-xws": "hive"
   },
   {
     "name": "reaper function",
@@ -9517,7 +10468,8 @@
     "xws": "reaperfunction",
     "level": "1",
     "initiative": "32",
-    "cardno": "395"
+    "cardno": "395",
+    "character-xws": "hive"
   },
   {
     "name": "reassemble",
@@ -9527,7 +10479,8 @@
     "xws": "reassemble",
     "level": "X",
     "initiative": "27",
-    "cardno": "400"
+    "cardno": "400",
+    "character-xws": "hive"
   },
   {
     "name": "recall",
@@ -9537,7 +10490,8 @@
     "xws": "recall",
     "level": "7",
     "initiative": "91",
-    "cardno": "412"
+    "cardno": "412",
+    "character-xws": "hive"
   },
   {
     "name": "reconstructive aid",
@@ -9547,7 +10501,8 @@
     "xws": "reconstructiveaid",
     "level": "1",
     "initiative": "90",
-    "cardno": "388"
+    "cardno": "388",
+    "character-xws": "hive"
   },
   {
     "name": "repair drone",
@@ -9557,7 +10512,8 @@
     "xws": "reconstructiveaid",
     "level": "1",
     "initiative": "90",
-    "cardno": "388"
+    "cardno": "388",
+    "character-xws": "hive"
   },
   {
     "name": "remote control",
@@ -9567,7 +10523,8 @@
     "xws": "remotecontrol",
     "level": "X",
     "initiative": "48",
-    "cardno": "399"
+    "cardno": "399",
+    "character-xws": "hive"
   },
   {
     "name": "shocking pulse",
@@ -9577,7 +10534,8 @@
     "xws": "shockingpulse",
     "level": "X",
     "initiative": "86",
-    "cardno": "398"
+    "cardno": "398",
+    "character-xws": "hive"
   },
   {
     "name": "arcing generator",
@@ -9587,7 +10545,8 @@
     "xws": "shockingpulse",
     "level": "X",
     "initiative": "86",
-    "cardno": "398"
+    "cardno": "398",
+    "character-xws": "hive"
   },
   {
     "name": "spinning blades",
@@ -9597,7 +10556,8 @@
     "xws": "spinningblades",
     "level": "6",
     "initiative": "79",
-    "cardno": "409"
+    "cardno": "409",
+    "character-xws": "hive"
   },
   {
     "name": "sword propeller",
@@ -9607,7 +10567,8 @@
     "xws": "spinningblades",
     "level": "6",
     "initiative": "79",
-    "cardno": "409"
+    "cardno": "409",
+    "character-xws": "hive"
   },
   {
     "name": "swarming bulwark",
@@ -9617,7 +10578,8 @@
     "xws": "swarmingbulwark",
     "level": "8",
     "initiative": "96",
-    "cardno": "413"
+    "cardno": "413",
+    "character-xws": "hive"
   },
   {
     "name": "shield spider",
@@ -9627,7 +10589,8 @@
     "xws": "swarmingbulwark",
     "level": "8",
     "initiative": "96",
-    "cardno": "413"
+    "cardno": "413",
+    "character-xws": "hive"
   },
   {
     "name": "triage program",
@@ -9637,7 +10600,8 @@
     "xws": "triageprogram",
     "level": "6",
     "initiative": "13",
-    "cardno": "410"
+    "cardno": "410",
+    "character-xws": "hive"
   },
   {
     "name": "if-back",
@@ -9647,7 +10611,8 @@
     "xws": "ifback",
     "level": "-",
     "initiative": "-",
-    "cardno": "-"
+    "cardno": "-",
+    "character-xws": "infuser"
   },
   {
     "name": "ancient rites of power",
@@ -9657,7 +10622,8 @@
     "xws": "ancientritesofpower",
     "level": "9",
     "initiative": "94",
-    "cardno": "213"
+    "cardno": "213",
+    "character-xws": "infuser"
   },
   {
     "name": "battle prowess",
@@ -9667,7 +10633,8 @@
     "xws": "battleprowess",
     "level": "X",
     "initiative": "78",
-    "cardno": "197"
+    "cardno": "197",
+    "character-xws": "infuser"
   },
   {
     "name": "boon of the tempest",
@@ -9677,7 +10644,8 @@
     "xws": "boonofthetempest",
     "level": "1",
     "initiative": "28",
-    "cardno": "185"
+    "cardno": "185",
+    "character-xws": "infuser"
   },
   {
     "name": "bounty of the earth",
@@ -9687,7 +10655,8 @@
     "xws": "bountyoftheearth",
     "level": "1",
     "initiative": "23",
-    "cardno": "186"
+    "cardno": "186",
+    "character-xws": "infuser"
   },
   {
     "name": "caress of the night",
@@ -9697,7 +10666,8 @@
     "xws": "caressofthenight",
     "level": "1",
     "initiative": "87",
-    "cardno": "187"
+    "cardno": "187",
+    "character-xws": "infuser"
   },
   {
     "name": "coalescing darkness",
@@ -9707,7 +10677,8 @@
     "xws": "coalescingdarkness",
     "level": "4",
     "initiative": "85",
-    "cardno": "203"
+    "cardno": "203",
+    "character-xws": "infuser"
   },
   {
     "name": "crystalline aegis",
@@ -9717,7 +10688,8 @@
     "xws": "crystallineaegis",
     "level": "X",
     "initiative": "17",
-    "cardno": "198"
+    "cardno": "198",
+    "character-xws": "infuser"
   },
   {
     "name": "desperate throw",
@@ -9727,7 +10699,8 @@
     "xws": "desperatethrow",
     "level": "4",
     "initiative": "16",
-    "cardno": "204"
+    "cardno": "204",
+    "character-xws": "infuser"
   },
   {
     "name": "diamondization",
@@ -9737,7 +10710,8 @@
     "xws": "diamondization",
     "level": "7",
     "initiative": "10",
-    "cardno": "209"
+    "cardno": "209",
+    "character-xws": "infuser"
   },
   {
     "name": "emerald edge",
@@ -9747,7 +10721,8 @@
     "xws": "emeraldedge",
     "level": "1",
     "initiative": "70",
-    "cardno": "189"
+    "cardno": "189",
+    "character-xws": "infuser"
   },
   {
     "name": "formless bladestorm",
@@ -9757,7 +10732,8 @@
     "xws": "formlessbladestorm",
     "level": "1",
     "initiative": "33",
-    "cardno": "188"
+    "cardno": "188",
+    "character-xws": "infuser"
   },
   {
     "name": "gale barrage",
@@ -9767,7 +10743,8 @@
     "xws": "galebarrage",
     "level": "6",
     "initiative": "44",
-    "cardno": "208"
+    "cardno": "208",
+    "character-xws": "infuser"
   },
   {
     "name": "gemstone resonance",
@@ -9777,7 +10754,8 @@
     "xws": "gemstoneresonance",
     "level": "5",
     "initiative": "30",
-    "cardno": "205"
+    "cardno": "205",
+    "character-xws": "infuser"
   },
   {
     "name": "guide the flow",
@@ -9787,7 +10765,8 @@
     "xws": "guidetheflow",
     "level": "3",
     "initiative": "35",
-    "cardno": "202"
+    "cardno": "202",
+    "character-xws": "infuser"
   },
   {
     "name": "imbue with life",
@@ -9797,7 +10776,8 @@
     "xws": "imbuewithlife",
     "level": "X",
     "initiative": "42",
-    "cardno": "196"
+    "cardno": "196",
+    "character-xws": "infuser"
   },
   {
     "name": "animated claymore",
@@ -9807,7 +10787,8 @@
     "xws": "imbuewithlife",
     "level": "X",
     "initiative": "42",
-    "cardno": "196"
+    "cardno": "196",
+    "character-xws": "infuser"
   },
   {
     "name": "malachite shockwave",
@@ -9817,7 +10798,8 @@
     "xws": "malachiteshockwave",
     "level": "7",
     "initiative": "68",
-    "cardno": "210"
+    "cardno": "210",
+    "character-xws": "infuser"
   },
   {
     "name": "obsidian spear",
@@ -9827,7 +10809,8 @@
     "xws": "obsidianspear",
     "level": "5",
     "initiative": "84",
-    "cardno": "206"
+    "cardno": "206",
+    "character-xws": "infuser"
   },
   {
     "name": "onyx shards",
@@ -9837,7 +10820,8 @@
     "xws": "onyxshards",
     "level": "1",
     "initiative": "20",
-    "cardno": "191"
+    "cardno": "191",
+    "character-xws": "infuser"
   },
   {
     "name": "propulsive tailwind",
@@ -9847,7 +10831,8 @@
     "xws": "propulsivetailwind",
     "level": "6",
     "initiative": "91",
-    "cardno": "207"
+    "cardno": "207",
+    "character-xws": "infuser"
   },
   {
     "name": "reinforced riposte",
@@ -9857,7 +10842,8 @@
     "xws": "reinforcedriposte",
     "level": "3",
     "initiative": "18",
-    "cardno": "201"
+    "cardno": "201",
+    "character-xws": "infuser"
   },
   {
     "name": "remote impact",
@@ -9867,7 +10853,8 @@
     "xws": "remoteimpact",
     "level": "2",
     "initiative": "72",
-    "cardno": "200"
+    "cardno": "200",
+    "character-xws": "infuser"
   },
   {
     "name": "rising momentum",
@@ -9877,7 +10864,8 @@
     "xws": "risingmomentum",
     "level": "1",
     "initiative": "25",
-    "cardno": "194"
+    "cardno": "194",
+    "character-xws": "infuser"
   },
   {
     "name": "sky-splitting strike",
@@ -9887,7 +10875,8 @@
     "xws": "skysplittingstrike",
     "level": "9",
     "initiative": "50",
-    "cardno": "214"
+    "cardno": "214",
+    "character-xws": "infuser"
   },
   {
     "name": "slashing cyclone",
@@ -9897,7 +10886,8 @@
     "xws": "slashingcyclone",
     "level": "1",
     "initiative": "14",
-    "cardno": "193"
+    "cardno": "193",
+    "character-xws": "infuser"
   },
   {
     "name": "stoic vigilance",
@@ -9907,7 +10897,8 @@
     "xws": "stoicvigilance",
     "level": "1",
     "initiative": "12",
-    "cardno": "195"
+    "cardno": "195",
+    "character-xws": "infuser"
   },
   {
     "name": "swift pivot",
@@ -9917,7 +10908,8 @@
     "xws": "swiftpivot",
     "level": "8",
     "initiative": "08",
-    "cardno": "212"
+    "cardno": "212",
+    "character-xws": "infuser"
   },
   {
     "name": "torrential cleave",
@@ -9927,7 +10919,8 @@
     "xws": "torrentialcleave",
     "level": "1",
     "initiative": "83",
-    "cardno": "190"
+    "cardno": "190",
+    "character-xws": "infuser"
   },
   {
     "name": "unstoppable impulse",
@@ -9937,7 +10930,8 @@
     "xws": "unstoppableimpulse",
     "level": "1",
     "initiative": "56",
-    "cardno": "192"
+    "cardno": "192",
+    "character-xws": "infuser"
   },
   {
     "name": "untether the shackles",
@@ -9947,7 +10941,8 @@
     "xws": "untethertheshackles",
     "level": "8",
     "initiative": "61",
-    "cardno": "211"
+    "cardno": "211",
+    "character-xws": "infuser"
   },
   {
     "name": "spiritbound falchion",
@@ -9957,7 +10952,8 @@
     "xws": "untethertheshackles",
     "level": "8",
     "initiative": "61",
-    "cardno": "211"
+    "cardno": "211",
+    "character-xws": "infuser"
   },
   {
     "name": "veil of protection",
@@ -9967,7 +10963,8 @@
     "xws": "veilofprotection",
     "level": "2",
     "initiative": "47",
-    "cardno": "199"
+    "cardno": "199",
+    "character-xws": "infuser"
   },
   {
     "name": "me-back",
@@ -9977,7 +10974,8 @@
     "xws": "meback",
     "level": "-",
     "initiative": "-",
-    "cardno": "-"
+    "cardno": "-",
+    "character-xws": "metal mosaic"
   },
   {
     "name": "ancient drill",
@@ -9987,7 +10985,8 @@
     "xws": "ancientdrill",
     "level": "1",
     "initiative": "90",
-    "cardno": "418"
+    "cardno": "418",
+    "character-xws": "metal mosaic"
   },
   {
     "name": "beam axe",
@@ -9997,7 +10996,8 @@
     "xws": "beamaxe",
     "level": "1",
     "initiative": "29",
-    "cardno": "423"
+    "cardno": "423",
+    "character-xws": "metal mosaic"
   },
   {
     "name": "bronze plating",
@@ -10007,7 +11007,8 @@
     "xws": "bronzeplating",
     "level": "2",
     "initiative": "18",
-    "cardno": "430"
+    "cardno": "430",
+    "character-xws": "metal mosaic"
   },
   {
     "name": "cryogenic hibernation",
@@ -10017,7 +11018,8 @@
     "xws": "cryogenichibernation",
     "level": "7",
     "initiative": "19",
-    "cardno": "440"
+    "cardno": "440",
+    "character-xws": "metal mosaic"
   },
   {
     "name": "curious gear",
@@ -10027,7 +11029,8 @@
     "xws": "curiousgear",
     "level": "X",
     "initiative": "12",
-    "cardno": "428"
+    "cardno": "428",
+    "character-xws": "metal mosaic"
   },
   {
     "name": "curious machinery",
@@ -10037,7 +11040,8 @@
     "xws": "curiousmachinery",
     "level": "8",
     "initiative": "11",
-    "cardno": "442"
+    "cardno": "442",
+    "character-xws": "metal mosaic"
   },
   {
     "name": "electrical discharge",
@@ -10047,7 +11051,8 @@
     "xws": "electricaldischarge",
     "level": "3",
     "initiative": "26",
-    "cardno": "432"
+    "cardno": "432",
+    "character-xws": "metal mosaic"
   },
   {
     "name": "energy conversion",
@@ -10057,7 +11062,8 @@
     "xws": "energyconversion",
     "level": "4",
     "initiative": "23",
-    "cardno": "433"
+    "cardno": "433",
+    "character-xws": "metal mosaic"
   },
   {
     "name": "heat conduction",
@@ -10067,7 +11073,8 @@
     "xws": "heatconduction",
     "level": "5",
     "initiative": "11",
-    "cardno": "436"
+    "cardno": "436",
+    "character-xws": "metal mosaic"
   },
   {
     "name": "heated drill",
@@ -10077,7 +11084,8 @@
     "xws": "heateddrill",
     "level": "7",
     "initiative": "80",
-    "cardno": "439"
+    "cardno": "439",
+    "character-xws": "metal mosaic"
   },
   {
     "name": "magnetic field",
@@ -10087,7 +11095,8 @@
     "xws": "magneticfield",
     "level": "4",
     "initiative": "21",
-    "cardno": "434"
+    "cardno": "434",
+    "character-xws": "metal mosaic"
   },
   {
     "name": "memory drive",
@@ -10097,7 +11106,8 @@
     "xws": "memorydrive",
     "level": "1",
     "initiative": "64",
-    "cardno": "424"
+    "cardno": "424",
+    "character-xws": "metal mosaic"
   },
   {
     "name": "piston barrage",
@@ -10107,7 +11117,8 @@
     "xws": "pistonbarrage",
     "level": "8",
     "initiative": "33",
-    "cardno": "441"
+    "cardno": "441",
+    "character-xws": "metal mosaic"
   },
   {
     "name": "polarity shift",
@@ -10117,7 +11128,8 @@
     "xws": "polarityshift",
     "level": "9",
     "initiative": "79",
-    "cardno": "443"
+    "cardno": "443",
+    "character-xws": "metal mosaic"
   },
   {
     "name": "power core",
@@ -10127,7 +11139,8 @@
     "xws": "powercore",
     "level": "1",
     "initiative": "83",
-    "cardno": "420"
+    "cardno": "420",
+    "character-xws": "metal mosaic"
   },
   {
     "name": "pressure build-up",
@@ -10137,7 +11150,8 @@
     "xws": "pressurebuildup",
     "level": "1",
     "initiative": "20",
-    "cardno": "422"
+    "cardno": "422",
+    "character-xws": "metal mosaic"
   },
   {
     "name": "processing",
@@ -10147,7 +11161,8 @@
     "xws": "processing",
     "level": "X",
     "initiative": "95",
-    "cardno": "426"
+    "cardno": "426",
+    "character-xws": "metal mosaic"
   },
   {
     "name": "radiation",
@@ -10157,7 +11172,8 @@
     "xws": "radiation",
     "level": "5",
     "initiative": "37",
-    "cardno": "435"
+    "cardno": "435",
+    "character-xws": "metal mosaic"
   },
   {
     "name": "recursion",
@@ -10167,7 +11183,8 @@
     "xws": "recursion",
     "level": "X",
     "initiative": "50",
-    "cardno": "427"
+    "cardno": "427",
+    "character-xws": "metal mosaic"
   },
   {
     "name": "release valve",
@@ -10177,7 +11194,8 @@
     "xws": "releasevalve",
     "level": "2",
     "initiative": "30",
-    "cardno": "429"
+    "cardno": "429",
+    "character-xws": "metal mosaic"
   },
   {
     "name": "rocket boots",
@@ -10187,7 +11205,8 @@
     "xws": "rocketboots",
     "level": "1",
     "initiative": "22",
-    "cardno": "419"
+    "cardno": "419",
+    "character-xws": "metal mosaic"
   },
   {
     "name": "scalding blast",
@@ -10197,7 +11216,8 @@
     "xws": "scaldingblast",
     "level": "6",
     "initiative": "45",
-    "cardno": "437"
+    "cardno": "437",
+    "character-xws": "metal mosaic"
   },
   {
     "name": "steam armor",
@@ -10207,7 +11227,8 @@
     "xws": "steamarmor",
     "level": "1",
     "initiative": "17",
-    "cardno": "417"
+    "cardno": "417",
+    "character-xws": "metal mosaic"
   },
   {
     "name": "steam core",
@@ -10217,7 +11238,8 @@
     "xws": "steamcore",
     "level": "6",
     "initiative": "71",
-    "cardno": "438"
+    "cardno": "438",
+    "character-xws": "metal mosaic"
   },
   {
     "name": "steel piston",
@@ -10227,7 +11249,8 @@
     "xws": "steelpiston",
     "level": "1",
     "initiative": "40",
-    "cardno": "421"
+    "cardno": "421",
+    "character-xws": "metal mosaic"
   },
   {
     "name": "stress vents",
@@ -10237,7 +11260,8 @@
     "xws": "stressvents",
     "level": "3",
     "initiative": "15",
-    "cardno": "431"
+    "cardno": "431",
+    "character-xws": "metal mosaic"
   },
   {
     "name": "super heat transfer",
@@ -10247,7 +11271,8 @@
     "xws": "superheattransfer",
     "level": "1",
     "initiative": "25",
-    "cardno": "425"
+    "cardno": "425",
+    "character-xws": "metal mosaic"
   },
   {
     "name": "unstable core",
@@ -10257,7 +11282,8 @@
     "xws": "unstablecore",
     "level": "9",
     "initiative": "10",
-    "cardno": "444"
+    "cardno": "444",
+    "character-xws": "metal mosaic"
   },
   {
     "name": "pc-back",
@@ -10267,7 +11293,8 @@
     "xws": "pcback",
     "level": "-",
     "initiative": "-",
-    "cardno": "-"
+    "cardno": "-",
+    "character-xws": "pain conduit"
   },
   {
     "name": "blood ritual",
@@ -10277,7 +11304,8 @@
     "xws": "bloodritual",
     "level": "1",
     "initiative": "56",
-    "cardno": "306"
+    "cardno": "306",
+    "character-xws": "pain conduit"
   },
   {
     "name": "burned at both ends",
@@ -10287,7 +11315,8 @@
     "xws": "burnedatbothends",
     "level": "3",
     "initiative": "30",
-    "cardno": "316"
+    "cardno": "316",
+    "character-xws": "pain conduit"
   },
   {
     "name": "chained by despair",
@@ -10297,7 +11326,8 @@
     "xws": "chainedbydespair",
     "level": "5",
     "initiative": "15",
-    "cardno": "321"
+    "cardno": "321",
+    "character-xws": "pain conduit"
   },
   {
     "name": "chained by spite",
@@ -10307,7 +11337,8 @@
     "xws": "chainedbyspite",
     "level": "5",
     "initiative": "15",
-    "cardno": "320"
+    "cardno": "320",
+    "character-xws": "pain conduit"
   },
   {
     "name": "cleansing fire",
@@ -10317,7 +11348,8 @@
     "xws": "cleansingfire",
     "level": "1",
     "initiative": "64",
-    "cardno": "309"
+    "cardno": "309",
+    "character-xws": "pain conduit"
   },
   {
     "name": "delayed malady",
@@ -10327,7 +11359,8 @@
     "xws": "delayedmalady",
     "level": "X",
     "initiative": "90",
-    "cardno": "311"
+    "cardno": "311",
+    "character-xws": "pain conduit"
   },
   {
     "name": "down to the dirt",
@@ -10337,7 +11370,8 @@
     "xws": "downtothedirt",
     "level": "4",
     "initiative": "39",
-    "cardno": "319"
+    "cardno": "319",
+    "character-xws": "pain conduit"
   },
   {
     "name": "explosive wounds",
@@ -10347,7 +11381,8 @@
     "xws": "explosivewounds",
     "level": "1",
     "initiative": "43",
-    "cardno": "308"
+    "cardno": "308",
+    "character-xws": "pain conduit"
   },
   {
     "name": "hopelessness",
@@ -10357,7 +11392,8 @@
     "xws": "hopelessness",
     "level": "6",
     "initiative": "83",
-    "cardno": "322"
+    "cardno": "322",
+    "character-xws": "pain conduit"
   },
   {
     "name": "infection purge",
@@ -10367,7 +11403,8 @@
     "xws": "infectionpurge",
     "level": "2",
     "initiative": "45",
-    "cardno": "315"
+    "cardno": "315",
+    "character-xws": "pain conduit"
   },
   {
     "name": "line of transference",
@@ -10377,7 +11414,8 @@
     "xws": "lineoftransference",
     "level": "1",
     "initiative": "25",
-    "cardno": "302"
+    "cardno": "302",
+    "character-xws": "pain conduit"
   },
   {
     "name": "mirrored misery",
@@ -10387,7 +11425,8 @@
     "xws": "mirroredmisery",
     "level": "4",
     "initiative": "72",
-    "cardno": "318"
+    "cardno": "318",
+    "character-xws": "pain conduit"
   },
   {
     "name": "penance",
@@ -10397,7 +11436,8 @@
     "xws": "penance",
     "level": "7",
     "initiative": "12",
-    "cardno": "325"
+    "cardno": "325",
+    "character-xws": "pain conduit"
   },
   {
     "name": "phantom limb",
@@ -10407,7 +11447,8 @@
     "xws": "phantomlimb",
     "level": "6",
     "initiative": "75",
-    "cardno": "323"
+    "cardno": "323",
+    "character-xws": "pain conduit"
   },
   {
     "name": "pleasure in pain",
@@ -10417,7 +11458,8 @@
     "xws": "pleasureinpain",
     "level": "X",
     "initiative": "47",
-    "cardno": "313"
+    "cardno": "313",
+    "character-xws": "pain conduit"
   },
   {
     "name": "redemption",
@@ -10427,7 +11469,8 @@
     "xws": "redemption",
     "level": "8",
     "initiative": "33",
-    "cardno": "328"
+    "cardno": "328",
+    "character-xws": "pain conduit"
   },
   {
     "name": "reject the gift",
@@ -10437,7 +11480,8 @@
     "xws": "rejectthegift",
     "level": "7",
     "initiative": "20",
-    "cardno": "324"
+    "cardno": "324",
+    "character-xws": "pain conduit"
   },
   {
     "name": "reprisal",
@@ -10447,7 +11491,8 @@
     "xws": "reprisal",
     "level": "3",
     "initiative": "70",
-    "cardno": "317"
+    "cardno": "317",
+    "character-xws": "pain conduit"
   },
   {
     "name": "reversal of fate",
@@ -10457,7 +11502,8 @@
     "xws": "reversaloffate",
     "level": "2",
     "initiative": "23",
-    "cardno": "314"
+    "cardno": "314",
+    "character-xws": "pain conduit"
   },
   {
     "name": "scarred effigy",
@@ -10467,7 +11513,8 @@
     "xws": "scarredeffigy",
     "level": "1",
     "initiative": "19",
-    "cardno": "307"
+    "cardno": "307",
+    "character-xws": "pain conduit"
   },
   {
     "name": "flesh fiend",
@@ -10477,7 +11524,8 @@
     "xws": "scarredeffigy",
     "level": "1",
     "initiative": "19",
-    "cardno": "307"
+    "cardno": "307",
+    "character-xws": "pain conduit"
   },
   {
     "name": "shared affliction",
@@ -10487,7 +11535,8 @@
     "xws": "sharedaffliction",
     "level": "1",
     "initiative": "61",
-    "cardno": "301"
+    "cardno": "301",
+    "character-xws": "pain conduit"
   },
   {
     "name": "swift vengeance",
@@ -10497,7 +11546,8 @@
     "xws": "swiftvengeance",
     "level": "1",
     "initiative": "21",
-    "cardno": "310"
+    "cardno": "310",
+    "character-xws": "pain conduit"
   },
   {
     "name": "the agony of others",
@@ -10507,7 +11557,8 @@
     "xws": "theagonyofothers",
     "level": "1",
     "initiative": "78",
-    "cardno": "304"
+    "cardno": "304",
+    "character-xws": "pain conduit"
   },
   {
     "name": "the end of everything",
@@ -10517,7 +11568,8 @@
     "xws": "theendofeverything",
     "level": "9",
     "initiative": "99",
-    "cardno": "329"
+    "cardno": "329",
+    "character-xws": "pain conduit"
   },
   {
     "name": "transferred injury",
@@ -10527,7 +11579,8 @@
     "xws": "transferredinjury",
     "level": "1",
     "initiative": "74",
-    "cardno": "303"
+    "cardno": "303",
+    "character-xws": "pain conduit"
   },
   {
     "name": "unending torment",
@@ -10537,7 +11590,8 @@
     "xws": "unendingtorment",
     "level": "1",
     "initiative": "29",
-    "cardno": "305"
+    "cardno": "305",
+    "character-xws": "pain conduit"
   },
   {
     "name": "unstable effigy",
@@ -10547,7 +11601,8 @@
     "xws": "unstableeffigy",
     "level": "X",
     "initiative": "18",
-    "cardno": "312"
+    "cardno": "312",
+    "character-xws": "pain conduit"
   },
   {
     "name": "flesh bomb",
@@ -10557,7 +11612,8 @@
     "xws": "unstableeffigy",
     "level": "X",
     "initiative": "18",
-    "cardno": "312"
+    "cardno": "312",
+    "character-xws": "pain conduit"
   },
   {
     "name": "wave of anguish",
@@ -10567,7 +11623,8 @@
     "xws": "waveofanguish",
     "level": "8",
     "initiative": "68",
-    "cardno": "326"
+    "cardno": "326",
+    "character-xws": "pain conduit"
   },
   {
     "name": "wracked with pain",
@@ -10577,7 +11634,8 @@
     "xws": "wrackedwithpain",
     "level": "8",
     "initiative": "22",
-    "cardno": "327"
+    "cardno": "327",
+    "character-xws": "pain conduit"
   },
   {
     "name": "py-back",
@@ -10587,7 +11645,8 @@
     "xws": "pyback",
     "level": "-",
     "initiative": "-",
-    "cardno": "-"
+    "cardno": "-",
+    "character-xws": "pyroclast"
   },
   {
     "name": "calamity",
@@ -10597,7 +11656,8 @@
     "xws": "calamity",
     "level": "9",
     "initiative": "35",
-    "cardno": "243"
+    "cardno": "243",
+    "character-xws": "pyroclast"
   },
   {
     "name": "cinder lance",
@@ -10607,7 +11667,8 @@
     "xws": "cinderlance",
     "level": "8",
     "initiative": "90",
-    "cardno": "241"
+    "cardno": "241",
+    "character-xws": "pyroclast"
   },
   {
     "name": "cloud of ash",
@@ -10617,7 +11678,8 @@
     "xws": "cloudofash",
     "level": "1",
     "initiative": "23",
-    "cardno": "224"
+    "cardno": "224",
+    "character-xws": "pyroclast"
   },
   {
     "name": "cooling",
@@ -10627,7 +11689,8 @@
     "xws": "cooling",
     "level": "1",
     "initiative": "75",
-    "cardno": "215"
+    "cardno": "215",
+    "character-xws": "pyroclast"
   },
   {
     "name": "deep fury",
@@ -10637,7 +11700,8 @@
     "xws": "deepfury",
     "level": "2",
     "initiative": "38",
-    "cardno": "229"
+    "cardno": "229",
+    "character-xws": "pyroclast"
   },
   {
     "name": "erupting rage",
@@ -10647,7 +11711,8 @@
     "xws": "eruptingrage",
     "level": "7",
     "initiative": "70",
-    "cardno": "238"
+    "cardno": "238",
+    "character-xws": "pyroclast"
   },
   {
     "name": "eruption",
@@ -10657,7 +11722,8 @@
     "xws": "eruption",
     "level": "1",
     "initiative": "47",
-    "cardno": "218"
+    "cardno": "218",
+    "character-xws": "pyroclast"
   },
   {
     "name": "feed the beast",
@@ -10667,7 +11733,8 @@
     "xws": "feedthebeast",
     "level": "8",
     "initiative": "27",
-    "cardno": "240"
+    "cardno": "240",
+    "character-xws": "pyroclast"
   },
   {
     "name": "flowing fire",
@@ -10677,7 +11744,8 @@
     "xws": "flowingfire",
     "level": "1",
     "initiative": "20",
-    "cardno": "217"
+    "cardno": "217",
+    "character-xws": "pyroclast"
   },
   {
     "name": "force of the earth",
@@ -10687,7 +11755,8 @@
     "xws": "forceoftheearth",
     "level": "X",
     "initiative": "15",
-    "cardno": "226"
+    "cardno": "226",
+    "character-xws": "pyroclast"
   },
   {
     "name": "hand of flame",
@@ -10697,7 +11766,8 @@
     "xws": "handofflame",
     "level": "4",
     "initiative": "29",
-    "cardno": "232"
+    "cardno": "232",
+    "character-xws": "pyroclast"
   },
   {
     "name": "hardened spike",
@@ -10707,7 +11777,8 @@
     "xws": "hardenedspike",
     "level": "3",
     "initiative": "80",
-    "cardno": "231"
+    "cardno": "231",
+    "character-xws": "pyroclast"
   },
   {
     "name": "heat wave",
@@ -10717,7 +11788,8 @@
     "xws": "heatwave",
     "level": "4",
     "initiative": "08",
-    "cardno": "233"
+    "cardno": "233",
+    "character-xws": "pyroclast"
   },
   {
     "name": "igneous path",
@@ -10727,7 +11799,8 @@
     "xws": "igneouspath",
     "level": "1",
     "initiative": "18",
-    "cardno": "220"
+    "cardno": "220",
+    "character-xws": "pyroclast"
   },
   {
     "name": "lava bomb",
@@ -10737,7 +11810,8 @@
     "xws": "lavabomb",
     "level": "1",
     "initiative": "53",
-    "cardno": "219"
+    "cardno": "219",
+    "character-xws": "pyroclast"
   },
   {
     "name": "liquid stone",
@@ -10747,7 +11821,8 @@
     "xws": "liquidstone",
     "level": "1",
     "initiative": "28",
-    "cardno": "223"
+    "cardno": "223",
+    "character-xws": "pyroclast"
   },
   {
     "name": "living magma",
@@ -10757,7 +11832,8 @@
     "xws": "livingmagma",
     "level": "3",
     "initiative": "22",
-    "cardno": "230"
+    "cardno": "230",
+    "character-xws": "pyroclast"
   },
   {
     "name": "magma orbs",
@@ -10767,7 +11843,8 @@
     "xws": "magmaorbs",
     "level": "5",
     "initiative": "82",
-    "cardno": "235"
+    "cardno": "235",
+    "character-xws": "pyroclast"
   },
   {
     "name": "melted armor",
@@ -10777,7 +11854,8 @@
     "xws": "meltedarmor",
     "level": "1",
     "initiative": "62",
-    "cardno": "222"
+    "cardno": "222",
+    "character-xws": "pyroclast"
   },
   {
     "name": "metamorphic rock",
@@ -10787,7 +11865,8 @@
     "xws": "metamorphicrock",
     "level": "X",
     "initiative": "68",
-    "cardno": "227"
+    "cardno": "227",
+    "character-xws": "pyroclast"
   },
   {
     "name": "obsidian shield",
@@ -10797,7 +11876,8 @@
     "xws": "obsidianshield",
     "level": "6",
     "initiative": "19",
-    "cardno": "237"
+    "cardno": "237",
+    "character-xws": "pyroclast"
   },
   {
     "name": "quenched rage",
@@ -10807,7 +11887,8 @@
     "xws": "quenchedrage",
     "level": "1",
     "initiative": "30",
-    "cardno": "216"
+    "cardno": "216",
+    "character-xws": "pyroclast"
   },
   {
     "name": "rain of fire",
@@ -10817,7 +11898,8 @@
     "xws": "rainoffire",
     "level": "5",
     "initiative": "21",
-    "cardno": "234"
+    "cardno": "234",
+    "character-xws": "pyroclast"
   },
   {
     "name": "return to the source",
@@ -10827,7 +11909,8 @@
     "xws": "returntothesource",
     "level": "6",
     "initiative": "14",
-    "cardno": "236"
+    "cardno": "236",
+    "character-xws": "pyroclast"
   },
   {
     "name": "searing smoke",
@@ -10837,7 +11920,8 @@
     "xws": "searingsmoke",
     "level": "2",
     "initiative": "45",
-    "cardno": "228"
+    "cardno": "228",
+    "character-xws": "pyroclast"
   },
   {
     "name": "stone armor",
@@ -10847,7 +11931,8 @@
     "xws": "stonearmor",
     "level": "9",
     "initiative": "09",
-    "cardno": "242"
+    "cardno": "242",
+    "character-xws": "pyroclast"
   },
   {
     "name": "swelter",
@@ -10857,7 +11942,8 @@
     "xws": "swelter",
     "level": "7",
     "initiative": "32",
-    "cardno": "239"
+    "cardno": "239",
+    "character-xws": "pyroclast"
   },
   {
     "name": "under pressure",
@@ -10867,7 +11953,8 @@
     "xws": "underpressure",
     "level": "1",
     "initiative": "85",
-    "cardno": "221"
+    "cardno": "221",
+    "character-xws": "pyroclast"
   },
   {
     "name": "wildfire",
@@ -10877,7 +11964,8 @@
     "xws": "wildfire",
     "level": "X",
     "initiative": "72",
-    "cardno": "225"
+    "cardno": "225",
+    "character-xws": "pyroclast"
   },
   {
     "name": "sd-back",
@@ -10887,7 +11975,8 @@
     "xws": "sdback",
     "level": "-",
     "initiative": "-",
-    "cardno": "-"
+    "cardno": "-",
+    "character-xws": "snowdancer"
   },
   {
     "name": "birds in a tempest",
@@ -10897,7 +11986,8 @@
     "xws": "birdsinatempest",
     "level": "2",
     "initiative": "18",
-    "cardno": "344"
+    "cardno": "344",
+    "character-xws": "snowdancer"
   },
   {
     "name": "2 white owls",
@@ -10907,7 +11997,8 @@
     "xws": "birdsinatempest",
     "level": "2",
     "initiative": "18",
-    "cardno": "344"
+    "cardno": "344",
+    "character-xws": "snowdancer"
   },
   {
     "name": "biting frost",
@@ -10917,7 +12008,8 @@
     "xws": "bitingfrost",
     "level": "4",
     "initiative": "16",
-    "cardno": "349"
+    "cardno": "349",
+    "character-xws": "snowdancer"
   },
   {
     "name": "blinding vortex",
@@ -10927,7 +12019,8 @@
     "xws": "blindingvortex",
     "level": "X",
     "initiative": "31",
-    "cardno": "342"
+    "cardno": "342",
+    "character-xws": "snowdancer"
   },
   {
     "name": "blizzard",
@@ -10937,7 +12030,8 @@
     "xws": "blizzard",
     "level": "1",
     "initiative": "71",
-    "cardno": "330"
+    "cardno": "330",
+    "character-xws": "snowdancer"
   },
   {
     "name": "chilling impact",
@@ -10947,7 +12041,8 @@
     "xws": "chillingimpact",
     "level": "1",
     "initiative": "31",
-    "cardno": "332"
+    "cardno": "332",
+    "character-xws": "snowdancer"
   },
   {
     "name": "cold snap",
@@ -10957,7 +12052,8 @@
     "xws": "coldsnap",
     "level": "3",
     "initiative": "86",
-    "cardno": "346"
+    "cardno": "346",
+    "character-xws": "snowdancer"
   },
   {
     "name": "cold therapy",
@@ -10967,7 +12063,8 @@
     "xws": "coldtherapy",
     "level": "1",
     "initiative": "20",
-    "cardno": "340"
+    "cardno": "340",
+    "character-xws": "snowdancer"
   },
   {
     "name": "cross winds",
@@ -10977,7 +12074,8 @@
     "xws": "crosswinds",
     "level": "1",
     "initiative": "32",
-    "cardno": "338"
+    "cardno": "338",
+    "character-xws": "snowdancer"
   },
   {
     "name": "enticing breeze",
@@ -10987,7 +12085,8 @@
     "xws": "enticingbreeze",
     "level": "1",
     "initiative": "76",
-    "cardno": "331"
+    "cardno": "331",
+    "character-xws": "snowdancer"
   },
   {
     "name": "freezing storm",
@@ -10997,7 +12096,8 @@
     "xws": "freezingstorm",
     "level": "7",
     "initiative": "81",
-    "cardno": "354"
+    "cardno": "354",
+    "character-xws": "snowdancer"
   },
   {
     "name": "frigid growth",
@@ -11007,7 +12107,8 @@
     "xws": "frigidgrowth",
     "level": "1",
     "initiative": "70",
-    "cardno": "339"
+    "cardno": "339",
+    "character-xws": "snowdancer"
   },
   {
     "name": "frozen brand",
@@ -11017,7 +12118,8 @@
     "xws": "frozenbrand",
     "level": "6",
     "initiative": "33",
-    "cardno": "353"
+    "cardno": "353",
+    "character-xws": "snowdancer"
   },
   {
     "name": "gathering force",
@@ -11027,7 +12129,8 @@
     "xws": "gatheringforce",
     "level": "1",
     "initiative": "89",
-    "cardno": "333"
+    "cardno": "333",
+    "character-xws": "snowdancer"
   },
   {
     "name": "lifting gust",
@@ -11037,7 +12140,8 @@
     "xws": "liftinggust",
     "level": "1",
     "initiative": "27",
-    "cardno": "335"
+    "cardno": "335",
+    "character-xws": "snowdancer"
   },
   {
     "name": "nature's breath",
@@ -11047,7 +12151,8 @@
     "xws": "naturesbreath",
     "level": "1",
     "initiative": "90",
-    "cardno": "334"
+    "cardno": "334",
+    "character-xws": "snowdancer"
   },
   {
     "name": "snow fox",
@@ -11057,7 +12162,8 @@
     "xws": "naturesbreath",
     "level": "1",
     "initiative": "90",
-    "cardno": "334"
+    "cardno": "334",
+    "character-xws": "snowdancer"
   },
   {
     "name": "polar vortex",
@@ -11067,7 +12173,8 @@
     "xws": "polarvortex",
     "level": "3",
     "initiative": "61",
-    "cardno": "347"
+    "cardno": "347",
+    "character-xws": "snowdancer"
   },
   {
     "name": "refreshing flurry",
@@ -11077,7 +12184,8 @@
     "xws": "refreshingflurry",
     "level": "6",
     "initiative": "95",
-    "cardno": "352"
+    "cardno": "352",
+    "character-xws": "snowdancer"
   },
   {
     "name": "polar cat",
@@ -11087,7 +12195,8 @@
     "xws": "refreshingflurry",
     "level": "6",
     "initiative": "95",
-    "cardno": "352"
+    "cardno": "352",
+    "character-xws": "snowdancer"
   },
   {
     "name": "shifting snow",
@@ -11097,7 +12206,8 @@
     "xws": "shiftingsnow",
     "level": "5",
     "initiative": "17",
-    "cardno": "351"
+    "cardno": "351",
+    "character-xws": "snowdancer"
   },
   {
     "name": "snowball",
@@ -11107,7 +12217,8 @@
     "xws": "snowball",
     "level": "1",
     "initiative": "23",
-    "cardno": "336"
+    "cardno": "336",
+    "character-xws": "snowdancer"
   },
   {
     "name": "snowblind",
@@ -11117,7 +12228,8 @@
     "xws": "snowblind",
     "level": "9",
     "initiative": "83",
-    "cardno": "359"
+    "cardno": "359",
+    "character-xws": "snowdancer"
   },
   {
     "name": "storm wall",
@@ -11127,7 +12239,8 @@
     "xws": "stormwall",
     "level": "7",
     "initiative": "30",
-    "cardno": "355"
+    "cardno": "355",
+    "character-xws": "snowdancer"
   },
   {
     "name": "surging blow",
@@ -11137,7 +12250,8 @@
     "xws": "surgingblow",
     "level": "8",
     "initiative": "73",
-    "cardno": "356"
+    "cardno": "356",
+    "character-xws": "snowdancer"
   },
   {
     "name": "the endless white",
@@ -11147,7 +12261,8 @@
     "xws": "theendlesswhite",
     "level": "8",
     "initiative": "05",
-    "cardno": "357"
+    "cardno": "357",
+    "character-xws": "snowdancer"
   },
   {
     "name": "the spirit's call",
@@ -11157,7 +12272,8 @@
     "xws": "thespiritscall",
     "level": "X",
     "initiative": "45",
-    "cardno": "343"
+    "cardno": "343",
+    "character-xws": "snowdancer"
   },
   {
     "name": "tornado",
@@ -11167,7 +12283,8 @@
     "xws": "tornado",
     "level": "2",
     "initiative": "59",
-    "cardno": "345"
+    "cardno": "345",
+    "character-xws": "snowdancer"
   },
   {
     "name": "whipping gale",
@@ -11177,7 +12294,8 @@
     "xws": "whippinggale",
     "level": "5",
     "initiative": "79",
-    "cardno": "350"
+    "cardno": "350",
+    "character-xws": "snowdancer"
   },
   {
     "name": "whiteout",
@@ -11187,7 +12305,8 @@
     "xws": "whiteout",
     "level": "1",
     "initiative": "21",
-    "cardno": "337"
+    "cardno": "337",
+    "character-xws": "snowdancer"
   },
   {
     "name": "white winds",
@@ -11197,7 +12316,8 @@
     "xws": "whitewinds",
     "level": "X",
     "initiative": "11",
-    "cardno": "341"
+    "cardno": "341",
+    "character-xws": "snowdancer"
   },
   {
     "name": "winds of change",
@@ -11207,7 +12327,8 @@
     "xws": "windsofchange",
     "level": "9",
     "initiative": "15",
-    "cardno": "358"
+    "cardno": "358",
+    "character-xws": "snowdancer"
   },
   {
     "name": "zephyr barrier",
@@ -11217,7 +12338,8 @@
     "xws": "zephyrbarrier",
     "level": "4",
     "initiative": "40",
-    "cardno": "348"
+    "cardno": "348",
+    "character-xws": "snowdancer"
   },
   {
     "name": "sh-back",
@@ -11227,7 +12349,8 @@
     "xws": "shback",
     "level": "-",
     "initiative": "-",
-    "cardno": "-"
+    "cardno": "-",
+    "character-xws": "shattersong"
   },
   {
     "name": "barbaric yawp",
@@ -11237,7 +12360,8 @@
     "xws": "barbaricyawp",
     "level": "9",
     "initiative": "66",
-    "cardno": "271"
+    "cardno": "271",
+    "character-xws": "shattersong"
   },
   {
     "name": "befuddling bellow",
@@ -11247,7 +12371,8 @@
     "xws": "befuddlingbellow",
     "level": "2",
     "initiative": "18",
-    "cardno": "258"
+    "cardno": "258",
+    "character-xws": "shattersong"
   },
   {
     "name": "calamitous yawp",
@@ -11257,7 +12382,8 @@
     "xws": "calamitousyawp",
     "level": "X",
     "initiative": "65",
-    "cardno": "254"
+    "cardno": "254",
+    "character-xws": "shattersong"
   },
   {
     "name": "cloaking refraction",
@@ -11267,7 +12393,8 @@
     "xws": "cloakingrefraction",
     "level": "7",
     "initiative": "11",
-    "cardno": "268"
+    "cardno": "268",
+    "character-xws": "shattersong"
   },
   {
     "name": "concentrated blast",
@@ -11277,7 +12404,8 @@
     "xws": "concentratedblast",
     "level": "4",
     "initiative": "38",
-    "cardno": "261"
+    "cardno": "261",
+    "character-xws": "shattersong"
   },
   {
     "name": "devastating shout",
@@ -11287,7 +12415,8 @@
     "xws": "devastatingshout",
     "level": "1",
     "initiative": "68",
-    "cardno": "253"
+    "cardno": "253",
+    "character-xws": "shattersong"
   },
   {
     "name": "din of battle",
@@ -11297,7 +12426,8 @@
     "xws": "dinofbattle",
     "level": "X",
     "initiative": "14",
-    "cardno": "255"
+    "cardno": "255",
+    "character-xws": "shattersong"
   },
   {
     "name": "elemental pulse",
@@ -11307,7 +12437,8 @@
     "xws": "elementalpulse",
     "level": "4",
     "initiative": "25",
-    "cardno": "262"
+    "cardno": "262",
+    "character-xws": "shattersong"
   },
   {
     "name": "empowering note",
@@ -11317,7 +12448,8 @@
     "xws": "empoweringnote",
     "level": "5",
     "initiative": "45",
-    "cardno": "264"
+    "cardno": "264",
+    "character-xws": "shattersong"
   },
   {
     "name": "empowering pulse",
@@ -11327,7 +12459,8 @@
     "xws": "empoweringpulse",
     "level": "1",
     "initiative": "22",
-    "cardno": "252"
+    "cardno": "252",
+    "character-xws": "shattersong"
   },
   {
     "name": "feedback",
@@ -11337,7 +12470,8 @@
     "xws": "feedback",
     "level": "8",
     "initiative": "24",
-    "cardno": "270"
+    "cardno": "270",
+    "character-xws": "shattersong"
   },
   {
     "name": "forceful vibrations",
@@ -11347,7 +12481,8 @@
     "xws": "forcefulvibrations",
     "level": "1",
     "initiative": "27",
-    "cardno": "247"
+    "cardno": "247",
+    "character-xws": "shattersong"
   },
   {
     "name": "foreboding tremors",
@@ -11357,7 +12492,8 @@
     "xws": "forebodingtremors",
     "level": "1",
     "initiative": "21",
-    "cardno": "249"
+    "cardno": "249",
+    "character-xws": "shattersong"
   },
   {
     "name": "future sense",
@@ -11367,7 +12503,8 @@
     "xws": "futuresense",
     "level": "6",
     "initiative": "28",
-    "cardno": "266"
+    "cardno": "266",
+    "character-xws": "shattersong"
   },
   {
     "name": "heartening harmony",
@@ -11377,7 +12514,8 @@
     "xws": "hearteningharmony",
     "level": "1",
     "initiative": "30",
-    "cardno": "246"
+    "cardno": "246",
+    "character-xws": "shattersong"
   },
   {
     "name": "illuminative tone",
@@ -11387,7 +12525,8 @@
     "xws": "illuminativetone",
     "level": "X",
     "initiative": "72",
-    "cardno": "256"
+    "cardno": "256",
+    "character-xws": "shattersong"
   },
   {
     "name": "lifting voice",
@@ -11397,7 +12536,8 @@
     "xws": "liftingvoice",
     "level": "1",
     "initiative": "29",
-    "cardno": "245"
+    "cardno": "245",
+    "character-xws": "shattersong"
   },
   {
     "name": "precious gems",
@@ -11407,7 +12547,8 @@
     "xws": "preciousgems",
     "level": "1",
     "initiative": "10",
-    "cardno": "251"
+    "cardno": "251",
+    "character-xws": "shattersong"
   },
   {
     "name": "resonant frequency",
@@ -11417,7 +12558,8 @@
     "xws": "resonantfrequency",
     "level": "1",
     "initiative": "88",
-    "cardno": "248"
+    "cardno": "248",
+    "character-xws": "shattersong"
   },
   {
     "name": "shape the path",
@@ -11427,7 +12569,8 @@
     "xws": "shapethepath",
     "level": "3",
     "initiative": "40",
-    "cardno": "259"
+    "cardno": "259",
+    "character-xws": "shattersong"
   },
   {
     "name": "shrieking chakram",
@@ -11437,7 +12580,8 @@
     "xws": "shriekingchakram",
     "level": "5",
     "initiative": "08",
-    "cardno": "263"
+    "cardno": "263",
+    "character-xws": "shattersong"
   },
   {
     "name": "soft spots",
@@ -11447,7 +12591,8 @@
     "xws": "softspots",
     "level": "8",
     "initiative": "47",
-    "cardno": "269"
+    "cardno": "269",
+    "character-xws": "shattersong"
   },
   {
     "name": "sonic shock",
@@ -11457,7 +12602,8 @@
     "xws": "sonicshock",
     "level": "1",
     "initiative": "58",
-    "cardno": "250"
+    "cardno": "250",
+    "character-xws": "shattersong"
   },
   {
     "name": "sound therapy",
@@ -11467,7 +12613,8 @@
     "xws": "soundtherapy",
     "level": "7",
     "initiative": "73",
-    "cardno": "267"
+    "cardno": "267",
+    "character-xws": "shattersong"
   },
   {
     "name": "stealth vibrations",
@@ -11477,7 +12624,8 @@
     "xws": "stealthvibrations",
     "level": "3",
     "initiative": "35",
-    "cardno": "260"
+    "cardno": "260",
+    "character-xws": "shattersong"
   },
   {
     "name": "transparency",
@@ -11487,7 +12635,8 @@
     "xws": "transparency",
     "level": "2",
     "initiative": "13",
-    "cardno": "257"
+    "cardno": "257",
+    "character-xws": "shattersong"
   },
   {
     "name": "unrelenting wail",
@@ -11497,7 +12646,8 @@
     "xws": "unrelentingwail",
     "level": "1",
     "initiative": "26",
-    "cardno": "244"
+    "cardno": "244",
+    "character-xws": "shattersong"
   },
   {
     "name": "unsustainable wave",
@@ -11507,7 +12657,8 @@
     "xws": "unsustainablewave",
     "level": "6",
     "initiative": "36",
-    "cardno": "265"
+    "cardno": "265",
+    "character-xws": "shattersong"
   },
   {
     "name": "violent vibrations",
@@ -11517,7 +12668,8 @@
     "xws": "violentvibrations",
     "level": "9",
     "initiative": "05",
-    "cardno": "272"
+    "cardno": "272",
+    "character-xws": "shattersong"
   },
   {
     "name": "ta-back",
@@ -11527,7 +12679,8 @@
     "xws": "taback",
     "level": "-",
     "initiative": "-",
-    "cardno": "-"
+    "cardno": "-",
+    "character-xws": "trapper"
   },
   {
     "name": "boar catcher",
@@ -11537,7 +12690,8 @@
     "xws": "boarcatcher",
     "level": "1",
     "initiative": "20",
-    "cardno": "275"
+    "cardno": "275",
+    "character-xws": "trapper"
   },
   {
     "name": "cage of thorns",
@@ -11547,7 +12701,8 @@
     "xws": "cageofthorns",
     "level": "6",
     "initiative": "55",
-    "cardno": "294"
+    "cardno": "294",
+    "character-xws": "trapper"
   },
   {
     "name": "caltrops",
@@ -11557,7 +12712,8 @@
     "xws": "caltrops",
     "level": "1",
     "initiative": "25",
-    "cardno": "273"
+    "cardno": "273",
+    "character-xws": "trapper"
   },
   {
     "name": "dangerous cargo",
@@ -11567,7 +12723,8 @@
     "xws": "dangerouscargo",
     "level": "9",
     "initiative": "23",
-    "cardno": "299"
+    "cardno": "299",
+    "character-xws": "trapper"
   },
   {
     "name": "dangerous ground",
@@ -11577,7 +12734,8 @@
     "xws": "dangerousground",
     "level": "4",
     "initiative": "31",
-    "cardno": "289"
+    "cardno": "289",
+    "character-xws": "trapper"
   },
   {
     "name": "dismantle",
@@ -11587,7 +12745,8 @@
     "xws": "dismantle",
     "level": "X",
     "initiative": "72",
-    "cardno": "282"
+    "cardno": "282",
+    "character-xws": "trapper"
   },
   {
     "name": "electrified net",
@@ -11597,7 +12756,8 @@
     "xws": "electrifiednet",
     "level": "1",
     "initiative": "53",
-    "cardno": "277"
+    "cardno": "277",
+    "character-xws": "trapper"
   },
   {
     "name": "enticing bait",
@@ -11607,7 +12767,8 @@
     "xws": "enticingbait",
     "level": "1",
     "initiative": "30",
-    "cardno": "279"
+    "cardno": "279",
+    "character-xws": "trapper"
   },
   {
     "name": "exploding decoy",
@@ -11617,7 +12778,8 @@
     "xws": "explodingdecoy",
     "level": "1",
     "initiative": "62",
-    "cardno": "280"
+    "cardno": "280",
+    "character-xws": "trapper"
   },
   {
     "name": "extra teeth",
@@ -11627,7 +12789,8 @@
     "xws": "extrateeth",
     "level": "3",
     "initiative": "22",
-    "cardno": "287"
+    "cardno": "287",
+    "character-xws": "trapper"
   },
   {
     "name": "flurry of nails",
@@ -11637,7 +12800,8 @@
     "xws": "flurryofnails",
     "level": "1",
     "initiative": "68",
-    "cardno": "281"
+    "cardno": "281",
+    "character-xws": "trapper"
   },
   {
     "name": "foxhole",
@@ -11647,7 +12811,8 @@
     "xws": "foxhole",
     "level": "7",
     "initiative": "90",
-    "cardno": "296"
+    "cardno": "296",
+    "character-xws": "trapper"
   },
   {
     "name": "defense grid",
@@ -11657,7 +12822,8 @@
     "xws": "foxhole",
     "level": "7",
     "initiative": "90",
-    "cardno": "296"
+    "cardno": "296",
+    "character-xws": "trapper"
   },
   {
     "name": "furry facade",
@@ -11667,7 +12833,8 @@
     "xws": "furryfacade",
     "level": "1",
     "initiative": "85",
-    "cardno": "274"
+    "cardno": "274",
+    "character-xws": "trapper"
   },
   {
     "name": "shaggy lure",
@@ -11677,7 +12844,8 @@
     "xws": "furryfacade",
     "level": "1",
     "initiative": "85",
-    "cardno": "274"
+    "cardno": "274",
+    "character-xws": "trapper"
   },
   {
     "name": "grasping hazards",
@@ -11687,7 +12855,8 @@
     "xws": "graspinghazards",
     "level": "7",
     "initiative": "08",
-    "cardno": "295"
+    "cardno": "295",
+    "character-xws": "trapper"
   },
   {
     "name": "honeypot",
@@ -11697,7 +12866,8 @@
     "xws": "honeypot",
     "level": "1",
     "initiative": "18",
-    "cardno": "278"
+    "cardno": "278",
+    "character-xws": "trapper"
   },
   {
     "name": "improvised improvement",
@@ -11707,7 +12877,8 @@
     "xws": "improvisedimprovement",
     "level": "X",
     "initiative": "58",
-    "cardno": "284"
+    "cardno": "284",
+    "character-xws": "trapper"
   },
   {
     "name": "lure of the snare",
@@ -11717,7 +12888,8 @@
     "xws": "lureofthesnare",
     "level": "5",
     "initiative": "59",
-    "cardno": "291"
+    "cardno": "291",
+    "character-xws": "trapper"
   },
   {
     "name": "magnetic shards",
@@ -11727,7 +12899,8 @@
     "xws": "magneticshards",
     "level": "8",
     "initiative": "37",
-    "cardno": "298"
+    "cardno": "298",
+    "character-xws": "trapper"
   },
   {
     "name": "mother of all traps",
@@ -11737,7 +12910,8 @@
     "xws": "motherofalltraps",
     "level": "9",
     "initiative": "86",
-    "cardno": "300"
+    "cardno": "300",
+    "character-xws": "trapper"
   },
   {
     "name": "path of pain",
@@ -11747,7 +12921,8 @@
     "xws": "pathofpain",
     "level": "2",
     "initiative": "38",
-    "cardno": "286"
+    "cardno": "286",
+    "character-xws": "trapper"
   },
   {
     "name": "persistent pitfalls",
@@ -11757,7 +12932,8 @@
     "xws": "persistentpitfalls",
     "level": "6",
     "initiative": "13",
-    "cardno": "293"
+    "cardno": "293",
+    "character-xws": "trapper"
   },
   {
     "name": "proficient hunter",
@@ -11767,7 +12943,8 @@
     "xws": "proficienthunter",
     "level": "5",
     "initiative": "26",
-    "cardno": "292"
+    "cardno": "292",
+    "character-xws": "trapper"
   },
   {
     "name": "pyrotechnics",
@@ -11777,7 +12954,8 @@
     "xws": "pyrotechnics",
     "level": "3",
     "initiative": "80",
-    "cardno": "288"
+    "cardno": "288",
+    "character-xws": "trapper"
   },
   {
     "name": "spike pit",
@@ -11787,7 +12965,8 @@
     "xws": "spikepit",
     "level": "1",
     "initiative": "47",
-    "cardno": "276"
+    "cardno": "276",
+    "character-xws": "trapper"
   },
   {
     "name": "spike strip",
@@ -11797,7 +12976,8 @@
     "xws": "spikestrip",
     "level": "8",
     "initiative": "67",
-    "cardno": "297"
+    "cardno": "297",
+    "character-xws": "trapper"
   },
   {
     "name": "spring-loaded",
@@ -11807,7 +12987,8 @@
     "xws": "springloaded",
     "level": "X",
     "initiative": "15",
-    "cardno": "283"
+    "cardno": "283",
+    "character-xws": "trapper"
   },
   {
     "name": "stalker's spoils",
@@ -11817,7 +12998,8 @@
     "xws": "stalkersspoils",
     "level": "4",
     "initiative": "10",
-    "cardno": "290"
+    "cardno": "290",
+    "character-xws": "trapper"
   },
   {
     "name": "unavoidable outcome",
@@ -11827,7 +13009,8 @@
     "xws": "unavoidableoutcome",
     "level": "2",
     "initiative": "45",
-    "cardno": "285"
+    "cardno": "285",
+    "character-xws": "trapper"
   },
   {
     "name": "de-back",
@@ -11837,7 +13020,8 @@
     "xws": "deback",
     "level": "-",
     "initiative": "-",
-    "cardno": "-"
+    "cardno": "-",
+    "character-xws": "demonlitionist"
   },
   {
     "name": "de-halt-back",
@@ -11847,7 +13031,8 @@
     "xws": "dehaltback",
     "level": "-",
     "initiative": "-",
-    "cardno": "-"
+    "cardno": "-",
+    "character-xws": "demonlitionist"
   },
   {
     "name": "de-halt-front",
@@ -11857,7 +13042,8 @@
     "xws": "dehaltfront",
     "level": "-",
     "initiative": "-",
-    "cardno": "100"
+    "cardno": "100",
+    "character-xws": "demonlitionist"
   },
   {
     "name": "de-player-reference-back",
@@ -11867,7 +13053,8 @@
     "xws": "deplayerreferenceback",
     "level": "-",
     "initiative": "-",
-    "cardno": "-"
+    "cardno": "-",
+    "character-xws": "demonlitionist"
   },
   {
     "name": "de-player-reference-front",
@@ -11877,7 +13064,8 @@
     "xws": "deplayerreferencefront",
     "level": "-",
     "initiative": "-",
-    "cardno": "073"
+    "cardno": "073",
+    "character-xws": "demonlitionist"
   },
   {
     "name": "a-explosive blitz",
@@ -11887,7 +13075,8 @@
     "xws": "aexplosiveblitz",
     "level": "A",
     "initiative": "19",
-    "cardno": "077"
+    "cardno": "077",
+    "character-xws": "demonlitionist"
   },
   {
     "name": "a-implode",
@@ -11897,7 +13086,8 @@
     "xws": "aimplode",
     "level": "A",
     "initiative": "88",
-    "cardno": "074"
+    "cardno": "074",
+    "character-xws": "demonlitionist"
   },
   {
     "name": "a-knock out the support",
@@ -11907,7 +13097,8 @@
     "xws": "aknockoutthesupport",
     "level": "A",
     "initiative": "20",
-    "cardno": "075"
+    "cardno": "075",
+    "character-xws": "demonlitionist"
   },
   {
     "name": "a-one-two punch",
@@ -11917,7 +13108,8 @@
     "xws": "aonetwopunch",
     "level": "A",
     "initiative": "66",
-    "cardno": "079"
+    "cardno": "079",
+    "character-xws": "demonlitionist"
   },
   {
     "name": "a-piston punch",
@@ -11927,7 +13119,8 @@
     "xws": "apistonpunch",
     "level": "A",
     "initiative": "42",
-    "cardno": "076"
+    "cardno": "076",
+    "character-xws": "demonlitionist"
   },
   {
     "name": "a-the big one",
@@ -11937,7 +13130,8 @@
     "xws": "athebigone",
     "level": "A",
     "initiative": "37",
-    "cardno": "078"
+    "cardno": "078",
+    "character-xws": "demonlitionist"
   },
   {
     "name": "b-one-two punch",
@@ -11947,7 +13141,8 @@
     "xws": "bonetwopunch",
     "level": "B",
     "initiative": "66",
-    "cardno": "081"
+    "cardno": "081",
+    "character-xws": "demonlitionist"
   },
   {
     "name": "b-the big one",
@@ -11957,7 +13152,8 @@
     "xws": "bthebigone",
     "level": "B",
     "initiative": "37",
-    "cardno": "080"
+    "cardno": "080",
+    "character-xws": "demonlitionist"
   },
   {
     "name": "collateral damage",
@@ -11967,7 +13163,8 @@
     "xws": "collateraldamage",
     "level": "9",
     "initiative": "15",
-    "cardno": "108"
+    "cardno": "108",
+    "character-xws": "demonlitionist"
   },
   {
     "name": "crash protocol",
@@ -11977,7 +13174,8 @@
     "xws": "crashprotocol",
     "level": "2",
     "initiative": "74",
-    "cardno": "095"
+    "cardno": "095",
+    "character-xws": "demonlitionist"
   },
   {
     "name": "crushing weight",
@@ -11987,7 +13185,8 @@
     "xws": "crushingweight",
     "level": "1",
     "initiative": "22",
-    "cardno": "083"
+    "cardno": "083",
+    "character-xws": "demonlitionist"
   },
   {
     "name": "drill fist",
@@ -11997,7 +13196,8 @@
     "xws": "drillfist",
     "level": "6",
     "initiative": "62",
-    "cardno": "103"
+    "cardno": "103",
+    "character-xws": "demonlitionist"
   },
   {
     "name": "dust cloud",
@@ -12007,7 +13207,8 @@
     "xws": "dustcloud",
     "level": "6",
     "initiative": "15",
-    "cardno": "102"
+    "cardno": "102",
+    "character-xws": "demonlitionist"
   },
   {
     "name": "explode",
@@ -12017,7 +13218,8 @@
     "xws": "explode",
     "level": "1",
     "initiative": "28",
-    "cardno": "085"
+    "cardno": "085",
+    "character-xws": "demonlitionist"
   },
   {
     "name": "explosive blitz",
@@ -12027,7 +13229,8 @@
     "xws": "explosiveblitz",
     "level": "1",
     "initiative": "19",
-    "cardno": "088"
+    "cardno": "088",
+    "character-xws": "demonlitionist"
   },
   {
     "name": "extra fuel",
@@ -12037,7 +13240,8 @@
     "xws": "extrafuel",
     "level": "4",
     "initiative": "17",
-    "cardno": "099"
+    "cardno": "099",
+    "character-xws": "demonlitionist"
   },
   {
     "name": "fire bombs",
@@ -12047,7 +13251,8 @@
     "xws": "firebombs",
     "level": "3",
     "initiative": "24",
-    "cardno": "096"
+    "cardno": "096",
+    "character-xws": "demonlitionist"
   },
   {
     "name": "gut punch",
@@ -12057,7 +13262,8 @@
     "xws": "gutpunch",
     "level": "8",
     "initiative": "26",
-    "cardno": "106"
+    "cardno": "106",
+    "character-xws": "demonlitionist"
   },
   {
     "name": "implode",
@@ -12067,7 +13273,8 @@
     "xws": "implode",
     "level": "1",
     "initiative": "88",
-    "cardno": "086"
+    "cardno": "086",
+    "character-xws": "demonlitionist"
   },
   {
     "name": "insult to injury",
@@ -12077,7 +13284,8 @@
     "xws": "insulttoinjury",
     "level": "7",
     "initiative": "64",
-    "cardno": "105"
+    "cardno": "105",
+    "character-xws": "demonlitionist"
   },
   {
     "name": "knock out the support",
@@ -12087,7 +13295,8 @@
     "xws": "knockoutthesupport",
     "level": "1",
     "initiative": "20",
-    "cardno": "084"
+    "cardno": "084",
+    "character-xws": "demonlitionist"
   },
   {
     "name": "level",
@@ -12097,7 +13306,8 @@
     "xws": "level",
     "level": "X",
     "initiative": "61",
-    "cardno": "092"
+    "cardno": "092",
+    "character-xws": "demonlitionist"
   },
   {
     "name": "lobbed charge",
@@ -12107,7 +13317,8 @@
     "xws": "lobbedcharge",
     "level": "X",
     "initiative": "52",
-    "cardno": "093"
+    "cardno": "093",
+    "character-xws": "demonlitionist"
   },
   {
     "name": "mech suit",
@@ -12117,7 +13328,8 @@
     "xws": "mechsuit",
     "level": "5",
     "initiative": "80",
-    "cardno": "101"
+    "cardno": "101",
+    "character-xws": "demonlitionist"
   },
   {
     "name": "micro missiles",
@@ -12127,7 +13339,8 @@
     "xws": "micromissiles",
     "level": "7",
     "initiative": "16",
-    "cardno": "104"
+    "cardno": "104",
+    "character-xws": "demonlitionist"
   },
   {
     "name": "nowhere to run",
@@ -12137,7 +13350,8 @@
     "xws": "nowheretorun",
     "level": "3",
     "initiative": "39",
-    "cardno": "097"
+    "cardno": "097",
+    "character-xws": "demonlitionist"
   },
   {
     "name": "one-two punch",
@@ -12147,7 +13361,8 @@
     "xws": "onetwopunch",
     "level": "1",
     "initiative": "66",
-    "cardno": "090"
+    "cardno": "090",
+    "character-xws": "demonlitionist"
   },
   {
     "name": "piston punch",
@@ -12157,7 +13372,8 @@
     "xws": "pistonpunch",
     "level": "1",
     "initiative": "42",
-    "cardno": "087"
+    "cardno": "087",
+    "character-xws": "demonlitionist"
   },
   {
     "name": "remote detonation",
@@ -12167,7 +13383,8 @@
     "xws": "remotedetonation",
     "level": "4",
     "initiative": "63",
-    "cardno": "098"
+    "cardno": "098",
+    "character-xws": "demonlitionist"
   },
   {
     "name": "robotic enhancement",
@@ -12177,7 +13394,8 @@
     "xws": "roboticenhancement",
     "level": "2",
     "initiative": "33",
-    "cardno": "094"
+    "cardno": "094",
+    "character-xws": "demonlitionist"
   },
   {
     "name": "rubble",
@@ -12187,7 +13405,8 @@
     "xws": "rubble",
     "level": "X",
     "initiative": "55",
-    "cardno": "091"
+    "cardno": "091",
+    "character-xws": "demonlitionist"
   },
   {
     "name": "the bigger one",
@@ -12197,7 +13416,8 @@
     "xws": "thebiggerone",
     "level": "8",
     "initiative": "31",
-    "cardno": "107"
+    "cardno": "107",
+    "character-xws": "demonlitionist"
   },
   {
     "name": "the big one",
@@ -12207,7 +13427,8 @@
     "xws": "thebigone",
     "level": "1",
     "initiative": "37",
-    "cardno": "089"
+    "cardno": "089",
+    "character-xws": "demonlitionist"
   },
   {
     "name": "wholesale destruction",
@@ -12217,7 +13438,8 @@
     "xws": "wholesaledestruction",
     "level": "9",
     "initiative": "34",
-    "cardno": "109"
+    "cardno": "109",
+    "character-xws": "demonlitionist"
   },
   {
     "name": "windup",
@@ -12227,7 +13449,8 @@
     "xws": "windup",
     "level": "1",
     "initiative": "77",
-    "cardno": "082"
+    "cardno": "082",
+    "character-xws": "demonlitionist"
   },
   {
     "name": "ha-back",
@@ -12237,7 +13460,8 @@
     "xws": "haback",
     "level": "-",
     "initiative": "-",
-    "cardno": "-"
+    "cardno": "-",
+    "character-xws": "hatchet"
   },
   {
     "name": "ha-halt-back",
@@ -12247,7 +13471,8 @@
     "xws": "hahaltback",
     "level": "-",
     "initiative": "-",
-    "cardno": "-"
+    "cardno": "-",
+    "character-xws": "hatchet"
   },
   {
     "name": "ha-halt-front",
@@ -12257,7 +13482,8 @@
     "xws": "hahaltfront",
     "level": "-",
     "initiative": "-",
-    "cardno": "029"
+    "cardno": "029",
+    "character-xws": "hatchet"
   },
   {
     "name": "ha-player-reference-back",
@@ -12267,7 +13493,8 @@
     "xws": "haplayerreferenceback",
     "level": "-",
     "initiative": "-",
-    "cardno": "-"
+    "cardno": "-",
+    "character-xws": "hatchet"
   },
   {
     "name": "ha-player-reference-front",
@@ -12277,7 +13504,8 @@
     "xws": "haplayerreferencefront",
     "level": "-",
     "initiative": "-",
-    "cardno": "001"
+    "cardno": "001",
+    "character-xws": "hatchet"
   },
   {
     "name": "a-center mass",
@@ -12287,7 +13515,8 @@
     "xws": "acentermass",
     "level": "A",
     "initiative": "24",
-    "cardno": "006"
+    "cardno": "006",
+    "character-xws": "hatchet"
   },
   {
     "name": "a-close cuts",
@@ -12297,7 +13526,8 @@
     "xws": "aclosecuts",
     "level": "A",
     "initiative": "25",
-    "cardno": "007"
+    "cardno": "007",
+    "character-xws": "hatchet"
   },
   {
     "name": "a-disorienting barrage",
@@ -12307,7 +13537,8 @@
     "xws": "adisorientingbarrage",
     "level": "A",
     "initiative": "51",
-    "cardno": "004"
+    "cardno": "004",
+    "character-xws": "hatchet"
   },
   {
     "name": "a-double throw",
@@ -12317,7 +13548,8 @@
     "xws": "adoublethrow",
     "level": "A",
     "initiative": "64",
-    "cardno": "003"
+    "cardno": "003",
+    "character-xws": "hatchet"
   },
   {
     "name": "a-second wind",
@@ -12327,7 +13559,8 @@
     "xws": "asecondwind",
     "level": "A",
     "initiative": "18",
-    "cardno": "005"
+    "cardno": "005",
+    "character-xws": "hatchet"
   },
   {
     "name": "a-stopping power",
@@ -12337,7 +13570,8 @@
     "xws": "astoppingpower",
     "level": "A",
     "initiative": "35",
-    "cardno": "002"
+    "cardno": "002",
+    "character-xws": "hatchet"
   },
   {
     "name": "b-center mass",
@@ -12347,7 +13581,8 @@
     "xws": "bcentermass",
     "level": "B",
     "initiative": "24",
-    "cardno": "008"
+    "cardno": "008",
+    "character-xws": "hatchet"
   },
   {
     "name": "b-close cuts",
@@ -12357,7 +13592,8 @@
     "xws": "bclosecuts",
     "level": "B",
     "initiative": "25",
-    "cardno": "009"
+    "cardno": "009",
+    "character-xws": "hatchet"
   },
   {
     "name": "bombardment",
@@ -12367,7 +13603,8 @@
     "xws": "bombardment",
     "level": "6",
     "initiative": "54",
-    "cardno": "031"
+    "cardno": "031",
+    "character-xws": "hatchet"
   },
   {
     "name": "brutalize",
@@ -12377,7 +13614,8 @@
     "xws": "brutalize",
     "level": "7",
     "initiative": "22",
-    "cardno": "034"
+    "cardno": "034",
+    "character-xws": "hatchet"
   },
   {
     "name": "camaraderie",
@@ -12387,7 +13625,8 @@
     "xws": "camaraderie",
     "level": "8",
     "initiative": "75",
-    "cardno": "036"
+    "cardno": "036",
+    "character-xws": "hatchet"
   },
   {
     "name": "care package",
@@ -12397,7 +13636,8 @@
     "xws": "carepackage",
     "level": "X",
     "initiative": "30",
-    "cardno": "020"
+    "cardno": "020",
+    "character-xws": "hatchet"
   },
   {
     "name": "center mass",
@@ -12407,7 +13647,8 @@
     "xws": "centermass",
     "level": "1",
     "initiative": "24",
-    "cardno": "013"
+    "cardno": "013",
+    "character-xws": "hatchet"
   },
   {
     "name": "close cuts",
@@ -12417,7 +13658,8 @@
     "xws": "closecuts",
     "level": "1",
     "initiative": "25",
-    "cardno": "012"
+    "cardno": "012",
+    "character-xws": "hatchet"
   },
   {
     "name": "disorienting barrage",
@@ -12427,7 +13669,8 @@
     "xws": "disorientingbarrage",
     "level": "1",
     "initiative": "51",
-    "cardno": "016"
+    "cardno": "016",
+    "character-xws": "hatchet"
   },
   {
     "name": "double throw",
@@ -12437,7 +13680,8 @@
     "xws": "doublethrow",
     "level": "1",
     "initiative": "64",
-    "cardno": "015"
+    "cardno": "015",
+    "character-xws": "hatchet"
   },
   {
     "name": "excessive force",
@@ -12447,7 +13691,8 @@
     "xws": "excessiveforce",
     "level": "7",
     "initiative": "47",
-    "cardno": "033"
+    "cardno": "033",
+    "character-xws": "hatchet"
   },
   {
     "name": "executioner's axe",
@@ -12457,7 +13702,8 @@
     "xws": "executionersaxe",
     "level": "9",
     "initiative": "79",
-    "cardno": "037"
+    "cardno": "037",
+    "character-xws": "hatchet"
   },
   {
     "name": "extra lift",
@@ -12467,7 +13713,8 @@
     "xws": "extralift",
     "level": "X",
     "initiative": "21",
-    "cardno": "021"
+    "cardno": "021",
+    "character-xws": "hatchet"
   },
   {
     "name": "fancy hat",
@@ -12477,7 +13724,8 @@
     "xws": "fancyhat",
     "level": "X",
     "initiative": "12",
-    "cardno": "022"
+    "cardno": "022",
+    "character-xws": "hatchet"
   },
   {
     "name": "fearsome efficiency",
@@ -12487,7 +13735,8 @@
     "xws": "fearsomeefficiency",
     "level": "3",
     "initiative": "58",
-    "cardno": "025"
+    "cardno": "025",
+    "character-xws": "hatchet"
   },
   {
     "name": "follow through",
@@ -12497,7 +13746,8 @@
     "xws": "followthrough",
     "level": "1",
     "initiative": "39",
-    "cardno": "018"
+    "cardno": "018",
+    "character-xws": "hatchet"
   },
   {
     "name": "heart seeker",
@@ -12507,7 +13757,8 @@
     "xws": "heartseeker",
     "level": "9",
     "initiative": "32",
-    "cardno": "038"
+    "cardno": "038",
+    "character-xws": "hatchet"
   },
   {
     "name": "overwatch",
@@ -12517,7 +13768,8 @@
     "xws": "overwatch",
     "level": "4",
     "initiative": "40",
-    "cardno": "028"
+    "cardno": "028",
+    "character-xws": "hatchet"
   },
   {
     "name": "power pitch",
@@ -12527,7 +13779,8 @@
     "xws": "powerpitch",
     "level": "1",
     "initiative": "60",
-    "cardno": "017"
+    "cardno": "017",
+    "character-xws": "hatchet"
   },
   {
     "name": "quick turnaround",
@@ -12537,7 +13790,8 @@
     "xws": "quickturnaround",
     "level": "6",
     "initiative": "11",
-    "cardno": "032"
+    "cardno": "032",
+    "character-xws": "hatchet"
   },
   {
     "name": "repeat shot",
@@ -12547,7 +13801,8 @@
     "xws": "repeatshot",
     "level": "2",
     "initiative": "31",
-    "cardno": "023"
+    "cardno": "023",
+    "character-xws": "hatchet"
   },
   {
     "name": "retrieval",
@@ -12557,7 +13812,8 @@
     "xws": "retrieval",
     "level": "1",
     "initiative": "46",
-    "cardno": "011"
+    "cardno": "011",
+    "character-xws": "hatchet"
   },
   {
     "name": "ricochet",
@@ -12567,7 +13823,8 @@
     "xws": "ricochet",
     "level": "2",
     "initiative": "56",
-    "cardno": "024"
+    "cardno": "024",
+    "character-xws": "hatchet"
   },
   {
     "name": "ripped from the flesh",
@@ -12577,7 +13834,8 @@
     "xws": "rippedfromtheflesh",
     "level": "4",
     "initiative": "20",
-    "cardno": "027"
+    "cardno": "027",
+    "character-xws": "hatchet"
   },
   {
     "name": "second wind",
@@ -12587,7 +13845,8 @@
     "xws": "secondwind",
     "level": "1",
     "initiative": "18",
-    "cardno": "019"
+    "cardno": "019",
+    "character-xws": "hatchet"
   },
   {
     "name": "sharpened blades",
@@ -12597,7 +13856,8 @@
     "xws": "sharpenedblades",
     "level": "3",
     "initiative": "44",
-    "cardno": "026"
+    "cardno": "026",
+    "character-xws": "hatchet"
   },
   {
     "name": "shrapnel",
@@ -12607,7 +13867,8 @@
     "xws": "shrapnel",
     "level": "8",
     "initiative": "37",
-    "cardno": "035"
+    "cardno": "035",
+    "character-xws": "hatchet"
   },
   {
     "name": "stopping power",
@@ -12617,7 +13878,8 @@
     "xws": "stoppingpower",
     "level": "1",
     "initiative": "35",
-    "cardno": "014"
+    "cardno": "014",
+    "character-xws": "hatchet"
   },
   {
     "name": "the favorite",
@@ -12627,7 +13889,8 @@
     "xws": "thefavorite",
     "level": "1",
     "initiative": "17",
-    "cardno": "010"
+    "cardno": "010",
+    "character-xws": "hatchet"
   },
   {
     "name": "the new favorite",
@@ -12637,7 +13900,8 @@
     "xws": "thenewfavorite",
     "level": "5",
     "initiative": "15",
-    "cardno": "030"
+    "cardno": "030",
+    "character-xws": "hatchet"
   },
   {
     "name": "rg-back",
@@ -12647,7 +13911,8 @@
     "xws": "rgback",
     "level": "-",
     "initiative": "-",
-    "cardno": "-"
+    "cardno": "-",
+    "character-xws": "red guard"
   },
   {
     "name": "rg-halt-back",
@@ -12657,7 +13922,8 @@
     "xws": "rghaltback",
     "level": "-",
     "initiative": "-",
-    "cardno": "-"
+    "cardno": "-",
+    "character-xws": "red guard"
   },
   {
     "name": "rg-halt-front",
@@ -12667,7 +13933,8 @@
     "xws": "rghaltback",
     "level": "-",
     "initiative": "-",
-    "cardno": "243"
+    "cardno": "243",
+    "character-xws": "red guard"
   },
   {
     "name": "rg-player-reference-back",
@@ -12677,7 +13944,8 @@
     "xws": "rgplayerreferenceback",
     "level": "-",
     "initiative": "-",
-    "cardno": "-"
+    "cardno": "-",
+    "character-xws": "red guard"
   },
   {
     "name": "rg-player-reference-front",
@@ -12687,7 +13955,8 @@
     "xws": "rgplayerreferencefront",
     "level": "-",
     "initiative": "-",
-    "cardno": "215"
+    "cardno": "215",
+    "character-xws": "red guard"
   },
   {
     "name": "a-blinding sickle",
@@ -12697,7 +13966,8 @@
     "xws": "ablindingsickle",
     "level": "A",
     "initiative": "87",
-    "cardno": "217"
+    "cardno": "217",
+    "character-xws": "red guard"
   },
   {
     "name": "a-desert night",
@@ -12707,7 +13977,8 @@
     "xws": "adesertnight",
     "level": "A",
     "initiative": "90",
-    "cardno": "220"
+    "cardno": "220",
+    "character-xws": "red guard"
   },
   {
     "name": "a-flaming sickle",
@@ -12717,7 +13988,8 @@
     "xws": "aflamingsickle",
     "level": "A",
     "initiative": "63",
-    "cardno": "216"
+    "cardno": "216",
+    "character-xws": "red guard"
   },
   {
     "name": "a-shield spikes",
@@ -12727,7 +13999,8 @@
     "xws": "ashieldspikes",
     "level": "A",
     "initiative": "41",
-    "cardno": "221"
+    "cardno": "221",
+    "character-xws": "red guard"
   },
   {
     "name": "a-shocking advance",
@@ -12737,7 +14010,8 @@
     "xws": "ashockingadvance",
     "level": "A",
     "initiative": "14",
-    "cardno": "219"
+    "cardno": "219",
+    "character-xws": "red guard"
   },
   {
     "name": "a-twirling stabs",
@@ -12747,7 +14021,8 @@
     "xws": "atwirlingstabs",
     "level": "A",
     "initiative": "38",
-    "cardno": "218"
+    "cardno": "218",
+    "character-xws": "red guard"
   },
   {
     "name": "b-desert night",
@@ -12757,7 +14032,8 @@
     "xws": "bdesertnight",
     "level": "B",
     "initiative": "90",
-    "cardno": "222"
+    "cardno": "222",
+    "character-xws": "red guard"
   },
   {
     "name": "b-flaming sickle",
@@ -12767,7 +14043,8 @@
     "xws": "bflamingsickle",
     "level": "B",
     "initiative": "63",
-    "cardno": "223"
+    "cardno": "223",
+    "character-xws": "red guard"
   },
   {
     "name": "barbaric instincts",
@@ -12777,7 +14054,8 @@
     "xws": "barbaricinstincts",
     "level": "2",
     "initiative": "12",
-    "cardno": "238"
+    "cardno": "238",
+    "character-xws": "red guard"
   },
   {
     "name": "blade dance",
@@ -12787,7 +14065,8 @@
     "xws": "bladedance",
     "level": "X",
     "initiative": "29",
-    "cardno": "235"
+    "cardno": "235",
+    "character-xws": "red guard"
   },
   {
     "name": "blinding sickle",
@@ -12797,7 +14076,8 @@
     "xws": "blindingsickle",
     "level": "1",
     "initiative": "87",
-    "cardno": "228"
+    "cardno": "228",
+    "character-xws": "red guard"
   },
   {
     "name": "burn away the dark",
@@ -12807,7 +14087,8 @@
     "xws": "burnawaythedark",
     "level": "4",
     "initiative": "31",
-    "cardno": "242"
+    "cardno": "242",
+    "character-xws": "red guard"
   },
   {
     "name": "desert night",
@@ -12817,7 +14098,8 @@
     "xws": "desertnight",
     "level": "1",
     "initiative": "90",
-    "cardno": "233"
+    "cardno": "233",
+    "character-xws": "red guard"
   },
   {
     "name": "fierce brilliance",
@@ -12827,7 +14109,8 @@
     "xws": "fiercebrilliance",
     "level": "6",
     "initiative": "22",
-    "cardno": "245"
+    "cardno": "245",
+    "character-xws": "red guard"
   },
   {
     "name": "flame shroud",
@@ -12837,7 +14120,8 @@
     "xws": "flameshroud",
     "level": "1",
     "initiative": "06",
-    "cardno": "230"
+    "cardno": "230",
+    "character-xws": "red guard"
   },
   {
     "name": "flaming sickle",
@@ -12847,7 +14131,8 @@
     "xws": "flamingsickle",
     "level": "1",
     "initiative": "63",
-    "cardno": "227"
+    "cardno": "227",
+    "character-xws": "red guard"
   },
   {
     "name": "flying sickle",
@@ -12857,7 +14142,8 @@
     "xws": "flyingsickle",
     "level": "6",
     "initiative": "91",
-    "cardno": "246"
+    "cardno": "246",
+    "character-xws": "red guard"
   },
   {
     "name": "harvest sickle",
@@ -12867,7 +14153,8 @@
     "xws": "harvestsickle",
     "level": "2",
     "initiative": "52",
-    "cardno": "237"
+    "cardno": "237",
+    "character-xws": "red guard"
   },
   {
     "name": "healing sands",
@@ -12877,7 +14164,8 @@
     "xws": "healingsands",
     "level": "1",
     "initiative": "32",
-    "cardno": "225"
+    "cardno": "225",
+    "character-xws": "red guard"
   },
   {
     "name": "honorable fury",
@@ -12887,7 +14175,8 @@
     "xws": "honorablefury",
     "level": "9",
     "initiative": "89",
-    "cardno": "252"
+    "cardno": "252",
+    "character-xws": "red guard"
   },
   {
     "name": "horns of the beast",
@@ -12897,7 +14186,8 @@
     "xws": "hornsofthebeast",
     "level": "7",
     "initiative": "08",
-    "cardno": "248"
+    "cardno": "248",
+    "character-xws": "red guard"
   },
   {
     "name": "no fear",
@@ -12907,7 +14197,8 @@
     "xws": "nofear",
     "level": "8",
     "initiative": "01",
-    "cardno": "250"
+    "cardno": "250",
+    "character-xws": "red guard"
   },
   {
     "name": "precision strike",
@@ -12917,7 +14208,8 @@
     "xws": "precisionstrike",
     "level": "X",
     "initiative": "40",
-    "cardno": "236"
+    "cardno": "236",
+    "character-xws": "red guard"
   },
   {
     "name": "prismatic sickle",
@@ -12927,7 +14219,8 @@
     "xws": "prismaticsickle",
     "level": "8",
     "initiative": "70",
-    "cardno": "249"
+    "cardno": "249",
+    "character-xws": "red guard"
   },
   {
     "name": "radiant sickle",
@@ -12937,7 +14230,8 @@
     "xws": "radiantsickle",
     "level": "4",
     "initiative": "79",
-    "cardno": "241"
+    "cardno": "241",
+    "character-xws": "red guard"
   },
   {
     "name": "sand devil",
@@ -12947,7 +14241,8 @@
     "xws": "sanddevil",
     "level": "5",
     "initiative": "55",
-    "cardno": "244"
+    "cardno": "244",
+    "character-xws": "red guard"
   },
   {
     "name": "shield of the desert",
@@ -12957,7 +14252,8 @@
     "xws": "shieldofthedesert",
     "level": "1",
     "initiative": "10",
-    "cardno": "232"
+    "cardno": "232",
+    "character-xws": "red guard"
   },
   {
     "name": "shield spikes",
@@ -12967,7 +14263,8 @@
     "xws": "shieldspikes",
     "level": "1",
     "initiative": "41",
-    "cardno": "226"
+    "cardno": "226",
+    "character-xws": "red guard"
   },
   {
     "name": "shocking advance",
@@ -12977,7 +14274,8 @@
     "xws": "shockingadvance",
     "level": "1",
     "initiative": "14",
-    "cardno": "231"
+    "cardno": "231",
+    "character-xws": "red guard"
   },
   {
     "name": "soaring shield",
@@ -12987,7 +14285,8 @@
     "xws": "soaringshield",
     "level": "9",
     "initiative": "11",
-    "cardno": "251"
+    "cardno": "251",
+    "character-xws": "red guard"
   },
   {
     "name": "strangling chain",
@@ -12997,7 +14296,8 @@
     "xws": "stranglingchain",
     "level": "3",
     "initiative": "19",
-    "cardno": "240"
+    "cardno": "240",
+    "character-xws": "red guard"
   },
   {
     "name": "swift strength",
@@ -13007,7 +14307,8 @@
     "xws": "swiftstrength",
     "level": "1",
     "initiative": "16",
-    "cardno": "224"
+    "cardno": "224",
+    "character-xws": "red guard"
   },
   {
     "name": "twirling stabs",
@@ -13017,7 +14318,8 @@
     "xws": "twirlingstabs",
     "level": "1",
     "initiative": "38",
-    "cardno": "229"
+    "cardno": "229",
+    "character-xws": "red guard"
   },
   {
     "name": "vicious ballet",
@@ -13027,7 +14329,8 @@
     "xws": "viciousballet",
     "level": "7",
     "initiative": "28",
-    "cardno": "247"
+    "cardno": "247",
+    "character-xws": "red guard"
   },
   {
     "name": "warmth of the sun",
@@ -13037,7 +14340,8 @@
     "xws": "warmthofthesun",
     "level": "3",
     "initiative": "23",
-    "cardno": "239"
+    "cardno": "239",
+    "character-xws": "red guard"
   },
   {
     "name": "warrior of the sun",
@@ -13047,7 +14351,8 @@
     "xws": "warriorofthesun",
     "level": "X",
     "initiative": "13",
-    "cardno": "234"
+    "cardno": "234",
+    "character-xws": "red guard"
   },
   {
     "name": "vw-back",
@@ -13057,7 +14362,8 @@
     "xws": "vwback",
     "level": "-",
     "initiative": "-",
-    "cardno": "-"
+    "cardno": "-",
+    "character-xws": "voidwarden"
   },
   {
     "name": "vw-halt-back",
@@ -13067,7 +14373,8 @@
     "xws": "vwhaltback",
     "level": "-",
     "initiative": "-",
-    "cardno": "-"
+    "cardno": "-",
+    "character-xws": "voidwarden"
   },
   {
     "name": "vw-halt-front",
@@ -13077,7 +14384,8 @@
     "xws": "vwhaltfront",
     "level": "-",
     "initiative": "-",
-    "cardno": "171"
+    "cardno": "171",
+    "character-xws": "voidwarden"
   },
   {
     "name": "vw-player-reference-back",
@@ -13087,7 +14395,8 @@
     "xws": "vwplayerreferenceback",
     "level": "-",
     "initiative": "-",
-    "cardno": "-"
+    "cardno": "-",
+    "character-xws": "voidwarden"
   },
   {
     "name": "vw-player-reference-front",
@@ -13097,7 +14406,8 @@
     "xws": "vwplayerreferencefront",
     "level": "-",
     "initiative": "-",
-    "cardno": "142"
+    "cardno": "142",
+    "character-xws": "voidwarden"
   },
   {
     "name": "a-black boon",
@@ -13107,7 +14417,8 @@
     "xws": "ablackboon",
     "level": "A",
     "initiative": "43",
-    "cardno": "143"
+    "cardno": "143",
+    "character-xws": "voidwarden"
   },
   {
     "name": "a-gift of the void",
@@ -13117,7 +14428,8 @@
     "xws": "agiftofthevoid",
     "level": "A",
     "initiative": "89",
-    "cardno": "147"
+    "cardno": "147",
+    "character-xws": "voidwarden"
   },
   {
     "name": "a-lure of the void",
@@ -13127,7 +14439,8 @@
     "xws": "alureofthevoid",
     "level": "A",
     "initiative": "67",
-    "cardno": "148"
+    "cardno": "148",
+    "character-xws": "voidwarden"
   },
   {
     "name": "a-suggestion",
@@ -13137,7 +14450,8 @@
     "xws": "suggestion",
     "level": "A",
     "initiative": "23",
-    "cardno": "146"
+    "cardno": "146",
+    "character-xws": "voidwarden"
   },
   {
     "name": "a-turn out the lights",
@@ -13147,7 +14461,8 @@
     "xws": "aturnoutthelights",
     "level": "A",
     "initiative": "49",
-    "cardno": "144"
+    "cardno": "144",
+    "character-xws": "voidwarden"
   },
   {
     "name": "a-wicked scratch",
@@ -13157,7 +14472,8 @@
     "xws": "awickedscratch",
     "level": "A",
     "initiative": "68",
-    "cardno": "145"
+    "cardno": "145",
+    "character-xws": "voidwarden"
   },
   {
     "name": "b-lure of the void",
@@ -13167,7 +14483,8 @@
     "xws": "blureofthevoid",
     "level": "B",
     "initiative": "67",
-    "cardno": "149"
+    "cardno": "149",
+    "character-xws": "voidwarden"
   },
   {
     "name": "b-wicked scratch",
@@ -13177,7 +14494,8 @@
     "xws": "bwickedscratch",
     "level": "B",
     "initiative": "68",
-    "cardno": "150"
+    "cardno": "150",
+    "character-xws": "voidwarden"
   },
   {
     "name": "black boon",
@@ -13187,7 +14505,8 @@
     "xws": "blackboon",
     "level": "1",
     "initiative": "43",
-    "cardno": "154"
+    "cardno": "154",
+    "character-xws": "voidwarden"
   },
   {
     "name": "close to the abyss",
@@ -13197,7 +14516,8 @@
     "xws": "closetotheabyss",
     "level": "1",
     "initiative": "72",
-    "cardno": "152"
+    "cardno": "152",
+    "character-xws": "voidwarden"
   },
   {
     "name": "cold embrace",
@@ -13207,7 +14527,8 @@
     "xws": "coldembrace",
     "level": "X",
     "initiative": "71",
-    "cardno": "163"
+    "cardno": "163",
+    "character-xws": "voidwarden"
   },
   {
     "name": "commanding presence",
@@ -13217,7 +14538,8 @@
     "xws": "commandingpresence",
     "level": "3",
     "initiative": "75",
-    "cardno": "168"
+    "cardno": "168",
+    "character-xws": "voidwarden"
   },
   {
     "name": "crushing cold",
@@ -13227,7 +14549,8 @@
     "xws": "crushingcold",
     "level": "2",
     "initiative": "86",
-    "cardno": "166"
+    "cardno": "166",
+    "character-xws": "voidwarden"
   },
   {
     "name": "empowered link",
@@ -13237,7 +14560,8 @@
     "xws": "empoweredlink",
     "level": "8",
     "initiative": "59",
-    "cardno": "178"
+    "cardno": "178",
+    "character-xws": "voidwarden"
   },
   {
     "name": "eye of the void",
@@ -13247,7 +14571,8 @@
     "xws": "eyeofthevoid",
     "level": "9",
     "initiative": "19",
-    "cardno": "179"
+    "cardno": "179",
+    "character-xws": "voidwarden"
   },
   {
     "name": "freeze the soul",
@@ -13257,7 +14582,8 @@
     "xws": "freezethesoul",
     "level": "1",
     "initiative": "58",
-    "cardno": "155"
+    "cardno": "155",
+    "character-xws": "voidwarden"
   },
   {
     "name": "gift of the void",
@@ -13267,7 +14593,8 @@
     "xws": "giftofthevoid",
     "level": "1",
     "initiative": "89",
-    "cardno": "153"
+    "cardno": "153",
+    "character-xws": "voidwarden"
   },
   {
     "name": "give and take",
@@ -13277,7 +14604,8 @@
     "xws": "giveandtake",
     "level": "2",
     "initiative": "21",
-    "cardno": "165"
+    "cardno": "165",
+    "character-xws": "voidwarden"
   },
   {
     "name": "grasp of doom",
@@ -13287,7 +14615,8 @@
     "xws": "graspofdoom",
     "level": "1",
     "initiative": "36",
-    "cardno": "159"
+    "cardno": "159",
+    "character-xws": "voidwarden"
   },
   {
     "name": "hateful blast",
@@ -13297,7 +14626,8 @@
     "xws": "hatefulblast",
     "level": "7",
     "initiative": "29",
-    "cardno": "175"
+    "cardno": "175",
+    "character-xws": "voidwarden"
   },
   {
     "name": "lull into oblivion",
@@ -13307,7 +14637,8 @@
     "xws": "lullintooblivion",
     "level": "8",
     "initiative": "11",
-    "cardno": "177"
+    "cardno": "177",
+    "character-xws": "voidwarden"
   },
   {
     "name": "lure of the void",
@@ -13317,7 +14648,8 @@
     "xws": "lureofthevoid",
     "level": "1",
     "initiative": "67",
-    "cardno": "158"
+    "cardno": "158",
+    "character-xws": "voidwarden"
   },
   {
     "name": "master influence",
@@ -13327,7 +14659,8 @@
     "xws": "masterinfluence",
     "level": "1",
     "initiative": "83",
-    "cardno": "160"
+    "cardno": "160",
+    "character-xws": "voidwarden"
   },
   {
     "name": "possessed by fate",
@@ -13337,7 +14670,8 @@
     "xws": "possessedbyfate",
     "level": "9",
     "initiative": "66",
-    "cardno": "180"
+    "cardno": "180",
+    "character-xws": "voidwarden"
   },
   {
     "name": "resigned frenzy",
@@ -13347,7 +14681,8 @@
     "xws": "resignedfrenzy",
     "level": "X",
     "initiative": "26",
-    "cardno": "162"
+    "cardno": "162",
+    "character-xws": "voidwarden"
   },
   {
     "name": "sap warmth",
@@ -13357,7 +14692,8 @@
     "xws": "sapwarmth",
     "level": "X",
     "initiative": "59",
-    "cardno": "164"
+    "cardno": "164",
+    "character-xws": "voidwarden"
   },
   {
     "name": "savage instinct",
@@ -13367,7 +14703,8 @@
     "xws": "savageinstinct",
     "level": "4",
     "initiative": "51",
-    "cardno": "169"
+    "cardno": "169",
+    "character-xws": "voidwarden"
   },
   {
     "name": "signs of the void",
@@ -13377,7 +14714,8 @@
     "xws": "signsofthevoid",
     "level": "1",
     "initiative": "15",
-    "cardno": "151"
+    "cardno": "151",
+    "character-xws": "voidwarden"
   },
   {
     "name": "spirit hunger",
@@ -13387,7 +14725,8 @@
     "xws": "spirithunger",
     "level": "7",
     "initiative": "68",
-    "cardno": "176"
+    "cardno": "176",
+    "character-xws": "voidwarden"
   },
   {
     "name": "stand fast",
@@ -13397,7 +14736,8 @@
     "xws": "standfast",
     "level": "5",
     "initiative": "90",
-    "cardno": "172"
+    "cardno": "172",
+    "character-xws": "voidwarden"
   },
   {
     "name": "suggestion",
@@ -13407,7 +14747,8 @@
     "xws": "suggestion",
     "level": "1",
     "initiative": "23",
-    "cardno": "161"
+    "cardno": "161",
+    "character-xws": "voidwarden"
   },
   {
     "name": "surge of power",
@@ -13417,7 +14758,8 @@
     "xws": "surgeofpower",
     "level": "6",
     "initiative": "81",
-    "cardno": "174"
+    "cardno": "174",
+    "character-xws": "voidwarden"
   },
   {
     "name": "taunting fate",
@@ -13427,7 +14769,8 @@
     "xws": "tauntingfate",
     "level": "3",
     "initiative": "13",
-    "cardno": "167"
+    "cardno": "167",
+    "character-xws": "voidwarden"
   },
   {
     "name": "the last journey",
@@ -13437,7 +14780,8 @@
     "xws": "thelastjourney",
     "level": "4",
     "initiative": "38",
-    "cardno": "170"
+    "cardno": "170",
+    "character-xws": "voidwarden"
   },
   {
     "name": "turn out the lights",
@@ -13447,7 +14791,8 @@
     "xws": "turnoutthelights",
     "level": "1",
     "initiative": "49",
-    "cardno": "157"
+    "cardno": "157",
+    "character-xws": "voidwarden"
   },
   {
     "name": "wicked scratch",
@@ -13457,7 +14802,8 @@
     "xws": "wickedscratch",
     "level": "1",
     "initiative": "68",
-    "cardno": "156"
+    "cardno": "156",
+    "character-xws": "voidwarden"
   },
   {
     "name": "withering conviction",
@@ -13467,7 +14813,8 @@
     "xws": "witheringconviction",
     "level": "6",
     "initiative": "44",
-    "cardno": "173"
+    "cardno": "173",
+    "character-xws": "voidwarden"
   },
   {
     "name": "aa-back",
@@ -13477,7 +14824,8 @@
     "xws": "aaback",
     "level": "-",
     "initiative": "-",
-    "cardno": "-"
+    "cardno": "-",
+    "character-xws": "amber aegis"
   },
   {
     "name": "alate dispersion",
@@ -13487,7 +14835,8 @@
     "xws": "alatedispersion",
     "level": "4",
     "initiative": "58",
-    "cardno": "AA-022"
+    "cardno": "AA-022",
+    "character-xws": "amber aegis"
   },
   {
     "name": "rockspine termite",
@@ -13497,7 +14846,8 @@
     "xws": "alatedispersion",
     "level": "4",
     "initiative": "58",
-    "cardno": "AA-022"
+    "cardno": "AA-022",
+    "character-xws": "amber aegis"
   },
   {
     "name": "anti-venom",
@@ -13507,7 +14857,8 @@
     "xws": "antivenom",
     "level": "1",
     "initiative": "73",
-    "cardno": "AA-009"
+    "cardno": "AA-009",
+    "character-xws": "amber aegis"
   },
   {
     "name": "assimilate adversaries",
@@ -13517,7 +14868,8 @@
     "xws": "assimilateadversaries",
     "level": "6",
     "initiative": "50",
-    "cardno": "AA-025"
+    "cardno": "AA-025",
+    "character-xws": "amber aegis"
   },
   {
     "name": "birthing chambers",
@@ -13527,7 +14879,8 @@
     "xws": "birthingchambers",
     "level": "5",
     "initiative": "61",
-    "cardno": "AA-023"
+    "cardno": "AA-023",
+    "character-xws": "amber aegis"
   },
   {
     "name": "ghostshimmer bee",
@@ -13537,7 +14890,8 @@
     "xws": "birthingchambers",
     "level": "5",
     "initiative": "61",
-    "cardno": "AA-023"
+    "cardno": "AA-023",
+    "character-xws": "amber aegis"
   },
   {
     "name": "burning stingers",
@@ -13547,7 +14901,8 @@
     "xws": "burningstingers",
     "level": "1",
     "initiative": "73",
-    "cardno": "AA-008"
+    "cardno": "AA-008",
+    "character-xws": "amber aegis"
   },
   {
     "name": "burrow under",
@@ -13557,7 +14912,8 @@
     "xws": "burrowunder",
     "level": "5",
     "initiative": "22",
-    "cardno": "AA-024"
+    "cardno": "AA-024",
+    "character-xws": "amber aegis"
   },
   {
     "name": "clad in spikes",
@@ -13567,7 +14923,8 @@
     "xws": "cladinspikes",
     "level": "2",
     "initiative": "12",
-    "cardno": "AA-017"
+    "cardno": "AA-017",
+    "character-xws": "amber aegis"
   },
   {
     "name": "coordinated infestation",
@@ -13577,7 +14934,8 @@
     "xws": "coordinatedinfestation",
     "level": "8",
     "initiative": "45",
-    "cardno": "AA-029"
+    "cardno": "AA-029",
+    "character-xws": "amber aegis"
   },
   {
     "name": "corrosive spittle",
@@ -13587,7 +14945,8 @@
     "xws": "corrosivespittle",
     "level": "1",
     "initiative": "45",
-    "cardno": "AA-007"
+    "cardno": "AA-007",
+    "character-xws": "amber aegis"
   },
   {
     "name": "divide and conquer",
@@ -13597,7 +14956,8 @@
     "xws": "divideandconquer",
     "level": "9",
     "initiative": "97",
-    "cardno": "AA-031"
+    "cardno": "AA-031",
+    "character-xws": "amber aegis"
   },
   {
     "name": "beta aegis",
@@ -13607,7 +14967,8 @@
     "xws": "divideandconquer",
     "level": "9",
     "initiative": "97",
-    "cardno": "AA-031"
+    "cardno": "AA-031",
+    "character-xws": "amber aegis"
   },
   {
     "name": "encasing webs",
@@ -13617,7 +14978,8 @@
     "xws": "encasingwebs",
     "level": "1",
     "initiative": "33",
-    "cardno": "AA-003"
+    "cardno": "AA-003",
+    "character-xws": "amber aegis"
   },
   {
     "name": "erupting mandibles",
@@ -13627,7 +14989,8 @@
     "xws": "eruptingmandibles",
     "level": "8",
     "initiative": "54",
-    "cardno": "AA-030"
+    "cardno": "AA-030",
+    "character-xws": "amber aegis"
   },
   {
     "name": "ferocious proliferation",
@@ -13637,7 +15000,8 @@
     "xws": "ferociousproliferation",
     "level": "4",
     "initiative": "58",
-    "cardno": "AA-021"
+    "cardno": "AA-021",
+    "character-xws": "amber aegis"
   },
   {
     "name": "firespitter ant",
@@ -13647,7 +15011,8 @@
     "xws": "ferociousproliferation",
     "level": "4",
     "initiative": "58",
-    "cardno": "AA-021"
+    "cardno": "AA-021",
+    "character-xws": "amber aegis"
   },
   {
     "name": "frantic migration",
@@ -13657,7 +15022,8 @@
     "xws": "franticmigration",
     "level": "6",
     "initiative": "08",
-    "cardno": "AA-026"
+    "cardno": "AA-026",
+    "character-xws": "amber aegis"
   },
   {
     "name": "horned carapace",
@@ -13667,7 +15033,8 @@
     "xws": "hornedcarapace",
     "level": "1",
     "initiative": "26",
-    "cardno": "AA-004"
+    "cardno": "AA-004",
+    "character-xws": "amber aegis"
   },
   {
     "name": "lacerating horde",
@@ -13677,7 +15044,8 @@
     "xws": "laceratinghorde",
     "level": "7",
     "initiative": "22",
-    "cardno": "AA-028"
+    "cardno": "AA-028",
+    "character-xws": "amber aegis"
   },
   {
     "name": "maddening chatter",
@@ -13687,7 +15055,8 @@
     "xws": "maddeningchatter",
     "level": "3",
     "initiative": "29",
-    "cardno": "AA-019"
+    "cardno": "AA-019",
+    "character-xws": "amber aegis"
   },
   {
     "name": "march of multitudes",
@@ -13697,7 +15066,8 @@
     "xws": "marchofmultitudes",
     "level": "X",
     "initiative": "37",
-    "cardno": "AA-015"
+    "cardno": "AA-015",
+    "character-xws": "amber aegis"
   },
   {
     "name": "nurture the weak",
@@ -13707,7 +15077,8 @@
     "xws": "nurturetheweak",
     "level": "1",
     "initiative": "20",
-    "cardno": "AA-010"
+    "cardno": "AA-010",
+    "character-xws": "amber aegis"
   },
   {
     "name": "overwhelming swarm",
@@ -13717,7 +15088,8 @@
     "xws": "overwhelmingswarm",
     "level": "X",
     "initiative": "44",
-    "cardno": "AA-014"
+    "cardno": "AA-014",
+    "character-xws": "amber aegis"
   },
   {
     "name": "primal pheromones",
@@ -13727,7 +15099,8 @@
     "xws": "primalpheromones",
     "level": "X",
     "initiative": "92",
-    "cardno": "AA-016"
+    "cardno": "AA-016",
+    "character-xws": "amber aegis"
   },
   {
     "name": "repel intruders",
@@ -13737,7 +15110,8 @@
     "xws": "repelintruders",
     "level": "1",
     "initiative": "36",
-    "cardno": "AA-013"
+    "cardno": "AA-013",
+    "character-xws": "amber aegis"
   },
   {
     "name": "firespitter ant",
@@ -13747,7 +15121,8 @@
     "xws": "repelintruders",
     "level": "1",
     "initiative": "36",
-    "cardno": "AA-013"
+    "cardno": "AA-013",
+    "character-xws": "amber aegis"
   },
   {
     "name": "retribution of the hive",
@@ -13757,7 +15132,8 @@
     "xws": "retributionofthehive",
     "level": "1",
     "initiative": "16",
-    "cardno": "AA-005"
+    "cardno": "AA-005",
+    "character-xws": "amber aegis"
   },
   {
     "name": "seek nourishment",
@@ -13767,7 +15143,8 @@
     "xws": "seeknourishment",
     "level": "1",
     "initiative": "24",
-    "cardno": "AA-012"
+    "cardno": "AA-012",
+    "character-xws": "amber aegis"
   },
   {
     "name": "ghostshimmer bee",
@@ -13777,7 +15154,8 @@
     "xws": "seeknourishment",
     "level": "1",
     "initiative": "24",
-    "cardno": "AA-012"
+    "cardno": "AA-012",
+    "character-xws": "amber aegis"
   },
   {
     "name": "sentry swarm",
@@ -13787,7 +15165,8 @@
     "xws": "sentryswarm",
     "level": "1",
     "initiative": "07",
-    "cardno": "AA-006"
+    "cardno": "AA-006",
+    "character-xws": "amber aegis"
   },
   {
     "name": "shelter the nest",
@@ -13797,7 +15176,8 @@
     "xws": "shelterthenest",
     "level": "1",
     "initiative": "16",
-    "cardno": "AA-011"
+    "cardno": "AA-011",
+    "character-xws": "amber aegis"
   },
   {
     "name": "rockspine termite",
@@ -13807,7 +15187,8 @@
     "xws": "shelterthenest",
     "level": "1",
     "initiative": "16",
-    "cardno": "AA-011"
+    "cardno": "AA-011",
+    "character-xws": "amber aegis"
   },
   {
     "name": "stalk the prey",
@@ -13817,7 +15198,8 @@
     "xws": "stalktheprey",
     "level": "7",
     "initiative": "79",
-    "cardno": "AA-027"
+    "cardno": "AA-027",
+    "character-xws": "amber aegis"
   },
   {
     "name": "deathshroud spider",
@@ -13827,7 +15209,8 @@
     "xws": "stalktheprey",
     "level": "7",
     "initiative": "79",
-    "cardno": "AA-027"
+    "cardno": "AA-027",
+    "character-xws": "amber aegis"
   },
   {
     "name": "steelsilk weaver",
@@ -13837,7 +15220,8 @@
     "xws": "steelsilkweaver",
     "level": "2",
     "initiative": "41",
-    "cardno": "AA-018"
+    "cardno": "AA-018",
+    "character-xws": "amber aegis"
   },
   {
     "name": "supreme authority",
@@ -13847,7 +15231,8 @@
     "xws": "supremeauthority",
     "level": "9",
     "initiative": "03",
-    "cardno": "AA-032"
+    "cardno": "AA-032",
+    "character-xws": "amber aegis"
   },
   {
     "name": "violent outlash",
@@ -13857,7 +15242,8 @@
     "xws": "violentoutlash",
     "level": "3",
     "initiative": "63",
-    "cardno": "AA-020"
+    "cardno": "AA-020",
+    "character-xws": "amber aegis"
   },
   {
     "name": "bk-back",
@@ -13867,7 +15253,8 @@
     "xws": "bkback",
     "level": "-",
     "initiative": "-",
-    "cardno": "-"
+    "cardno": "-",
+    "character-xws": "brightspark"
   },
   {
     "name": "acquire funding",
@@ -13877,7 +15264,8 @@
     "xws": "acquirefunding",
     "level": "1",
     "initiative": "61",
-    "cardno": "029"
+    "cardno": "029",
+    "character-xws": "brightspark"
   },
   {
     "name": "advanced research",
@@ -13887,7 +15275,8 @@
     "xws": "advancedresearch",
     "level": "5",
     "initiative": "85",
-    "cardno": "049"
+    "cardno": "049",
+    "character-xws": "brightspark"
   },
   {
     "name": "antibiotic boost",
@@ -13897,7 +15286,8 @@
     "xws": "antibioticboost",
     "level": "6",
     "initiative": "56",
-    "cardno": "051"
+    "cardno": "051",
+    "character-xws": "brightspark"
   },
   {
     "name": "astronomical strike",
@@ -13907,7 +15297,8 @@
     "xws": "astronomicalstrike",
     "level": "7",
     "initiative": "57",
-    "cardno": "053"
+    "cardno": "053",
+    "character-xws": "brightspark"
   },
   {
     "name": "black hole",
@@ -13917,7 +15308,8 @@
     "xws": "astronomicalstrike",
     "level": "7",
     "initiative": "57",
-    "cardno": "053"
+    "cardno": "053",
+    "character-xws": "brightspark"
   },
   {
     "name": "befuddling serum",
@@ -13927,7 +15319,8 @@
     "xws": "befuddlingserum",
     "level": "4",
     "initiative": "49",
-    "cardno": "047"
+    "cardno": "047",
+    "character-xws": "brightspark"
   },
   {
     "name": "blinding lightwaves",
@@ -13937,7 +15330,8 @@
     "xws": "blindinglightwaves",
     "level": "1",
     "initiative": "68",
-    "cardno": "030"
+    "cardno": "030",
+    "character-xws": "brightspark"
   },
   {
     "name": "cell regeneration",
@@ -13947,7 +15341,8 @@
     "xws": "cellregeneration",
     "level": "1",
     "initiative": "73",
-    "cardno": "031"
+    "cardno": "031",
+    "character-xws": "brightspark"
   },
   {
     "name": "contagious malady",
@@ -13957,7 +15352,8 @@
     "xws": "contagiousmalady",
     "level": "1",
     "initiative": "13",
-    "cardno": "032"
+    "cardno": "032",
+    "character-xws": "brightspark"
   },
   {
     "name": "corrosive combustion",
@@ -13967,7 +15363,8 @@
     "xws": "corrosivecombustion",
     "level": "1",
     "initiative": "32",
-    "cardno": "033"
+    "cardno": "033",
+    "character-xws": "brightspark"
   },
   {
     "name": "critical hypothesis",
@@ -13977,7 +15374,8 @@
     "xws": "criticalhypothesis",
     "level": "8",
     "initiative": "16",
-    "cardno": "055"
+    "cardno": "055",
+    "character-xws": "brightspark"
   },
   {
     "name": "critical observation",
@@ -13987,7 +15385,8 @@
     "xws": "criticalobservation",
     "level": "1",
     "initiative": "20",
-    "cardno": "034"
+    "cardno": "034",
+    "character-xws": "brightspark"
   },
   {
     "name": "dynamic balance",
@@ -13997,7 +15396,8 @@
     "xws": "dynamicbalance",
     "level": "1",
     "initiative": "22",
-    "cardno": "035"
+    "cardno": "035",
+    "character-xws": "brightspark"
   },
   {
     "name": "electromagnetism",
@@ -14007,7 +15407,8 @@
     "xws": "electromagnetism",
     "level": "3",
     "initiative": "84",
-    "cardno": "046"
+    "cardno": "046",
+    "character-xws": "brightspark"
   },
   {
     "name": "metal detector",
@@ -14017,7 +15418,8 @@
     "xws": "electromagnetism",
     "level": "3",
     "initiative": "84",
-    "cardno": "046"
+    "cardno": "046",
+    "character-xws": "brightspark"
   },
   {
     "name": "elevated chemicals",
@@ -14027,7 +15429,8 @@
     "xws": "elevatedchemicals",
     "level": "5",
     "initiative": "44",
-    "cardno": "050"
+    "cardno": "050",
+    "character-xws": "brightspark"
   },
   {
     "name": "elevated intake",
@@ -14037,7 +15440,8 @@
     "xws": "elevatedintake",
     "level": "X",
     "initiative": "50",
-    "cardno": "042"
+    "cardno": "042",
+    "character-xws": "brightspark"
   },
   {
     "name": "elixir of life",
@@ -14047,7 +15451,8 @@
     "xws": "elixiroflife",
     "level": "9",
     "initiative": "38",
-    "cardno": "057"
+    "cardno": "057",
+    "character-xws": "brightspark"
   },
   {
     "name": "enviromental survey",
@@ -14057,7 +15462,8 @@
     "xws": "enviromentalsurvey",
     "level": "X",
     "initiative": "31",
-    "cardno": "040"
+    "cardno": "040",
+    "character-xws": "brightspark"
   },
   {
     "name": "exothermic cocktail",
@@ -14067,7 +15473,8 @@
     "xws": "exothermiccocktail",
     "level": "1",
     "initiative": "45",
-    "cardno": "036"
+    "cardno": "036",
+    "character-xws": "brightspark"
   },
   {
     "name": "frozen explosion",
@@ -14077,7 +15484,8 @@
     "xws": "frozenexplosion",
     "level": "1",
     "initiative": "55",
-    "cardno": "037"
+    "cardno": "037",
+    "character-xws": "brightspark"
   },
   {
     "name": "leftover tonic",
@@ -14087,7 +15495,8 @@
     "xws": "leftovertonic",
     "level": "X",
     "initiative": "70",
-    "cardno": "041"
+    "cardno": "041",
+    "character-xws": "brightspark"
   },
   {
     "name": "magnetic field",
@@ -14097,7 +15506,8 @@
     "xws": "magneticfield",
     "level": "1",
     "initiative": "28",
-    "cardno": "038"
+    "cardno": "038",
+    "character-xws": "brightspark"
   },
   {
     "name": "molecular hydroblast",
@@ -14107,7 +15517,8 @@
     "xws": "molecularhydroblast",
     "level": "6",
     "initiative": "29",
-    "cardno": "052"
+    "cardno": "052",
+    "character-xws": "brightspark"
   },
   {
     "name": "nourishing formula",
@@ -14117,7 +15528,8 @@
     "xws": "nourishingformula",
     "level": "7",
     "initiative": "77",
-    "cardno": "054"
+    "cardno": "054",
+    "character-xws": "brightspark"
   },
   {
     "name": "nutrient overdose",
@@ -14127,7 +15539,8 @@
     "xws": "nutrientoverdose",
     "level": "2",
     "initiative": "17",
-    "cardno": "043"
+    "cardno": "043",
+    "character-xws": "brightspark"
   },
   {
     "name": "preliminary research",
@@ -14137,7 +15550,8 @@
     "xws": "preliminaryresearch",
     "level": "1",
     "initiative": "24",
-    "cardno": "039"
+    "cardno": "039",
+    "character-xws": "brightspark"
   },
   {
     "name": "strength elixir",
@@ -14147,7 +15561,8 @@
     "xws": "strengthelixir",
     "level": "4",
     "initiative": "19",
-    "cardno": "048"
+    "cardno": "048",
+    "character-xws": "brightspark"
   },
   {
     "name": "transformation libation",
@@ -14157,7 +15572,8 @@
     "xws": "transformationlibation",
     "level": "2",
     "initiative": "27",
-    "cardno": "044"
+    "cardno": "044",
+    "character-xws": "brightspark"
   },
   {
     "name": "ultraviolet rays",
@@ -14167,7 +15583,8 @@
     "xws": "ultravioletrays",
     "level": "9",
     "initiative": "66",
-    "cardno": "058"
+    "cardno": "058",
+    "character-xws": "brightspark"
   },
   {
     "name": "versatile concoction",
@@ -14177,7 +15594,8 @@
     "xws": "versatileconcoction",
     "level": "8",
     "initiative": "58",
-    "cardno": "056"
+    "cardno": "056",
+    "character-xws": "brightspark"
   },
   {
     "name": "weather forecast",
@@ -14187,7 +15605,8 @@
     "xws": "weatherforecast",
     "level": "3",
     "initiative": "30",
-    "cardno": "045"
+    "cardno": "045",
+    "character-xws": "brightspark"
   },
   {
     "name": "bm-back",
@@ -14197,7 +15616,8 @@
     "xws": "bmback",
     "level": "-",
     "initiative": "-",
-    "cardno": "-"
+    "cardno": "-",
+    "character-xws": "bombard"
   },
   {
     "name": "airborne skyrocket",
@@ -14207,7 +15627,8 @@
     "xws": "airborneskyrocket",
     "level": "7",
     "initiative": "55",
-    "cardno": "023"
+    "cardno": "023",
+    "character-xws": "bombard"
   },
   {
     "name": "ballistic barrage",
@@ -14217,7 +15638,8 @@
     "xws": "ballisticbarrage",
     "level": "7",
     "initiative": "73",
-    "cardno": "024"
+    "cardno": "024",
+    "character-xws": "bombard"
   },
   {
     "name": "barbed armor",
@@ -14227,7 +15649,8 @@
     "xws": "barbedarmor",
     "level": "1",
     "initiative": "13",
-    "cardno": "008"
+    "cardno": "008",
+    "character-xws": "bombard"
   },
   {
     "name": "chain grapnel",
@@ -14237,7 +15660,8 @@
     "xws": "chaingrapnel",
     "level": "X",
     "initiative": "46",
-    "cardno": "010"
+    "cardno": "010",
+    "character-xws": "bombard"
   },
   {
     "name": "consistent firing",
@@ -14247,7 +15671,8 @@
     "xws": "consistentfiring",
     "level": "1",
     "initiative": "76",
-    "cardno": "001"
+    "cardno": "001",
+    "character-xws": "bombard"
   },
   {
     "name": "defense mechanism",
@@ -14257,7 +15682,8 @@
     "xws": "defensemechanism",
     "level": "8",
     "initiative": "18",
-    "cardno": "025"
+    "cardno": "025",
+    "character-xws": "bombard"
   },
   {
     "name": "distant retribution",
@@ -14267,7 +15693,8 @@
     "xws": "distantretribution",
     "level": "2",
     "initiative": "12",
-    "cardno": "013"
+    "cardno": "013",
+    "character-xws": "bombard"
   },
   {
     "name": "double cannons",
@@ -14277,7 +15704,8 @@
     "xws": "doublecannons",
     "level": "1",
     "initiative": "60",
-    "cardno": "002"
+    "cardno": "002",
+    "character-xws": "bombard"
   },
   {
     "name": "exploding cannonball",
@@ -14287,7 +15715,8 @@
     "xws": "explodingcannonball",
     "level": "1",
     "initiative": "88",
-    "cardno": "003"
+    "cardno": "003",
+    "character-xws": "bombard"
   },
   {
     "name": "forceful bolt",
@@ -14297,7 +15726,8 @@
     "xws": "forcefulbolt",
     "level": "1",
     "initiative": "63",
-    "cardno": "004"
+    "cardno": "004",
+    "character-xws": "bombard"
   },
   {
     "name": "grappling hook",
@@ -14307,7 +15737,8 @@
     "xws": "grapplinghook",
     "level": "1",
     "initiative": "68",
-    "cardno": "005"
+    "cardno": "005",
+    "character-xws": "bombard"
   },
   {
     "name": "hurried repairs",
@@ -14317,7 +15748,8 @@
     "xws": "hurriedrepairs",
     "level": "4",
     "initiative": "25",
-    "cardno": "017"
+    "cardno": "017",
+    "character-xws": "bombard"
   },
   {
     "name": "ignited launch",
@@ -14327,7 +15759,8 @@
     "xws": "ignitedlaunch",
     "level": "1",
     "initiative": "81",
-    "cardno": "006"
+    "cardno": "006",
+    "character-xws": "bombard"
   },
   {
     "name": "man the cannon",
@@ -14337,7 +15770,8 @@
     "xws": "manthecannon",
     "level": "X",
     "initiative": "21",
-    "cardno": "011"
+    "cardno": "011",
+    "character-xws": "bombard"
   },
   {
     "name": "meteoric blast",
@@ -14347,7 +15781,8 @@
     "xws": "meteoricblast",
     "level": "6",
     "initiative": "26",
-    "cardno": "021"
+    "cardno": "021",
+    "character-xws": "bombard"
   },
   {
     "name": "pillars of smoke",
@@ -14357,7 +15792,8 @@
     "xws": "pillarsofsmoke",
     "level": "X",
     "initiative": "11",
-    "cardno": "012"
+    "cardno": "012",
+    "character-xws": "bombard"
   },
   {
     "name": "powerful buckshot",
@@ -14367,7 +15803,8 @@
     "xws": "powerfulbuckshot",
     "level": "4",
     "initiative": "84",
-    "cardno": "018"
+    "cardno": "018",
+    "character-xws": "bombard"
   },
   {
     "name": "prolific perforation",
@@ -14377,7 +15814,8 @@
     "xws": "prolificperforation",
     "level": "6",
     "initiative": "62",
-    "cardno": "022"
+    "cardno": "022",
+    "character-xws": "bombard"
   },
   {
     "name": "quadruple cannons",
@@ -14387,7 +15825,8 @@
     "xws": "quadruplecannons",
     "level": "8",
     "initiative": "86",
-    "cardno": "026"
+    "cardno": "026",
+    "character-xws": "bombard"
   },
   {
     "name": "rapid fire",
@@ -14397,7 +15836,8 @@
     "xws": "rapidfire",
     "level": "2",
     "initiative": "41",
-    "cardno": "014"
+    "cardno": "014",
+    "character-xws": "bombard"
   },
   {
     "name": "rolling into position",
@@ -14407,7 +15847,8 @@
     "xws": "rollingintoposition",
     "level": "1",
     "initiative": "14",
-    "cardno": "007"
+    "cardno": "007",
+    "character-xws": "bombard"
   },
   {
     "name": "sharpened focus",
@@ -14417,7 +15858,8 @@
     "xws": "sharpenedfocus",
     "level": "5",
     "initiative": "32",
-    "cardno": "020"
+    "cardno": "020",
+    "character-xws": "bombard"
   },
   {
     "name": "stationary enhancements",
@@ -14427,7 +15869,8 @@
     "xws": "stationaryenhancements",
     "level": "3",
     "initiative": "20",
-    "cardno": "015"
+    "cardno": "015",
+    "character-xws": "bombard"
   },
   {
     "name": "supercharged gunpowder",
@@ -14437,7 +15880,8 @@
     "xws": "superchargedgunpowder",
     "level": "9",
     "initiative": "90",
-    "cardno": "027"
+    "cardno": "027",
+    "character-xws": "bombard"
   },
   {
     "name": "superior upgrade",
@@ -14447,7 +15891,8 @@
     "xws": "superiorupgrade",
     "level": "9",
     "initiative": "09",
-    "cardno": "028"
+    "cardno": "028",
+    "character-xws": "bombard"
   },
   {
     "name": "twin blast",
@@ -14457,7 +15902,8 @@
     "xws": "twinblast",
     "level": "3",
     "initiative": "80",
-    "cardno": "016"
+    "cardno": "016",
+    "character-xws": "bombard"
   },
   {
     "name": "unbreakable position",
@@ -14467,7 +15913,8 @@
     "xws": "unbreakableposition",
     "level": "5",
     "initiative": "15",
-    "cardno": "019"
+    "cardno": "019",
+    "character-xws": "bombard"
   },
   {
     "name": "unexpected bombshell",
@@ -14477,7 +15924,8 @@
     "xws": "unexpectedbombshell",
     "level": "1",
     "initiative": "85",
-    "cardno": "009"
+    "cardno": "009",
+    "character-xws": "bombard"
   },
   {
     "name": "cg-back",
@@ -14487,7 +15935,8 @@
     "xws": "cgback",
     "level": "-",
     "initiative": "-",
-    "cardno": "-"
+    "cardno": "-",
+    "character-xws": "chainguard"
   },
   {
     "name": "agonizing clamp",
@@ -14497,7 +15946,8 @@
     "xws": "agonizingclamp",
     "level": "2",
     "initiative": "57",
-    "cardno": "072"
+    "cardno": "072",
+    "character-xws": "chainguard"
   },
   {
     "name": "champion of chains",
@@ -14507,7 +15957,8 @@
     "xws": "championofchains",
     "level": "9",
     "initiative": "10",
-    "cardno": "086"
+    "cardno": "086",
+    "character-xws": "chainguard"
   },
   {
     "name": "chokehold",
@@ -14517,7 +15968,8 @@
     "xws": "chokehold",
     "level": "1",
     "initiative": "22",
-    "cardno": "060"
+    "cardno": "060",
+    "character-xws": "chainguard"
   },
   {
     "name": "clamping snare",
@@ -14527,7 +15979,8 @@
     "xws": "clampingsnare",
     "level": "7",
     "initiative": "27",
-    "cardno": "082"
+    "cardno": "082",
+    "character-xws": "chainguard"
   },
   {
     "name": "dizzying release",
@@ -14537,7 +15990,8 @@
     "xws": "dizzyingrelease",
     "level": "4",
     "initiative": "24",
-    "cardno": "076"
+    "cardno": "076",
+    "character-xws": "chainguard"
   },
   {
     "name": "double k.o.",
@@ -14547,7 +16001,8 @@
     "xws": "doubleko",
     "level": "4",
     "initiative": "92",
-    "cardno": "077"
+    "cardno": "077",
+    "character-xws": "chainguard"
   },
   {
     "name": "drag through dirt",
@@ -14557,7 +16012,8 @@
     "xws": "dragthroughthedirt",
     "level": "1",
     "initiative": "30",
-    "cardno": "061"
+    "cardno": "061",
+    "character-xws": "chainguard"
   },
   {
     "name": "follow the chains",
@@ -14567,7 +16023,8 @@
     "xws": "followthechains",
     "level": "1",
     "initiative": "19",
-    "cardno": "062"
+    "cardno": "062",
+    "character-xws": "chainguard"
   },
   {
     "name": "ganging up",
@@ -14577,7 +16034,8 @@
     "xws": "gangingup",
     "level": "X",
     "initiative": "74",
-    "cardno": "069"
+    "cardno": "069",
+    "character-xws": "chainguard"
   },
   {
     "name": "impending power",
@@ -14587,7 +16045,8 @@
     "xws": "impendingpower",
     "level": "5",
     "initiative": "12",
-    "cardno": "078"
+    "cardno": "078",
+    "character-xws": "chainguard"
   },
   {
     "name": "iron thrust",
@@ -14597,7 +16056,8 @@
     "xws": "ironthrust",
     "level": "2",
     "initiative": "38",
-    "cardno": "073"
+    "cardno": "073",
+    "character-xws": "chainguard"
   },
   {
     "name": "latch and tow",
@@ -14607,7 +16067,8 @@
     "xws": "latchandtow",
     "level": "3",
     "initiative": "81",
-    "cardno": "074"
+    "cardno": "074",
+    "character-xws": "chainguard"
   },
   {
     "name": "locking links",
@@ -14617,7 +16078,8 @@
     "xws": "lockinglinks",
     "level": "1",
     "initiative": "41",
-    "cardno": "063"
+    "cardno": "063",
+    "character-xws": "chainguard"
   },
   {
     "name": "merciless beatdown",
@@ -14627,7 +16089,8 @@
     "xws": "mercilessbeatdown",
     "level": "1",
     "initiative": "26",
-    "cardno": "064"
+    "cardno": "064",
+    "character-xws": "chainguard"
   },
   {
     "name": "meteor hammer",
@@ -14637,7 +16100,8 @@
     "xws": "meteorhammer",
     "level": "7",
     "initiative": "45",
-    "cardno": "083"
+    "cardno": "083",
+    "character-xws": "chainguard"
   },
   {
     "name": "pivot and smash",
@@ -14647,7 +16111,8 @@
     "xws": "pivotandsmash",
     "level": "8",
     "initiative": "28",
-    "cardno": "084"
+    "cardno": "084",
+    "character-xws": "chainguard"
   },
   {
     "name": "roundhouse swing",
@@ -14657,7 +16122,8 @@
     "xws": "roundhouseswing",
     "level": "X",
     "initiative": "79",
-    "cardno": "070"
+    "cardno": "070",
+    "character-xws": "chainguard"
   },
   {
     "name": "rusty spikes",
@@ -14667,7 +16133,8 @@
     "xws": "rustyspikes",
     "level": "1",
     "initiative": "18",
-    "cardno": "065"
+    "cardno": "065",
+    "character-xws": "chainguard"
   },
   {
     "name": "slamming shove",
@@ -14677,7 +16144,8 @@
     "xws": "slammingshove",
     "level": "1",
     "initiative": "25",
-    "cardno": "066"
+    "cardno": "066",
+    "character-xws": "chainguard"
   },
   {
     "name": "spiked knuckles",
@@ -14687,7 +16155,8 @@
     "xws": "spikedknuckles",
     "level": "1",
     "initiative": "66",
-    "cardno": "067"
+    "cardno": "067",
+    "character-xws": "chainguard"
   },
   {
     "name": "suffering steel",
@@ -14697,7 +16166,8 @@
     "xws": "sufferingsteel",
     "level": "6",
     "initiative": "09",
-    "cardno": "080"
+    "cardno": "080",
+    "character-xws": "chainguard"
   },
   {
     "name": "sweeping collision",
@@ -14707,7 +16177,8 @@
     "xws": "sweepingcollision",
     "level": "3",
     "initiative": "20",
-    "cardno": "075"
+    "cardno": "075",
+    "character-xws": "chainguard"
   },
   {
     "name": "syndicated assault",
@@ -14717,7 +16188,8 @@
     "xws": "syndicatedassault",
     "level": "8",
     "initiative": "68",
-    "cardno": "085"
+    "cardno": "085",
+    "character-xws": "chainguard"
   },
   {
     "name": "tighten the chains",
@@ -14727,7 +16199,8 @@
     "xws": "tightenthechains",
     "level": "5",
     "initiative": "17",
-    "cardno": "079"
+    "cardno": "079",
+    "character-xws": "chainguard"
   },
   {
     "name": "titanic chainwhip",
@@ -14737,7 +16210,8 @@
     "xws": "titanicchainwhip",
     "level": "6",
     "initiative": "29",
-    "cardno": "081"
+    "cardno": "081",
+    "character-xws": "chainguard"
   },
   {
     "name": "unending torment",
@@ -14747,7 +16221,8 @@
     "xws": "unendingtorment",
     "level": "9",
     "initiative": "33",
-    "cardno": "087"
+    "cardno": "087",
+    "character-xws": "chainguard"
   },
   {
     "name": "untouchable keeper",
@@ -14757,7 +16232,8 @@
     "xws": "untouchablekeeper",
     "level": "1",
     "initiative": "14",
-    "cardno": "059"
+    "cardno": "059",
+    "character-xws": "chainguard"
   },
   {
     "name": "vigorous sway",
@@ -14767,7 +16243,8 @@
     "xws": "vigoroussway",
     "level": "X",
     "initiative": "52",
-    "cardno": "071"
+    "cardno": "071",
+    "character-xws": "chainguard"
   },
   {
     "name": "wrapped in metal",
@@ -14777,7 +16254,8 @@
     "xws": "wrappedinmetal",
     "level": "1",
     "initiative": "82",
-    "cardno": "068"
+    "cardno": "068",
+    "character-xws": "chainguard"
   },
   {
     "name": "ct-back",
@@ -14787,7 +16265,8 @@
     "xws": "ctback",
     "level": "-",
     "initiative": "-",
-    "cardno": "-"
+    "cardno": "-",
+    "character-xws": "chieftain"
   },
   {
     "name": "agile predator",
@@ -14797,7 +16276,8 @@
     "xws": "agilepredator",
     "level": "3",
     "initiative": "90",
-    "cardno": "104"
+    "cardno": "104",
+    "character-xws": "chieftain"
   },
   {
     "name": "black panther",
@@ -14807,7 +16287,8 @@
     "xws": "agilepredator",
     "level": "3",
     "initiative": "90",
-    "cardno": "104"
+    "cardno": "104",
+    "character-xws": "chieftain"
   },
   {
     "name": "catastrophic cattle",
@@ -14817,7 +16298,8 @@
     "xws": "catastrophiccattle",
     "level": "1",
     "initiative": "88",
-    "cardno": "088"
+    "cardno": "088",
+    "character-xws": "chieftain"
   },
   {
     "name": "fighting bull",
@@ -14827,7 +16309,8 @@
     "xws": "catastrophiccattle",
     "level": "1",
     "initiative": "88",
-    "cardno": "088"
+    "cardno": "088",
+    "character-xws": "chieftain"
   },
   {
     "name": "ceremonial dance",
@@ -14837,7 +16320,8 @@
     "xws": "ceremonialdance",
     "level": "2",
     "initiative": "23",
-    "cardno": "102"
+    "cardno": "102",
+    "character-xws": "chieftain"
   },
   {
     "name": "chest thumper",
@@ -14847,7 +16331,8 @@
     "xws": "chestthumper",
     "level": "5",
     "initiative": "94",
-    "cardno": "107"
+    "cardno": "107",
+    "character-xws": "chieftain"
   },
   {
     "name": "lowland gorilla",
@@ -14857,7 +16342,8 @@
     "xws": "chestthumper",
     "level": "5",
     "initiative": "94",
-    "cardno": "107"
+    "cardno": "107",
+    "character-xws": "chieftain"
   },
   {
     "name": "hunter's mark",
@@ -14867,7 +16353,8 @@
     "xws": "huntersmark",
     "level": "X",
     "initiative": "15",
-    "cardno": "099"
+    "cardno": "099",
+    "character-xws": "chieftain"
   },
   {
     "name": "impervious armor",
@@ -14877,7 +16364,8 @@
     "xws": "imperviousarmor",
     "level": "7",
     "initiative": "86",
-    "cardno": "111"
+    "cardno": "111",
+    "character-xws": "chieftain"
   },
   {
     "name": "battle rhinoceros",
@@ -14887,7 +16375,8 @@
     "xws": "imperviousarmor",
     "level": "7",
     "initiative": "86",
-    "cardno": "111"
+    "cardno": "111",
+    "character-xws": "chieftain"
   },
   {
     "name": "majestic mass",
@@ -14897,7 +16386,8 @@
     "xws": "majesticmass",
     "level": "8",
     "initiative": "86",
-    "cardno": "113"
+    "cardno": "113",
+    "character-xws": "chieftain"
   },
   {
     "name": "war elephant",
@@ -14907,7 +16397,8 @@
     "xws": "majesticmass",
     "level": "8",
     "initiative": "86",
-    "cardno": "113"
+    "cardno": "113",
+    "character-xws": "chieftain"
   },
   {
     "name": "master the reins",
@@ -14917,7 +16408,8 @@
     "xws": "masterthereins",
     "level": "9",
     "initiative": "30",
-    "cardno": "115"
+    "cardno": "115",
+    "character-xws": "chieftain"
   },
   {
     "name": "medicine shield",
@@ -14927,7 +16419,8 @@
     "xws": "medicineshield",
     "level": "2",
     "initiative": "19",
-    "cardno": "101"
+    "cardno": "101",
+    "character-xws": "chieftain"
   },
   {
     "name": "mounded sight",
@@ -14937,7 +16430,8 @@
     "xws": "moundedsight",
     "level": "X",
     "initiative": "82",
-    "cardno": "100"
+    "cardno": "100",
+    "character-xws": "chieftain"
   },
   {
     "name": "cavalry camel",
@@ -14947,7 +16441,8 @@
     "xws": "moundedsight",
     "level": "X",
     "initiative": "82",
-    "cardno": "100"
+    "cardno": "100",
+    "character-xws": "chieftain"
   },
   {
     "name": "one with nature",
@@ -14957,7 +16452,8 @@
     "xws": "onewithnature",
     "level": "6",
     "initiative": "33",
-    "cardno": "109"
+    "cardno": "109",
+    "character-xws": "chieftain"
   },
   {
     "name": "outrun the enemy",
@@ -14967,7 +16463,8 @@
     "xws": "outruntheenemy",
     "level": "1",
     "initiative": "87",
-    "cardno": "089"
+    "cardno": "089",
+    "character-xws": "chieftain"
   },
   {
     "name": "speedy ostrich",
@@ -14977,7 +16474,8 @@
     "xws": "outruntheenemy",
     "level": "1",
     "initiative": "87",
-    "cardno": "089"
+    "cardno": "089",
+    "character-xws": "chieftain"
   },
   {
     "name": "piercing darts",
@@ -14987,7 +16485,8 @@
     "xws": "piercingdarts",
     "level": "1",
     "initiative": "17",
-    "cardno": "090"
+    "cardno": "090",
+    "character-xws": "chieftain"
   },
   {
     "name": "pipe tomahawk",
@@ -14997,7 +16496,8 @@
     "xws": "pipetomahawk",
     "level": "1",
     "initiative": "26",
-    "cardno": "091"
+    "cardno": "091",
+    "character-xws": "chieftain"
   },
   {
     "name": "positive reinforcement",
@@ -15007,7 +16507,8 @@
     "xws": "positivereinforcement",
     "level": "5",
     "initiative": "24",
-    "cardno": "108"
+    "cardno": "108",
+    "character-xws": "chieftain"
   },
   {
     "name": "prepared rations",
@@ -15017,7 +16518,8 @@
     "xws": "preparedrations",
     "level": "X",
     "initiative": "91",
-    "cardno": "098"
+    "cardno": "098",
+    "character-xws": "chieftain"
   },
   {
     "name": "pack mule",
@@ -15027,7 +16529,8 @@
     "xws": "preparedrations",
     "level": "X",
     "initiative": "91",
-    "cardno": "098"
+    "cardno": "098",
+    "character-xws": "chieftain"
   },
   {
     "name": "regal beast",
@@ -15037,7 +16540,8 @@
     "xws": "regalbeast",
     "level": "9",
     "initiative": "81",
-    "cardno": "116"
+    "cardno": "116",
+    "character-xws": "chieftain"
   },
   {
     "name": "sabretooth tiger",
@@ -15047,7 +16551,8 @@
     "xws": "regalbeast",
     "level": "9",
     "initiative": "81",
-    "cardno": "116"
+    "cardno": "116",
+    "character-xws": "chieftain"
   },
   {
     "name": "resurrection",
@@ -15057,7 +16562,8 @@
     "xws": "resurrection",
     "level": "1",
     "initiative": "32",
-    "cardno": "092"
+    "cardno": "092",
+    "character-xws": "chieftain"
   },
   {
     "name": "skinning knife",
@@ -15067,7 +16573,8 @@
     "xws": "skinningknife",
     "level": "1",
     "initiative": "54",
-    "cardno": "093"
+    "cardno": "093",
+    "character-xws": "chieftain"
   },
   {
     "name": "slow and steady",
@@ -15077,7 +16584,8 @@
     "xws": "slowandsteady",
     "level": "1",
     "initiative": "93",
-    "cardno": "094"
+    "cardno": "094",
+    "character-xws": "chieftain"
   },
   {
     "name": "giant tortoise",
@@ -15087,7 +16595,8 @@
     "xws": "slowandsteady",
     "level": "1",
     "initiative": "93",
-    "cardno": "094"
+    "cardno": "094",
+    "character-xws": "chieftain"
   },
   {
     "name": "sniffing hound",
@@ -15097,7 +16606,8 @@
     "xws": "sniffinghound",
     "level": "1",
     "initiative": "80",
-    "cardno": "096"
+    "cardno": "096",
+    "character-xws": "chieftain"
   },
   {
     "name": "scout dog",
@@ -15107,7 +16617,8 @@
     "xws": "sniffinghound",
     "level": "1",
     "initiative": "80",
-    "cardno": "096"
+    "cardno": "096",
+    "character-xws": "chieftain"
   },
   {
     "name": "soul whisperer",
@@ -15117,7 +16628,8 @@
     "xws": "soulwhisperer",
     "level": "1",
     "initiative": "57",
-    "cardno": "097"
+    "cardno": "097",
+    "character-xws": "chieftain"
   },
   {
     "name": "spiked muzzle",
@@ -15127,7 +16639,8 @@
     "xws": "spikedmuzzle",
     "level": "4",
     "initiative": "47",
-    "cardno": "106"
+    "cardno": "106",
+    "character-xws": "chieftain"
   },
   {
     "name": "strapping bullwhip",
@@ -15137,7 +16650,8 @@
     "xws": "strappingbullwhip",
     "level": "7",
     "initiative": "29",
-    "cardno": "112"
+    "cardno": "112",
+    "character-xws": "chieftain"
   },
   {
     "name": "sucker punch",
@@ -15147,7 +16661,8 @@
     "xws": "suckerpunch",
     "level": "1",
     "initiative": "14",
-    "cardno": "095"
+    "cardno": "095",
+    "character-xws": "chieftain"
   },
   {
     "name": "take the reins",
@@ -15157,7 +16672,8 @@
     "xws": "takethereins",
     "level": "3",
     "initiative": "40",
-    "cardno": "103"
+    "cardno": "103",
+    "character-xws": "chieftain"
   },
   {
     "name": "tribal blessing",
@@ -15167,7 +16683,8 @@
     "xws": "tribalblessing",
     "level": "8",
     "initiative": "46",
-    "cardno": "114"
+    "cardno": "114",
+    "character-xws": "chieftain"
   },
   {
     "name": "venomous mayhem",
@@ -15177,7 +16694,8 @@
     "xws": "venomousmayhem",
     "level": "6",
     "initiative": "92",
-    "cardno": "110"
+    "cardno": "110",
+    "character-xws": "chieftain"
   },
   {
     "name": "cottonmouth snake",
@@ -15187,7 +16705,8 @@
     "xws": "venomousmayhem",
     "level": "6",
     "initiative": "92",
-    "cardno": "110"
+    "cardno": "110",
+    "character-xws": "chieftain"
   },
   {
     "name": "war paint",
@@ -15197,7 +16716,8 @@
     "xws": "warpaint",
     "level": "4",
     "initiative": "28",
-    "cardno": "105"
+    "cardno": "105",
+    "character-xws": "chieftain"
   },
   {
     "name": "fk-back",
@@ -15207,7 +16727,8 @@
     "xws": "fkback",
     "level": "-",
     "initiative": "-",
-    "cardno": "-"
+    "cardno": "-",
+    "character-xws": "fire knight"
   },
   {
     "name": "backdraft",
@@ -15217,7 +16738,8 @@
     "xws": "backdraft",
     "level": "8",
     "initiative": "38",
-    "cardno": "142"
+    "cardno": "142",
+    "character-xws": "fire knight"
   },
   {
     "name": "cauterize wound",
@@ -15227,7 +16749,8 @@
     "xws": "cauterizewound",
     "level": "8",
     "initiative": "13",
-    "cardno": "143"
+    "cardno": "143",
+    "character-xws": "fire knight"
   },
   {
     "name": "collective combat",
@@ -15237,7 +16760,8 @@
     "xws": "collectivecombat",
     "level": "1",
     "initiative": "64",
-    "cardno": "119"
+    "cardno": "119",
+    "character-xws": "fire knight"
   },
   {
     "name": "combat medic",
@@ -15247,7 +16771,8 @@
     "xws": "combatmedic",
     "level": "1",
     "initiative": "61",
-    "cardno": "125"
+    "cardno": "125",
+    "character-xws": "fire knight"
   },
   {
     "name": "combined effort",
@@ -15257,7 +16782,8 @@
     "xws": "combinedeffort",
     "level": "1",
     "initiative": "19",
-    "cardno": "118"
+    "cardno": "118",
+    "character-xws": "fire knight"
   },
   {
     "name": "controlled aggression",
@@ -15267,7 +16793,8 @@
     "xws": "controlledaggression",
     "level": "1",
     "initiative": "77",
-    "cardno": "120"
+    "cardno": "120",
+    "character-xws": "fire knight"
   },
   {
     "name": "coordinated attack",
@@ -15277,7 +16804,8 @@
     "xws": "coordinatedattack",
     "level": "1",
     "initiative": "22",
-    "cardno": "126"
+    "cardno": "126",
+    "character-xws": "fire knight"
   },
   {
     "name": "crew integrity",
@@ -15287,7 +16815,8 @@
     "xws": "crewintegrity",
     "level": "3",
     "initiative": "20",
-    "cardno": "133"
+    "cardno": "133",
+    "character-xws": "fire knight"
   },
   {
     "name": "fiery charisma",
@@ -15297,7 +16826,8 @@
     "xws": "fierycharisma",
     "level": "X",
     "initiative": "25",
-    "cardno": "127"
+    "cardno": "127",
+    "character-xws": "fire knight"
   },
   {
     "name": "fire whirl",
@@ -15307,7 +16837,8 @@
     "xws": "firewhirl",
     "level": "1",
     "initiative": "51",
-    "cardno": "123"
+    "cardno": "123",
+    "character-xws": "fire knight"
   },
   {
     "name": "flaming axe",
@@ -15317,7 +16848,8 @@
     "xws": "flamingaxe",
     "level": "6",
     "initiative": "23",
-    "cardno": "138"
+    "cardno": "138",
+    "character-xws": "fire knight"
   },
   {
     "name": "flashover",
@@ -15327,7 +16859,8 @@
     "xws": "flashover",
     "level": "9",
     "initiative": "96",
-    "cardno": "144"
+    "cardno": "144",
+    "character-xws": "fire knight"
   },
   {
     "name": "reigniting drakefiend",
@@ -15337,7 +16870,8 @@
     "xws": "flashover",
     "level": "9",
     "initiative": "96",
-    "cardno": "144"
+    "cardno": "144",
+    "character-xws": "fire knight"
   },
   {
     "name": "forcible entry",
@@ -15347,7 +16881,8 @@
     "xws": "forcibleentry",
     "level": "1",
     "initiative": "15",
-    "cardno": "117"
+    "cardno": "117",
+    "character-xws": "fire knight"
   },
   {
     "name": "heavy irons",
@@ -15357,7 +16892,8 @@
     "xws": "heavyirons",
     "level": "2",
     "initiative": "79",
-    "cardno": "130"
+    "cardno": "130",
+    "character-xws": "fire knight"
   },
   {
     "name": "hook and ladder",
@@ -15367,7 +16903,8 @@
     "xws": "hookandladder",
     "level": "5",
     "initiative": "32",
-    "cardno": "136"
+    "cardno": "136",
+    "character-xws": "fire knight"
   },
   {
     "name": "incident commander",
@@ -15377,7 +16914,8 @@
     "xws": "incidentcommander",
     "level": "9",
     "initiative": "17",
-    "cardno": "145"
+    "cardno": "145",
+    "character-xws": "fire knight"
   },
   {
     "name": "jack of all trades",
@@ -15387,7 +16925,8 @@
     "xws": "jackofalltrades",
     "level": "4",
     "initiative": "27",
-    "cardno": "134"
+    "cardno": "134",
+    "character-xws": "fire knight"
   },
   {
     "name": "kindled tonic",
@@ -15397,7 +16936,8 @@
     "xws": "kindledtonic",
     "level": "4",
     "initiative": "39",
-    "cardno": "135"
+    "cardno": "135",
+    "character-xws": "fire knight"
   },
   {
     "name": "ladder assault",
@@ -15407,7 +16947,8 @@
     "xws": "ladderassault",
     "level": "3",
     "initiative": "68",
-    "cardno": "132"
+    "cardno": "132",
+    "character-xws": "fire knight"
   },
   {
     "name": "light irons",
@@ -15417,7 +16958,8 @@
     "xws": "lightirons",
     "level": "1",
     "initiative": "30",
-    "cardno": "124"
+    "cardno": "124",
+    "character-xws": "fire knight"
   },
   {
     "name": "loyal companion",
@@ -15427,7 +16969,8 @@
     "xws": "loyalcompanion",
     "level": "X",
     "initiative": "81",
-    "cardno": "128"
+    "cardno": "128",
+    "character-xws": "fire knight"
   },
   {
     "name": "spotted hound",
@@ -15437,7 +16980,8 @@
     "xws": "loyalcompanion",
     "level": "X",
     "initiative": "81",
-    "cardno": "128"
+    "cardno": "128",
+    "character-xws": "fire knight"
   },
   {
     "name": "mutual aid",
@@ -15447,7 +16991,8 @@
     "xws": "mutualaid",
     "level": "6",
     "initiative": "44",
-    "cardno": "139"
+    "cardno": "139",
+    "character-xws": "fire knight"
   },
   {
     "name": "playing with fire",
@@ -15457,7 +17002,8 @@
     "xws": "playingwithfire",
     "level": "1",
     "initiative": "40",
-    "cardno": "122"
+    "cardno": "122",
+    "character-xws": "fire knight"
   },
   {
     "name": "practical tools",
@@ -15467,7 +17013,8 @@
     "xws": "practicaltools",
     "level": "X",
     "initiative": "36",
-    "cardno": "129"
+    "cardno": "129",
+    "character-xws": "fire knight"
   },
   {
     "name": "rapid response",
@@ -15477,7 +17024,8 @@
     "xws": "rapidresponse",
     "level": "1",
     "initiative": "12",
-    "cardno": "121"
+    "cardno": "121",
+    "character-xws": "fire knight"
   },
   {
     "name": "rolling flames",
@@ -15487,7 +17035,8 @@
     "xws": "rollingflames",
     "level": "7",
     "initiative": "53",
-    "cardno": "140"
+    "cardno": "140",
+    "character-xws": "fire knight"
   },
   {
     "name": "search and rescue",
@@ -15497,7 +17046,8 @@
     "xws": "searchandrescue",
     "level": "7",
     "initiative": "18",
-    "cardno": "141"
+    "cardno": "141",
+    "character-xws": "fire knight"
   },
   {
     "name": "searing blaze",
@@ -15507,7 +17057,8 @@
     "xws": "searingblaze",
     "level": "5",
     "initiative": "75",
-    "cardno": "137"
+    "cardno": "137",
+    "character-xws": "fire knight"
   },
   {
     "name": "trauma care",
@@ -15517,7 +17068,8 @@
     "xws": "traumacare",
     "level": "2",
     "initiative": "31",
-    "cardno": "131"
+    "cardno": "131",
+    "character-xws": "fire knight"
   },
   {
     "name": "ho-back",
@@ -15527,7 +17079,8 @@
     "xws": "hoback",
     "level": "-",
     "initiative": "-",
-    "cardno": "-"
+    "cardno": "-",
+    "character-xws": "hollowpact"
   },
   {
     "name": "borrowed vitality",
@@ -15537,7 +17090,8 @@
     "xws": "borrowedvitality",
     "level": "1",
     "initiative": "37",
-    "cardno": "189"
+    "cardno": "189",
+    "character-xws": "hollowpact"
   },
   {
     "name": "channel the void",
@@ -15547,7 +17101,8 @@
     "xws": "channelthevoid",
     "level": "1",
     "initiative": "88",
-    "cardno": "186"
+    "cardno": "186",
+    "character-xws": "hollowpact"
   },
   {
     "name": "empowered assault",
@@ -15557,7 +17112,8 @@
     "xws": "empoweredassault",
     "level": "3",
     "initiative": "19",
-    "cardno": "199"
+    "cardno": "199",
+    "character-xws": "hollowpact"
   },
   {
     "name": "enduring darkness",
@@ -15567,7 +17123,8 @@
     "xws": "enduringdarkness",
     "level": "6",
     "initiative": "26",
-    "cardno": "205"
+    "cardno": "205",
+    "character-xws": "hollowpact"
   },
   {
     "name": "enervating strike",
@@ -15577,7 +17134,8 @@
     "xws": "enervatingstrike",
     "level": "1",
     "initiative": "25",
-    "cardno": "188"
+    "cardno": "188",
+    "character-xws": "hollowpact"
   },
   {
     "name": "entropy unleashed",
@@ -15587,7 +17145,8 @@
     "xws": "entropyunleashed",
     "level": "8",
     "initiative": "28",
-    "cardno": "209"
+    "cardno": "209",
+    "character-xws": "hollowpact"
   },
   {
     "name": "find an opening",
@@ -15597,7 +17156,8 @@
     "xws": "findanopening",
     "level": "1",
     "initiative": "15",
-    "cardno": "192"
+    "cardno": "192",
+    "character-xws": "hollowpact"
   },
   {
     "name": "gateway to the abyss",
@@ -15607,7 +17167,8 @@
     "xws": "gatewaytotheabyss",
     "level": "7",
     "initiative": "66",
-    "cardno": "208"
+    "cardno": "208",
+    "character-xws": "hollowpact"
   },
   {
     "name": "greed before need",
@@ -15617,7 +17178,8 @@
     "xws": "greedbeforeneed",
     "level": "X",
     "initiative": "33",
-    "cardno": "196"
+    "cardno": "196",
+    "character-xws": "hollowpact"
   },
   {
     "name": "hollow embrace",
@@ -15627,7 +17189,8 @@
     "xws": "hollowembrace",
     "level": "X",
     "initiative": "53",
-    "cardno": "195"
+    "cardno": "195",
+    "character-xws": "hollowpact"
   },
   {
     "name": "implosion",
@@ -15637,7 +17200,8 @@
     "xws": "implosion",
     "level": "6",
     "initiative": "49",
-    "cardno": "206"
+    "cardno": "206",
+    "character-xws": "hollowpact"
   },
   {
     "name": "majestic malevolence",
@@ -15647,7 +17211,8 @@
     "xws": "majesticmalevolence",
     "level": "3",
     "initiative": "89",
-    "cardno": "200"
+    "cardno": "200",
+    "character-xws": "hollowpact"
   },
   {
     "name": "nether binding",
@@ -15657,7 +17222,8 @@
     "xws": "netherbinding",
     "level": "2",
     "initiative": "64",
-    "cardno": "197"
+    "cardno": "197",
+    "character-xws": "hollowpact"
   },
   {
     "name": "nether blades",
@@ -15667,7 +17233,8 @@
     "xws": "netherblades",
     "level": "1",
     "initiative": "55",
-    "cardno": "185"
+    "cardno": "185",
+    "character-xws": "hollowpact"
   },
   {
     "name": "no escape",
@@ -15677,7 +17244,8 @@
     "xws": "noescape",
     "level": "9",
     "initiative": "57",
-    "cardno": "212"
+    "cardno": "212",
+    "character-xws": "hollowpact"
   },
   {
     "name": "obliterate",
@@ -15687,7 +17255,8 @@
     "xws": "obliterate",
     "level": "4",
     "initiative": "13",
-    "cardno": "202"
+    "cardno": "202",
+    "character-xws": "hollowpact"
   },
   {
     "name": "one with nothingness",
@@ -15697,7 +17266,8 @@
     "xws": "onewithnothingness",
     "level": "X",
     "initiative": "31",
-    "cardno": "194"
+    "cardno": "194",
+    "character-xws": "hollowpact"
   },
   {
     "name": "prescient voidmastery",
@@ -15707,7 +17277,8 @@
     "xws": "prescientvoidmastery",
     "level": "9",
     "initiative": "11",
-    "cardno": "211"
+    "cardno": "211",
+    "character-xws": "hollowpact"
   },
   {
     "name": "reaching darkness",
@@ -15717,7 +17288,8 @@
     "xws": "reachingdarkness",
     "level": "1",
     "initiative": "79",
-    "cardno": "193"
+    "cardno": "193",
+    "character-xws": "hollowpact"
   },
   {
     "name": "ruinous barrage",
@@ -15727,7 +17299,8 @@
     "xws": "ruinousbarrage",
     "level": "7",
     "initiative": "38",
-    "cardno": "207"
+    "cardno": "207",
+    "character-xws": "hollowpact"
   },
   {
     "name": "sever reality",
@@ -15737,7 +17310,8 @@
     "xws": "severreality",
     "level": "5",
     "initiative": "78",
-    "cardno": "204"
+    "cardno": "204",
+    "character-xws": "hollowpact"
   },
   {
     "name": "shrouded grasp",
@@ -15747,7 +17321,8 @@
     "xws": "shroudedgrasp",
     "level": "2",
     "initiative": "23",
-    "cardno": "198"
+    "cardno": "198",
+    "character-xws": "hollowpact"
   },
   {
     "name": "stalking quarry",
@@ -15757,7 +17332,8 @@
     "xws": "stalkingquarry",
     "level": "5",
     "initiative": "14",
-    "cardno": "203"
+    "cardno": "203",
+    "character-xws": "hollowpact"
   },
   {
     "name": "tendrils of night",
@@ -15767,7 +17343,8 @@
     "xws": "tendrilsofnight",
     "level": "8",
     "initiative": "44",
-    "cardno": "210"
+    "cardno": "210",
+    "character-xws": "hollowpact"
   },
   {
     "name": "touch of the void",
@@ -15777,7 +17354,8 @@
     "xws": "touchofthevoid",
     "level": "1",
     "initiative": "29",
-    "cardno": "191"
+    "cardno": "191",
+    "character-xws": "hollowpact"
   },
   {
     "name": "untethered advance",
@@ -15787,7 +17365,8 @@
     "xws": "untetheredadvance",
     "level": "1",
     "initiative": "46",
-    "cardno": "190"
+    "cardno": "190",
+    "character-xws": "hollowpact"
   },
   {
     "name": "void-enhanced armory",
@@ -15797,7 +17376,8 @@
     "xws": "voidenhancedarmory",
     "level": "4",
     "initiative": "17",
-    "cardno": "201"
+    "cardno": "201",
+    "character-xws": "hollowpact"
   },
   {
     "name": "void step",
@@ -15807,7 +17387,8 @@
     "xws": "voidstep",
     "level": "1",
     "initiative": "20",
-    "cardno": "184"
+    "cardno": "184",
+    "character-xws": "hollowpact"
   },
   {
     "name": "withering deluge",
@@ -15817,7 +17398,8 @@
     "xws": "witheringdeluge",
     "level": "1",
     "initiative": "47",
-    "cardno": "187"
+    "cardno": "187",
+    "character-xws": "hollowpact"
   },
   {
     "name": "hp-back",
@@ -15827,7 +17409,8 @@
     "xws": "hpback",
     "level": "-",
     "initiative": "-",
-    "cardno": "-"
+    "cardno": "-",
+    "character-xws": "hierophant"
   },
   {
     "name": "aspiration",
@@ -15837,7 +17420,8 @@
     "xws": "aspiration",
     "level": "P",
     "initiative": "50",
-    "cardno": "176"
+    "cardno": "176",
+    "character-xws": "hierophant"
   },
   {
     "name": "beacon of hope",
@@ -15847,7 +17431,8 @@
     "xws": "beaconofhope",
     "level": "4",
     "initiative": "82",
-    "cardno": "164"
+    "cardno": "164",
+    "character-xws": "hierophant"
   },
   {
     "name": "bringer of miracles",
@@ -15857,7 +17442,8 @@
     "xws": "bringerofmiracles",
     "level": "9",
     "initiative": "36",
-    "cardno": "174"
+    "cardno": "174",
+    "character-xws": "hierophant"
   },
   {
     "name": "chains of light",
@@ -15867,7 +17453,8 @@
     "xws": "chainsoflight",
     "level": "6",
     "initiative": "31",
-    "cardno": "168"
+    "cardno": "168",
+    "character-xws": "hierophant"
   },
   {
     "name": "devotion",
@@ -15877,7 +17464,8 @@
     "xws": "devotion",
     "level": "P",
     "initiative": "50",
-    "cardno": "177"
+    "cardno": "177",
+    "character-xws": "hierophant"
   },
   {
     "name": "devout assistance",
@@ -15887,7 +17475,8 @@
     "xws": "devoutassistance",
     "level": "5",
     "initiative": "37",
-    "cardno": "166"
+    "cardno": "166",
+    "character-xws": "hierophant"
   },
   {
     "name": "divine allegiance",
@@ -15897,7 +17486,8 @@
     "xws": "devineallegiance",
     "level": "2",
     "initiative": "63",
-    "cardno": "160"
+    "cardno": "160",
+    "character-xws": "hierophant"
   },
   {
     "name": "encouraged conviction",
@@ -15907,7 +17497,8 @@
     "xws": "encouragedconviction",
     "level": "3",
     "initiative": "14",
-    "cardno": "162"
+    "cardno": "162",
+    "character-xws": "hierophant"
   },
   {
     "name": "expansive permanence",
@@ -15917,7 +17508,8 @@
     "xws": "expansivepermanence",
     "level": "9",
     "initiative": "09",
-    "cardno": "175"
+    "cardno": "175",
+    "character-xws": "hierophant"
   },
   {
     "name": "faith calling",
@@ -15927,7 +17519,8 @@
     "xws": "faithcalling",
     "level": "1",
     "initiative": "13",
-    "cardno": "146"
+    "cardno": "146",
+    "character-xws": "hierophant"
   },
   {
     "name": "grace",
@@ -15937,7 +17530,8 @@
     "xws": "grace",
     "level": "P",
     "initiative": "50",
-    "cardno": "178"
+    "cardno": "178",
+    "character-xws": "hierophant"
   },
   {
     "name": "harsh rebuke",
@@ -15947,7 +17541,8 @@
     "xws": "harshrebuke",
     "level": "1",
     "initiative": "44",
-    "cardno": "147"
+    "cardno": "147",
+    "character-xws": "hierophant"
   },
   {
     "name": "impetuous inquisition",
@@ -15957,7 +17552,8 @@
     "xws": "impetuousinquisition",
     "level": "1",
     "initiative": "28",
-    "cardno": "148"
+    "cardno": "148",
+    "character-xws": "hierophant"
   },
   {
     "name": "inner reflection",
@@ -15967,7 +17563,8 @@
     "xws": "innerreflection",
     "level": "1",
     "initiative": "53",
-    "cardno": "149"
+    "cardno": "149",
+    "character-xws": "hierophant"
   },
   {
     "name": "inspired remedy",
@@ -15977,7 +17574,8 @@
     "xws": "inspiredremedy",
     "level": "1",
     "initiative": "76",
-    "cardno": "150"
+    "cardno": "150",
+    "character-xws": "hierophant"
   },
   {
     "name": "lamentation",
@@ -15987,7 +17585,8 @@
     "xws": "lamentation",
     "level": "P",
     "initiative": "50",
-    "cardno": "179"
+    "cardno": "179",
+    "character-xws": "hierophant"
   },
   {
     "name": "meditation",
@@ -15997,7 +17596,8 @@
     "xws": "meditation",
     "level": "P",
     "initiative": "50",
-    "cardno": "180"
+    "cardno": "180",
+    "character-xws": "hierophant"
   },
   {
     "name": "oaks embrace",
@@ -16007,7 +17607,8 @@
     "xws": "oaksembrace",
     "level": "1",
     "initiative": "84",
-    "cardno": "151"
+    "cardno": "151",
+    "character-xws": "hierophant"
   },
   {
     "name": "ordination",
@@ -16017,7 +17618,8 @@
     "xws": "ordination",
     "level": "P",
     "initiative": "50",
-    "cardno": "181"
+    "cardno": "181",
+    "character-xws": "hierophant"
   },
   {
     "name": "penitence",
@@ -16027,7 +17629,8 @@
     "xws": "penitence",
     "level": "P",
     "initiative": "50",
-    "cardno": "182"
+    "cardno": "182",
+    "character-xws": "hierophant"
   },
   {
     "name": "prosperous concord",
@@ -16037,7 +17640,8 @@
     "xws": "prosperousconcord",
     "level": "X",
     "initiative": "43",
-    "cardno": "157"
+    "cardno": "157",
+    "character-xws": "hierophant"
   },
   {
     "name": "restoring faith",
@@ -16047,7 +17651,8 @@
     "xws": "restoringfaith",
     "level": "1",
     "initiative": "64",
-    "cardno": "152"
+    "cardno": "152",
+    "character-xws": "hierophant"
   },
   {
     "name": "revered protector",
@@ -16057,7 +17662,8 @@
     "xws": "reveredprotector",
     "level": "7",
     "initiative": "15",
-    "cardno": "170"
+    "cardno": "170",
+    "character-xws": "hierophant"
   },
   {
     "name": "righteous atonement",
@@ -16067,7 +17673,8 @@
     "xws": "righteousatonement",
     "level": "8",
     "initiative": "20",
-    "cardno": "172"
+    "cardno": "172",
+    "character-xws": "hierophant"
   },
   {
     "name": "rooted subjugation",
@@ -16077,7 +17684,8 @@
     "xws": "rootedsubjugation",
     "level": "4",
     "initiative": "30",
-    "cardno": "165"
+    "cardno": "165",
+    "character-xws": "hierophant"
   },
   {
     "name": "sacred death",
@@ -16087,7 +17695,8 @@
     "xws": "sacreddeath",
     "level": "1",
     "initiative": "81",
-    "cardno": "153"
+    "cardno": "153",
+    "character-xws": "hierophant"
   },
   {
     "name": "salvation",
@@ -16097,7 +17706,8 @@
     "xws": "salvation",
     "level": "P",
     "initiative": "50",
-    "cardno": "183"
+    "cardno": "183",
+    "character-xws": "hierophant"
   },
   {
     "name": "soulful salvation",
@@ -16107,7 +17717,8 @@
     "xws": "soulfulsalvation",
     "level": "X",
     "initiative": "11",
-    "cardno": "158"
+    "cardno": "158",
+    "character-xws": "hierophant"
   },
   {
     "name": "soul strike",
@@ -16117,7 +17728,8 @@
     "xws": "soulstrike",
     "level": "1",
     "initiative": "69",
-    "cardno": "154"
+    "cardno": "154",
+    "character-xws": "hierophant"
   },
   {
     "name": "spiritual gains",
@@ -16127,7 +17739,8 @@
     "xws": "spiritualgains",
     "level": "5",
     "initiative": "94",
-    "cardno": "167"
+    "cardno": "167",
+    "character-xws": "hierophant"
   },
   {
     "name": "standing ground",
@@ -16137,7 +17750,8 @@
     "xws": "standingground",
     "level": "1",
     "initiative": "22",
-    "cardno": "155"
+    "cardno": "155",
+    "character-xws": "hierophant"
   },
   {
     "name": "symphony of oppression",
@@ -16147,7 +17761,8 @@
     "xws": "symphonyofoppression",
     "level": "7",
     "initiative": "86",
-    "cardno": "171"
+    "cardno": "171",
+    "character-xws": "hierophant"
   },
   {
     "name": "unruly repentance",
@@ -16157,7 +17772,8 @@
     "xws": "unrulyrepentance",
     "level": "X",
     "initiative": "25",
-    "cardno": "159"
+    "cardno": "159",
+    "character-xws": "hierophant"
   },
   {
     "name": "unstoppable force",
@@ -16167,7 +17783,8 @@
     "xws": "unstoppableforce",
     "level": "6",
     "initiative": "21",
-    "cardno": "169"
+    "cardno": "169",
+    "character-xws": "hierophant"
   },
   {
     "name": "vengeful veneration",
@@ -16177,7 +17794,8 @@
     "xws": "vengefulveneration",
     "level": "8",
     "initiative": "78",
-    "cardno": "173"
+    "cardno": "173",
+    "character-xws": "hierophant"
   },
   {
     "name": "vital bond",
@@ -16187,7 +17805,8 @@
     "xws": "vitalbond",
     "level": "3",
     "initiative": "48",
-    "cardno": "163"
+    "cardno": "163",
+    "character-xws": "hierophant"
   },
   {
     "name": "vocal sermon",
@@ -16197,7 +17816,8 @@
     "xws": "vocalsermon",
     "level": "1",
     "initiative": "32",
-    "cardno": "156"
+    "cardno": "156",
+    "character-xws": "hierophant"
   },
   {
     "name": "weakened will",
@@ -16207,7 +17827,8 @@
     "xws": "weakenedwill",
     "level": "2",
     "initiative": "17",
-    "cardno": "161"
+    "cardno": "161",
+    "character-xws": "hierophant"
   },
   {
     "name": "lu-back",
@@ -16217,7 +17838,8 @@
     "xws": "luback",
     "level": "-",
     "initiative": "-",
-    "cardno": "-"
+    "cardno": "-",
+    "character-xws": "luminary"
   },
   {
     "name": "blackened rage",
@@ -16227,7 +17849,8 @@
     "xws": "blackenedrage",
     "level": "3",
     "initiative": "45",
-    "cardno": "229"
+    "cardno": "229",
+    "character-xws": "luminary"
   },
   {
     "name": "blazing pincers",
@@ -16237,7 +17860,8 @@
     "xws": "blazingpincers",
     "level": "9",
     "initiative": "59",
-    "cardno": "241"
+    "cardno": "241",
+    "character-xws": "luminary"
   },
   {
     "name": "burning sparks",
@@ -16247,7 +17871,8 @@
     "xws": "burningsparks",
     "level": "1",
     "initiative": "33",
-    "cardno": "213"
+    "cardno": "213",
+    "character-xws": "luminary"
   },
   {
     "name": "chilling wave",
@@ -16257,7 +17882,8 @@
     "xws": "chillingwave",
     "level": "1",
     "initiative": "39",
-    "cardno": "214"
+    "cardno": "214",
+    "character-xws": "luminary"
   },
   {
     "name": "colorful wavelengths",
@@ -16267,7 +17893,8 @@
     "xws": "colorfulwavelengths",
     "level": "5",
     "initiative": "83",
-    "cardno": "233"
+    "cardno": "233",
+    "character-xws": "luminary"
   },
   {
     "name": "darkened overcast",
@@ -16277,7 +17904,8 @@
     "xws": "darkenedovercast",
     "level": "2",
     "initiative": "10",
-    "cardno": "227"
+    "cardno": "227",
+    "character-xws": "luminary"
   },
   {
     "name": "dominating illumination",
@@ -16287,7 +17915,8 @@
     "xws": "dominatingillumination",
     "level": "8",
     "initiative": "51",
-    "cardno": "239"
+    "cardno": "239",
+    "character-xws": "luminary"
   },
   {
     "name": "empowering rays",
@@ -16297,7 +17926,8 @@
     "xws": "empoweringrays",
     "level": "4",
     "initiative": "57",
-    "cardno": "231"
+    "cardno": "231",
+    "character-xws": "luminary"
   },
   {
     "name": "encompassing aura",
@@ -16307,7 +17937,8 @@
     "xws": "encompassingaura",
     "level": "6",
     "initiative": "11",
-    "cardno": "235"
+    "cardno": "235",
+    "character-xws": "luminary"
   },
   {
     "name": "flickering lights",
@@ -16317,7 +17948,8 @@
     "xws": "flickeringlights",
     "level": "1",
     "initiative": "19",
-    "cardno": "215"
+    "cardno": "215",
+    "character-xws": "luminary"
   },
   {
     "name": "floodlight",
@@ -16327,7 +17959,8 @@
     "xws": "floodlight",
     "level": "4",
     "initiative": "71",
-    "cardno": "232"
+    "cardno": "232",
+    "character-xws": "luminary"
   },
   {
     "name": "frosty glimmer",
@@ -16337,7 +17970,8 @@
     "xws": "frostyglimmer",
     "level": "1",
     "initiative": "55",
-    "cardno": "216"
+    "cardno": "216",
+    "character-xws": "luminary"
   },
   {
     "name": "gamma energy",
@@ -16347,7 +17981,8 @@
     "xws": "gammaenergy",
     "level": "7",
     "initiative": "65",
-    "cardno": "237"
+    "cardno": "237",
+    "character-xws": "luminary"
   },
   {
     "name": "heat waves",
@@ -16357,7 +17992,8 @@
     "xws": "heatwaves",
     "level": "1",
     "initiative": "73",
-    "cardno": "217"
+    "cardno": "217",
+    "character-xws": "luminary"
   },
   {
     "name": "imposing brilliance",
@@ -16367,7 +18003,8 @@
     "xws": "imposingbrilliance",
     "level": "6",
     "initiative": "86",
-    "cardno": "236"
+    "cardno": "236",
+    "character-xws": "luminary"
   },
   {
     "name": "light the way",
@@ -16377,7 +18014,8 @@
     "xws": "lighttheway",
     "level": "9",
     "initiative": "93",
-    "cardno": "242"
+    "cardno": "242",
+    "character-xws": "luminary"
   },
   {
     "name": "gleaming squid",
@@ -16387,7 +18025,8 @@
     "xws": "lighttheway",
     "level": "9",
     "initiative": "93",
-    "cardno": "242"
+    "cardno": "242",
+    "character-xws": "luminary"
   },
   {
     "name": "luminescence",
@@ -16397,7 +18036,8 @@
     "xws": "luminescence",
     "level": "2",
     "initiative": "66",
-    "cardno": "228"
+    "cardno": "228",
+    "character-xws": "luminary"
   },
   {
     "name": "moonbeam",
@@ -16407,7 +18047,8 @@
     "xws": "moonbeam",
     "level": "1",
     "initiative": "85",
-    "cardno": "218"
+    "cardno": "218",
+    "character-xws": "luminary"
   },
   {
     "name": "optical refraction",
@@ -16417,7 +18058,8 @@
     "xws": "opticalrefraction",
     "level": "8",
     "initiative": "37",
-    "cardno": "240"
+    "cardno": "240",
+    "character-xws": "luminary"
   },
   {
     "name": "photonic defense",
@@ -16427,7 +18069,8 @@
     "xws": "photonicdefense",
     "level": "7",
     "initiative": "09",
-    "cardno": "238"
+    "cardno": "238",
+    "character-xws": "luminary"
   },
   {
     "name": "radiant glare",
@@ -16437,7 +18080,8 @@
     "xws": "radiantglare",
     "level": "1",
     "initiative": "36",
-    "cardno": "219"
+    "cardno": "219",
+    "character-xws": "luminary"
   },
   {
     "name": "shadow claws",
@@ -16447,7 +18091,8 @@
     "xws": "shadowclaws",
     "level": "5",
     "initiative": "25",
-    "cardno": "234"
+    "cardno": "234",
+    "character-xws": "luminary"
   },
   {
     "name": "shimmering scuttle",
@@ -16457,7 +18102,8 @@
     "xws": "shimmeringscuttle",
     "level": "1",
     "initiative": "21",
-    "cardno": "220"
+    "cardno": "220",
+    "character-xws": "luminary"
   },
   {
     "name": "shining diversion",
@@ -16467,7 +18113,8 @@
     "xws": "shiningdiversion",
     "level": "3",
     "initiative": "29",
-    "cardno": "230"
+    "cardno": "230",
+    "character-xws": "luminary"
   },
   {
     "name": "soft glow",
@@ -16477,7 +18124,8 @@
     "xws": "softglow",
     "level": "1",
     "initiative": "24",
-    "cardno": "221"
+    "cardno": "221",
+    "character-xws": "luminary"
   },
   {
     "name": "solid light",
@@ -16487,7 +18135,8 @@
     "xws": "solidlight",
     "level": "X",
     "initiative": "12",
-    "cardno": "224"
+    "cardno": "224",
+    "character-xws": "luminary"
   },
   {
     "name": "sparkling glow",
@@ -16497,7 +18146,8 @@
     "xws": "sparklingglow",
     "level": "X",
     "initiative": "27",
-    "cardno": "225"
+    "cardno": "225",
+    "character-xws": "luminary"
   },
   {
     "name": "torrid radiation",
@@ -16507,7 +18157,8 @@
     "xws": "torridradiation",
     "level": "1",
     "initiative": "76",
-    "cardno": "222"
+    "cardno": "222",
+    "character-xws": "luminary"
   },
   {
     "name": "trickling sting",
@@ -16517,7 +18168,8 @@
     "xws": "tricklingsting",
     "level": "X",
     "initiative": "43",
-    "cardno": "226"
+    "cardno": "226",
+    "character-xws": "luminary"
   },
   {
     "name": "violent flash",
@@ -16527,7 +18179,8 @@
     "xws": "violentflash",
     "level": "1",
     "initiative": "40",
-    "cardno": "223"
+    "cardno": "223",
+    "character-xws": "luminary"
   },
   {
     "name": "mf-back",
@@ -16537,7 +18190,8 @@
     "xws": "mfback",
     "level": "-",
     "initiative": "-",
-    "cardno": "-"
+    "cardno": "-",
+    "character-xws": "mirefoot"
   },
   {
     "name": "airborne spores",
@@ -16547,7 +18201,8 @@
     "xws": "airbornespores",
     "level": "2",
     "initiative": "21",
-    "cardno": "257"
+    "cardno": "257",
+    "character-xws": "mirefoot"
   },
   {
     "name": "anticoagulant",
@@ -16557,7 +18212,8 @@
     "xws": "anticoagulant",
     "level": "6",
     "initiative": "12",
-    "cardno": "265"
+    "cardno": "265",
+    "character-xws": "mirefoot"
   },
   {
     "name": "blood thinner",
@@ -16567,7 +18223,8 @@
     "xws": "bloodthinner",
     "level": "1",
     "initiative": "11",
-    "cardno": "243"
+    "cardno": "243",
+    "character-xws": "mirefoot"
   },
   {
     "name": "bogstep",
@@ -16577,7 +18234,8 @@
     "xws": "bogstep",
     "level": "1",
     "initiative": "16",
-    "cardno": "244"
+    "cardno": "244",
+    "character-xws": "mirefoot"
   },
   {
     "name": "complex toxicology",
@@ -16587,7 +18245,8 @@
     "xws": "complextoxicology",
     "level": "9",
     "initiative": "35",
-    "cardno": "271"
+    "cardno": "271",
+    "character-xws": "mirefoot"
   },
   {
     "name": "compound toxin",
@@ -16597,7 +18256,8 @@
     "xws": "compoundtoxin",
     "level": "5",
     "initiative": "61",
-    "cardno": "263"
+    "cardno": "263",
+    "character-xws": "mirefoot"
   },
   {
     "name": "copperneck berries",
@@ -16607,7 +18267,8 @@
     "xws": "copperneckberries",
     "level": "X",
     "initiative": "70",
-    "cardno": "255"
+    "cardno": "255",
+    "character-xws": "mirefoot"
   },
   {
     "name": "death sentence",
@@ -16617,7 +18278,8 @@
     "xws": "deathsentence",
     "level": "1",
     "initiative": "08",
-    "cardno": "245"
+    "cardno": "245",
+    "character-xws": "mirefoot"
   },
   {
     "name": "fireroot sap",
@@ -16627,7 +18289,8 @@
     "xws": "firerootsap",
     "level": "4",
     "initiative": "91",
-    "cardno": "261"
+    "cardno": "261",
+    "character-xws": "mirefoot"
   },
   {
     "name": "ground solvent",
@@ -16637,7 +18300,8 @@
     "xws": "groundsolvent",
     "level": "1",
     "initiative": "63",
-    "cardno": "246"
+    "cardno": "246",
+    "character-xws": "mirefoot"
   },
   {
     "name": "hide and seek",
@@ -16647,7 +18311,8 @@
     "xws": "hideandseek",
     "level": "3",
     "initiative": "43",
-    "cardno": "259"
+    "cardno": "259",
+    "character-xws": "mirefoot"
   },
   {
     "name": "lashing vines",
@@ -16657,7 +18322,8 @@
     "xws": "lashingvines",
     "level": "1",
     "initiative": "13",
-    "cardno": "247"
+    "cardno": "247",
+    "character-xws": "mirefoot"
   },
   {
     "name": "flailing ivies",
@@ -16667,7 +18333,8 @@
     "xws": "lashingvines",
     "level": "1",
     "initiative": "13",
-    "cardno": "247"
+    "cardno": "247",
+    "character-xws": "mirefoot"
   },
   {
     "name": "lingering swamp moss",
@@ -16677,7 +18344,8 @@
     "xws": "lingeringswampmoss",
     "level": "9",
     "initiative": "94",
-    "cardno": "270"
+    "cardno": "270",
+    "character-xws": "mirefoot"
   },
   {
     "name": "mudslide",
@@ -16687,7 +18355,8 @@
     "xws": "mudslide",
     "level": "1",
     "initiative": "18",
-    "cardno": "252"
+    "cardno": "252",
+    "character-xws": "mirefoot"
   },
   {
     "name": "neurotoxin",
@@ -16697,7 +18366,8 @@
     "xws": "neurotoxin",
     "level": "1",
     "initiative": "84",
-    "cardno": "248"
+    "cardno": "248",
+    "character-xws": "mirefoot"
   },
   {
     "name": "paralytic agent",
@@ -16707,7 +18377,8 @@
     "xws": "paralyticagent",
     "level": "1",
     "initiative": "76",
-    "cardno": "249"
+    "cardno": "249",
+    "character-xws": "mirefoot"
   },
   {
     "name": "personal poison",
@@ -16717,7 +18388,8 @@
     "xws": "personalpoison",
     "level": "5",
     "initiative": "86",
-    "cardno": "262"
+    "cardno": "262",
+    "character-xws": "mirefoot"
   },
   {
     "name": "potent mixture",
@@ -16727,7 +18399,8 @@
     "xws": "potentmixture",
     "level": "3",
     "initiative": "17",
-    "cardno": "258"
+    "cardno": "258",
+    "character-xws": "mirefoot"
   },
   {
     "name": "radiant forest fungi",
@@ -16737,7 +18410,8 @@
     "xws": "radiantforestfungi",
     "level": "4",
     "initiative": "06",
-    "cardno": "260"
+    "cardno": "260",
+    "character-xws": "mirefoot"
   },
   {
     "name": "serpent's kiss",
@@ -16747,7 +18421,8 @@
     "xws": "serpentskiss",
     "level": "1",
     "initiative": "89",
-    "cardno": "250"
+    "cardno": "250",
+    "character-xws": "mirefoot"
   },
   {
     "name": "sinkhole",
@@ -16757,7 +18432,8 @@
     "xws": "sinkhole",
     "level": "X",
     "initiative": "29",
-    "cardno": "253"
+    "cardno": "253",
+    "character-xws": "mirefoot"
   },
   {
     "name": "sludge bomb",
@@ -16767,7 +18443,8 @@
     "xws": "sludgebomb",
     "level": "7",
     "initiative": "07",
-    "cardno": "267"
+    "cardno": "267",
+    "character-xws": "mirefoot"
   },
   {
     "name": "still river algae",
@@ -16777,7 +18454,8 @@
     "xws": "stillriveralgae",
     "level": "1",
     "initiative": "09",
-    "cardno": "251"
+    "cardno": "251",
+    "character-xws": "mirefoot"
   },
   {
     "name": "tainted waters",
@@ -16787,7 +18465,8 @@
     "xws": "taintedwaters",
     "level": "6",
     "initiative": "88",
-    "cardno": "264"
+    "cardno": "264",
+    "character-xws": "mirefoot"
   },
   {
     "name": "throwing daggers",
@@ -16797,7 +18476,8 @@
     "xws": "throwingdaggers",
     "level": "2",
     "initiative": "49",
-    "cardno": "256"
+    "cardno": "256",
+    "character-xws": "mirefoot"
   },
   {
     "name": "twist the blade",
@@ -16807,7 +18487,8 @@
     "xws": "twisttheblade",
     "level": "8",
     "initiative": "19",
-    "cardno": "269"
+    "cardno": "269",
+    "character-xws": "mirefoot"
   },
   {
     "name": "volatile tonic",
@@ -16817,7 +18498,8 @@
     "xws": "volatiletonic",
     "level": "X",
     "initiative": "31",
-    "cardno": "254"
+    "cardno": "254",
+    "character-xws": "mirefoot"
   },
   {
     "name": "whitefire balm",
@@ -16827,7 +18509,8 @@
     "xws": "whitefirebalm",
     "level": "8",
     "initiative": "20",
-    "cardno": "268"
+    "cardno": "268",
+    "character-xws": "mirefoot"
   },
   {
     "name": "wild stings",
@@ -16837,7 +18520,8 @@
     "xws": "wildstings",
     "level": "7",
     "initiative": "71",
-    "cardno": "266"
+    "cardno": "266",
+    "character-xws": "mirefoot"
   },
   {
     "name": "crypt nettle",
@@ -16847,7 +18531,8 @@
     "xws": "wildstings",
     "level": "7",
     "initiative": "71",
-    "cardno": "266"
+    "cardno": "266",
+    "character-xws": "mirefoot"
   },
   {
     "name": "qa-back",
@@ -16857,7 +18542,8 @@
     "xws": "qaback",
     "level": "-",
     "initiative": "-",
-    "cardno": "-"
+    "cardno": "-",
+    "character-xws": "artificer"
   },
   {
     "name": "annihilating contraption",
@@ -16867,7 +18553,8 @@
     "xws": "annihilatingcontraption",
     "level": "9",
     "initiative": "89",
-    "cardno": "QA-029"
+    "cardno": "QA-029",
+    "character-xws": "artificer"
   },
   {
     "name": "clockwork ravager",
@@ -16877,7 +18564,8 @@
     "xws": "annihilatingcontraption",
     "level": "9",
     "initiative": "89",
-    "cardno": "QA-029"
+    "cardno": "QA-029",
+    "character-xws": "artificer"
   },
   {
     "name": "double-barrel railcaster",
@@ -16887,7 +18575,8 @@
     "xws": "doublebarrelrailcaster",
     "level": "8",
     "initiative": "37",
-    "cardno": "QA-028"
+    "cardno": "QA-028",
+    "character-xws": "artificer"
   },
   {
     "name": "elemental condenser",
@@ -16897,7 +18586,8 @@
     "xws": "elementalcondenser",
     "level": "2",
     "initiative": "04",
-    "cardno": "QA-016"
+    "cardno": "QA-016",
+    "character-xws": "artificer"
   },
   {
     "name": "energy transmission",
@@ -16907,7 +18597,8 @@
     "xws": "energytransmission",
     "level": "4",
     "initiative": "X5",
-    "cardno": "QA-019"
+    "cardno": "QA-019",
+    "character-xws": "artificer"
   },
   {
     "name": "fragmentation grenade",
@@ -16917,7 +18608,8 @@
     "xws": "fragmentationgrenade",
     "level": "1",
     "initiative": "45",
-    "cardno": "QA-005"
+    "cardno": "QA-005",
+    "character-xws": "artificer"
   },
   {
     "name": "galvanic coil",
@@ -16927,7 +18619,8 @@
     "xws": "galvaniccoil",
     "level": "6",
     "initiative": "X7",
-    "cardno": "QA-023"
+    "cardno": "QA-023",
+    "character-xws": "artificer"
   },
   {
     "name": "gravity inverter module",
@@ -16937,7 +18630,8 @@
     "xws": "gravityinvertermodule",
     "level": "1",
     "initiative": "20",
-    "cardno": "QA-010"
+    "cardno": "QA-010",
+    "character-xws": "artificer"
   },
   {
     "name": "improvised exosuit",
@@ -16947,7 +18641,8 @@
     "xws": "improvisedexosuit",
     "level": "X",
     "initiative": "90",
-    "cardno": "QA-014"
+    "cardno": "QA-014",
+    "character-xws": "artificer"
   },
   {
     "name": "hollow carapace",
@@ -16957,7 +18652,8 @@
     "xws": "improvisedexosuit",
     "level": "X",
     "initiative": "90",
-    "cardno": "QA-014"
+    "cardno": "QA-014",
+    "character-xws": "artificer"
   },
   {
     "name": "improvised mortar",
@@ -16967,7 +18663,8 @@
     "xws": "improvisedmortar",
     "level": "1",
     "initiative": "93",
-    "cardno": "QA-004"
+    "cardno": "QA-004",
+    "character-xws": "artificer"
   },
   {
     "name": "clockwork bombard",
@@ -16977,7 +18674,8 @@
     "xws": "improvisedmortar",
     "level": "1",
     "initiative": "93",
-    "cardno": "QA-004"
+    "cardno": "QA-004",
+    "character-xws": "artificer"
   },
   {
     "name": "instant relocation matrix",
@@ -16987,7 +18685,8 @@
     "xws": "instantrelocationmatrix",
     "level": "8",
     "initiative": "X9",
-    "cardno": "QA-027"
+    "cardno": "QA-027",
+    "character-xws": "artificer"
   },
   {
     "name": "jury-rigged machine",
@@ -16997,7 +18696,8 @@
     "xws": "juryriggedmachine",
     "level": "1",
     "initiative": "88",
-    "cardno": "QA-003"
+    "cardno": "QA-003",
+    "character-xws": "artificer"
   },
   {
     "name": "clockwork soldier",
@@ -17007,7 +18707,8 @@
     "xws": "juryriggedmachine",
     "level": "1",
     "initiative": "88",
-    "cardno": "QA-003"
+    "cardno": "QA-003",
+    "character-xws": "artificer"
   },
   {
     "name": "launch skywards",
@@ -17017,7 +18718,8 @@
     "xws": "launchskywards",
     "level": "5",
     "initiative": "92",
-    "cardno": "QA-021"
+    "cardno": "QA-021",
+    "character-xws": "artificer"
   },
   {
     "name": "clockwork drone",
@@ -17027,7 +18729,8 @@
     "xws": "launchskywards",
     "level": "5",
     "initiative": "92",
-    "cardno": "QA-021"
+    "cardno": "QA-021",
+    "character-xws": "artificer"
   },
   {
     "name": "march of machines",
@@ -17037,7 +18740,8 @@
     "xws": "marchofmachines",
     "level": "6",
     "initiative": "50",
-    "cardno": "QA-024"
+    "cardno": "QA-024",
+    "character-xws": "artificer"
   },
   {
     "name": "oscillating projector",
@@ -17047,7 +18751,8 @@
     "xws": "oscillatingprojector",
     "level": "5",
     "initiative": "22",
-    "cardno": "QA-022"
+    "cardno": "QA-022",
+    "character-xws": "artificer"
   },
   {
     "name": "particle ray beam",
@@ -17057,7 +18762,8 @@
     "xws": "particleraybeam",
     "level": "1",
     "initiative": "36",
-    "cardno": "QA-011"
+    "cardno": "QA-011",
+    "character-xws": "artificer"
   },
   {
     "name": "perfected exosuit",
@@ -17067,7 +18773,8 @@
     "xws": "perfectedexosuit",
     "level": "9",
     "initiative": "08",
-    "cardno": "QA-030"
+    "cardno": "QA-030",
+    "character-xws": "artificer"
   },
   {
     "name": "phase field emitter",
@@ -17077,7 +18784,8 @@
     "xws": "phasefieldemitter",
     "level": "1",
     "initiative": "12",
-    "cardno": "QA-009"
+    "cardno": "QA-009",
+    "character-xws": "artificer"
   },
   {
     "name": "power modulation",
@@ -17087,7 +18795,8 @@
     "xws": "powermodulation",
     "level": "X",
     "initiative": "X1",
-    "cardno": "QA-012"
+    "cardno": "QA-012",
+    "character-xws": "artificer"
   },
   {
     "name": "ransack clutter",
@@ -17097,7 +18806,8 @@
     "xws": "ransackclutter",
     "level": "4",
     "initiative": "18",
-    "cardno": "QA-020"
+    "cardno": "QA-020",
+    "character-xws": "artificer"
   },
   {
     "name": "recycle parts",
@@ -17107,7 +18817,8 @@
     "xws": "recycleparts",
     "level": "1",
     "initiative": "24",
-    "cardno": "QA-006"
+    "cardno": "QA-006",
+    "character-xws": "artificer"
   },
   {
     "name": "reinforce armor",
@@ -17117,7 +18828,8 @@
     "xws": "reinforcearmor",
     "level": "7",
     "initiative": "26",
-    "cardno": "QA-026"
+    "cardno": "QA-026",
+    "character-xws": "artificer"
   },
   {
     "name": "remote control",
@@ -17127,7 +18839,8 @@
     "xws": "remotecontrol",
     "level": "X",
     "initiative": "37",
-    "cardno": "QA-013"
+    "cardno": "QA-013",
+    "character-xws": "artificer"
   },
   {
     "name": "repurpose leftovers",
@@ -17137,7 +18850,8 @@
     "xws": "repurposeleftovers",
     "level": "1",
     "initiative": "68",
-    "cardno": "QA-007"
+    "cardno": "QA-007",
+    "character-xws": "artificer"
   },
   {
     "name": "retrofit weapons",
@@ -17147,7 +18861,8 @@
     "xws": "retrofitweapons",
     "level": "3",
     "initiative": "60",
-    "cardno": "QA-018"
+    "cardno": "QA-018",
+    "character-xws": "artificer"
   },
   {
     "name": "salvage grappler",
@@ -17157,7 +18872,8 @@
     "xws": "salvagegrappler",
     "level": "1",
     "initiative": "46",
-    "cardno": "QA-008"
+    "cardno": "QA-008",
+    "character-xws": "artificer"
   },
   {
     "name": "seeker missiles",
@@ -17167,7 +18883,8 @@
     "xws": "seekermissiles",
     "level": "7",
     "initiative": "77",
-    "cardno": "QA-025"
+    "cardno": "QA-025",
+    "character-xws": "artificer"
   },
   {
     "name": "clockwork rocket",
@@ -17177,7 +18894,8 @@
     "xws": "seekermissiles",
     "level": "7",
     "initiative": "77",
-    "cardno": "QA-025"
+    "cardno": "QA-025",
+    "character-xws": "artificer"
   },
   {
     "name": "trajectory diverter",
@@ -17187,7 +18905,8 @@
     "xws": "trajectorydiverter",
     "level": "2",
     "initiative": "X3",
-    "cardno": "QA-015"
+    "cardno": "QA-015",
+    "character-xws": "artificer"
   },
   {
     "name": "trudging bulwark",
@@ -17197,7 +18916,8 @@
     "xws": "trudgingbulwark",
     "level": "3",
     "initiative": "73",
-    "cardno": "QA-017"
+    "cardno": "QA-017",
+    "character-xws": "artificer"
   },
   {
     "name": "clockwork guardian",
@@ -17207,7 +18927,8 @@
     "xws": "trudgingbulwark",
     "level": "3",
     "initiative": "73",
-    "cardno": "QA-017"
+    "cardno": "QA-017",
+    "character-xws": "artificer"
   },
   {
     "name": "rm-back",
@@ -17217,7 +18938,8 @@
     "xws": "rmback",
     "level": "-",
     "initiative": "-",
-    "cardno": "-"
+    "cardno": "-",
+    "character-xws": "ruinmaw"
   },
   {
     "name": "belly of the beast",
@@ -17227,7 +18949,8 @@
     "xws": "bellyofthebeast",
     "level": "9",
     "initiative": "38",
-    "cardno": "RM-031"
+    "cardno": "RM-031",
+    "character-xws": "ruinmaw"
   },
   {
     "name": "berserk barrage",
@@ -17237,7 +18960,8 @@
     "xws": "berserkbarrage",
     "level": "1",
     "initiative": "53",
-    "cardno": "RM-003"
+    "cardno": "RM-003",
+    "character-xws": "ruinmaw"
   },
   {
     "name": "burning bile",
@@ -17247,7 +18971,8 @@
     "xws": "burningbile",
     "level": "1",
     "initiative": "45",
-    "cardno": "RM-004"
+    "cardno": "RM-004",
+    "character-xws": "ruinmaw"
   },
   {
     "name": "caustic claws",
@@ -17257,7 +18982,8 @@
     "xws": "causticclaws",
     "level": "1",
     "initiative": "78",
-    "cardno": "RM-005"
+    "cardno": "RM-005",
+    "character-xws": "ruinmaw"
   },
   {
     "name": "cornered animal",
@@ -17267,7 +18993,8 @@
     "xws": "corneredanimal",
     "level": "X",
     "initiative": "12",
-    "cardno": "RM-014"
+    "cardno": "RM-014",
+    "character-xws": "ruinmaw"
   },
   {
     "name": "corrosive spew",
@@ -17277,7 +19004,8 @@
     "xws": "corrosivespew",
     "level": "6",
     "initiative": "50",
-    "cardno": "RM-025"
+    "cardno": "RM-025",
+    "character-xws": "ruinmaw"
   },
   {
     "name": "devour whole",
@@ -17287,7 +19015,8 @@
     "xws": "devourwhole",
     "level": "8",
     "initiative": "69",
-    "cardno": "RM-029"
+    "cardno": "RM-029",
+    "character-xws": "ruinmaw"
   },
   {
     "name": "easy prey",
@@ -17297,7 +19026,8 @@
     "xws": "easyprey",
     "level": "1",
     "initiative": "55",
-    "cardno": "RM-006"
+    "cardno": "RM-006",
+    "character-xws": "ruinmaw"
   },
   {
     "name": "fatal frenzy",
@@ -17307,7 +19037,8 @@
     "xws": "fatalfrenzy",
     "level": "2",
     "initiative": "40",
-    "cardno": "RM-018"
+    "cardno": "RM-018",
+    "character-xws": "ruinmaw"
   },
   {
     "name": "feast of flesh",
@@ -17317,7 +19048,8 @@
     "xws": "feastofflesh",
     "level": "1",
     "initiative": "73",
-    "cardno": "RM-007"
+    "cardno": "RM-007",
+    "character-xws": "ruinmaw"
   },
   {
     "name": "feral lunge",
@@ -17327,7 +19059,8 @@
     "xws": "ferallunge",
     "level": "1",
     "initiative": "31",
-    "cardno": "RM-008"
+    "cardno": "RM-008",
+    "character-xws": "ruinmaw"
   },
   {
     "name": "ferocious fling",
@@ -17337,7 +19070,8 @@
     "xws": "ferociousfling",
     "level": "3",
     "initiative": "86",
-    "cardno": "RM-020"
+    "cardno": "RM-020",
+    "character-xws": "ruinmaw"
   },
   {
     "name": "fight or flight",
@@ -17347,7 +19081,8 @@
     "xws": "fightorflight",
     "level": "1",
     "initiative": "35",
-    "cardno": "RM-009"
+    "cardno": "RM-009",
+    "character-xws": "ruinmaw"
   },
   {
     "name": "heartripper",
@@ -17357,7 +19092,8 @@
     "xws": "heartripper",
     "level": "8",
     "initiative": "90",
-    "cardno": "RM-030"
+    "cardno": "RM-030",
+    "character-xws": "ruinmaw"
   },
   {
     "name": "indomitable craving",
@@ -17367,7 +19103,8 @@
     "xws": "indomitablecraving",
     "level": "7",
     "initiative": "22",
-    "cardno": "RM-027"
+    "cardno": "RM-027",
+    "character-xws": "ruinmaw"
   },
   {
     "name": "lie in wait",
@@ -17377,7 +19114,8 @@
     "xws": "lieinwait",
     "level": "4",
     "initiative": "15",
-    "cardno": "RM-022"
+    "cardno": "RM-022",
+    "character-xws": "ruinmaw"
   },
   {
     "name": "nourishing meal",
@@ -17387,7 +19125,8 @@
     "xws": "nourishingmeal",
     "level": "1",
     "initiative": "83",
-    "cardno": "RM-010"
+    "cardno": "RM-010",
+    "character-xws": "ruinmaw"
   },
   {
     "name": "pouncing predator",
@@ -17397,7 +19136,8 @@
     "xws": "pouncingpredator",
     "level": "6",
     "initiative": "11",
-    "cardno": "RM-026"
+    "cardno": "RM-026",
+    "character-xws": "ruinmaw"
   },
   {
     "name": "ravenous roar",
@@ -17407,7 +19147,8 @@
     "xws": "ravenousroar",
     "level": "4",
     "initiative": "25",
-    "cardno": "RM-021"
+    "cardno": "RM-021",
+    "character-xws": "ruinmaw"
   },
   {
     "name": "reckless attack",
@@ -17417,7 +19158,8 @@
     "xws": "recklessattack",
     "level": "1",
     "initiative": "65",
-    "cardno": "RM-011"
+    "cardno": "RM-011",
+    "character-xws": "ruinmaw"
   },
   {
     "name": "rend and mutilate",
@@ -17427,7 +19169,8 @@
     "xws": "rendandmutilate",
     "level": "5",
     "initiative": "74",
-    "cardno": "RM-023"
+    "cardno": "RM-023",
+    "character-xws": "ruinmaw"
   },
   {
     "name": "rip and tear",
@@ -17437,7 +19180,8 @@
     "xws": "ripandtear",
     "level": "9",
     "initiative": "42",
-    "cardno": "RM-032"
+    "cardno": "RM-032",
+    "character-xws": "ruinmaw"
   },
   {
     "name": "savage stalker",
@@ -17447,7 +19191,8 @@
     "xws": "savagestalker",
     "level": "3",
     "initiative": "20",
-    "cardno": "RM-019"
+    "cardno": "RM-019",
+    "character-xws": "ruinmaw"
   },
   {
     "name": "scrape and scrounge",
@@ -17457,7 +19202,8 @@
     "xws": "scrapeandscrounge",
     "level": "X",
     "initiative": "24",
-    "cardno": "RM-015"
+    "cardno": "RM-015",
+    "character-xws": "ruinmaw"
   },
   {
     "name": "seize",
@@ -17467,7 +19213,8 @@
     "xws": "seize",
     "level": "X",
     "initiative": "29",
-   "cardno": "RM-016"
+   "cardno": "RM-016",
+    "character-xws": "ruinmaw"
   },
   {
     "name": "slake thirst",
@@ -17477,7 +19224,8 @@
     "xws": "slakethirst",
     "level": "2",
     "initiative": "26",
-    "cardno": "RM-017"
+    "cardno": "RM-017",
+    "character-xws": "ruinmaw"
   },
   {
     "name": "strip the flesh",
@@ -17487,7 +19235,8 @@
     "xws": "striptheflesh",
     "level": "1",
     "initiative": "17",
-    "cardno": "RM-012"
+    "cardno": "RM-012",
+    "character-xws": "ruinmaw"
   },
   {
     "name": "survival instincts",
@@ -17497,7 +19246,8 @@
     "xws": "survivalinstincts",
     "level": "7",
     "initiative": "13",
-    "cardno": "RM-028"
+    "cardno": "RM-028",
+    "character-xws": "ruinmaw"
   },
   {
     "name": "terrifying howl",
@@ -17507,7 +19257,8 @@
     "xws": "terrifyinghowl",
     "level": "1",
     "initiative": "22",
-    "cardno": "RM-013"
+    "cardno": "RM-013",
+    "character-xws": "ruinmaw"
   },
   {
     "name": "voracious hunter",
@@ -17517,7 +19268,8 @@
     "xws": "voracioushunter",
     "level": "5",
     "initiative": "32",
-    "cardno": "RM-024"
+    "cardno": "RM-024",
+    "character-xws": "ruinmaw"
   },
   {
     "name": "sp-back",
@@ -17527,7 +19279,8 @@
     "xws": "spback",
     "level": "-",
     "initiative": "-",
-    "cardno": "-"
+    "cardno": "-",
+    "character-xws": "spirit caller"
   },
   {
     "name": "burning pit",
@@ -17537,7 +19290,8 @@
     "xws": "burningpit",
     "level": "1",
     "initiative": "45",
-    "cardno": "272"
+    "cardno": "272",
+    "character-xws": "spirit caller"
   },
   {
     "name": "blazing fire",
@@ -17547,7 +19301,8 @@
     "xws": "burningpit",
     "level": "1",
     "initiative": "45",
-    "cardno": "272"
+    "cardno": "272",
+    "character-xws": "spirit caller"
   },
   {
     "name": "chilling slice",
@@ -17557,7 +19312,8 @@
     "xws": "chillingslice",
     "level": "8",
     "initiative": "66",
-    "cardno": "297"
+    "cardno": "297",
+    "character-xws": "spirit caller"
   },
   {
     "name": "circle of lifeless",
@@ -17567,7 +19323,8 @@
     "xws": "circleoflifeless",
     "level": "8",
     "initiative": "90",
-    "cardno": "298"
+    "cardno": "298",
+    "character-xws": "spirit caller"
   },
   {
     "name": "confidence ritual",
@@ -17577,7 +19334,8 @@
     "xws": "confidenceritual",
     "level": "1",
     "initiative": "30",
-    "cardno": "273"
+    "cardno": "273",
+    "character-xws": "spirit caller"
   },
   {
     "name": "death is not defeat",
@@ -17587,7 +19345,8 @@
     "xws": "deathisnotdefeat",
     "level": "9",
     "initiative": "97",
-    "cardno": "299"
+    "cardno": "299",
+    "character-xws": "spirit caller"
   },
   {
     "name": "decaying daggers",
@@ -17597,7 +19356,8 @@
     "xws": "decayingdaggers",
     "level": "3",
     "initiative": "28",
-    "cardno": "287"
+    "cardno": "287",
+    "character-xws": "spirit caller"
   },
   {
     "name": "dimmed defense",
@@ -17607,7 +19367,8 @@
     "xws": "dimmeddefense",
     "level": "1",
     "initiative": "12",
-    "cardno": "274"
+    "cardno": "274",
+    "character-xws": "spirit caller"
   },
   {
     "name": "wall of shadows",
@@ -17617,7 +19378,8 @@
     "xws": "dimmeddefense",
     "level": "1",
     "initiative": "12",
-    "cardno": "274"
+    "cardno": "274",
+    "character-xws": "spirit caller"
   },
   {
     "name": "eternal endurance",
@@ -17627,7 +19389,8 @@
     "xws": "eternalendurance",
     "level": "9",
     "initiative": "06",
-    "cardno": "300"
+    "cardno": "300",
+    "character-xws": "spirit caller"
   },
   {
     "name": "wandering soul",
@@ -17637,7 +19400,8 @@
     "xws": "eternalendurance",
     "level": "9",
     "initiative": "6",
-    "cardno": "300"
+    "cardno": "300",
+    "character-xws": "spirit caller"
   },
   {
     "name": "disembodied goliath",
@@ -17647,7 +19411,8 @@
     "xws": "eternalendurance",
     "level": "9",
     "initiative": "6",
-    "cardno": "300"
+    "cardno": "300",
+    "character-xws": "spirit caller"
   },
   {
     "name": "ethereal canine",
@@ -17657,7 +19422,8 @@
     "xws": "etherealcanine",
     "level": "1",
     "initiative": "27",
-    "cardno": "275"
+    "cardno": "275",
+    "character-xws": "spirit caller"
   },
   {
     "name": "phantom hound",
@@ -17667,7 +19433,8 @@
     "xws": "etherealcanine",
     "level": "1",
     "initiative": "27",
-    "cardno": "275"
+    "cardno": "275",
+    "character-xws": "spirit caller"
   },
   {
     "name": "fear the reaper",
@@ -17677,7 +19444,8 @@
     "xws": "fearthereaper",
     "level": "X",
     "initiative": "91",
-    "cardno": "282"
+    "cardno": "282",
+    "character-xws": "spirit caller"
   },
   {
     "name": "deatheater",
@@ -17687,7 +19455,8 @@
     "xws": "fearthereaper",
     "level": "X",
     "initiative": "91",
-    "cardno": "282"
+    "cardno": "282",
+    "character-xws": "spirit caller"
   },
   {
     "name": "fierce loyalty",
@@ -17697,7 +19466,8 @@
     "xws": "fierceloyalty",
     "level": "6",
     "initiative": "20",
-    "cardno": "293"
+    "cardno": "293",
+    "character-xws": "spirit caller"
   },
   {
     "name": "mimicking sprite",
@@ -17707,7 +19477,8 @@
     "xws": "fierceloyalty",
     "level": "6",
     "initiative": "20",
-    "cardno": "293"
+    "cardno": "293",
+    "character-xws": "spirit caller"
   },
   {
     "name": "flurry of madness",
@@ -17717,7 +19488,8 @@
     "xws": "flurryofmadness",
     "level": "2",
     "initiative": "42",
-    "cardno": "285"
+    "cardno": "285",
+    "character-xws": "spirit caller"
   },
   {
     "name": "bat cloud",
@@ -17727,7 +19499,8 @@
     "xws": "flurryofmadness",
     "level": "2",
     "initiative": "42",
-    "cardno": "285"
+    "cardno": "285",
+    "character-xws": "spirit caller"
   },
   {
     "name": "forceful apparition",
@@ -17737,7 +19510,8 @@
     "xws": "forcefulapparition",
     "level": "X",
     "initiative": "16",
-    "cardno": "283"
+    "cardno": "283",
+    "character-xws": "spirit caller"
   },
   {
     "name": "leeching phantasm",
@@ -17747,7 +19521,8 @@
     "xws": "forcefulapparition",
     "level": "X",
     "initiative": "16",
-    "cardno": "283"
+    "cardno": "283",
+    "character-xws": "spirit caller"
   },
   {
     "name": "horde of bones",
@@ -17757,7 +19532,8 @@
     "xws": "hordeofbones",
     "level": "1",
     "initiative": "79",
-    "cardno": "276"
+    "cardno": "276",
+    "character-xws": "spirit caller"
   },
   {
     "name": "skeletal archer",
@@ -17767,7 +19543,8 @@
     "xws": "hordeofbones",
     "level": "1",
     "initiative": "79",
-    "cardno": "276"
+    "cardno": "276",
+    "character-xws": "spirit caller"
   },
   {
     "name": "horrific nightmare",
@@ -17777,7 +19554,8 @@
     "xws": "horrificnightmare",
     "level": "6",
     "initiative": "71",
-    "cardno": "294"
+    "cardno": "294",
+    "character-xws": "spirit caller"
   },
   {
     "name": "soul snatcher",
@@ -17787,7 +19565,8 @@
     "xws": "horrificnightmare",
     "level": "6",
     "initiative": "71",
-    "cardno": "294"
+    "cardno": "294",
+    "character-xws": "spirit caller"
   },
   {
     "name": "incorporeal transport",
@@ -17797,7 +19576,8 @@
     "xws": "incorporealtransport",
     "level": "1",
     "initiative": "74",
-    "cardno": "277"
+    "cardno": "277",
+    "character-xws": "spirit caller"
   },
   {
     "name": "ghost carriage",
@@ -17807,7 +19587,8 @@
     "xws": "incorporealtransport",
     "level": "1",
     "initiative": "74",
-    "cardno": "277"
+    "cardno": "277",
+    "character-xws": "spirit caller"
   },
   {
     "name": "midnight feast",
@@ -17817,7 +19598,8 @@
     "xws": "midnightfeast",
     "level": "1",
     "initiative": "80",
-    "cardno": "278"
+    "cardno": "278",
+    "character-xws": "spirit caller"
   },
   {
     "name": "rise from ashes",
@@ -17827,7 +19609,8 @@
     "xws": "risefromashes",
     "level": "7",
     "initiative": "55",
-    "cardno": "295"
+    "cardno": "295",
+    "character-xws": "spirit caller"
   },
   {
     "name": "glowing egg",
@@ -17837,7 +19620,8 @@
     "xws": "risefromashes",
     "level": "7",
     "initiative": "55",
-    "cardno": "295"
+    "cardno": "295",
+    "character-xws": "spirit caller"
   },
   {
     "name": "spectral phoenix",
@@ -17847,7 +19631,8 @@
     "xws": "risefromashes",
     "level": "7",
     "initiative": "55",
-    "cardno": "296"
+    "cardno": "296",
+    "character-xws": "spirit caller"
   },
   {
     "name": "shamanistic guard",
@@ -17857,7 +19642,8 @@
     "xws": "shamanisticguard",
     "level": "7",
     "initiative": "18",
-    "cardno": "296"
+    "cardno": "296",
+    "character-xws": "spirit caller"
   },
   {
     "name": "vengeful phantasm",
@@ -17867,7 +19653,8 @@
     "xws": "shamanisticguard",
     "level": "7",
     "initiative": "18",
-    "cardno": "296"
+    "cardno": "296",
+    "character-xws": "spirit caller"
   },
   {
     "name": "shrieking spirit",
@@ -17877,7 +19664,8 @@
     "xws": "shriekingspirit",
     "level": "1",
     "initiative": "26",
-    "cardno": "279"
+    "cardno": "279",
+    "character-xws": "spirit caller"
   },
   {
     "name": "wailing banshee",
@@ -17887,7 +19675,8 @@
     "xws": "shriekingspirit",
     "level": "1",
     "initiative": "26",
-    "cardno": "279"
+    "cardno": "279",
+    "character-xws": "spirit caller"
   },
   {
     "name": "smoky shroud",
@@ -17897,7 +19686,8 @@
     "xws": "smokyshroud",
     "level": "2",
     "initiative": "81",
-    "cardno": "286"
+    "cardno": "286",
+    "character-xws": "spirit caller"
   },
   {
     "name": "mantle of darkness",
@@ -17907,7 +19697,8 @@
     "xws": "smokyshroud",
     "level": "2",
     "initiative": "81",
-    "cardno": "286"
+    "cardno": "286",
+    "character-xws": "spirit caller"
   },
   {
     "name": "soul harvest",
@@ -17917,7 +19708,8 @@
     "xws": "soulharvest",
     "level": "5",
     "initiative": "15",
-    "cardno": "291"
+    "cardno": "291",
+    "character-xws": "spirit caller"
   },
   {
     "name": "spirit barrage",
@@ -17927,7 +19719,8 @@
     "xws": "spiritbarrage",
     "level": "4",
     "initiative": "51",
-    "cardno": "289"
+    "cardno": "289",
+    "character-xws": "spirit caller"
   },
   {
     "name": "spiritual energy",
@@ -17937,7 +19730,8 @@
     "xws": "spiritualenergy",
     "level": "5",
     "initiative": "34",
-    "cardno": "292"
+    "cardno": "292",
+    "character-xws": "spirit caller"
   },
   {
     "name": "imbued monolith",
@@ -17947,7 +19741,8 @@
     "xws": "spiritualenergy",
     "level": "5",
     "initiative": "34",
-    "cardno": "292"
+    "cardno": "292",
+    "character-xws": "spirit caller"
   },
   {
     "name": "spread disease",
@@ -17957,7 +19752,8 @@
     "xws": "spreaddisease",
     "level": "3",
     "initiative": "47",
-    "cardno": "288"
+    "cardno": "288",
+    "character-xws": "spirit caller"
   },
   {
     "name": "leprous wraith",
@@ -17967,7 +19763,8 @@
     "xws": "spreaddisease",
     "level": "3",
     "initiative": "47",
-    "cardno": "288"
+    "cardno": "288",
+    "character-xws": "spirit caller"
   },
   {
     "name": "toxic charm",
@@ -17977,7 +19774,8 @@
     "xws": "toxiccharm",
     "level": "1",
     "initiative": "59",
-    "cardno": "280"
+    "cardno": "280",
+    "character-xws": "spirit caller"
   },
   {
     "name": "unholy sacrifice",
@@ -17987,7 +19785,8 @@
     "xws": "unholysacrifice",
     "level": "X",
     "initiative": "23",
-    "cardno": "284"
+    "cardno": "284",
+    "character-xws": "spirit caller"
   },
   {
     "name": "whistling winds",
@@ -17997,7 +19796,8 @@
     "xws": "whistlingwinds",
     "level": "1",
     "initiative": "82",
-    "cardno": "281"
+    "cardno": "281",
+    "character-xws": "spirit caller"
   },
   {
     "name": "white glow",
@@ -18007,7 +19807,8 @@
     "xws": "whiteglow",
     "level": "4",
     "initiative": "77",
-    "cardno": "290"
+    "cardno": "290",
+    "character-xws": "spirit caller"
   },
   {
     "name": "orb of light",
@@ -18017,7 +19818,8 @@
     "xws": "whiteglow",
     "level": "4",
     "initiative": "77",
-    "cardno": "290"
+    "cardno": "290",
+    "character-xws": "spirit caller"
   },
   {
     "name": "shifting discs",
@@ -18027,7 +19829,8 @@
     "xws": "whiteglow",
     "level": "4",
     "initiative": "77",
-    "cardno": "290"
+    "cardno": "290",
+    "character-xws": "spirit caller"
   },
   {
     "name": "st-back",
@@ -18037,7 +19840,8 @@
     "xws": "stback",
     "level": "-",
     "initiative": "-",
-    "cardno": "-"
+    "cardno": "-",
+    "character-xws": "starslinger"
   },
   {
     "name": "absolute magnitude",
@@ -18047,7 +19851,8 @@
     "xws": "absolutemagnitude",
     "level": "6",
     "initiative": "20",
-    "cardno": "322"
+    "cardno": "322",
+    "character-xws": "starslinger"
   },
   {
     "name": "absorbing light",
@@ -18057,7 +19862,8 @@
     "xws": "absorbinglight",
     "level": "3",
     "initiative": "15",
-    "cardno": "316"
+    "cardno": "316",
+    "character-xws": "starslinger"
   },
   {
     "name": "aligned constellations",
@@ -18067,7 +19873,8 @@
     "xws": "alignedconstellations",
     "level": "1",
     "initiative": "32",
-    "cardno": "301"
+    "cardno": "301",
+    "character-xws": "starslinger"
   },
   {
     "name": "blue moon",
@@ -18077,7 +19884,8 @@
     "xws": "bluemoon",
     "level": "6",
     "initiative": "79",
-    "cardno": "323"
+    "cardno": "323",
+    "character-xws": "starslinger"
   },
   {
     "name": "celestial maneuver",
@@ -18087,7 +19895,8 @@
     "xws": "celestialmaneuver",
     "level": "8",
     "initiative": "88",
-    "cardno": "326"
+    "cardno": "326",
+    "character-xws": "starslinger"
   },
   {
     "name": "crashing flare",
@@ -18097,7 +19906,8 @@
     "xws": "crashingflare",
     "level": "1",
     "initiative": "26",
-    "cardno": "302"
+    "cardno": "302",
+    "character-xws": "starslinger"
   },
   {
     "name": "defying gravity",
@@ -18107,7 +19917,8 @@
     "xws": "defyinggravity",
     "level": "2",
     "initiative": "22",
-    "cardno": "314"
+    "cardno": "314",
+    "character-xws": "starslinger"
   },
   {
     "name": "diamond rings",
@@ -18117,7 +19928,8 @@
     "xws": "diamondrings",
     "level": "1",
     "initiative": "35",
-    "cardno": "303"
+    "cardno": "303",
+    "character-xws": "starslinger"
   },
   {
     "name": "earthshine",
@@ -18127,7 +19939,8 @@
     "xws": "earthshine",
     "level": "1",
     "initiative": "57",
-    "cardno": "304"
+    "cardno": "304",
+    "character-xws": "starslinger"
   },
   {
     "name": "eonic blast",
@@ -18137,7 +19950,8 @@
     "xws": "eonicblast",
     "level": "7",
     "initiative": "50",
-    "cardno": "324"
+    "cardno": "324",
+    "character-xws": "starslinger"
   },
   {
     "name": "equinox",
@@ -18147,7 +19961,8 @@
     "xws": "equinox",
     "level": "4",
     "initiative": "40",
-    "cardno": "318"
+    "cardno": "318",
+    "character-xws": "starslinger"
   },
   {
     "name": "force field",
@@ -18157,7 +19972,8 @@
     "xws": "forcefield",
     "level": "X",
     "initiative": "09",
-    "cardno": "311"
+    "cardno": "311",
+    "character-xws": "starslinger"
   },
   {
     "name": "gravitational flip",
@@ -18167,7 +19983,8 @@
     "xws": "gravitationalflip",
     "level": "X",
     "initiative": "13",
-    "cardno": "312"
+    "cardno": "312",
+    "character-xws": "starslinger"
   },
   {
     "name": "interplanar voyager",
@@ -18177,7 +19994,8 @@
     "xws": "interplanarvoyager",
     "level": "9",
     "initiative": "24",
-    "cardno": "328"
+    "cardno": "328",
+    "character-xws": "starslinger"
   },
   {
     "name": "light pollution",
@@ -18187,7 +20005,8 @@
     "xws": "lightpollution",
     "level": "1",
     "initiative": "44",
-    "cardno": "305"
+    "cardno": "305",
+    "character-xws": "starslinger"
   },
   {
     "name": "lost in the stars",
@@ -18197,7 +20016,8 @@
     "xws": "lostinthestars",
     "level": "X",
     "initiative": "06",
-    "cardno": "313"
+    "cardno": "313",
+    "character-xws": "starslinger"
   },
   {
     "name": "lucky stars",
@@ -18207,7 +20027,8 @@
     "xws": "luckystars",
     "level": "1",
     "initiative": "74",
-    "cardno": "306"
+    "cardno": "306",
+    "character-xws": "starslinger"
   },
   {
     "name": "luminous blitz",
@@ -18217,7 +20038,8 @@
     "xws": "luminousblitz",
     "level": "1",
     "initiative": "17",
-    "cardno": "307"
+    "cardno": "307",
+    "character-xws": "starslinger"
   },
   {
     "name": "pierce the firmament",
@@ -18227,7 +20049,8 @@
     "xws": "piercethefirmament",
     "level": "9",
     "initiative": "33",
-    "cardno": "329"
+    "cardno": "329",
+    "character-xws": "starslinger"
   },
   {
     "name": "plasmatic power",
@@ -18237,7 +20060,8 @@
     "xws": "plasmaticpower",
     "level": "5",
     "initiative": "10",
-    "cardno": "321"
+    "cardno": "321",
+    "character-xws": "starslinger"
   },
   {
     "name": "proportional exchange",
@@ -18247,7 +20071,8 @@
     "xws": "proportionalexchange",
     "level": "2",
     "initiative": "84",
-    "cardno": "315"
+    "cardno": "315",
+    "character-xws": "starslinger"
   },
   {
     "name": "shifting chasma",
@@ -18257,7 +20082,8 @@
     "xws": "shiftingchasma",
     "level": "5",
     "initiative": "28",
-    "cardno": "320"
+    "cardno": "320",
+    "character-xws": "starslinger"
   },
   {
     "name": "shooting stars",
@@ -18267,7 +20093,8 @@
     "xws": "shootingstars",
     "level": "3",
     "initiative": "54",
-    "cardno": "317"
+    "cardno": "317",
+    "character-xws": "starslinger"
   },
   {
     "name": "solar eclipse",
@@ -18277,7 +20104,8 @@
     "xws": "solareclipse",
     "level": "1",
     "initiative": "60",
-    "cardno": "308"
+    "cardno": "308",
+    "character-xws": "starslinger"
   },
   {
     "name": "starstruck",
@@ -18287,7 +20115,8 @@
     "xws": "starstruck",
     "level": "1",
     "initiative": "80",
-    "cardno": "309"
+    "cardno": "309",
+    "character-xws": "starslinger"
   },
   {
     "name": "stone meteorite",
@@ -18297,7 +20126,8 @@
     "xws": "stonemeteorite",
     "level": "7",
     "initiative": "90",
-    "cardno": "325"
+    "cardno": "325",
+    "character-xws": "starslinger"
   },
   {
     "name": "sungaze",
@@ -18307,7 +20137,8 @@
     "xws": "sungaze",
     "level": "8",
     "initiative": "37",
-    "cardno": "327"
+    "cardno": "327",
+    "character-xws": "starslinger"
   },
   {
     "name": "supernova",
@@ -18317,7 +20148,8 @@
     "xws": "supernova",
     "level": "1",
     "initiative": "30",
-    "cardno": "310"
+    "cardno": "310",
+    "character-xws": "starslinger"
   },
   {
     "name": "wish upon a star",
@@ -18327,7 +20159,8 @@
     "xws": "wishuponastar",
     "level": "4",
     "initiative": "75",
-    "cardno": "319"
+    "cardno": "319",
+    "character-xws": "starslinger"
   },
   {
     "name": "in-back",
@@ -18337,7 +20170,8 @@
     "xws": "inback",
     "level": "-",
     "initiative": "-",
-    "cardno": "-"
+    "cardno": "-",
+    "character-xws": "incarnate"
   },
   {
     "name": "alone in the end",
@@ -18347,7 +20181,8 @@
     "xws": "aloneintheend",
     "level": "4",
     "initiative": "74",
-    "cardno": "507"
+    "cardno": "507",
+    "character-xws": "incarnate"
   },
   {
     "name": "ancestral blade",
@@ -18357,7 +20192,8 @@
     "xws": "ancestralblade",
     "level": "X",
     "initiative": "65",
-    "cardno": "499"
+    "cardno": "499",
+    "character-xws": "incarnate"
   },
   {
     "name": "ancient banner",
@@ -18367,7 +20203,8 @@
     "xws": "ancientbanner",
     "level": "1",
     "initiative": "20",
-    "cardno": "488"
+    "cardno": "488",
+    "character-xws": "incarnate"
   },
   {
     "name": "aukotu's defiant resolve",
@@ -18377,7 +20214,8 @@
     "xws": "aukotusdefiantresolve",
     "level": "9",
     "initiative": "32",
-    "cardno": "517"
+    "cardno": "517",
+    "character-xws": "incarnate"
   },
   {
     "name": "awnu's retribution",
@@ -18387,7 +20225,8 @@
     "xws": "awnusretribution",
     "level": "6",
     "initiative": "19",
-    "cardno": "511"
+    "cardno": "511",
+    "character-xws": "incarnate"
   },
   {
     "name": "blood of champions",
@@ -18397,7 +20236,8 @@
     "xws": "bloodofchampions",
     "level": "5",
     "initiative": "82",
-    "cardno": "508"
+    "cardno": "508",
+    "character-xws": "incarnate"
   },
   {
     "name": "farseer's pilum",
@@ -18407,7 +20247,8 @@
     "xws": "farseerspilum",
     "level": "1",
     "initiative": "48",
-    "cardno": "489"
+    "cardno": "489",
+    "character-xws": "incarnate"
   },
   {
     "name": "firebrand",
@@ -18417,7 +20258,8 @@
     "xws": "firebrand",
     "level": "1",
     "initiative": "30",
-    "cardno": "491"
+    "cardno": "491",
+    "character-xws": "incarnate"
   },
   {
     "name": "gift of the dying",
@@ -18427,7 +20269,8 @@
     "xws": "giftofthedying",
     "level": "8",
     "initiative": "78",
-    "cardno": "515"
+    "cardno": "515",
+    "character-xws": "incarnate"
   },
   {
     "name": "gol's tonic",
@@ -18437,7 +20280,8 @@
     "xws": "golstonic",
     "level": "1",
     "initiative": "11",
-    "cardno": "497"
+    "cardno": "497",
+    "character-xws": "incarnate"
   },
   {
     "name": "haf's reverence",
@@ -18447,7 +20291,8 @@
     "xws": "hafsreverence",
     "level": "6",
     "initiative": "34",
-    "cardno": "510"
+    "cardno": "510",
+    "character-xws": "incarnate"
   },
   {
     "name": "hands of three tribes",
@@ -18457,7 +20302,8 @@
     "xws": "handsofthreetribes",
     "level": "1",
     "initiative": "70",
-    "cardno": "498"
+    "cardno": "498",
+    "character-xws": "incarnate"
   },
   {
     "name": "kou's favor",
@@ -18467,7 +20313,8 @@
     "xws": "kousfavor",
     "level": "3",
     "initiative": "25",
-    "cardno": "504"
+    "cardno": "504",
+    "character-xws": "incarnate"
   },
   {
     "name": "maku's deadly aim",
@@ -18477,7 +20324,8 @@
     "xws": "makusdeadlyaim",
     "level": "1",
     "initiative": "40",
-    "cardno": "494"
+    "cardno": "494",
+    "character-xws": "incarnate"
   },
   {
     "name": "matriarch's dominance",
@@ -18487,7 +20335,8 @@
     "xws": "matriarchsdominance",
     "level": "2",
     "initiative": "22",
-    "cardno": "503"
+    "cardno": "503",
+    "character-xws": "incarnate"
   },
   {
     "name": "memory of the hunt",
@@ -18497,7 +20346,8 @@
     "xws": "memoryofthehunt",
     "level": "4",
     "initiative": "12",
-    "cardno": "506"
+    "cardno": "506",
+    "character-xws": "incarnate"
   },
   {
     "name": "pakh's lunge",
@@ -18507,7 +20357,8 @@
     "xws": "pakhslunge",
     "level": "1",
     "initiative": "53",
-    "cardno": "495"
+    "cardno": "495",
+    "character-xws": "incarnate"
   },
   {
     "name": "remnants of the broken",
@@ -18517,7 +20368,8 @@
     "xws": "remnantsofthebroken",
     "level": "7",
     "initiative": "67",
-    "cardno": "513"
+    "cardno": "513",
+    "character-xws": "incarnate"
   },
   {
     "name": "savvas coreglass knife",
@@ -18527,7 +20379,8 @@
     "xws": "savvascoreglassknife",
     "level": "7",
     "initiative": "81",
-    "cardno": "512"
+    "cardno": "512",
+    "character-xws": "incarnate"
   },
   {
     "name": "the arms of oxcepi",
@@ -18537,7 +20390,8 @@
     "xws": "thearmsofoxcepi",
     "level": "5",
     "initiative": "56",
-    "cardno": "509"
+    "cardno": "509",
+    "character-xws": "incarnate"
   },
   {
     "name": "the grave beckons",
@@ -18547,7 +20401,8 @@
     "xws": "thegravebeckons",
     "level": "2",
     "initiative": "37",
-    "cardno": "502"
+    "cardno": "502",
+    "character-xws": "incarnate"
   },
   {
     "name": "tomeg's shield-arm",
@@ -18557,7 +20412,8 @@
     "xws": "tomegsshieldarm",
     "level": "1",
     "initiative": "18",
-    "cardno": "492"
+    "cardno": "492",
+    "character-xws": "incarnate"
   },
   {
     "name": "vadi's last stand",
@@ -18567,7 +20423,8 @@
     "xws": "vadislaststand",
     "level": "9",
     "initiative": "21",
-    "cardno": "516"
+    "cardno": "516",
+    "character-xws": "incarnate"
   },
   {
     "name": "vaska's cunning",
@@ -18577,7 +20434,8 @@
     "xws": "vaskascunning",
     "level": "1",
     "initiative": "58",
-    "cardno": "493"
+    "cardno": "493",
+    "character-xws": "incarnate"
   },
   {
     "name": "vengeance of aksut",
@@ -18587,7 +20445,8 @@
     "xws": "vengeanceofaksut",
     "level": "3",
     "initiative": "15",
-    "cardno": "505"
+    "cardno": "505",
+    "character-xws": "incarnate"
   },
   {
     "name": "vital tether",
@@ -18597,7 +20456,8 @@
     "xws": "vitaltether",
     "level": "1",
     "initiative": "61",
-    "cardno": "490"
+    "cardno": "490",
+    "character-xws": "incarnate"
   },
   {
     "name": "warborn's shout",
@@ -18607,7 +20467,8 @@
     "xws": "warbornsshout",
     "level": "1",
     "initiative": "88",
-    "cardno": "496"
+    "cardno": "496",
+    "character-xws": "incarnate"
   },
   {
     "name": "war drums",
@@ -18617,7 +20478,8 @@
     "xws": "wardrums",
     "level": "X",
     "initiative": "27",
-    "cardno": "500"
+    "cardno": "500",
+    "character-xws": "incarnate"
   },
   {
     "name": "wielded memory",
@@ -18627,7 +20489,8 @@
     "xws": "wieldedmemory",
     "level": "X",
     "initiative": "38",
-    "cardno": "501"
+    "cardno": "501",
+    "character-xws": "incarnate"
   },
   {
     "name": "will of the huntress",
@@ -18637,7 +20500,8 @@
     "xws": "willofthehuntress",
     "level": "8",
     "initiative": "40",
-    "cardno": "514"
+    "cardno": "514",
+    "character-xws": "incarnate"
   },
   {
     "name": "rh-back",
@@ -18647,7 +20511,8 @@
     "xws": "rhback",
     "level": "-",
     "initiative": "-",
-    "cardno": "-"
+    "cardno": "-",
+    "character-xws": "rimehearth"
   },
   {
     "name": "a balance struck",
@@ -18657,7 +20522,8 @@
     "xws": "abalancestruck",
     "level": "9",
     "initiative": "50",
-    "cardno": "547"
+    "cardno": "547",
+    "character-xws": "rimehearth"
   },
   {
     "name": "biting cold",
@@ -18667,7 +20533,8 @@
     "xws": "bitingcold",
     "level": "1",
     "initiative": "60",
-    "cardno": "520"
+    "cardno": "520",
+    "character-xws": "rimehearth"
   },
   {
     "name": "blazing streak",
@@ -18677,7 +20544,8 @@
     "xws": "blazingstreak",
     "level": "1",
     "initiative": "33",
-    "cardno": "523"
+    "cardno": "523",
+    "character-xws": "rimehearth"
   },
   {
     "name": "bonechill",
@@ -18687,7 +20555,8 @@
     "xws": "bonechill",
     "level": "3",
     "initiative": "20",
-    "cardno": "535"
+    "cardno": "535",
+    "character-xws": "rimehearth"
   },
   {
     "name": "bulwark of ether",
@@ -18697,7 +20566,8 @@
     "xws": "bulwarkofether",
     "level": "5",
     "initiative": "15",
-    "cardno": "538"
+    "cardno": "538",
+    "character-xws": "rimehearth"
   },
   {
     "name": "cold snap",
@@ -18707,7 +20577,8 @@
     "xws": "coldsnap",
     "level": "1",
     "initiative": "82",
-    "cardno": "522"
+    "cardno": "522",
+    "character-xws": "rimehearth"
   },
   {
     "name": "cryoseism",
@@ -18717,7 +20588,8 @@
     "xws": "cryoseism",
     "level": "6",
     "initiative": "77",
-    "cardno": "541"
+    "cardno": "541",
+    "character-xws": "rimehearth"
   },
   {
     "name": "frostbite",
@@ -18727,7 +20599,8 @@
     "xws": "frostbite",
     "level": "3",
     "initiative": "62",
-    "cardno": "534"
+    "cardno": "534",
+    "character-xws": "rimehearth"
   },
   {
     "name": "frozen grasp",
@@ -18737,7 +20610,8 @@
     "xws": "frozengrasp",
     "level": "1",
     "initiative": "21",
-    "cardno": "524"
+    "cardno": "524",
+    "character-xws": "rimehearth"
   },
   {
     "name": "glacial cocoon",
@@ -18747,7 +20621,8 @@
     "xws": "glacialcocoon",
     "level": "X",
     "initiative": "14",
-    "cardno": "530"
+    "cardno": "530",
+    "character-xws": "rimehearth"
   },
   {
     "name": "hearthbolt",
@@ -18757,7 +20632,8 @@
     "xws": "hearthbolt",
     "level": "1",
     "initiative": "32",
-    "cardno": "519"
+    "cardno": "519",
+    "character-xws": "rimehearth"
   },
   {
     "name": "heat transfer",
@@ -18767,7 +20643,8 @@
     "xws": "heattransfer",
     "level": "8",
     "initiative": "64",
-    "cardno": "544"
+    "cardno": "544",
+    "character-xws": "rimehearth"
   },
   {
     "name": "heatwave",
@@ -18777,7 +20654,8 @@
     "xws": "heatwave",
     "level": "1",
     "initiative": "19",
-    "cardno": "521"
+    "cardno": "521",
+    "character-xws": "rimehearth"
   },
   {
     "name": "homeostasis",
@@ -18787,7 +20665,8 @@
     "xws": "homeostasis",
     "level": "2",
     "initiative": "12",
-    "cardno": "533"
+    "cardno": "533",
+    "character-xws": "rimehearth"
   },
   {
     "name": "kleptotherapy",
@@ -18797,7 +20676,8 @@
     "xws": "kleptotherapy",
     "level": "1",
     "initiative": "48",
-    "cardno": "527"
+    "cardno": "527",
+    "character-xws": "rimehearth"
   },
   {
     "name": "pressure spike",
@@ -18807,7 +20687,8 @@
     "xws": "pressurespike",
     "level": "5",
     "initiative": "54",
-    "cardno": "539"
+    "cardno": "539",
+    "character-xws": "rimehearth"
   },
   {
     "name": "pressure wave",
@@ -18817,7 +20698,8 @@
     "xws": "pressurewave",
     "level": "8",
     "initiative": "16",
-    "cardno": "545"
+    "cardno": "545",
+    "character-xws": "rimehearth"
   },
   {
     "name": "raging fire",
@@ -18827,7 +20709,8 @@
     "xws": "ragingfire",
     "level": "7",
     "initiative": "36",
-    "cardno": "543"
+    "cardno": "543",
+    "character-xws": "rimehearth"
   },
   {
     "name": "rapid flux",
@@ -18837,7 +20720,8 @@
     "xws": "rapidflux",
     "level": "2",
     "initiative": "25",
-    "cardno": "532"
+    "cardno": "532",
+    "character-xws": "rimehearth"
   },
   {
     "name": "rimeshock",
@@ -18847,7 +20731,8 @@
     "xws": "rimeshock",
     "level": "1",
     "initiative": "72",
-    "cardno": "526"
+    "cardno": "526",
+    "character-xws": "rimehearth"
   },
   {
     "name": "scorched path",
@@ -18857,7 +20742,8 @@
     "xws": "scorchedpath",
     "level": "1",
     "initiative": "51",
-    "cardno": "525"
+    "cardno": "525",
+    "character-xws": "rimehearth"
   },
   {
     "name": "snap freeze",
@@ -18867,7 +20753,8 @@
     "xws": "snapfreeze",
     "level": "6",
     "initiative": "08",
-    "cardno": "540"
+    "cardno": "540",
+    "character-xws": "rimehearth"
   },
   {
     "name": "spreading flames",
@@ -18877,7 +20764,8 @@
     "xws": "spreadingflames",
     "level": "4",
     "initiative": "60",
-    "cardno": "537"
+    "cardno": "537",
+    "character-xws": "rimehearth"
   },
   {
     "name": "steamburst",
@@ -18887,7 +20775,8 @@
     "xws": "steamburst",
     "level": "1",
     "initiative": "41",
-    "cardno": "528"
+    "cardno": "528",
+    "character-xws": "rimehearth"
   },
   {
     "name": "thermal weaving",
@@ -18897,7 +20786,8 @@
     "xws": "thermalweaving",
     "level": "9",
     "initiative": "32",
-    "cardno": "546"
+    "cardno": "546",
+    "character-xws": "rimehearth"
   },
   {
     "name": "thermotherapy",
@@ -18907,7 +20797,8 @@
     "xws": "thermotherapy",
     "level": "X",
     "initiative": "66",
-    "cardno": "531"
+    "cardno": "531",
+    "character-xws": "rimehearth"
   },
   {
     "name": "torrid blast",
@@ -18917,7 +20808,8 @@
     "xws": "torridblast",
     "level": "4",
     "initiative": "31",
-    "cardno": "536"
+    "cardno": "536",
+    "character-xws": "rimehearth"
   },
   {
     "name": "unyielding charge",
@@ -18927,7 +20819,8 @@
     "xws": "unyieldingcharge",
     "level": "7",
     "initiative": "26",
-    "cardno": "542"
+    "cardno": "542",
+    "character-xws": "rimehearth"
   },
   {
     "name": "wreathed in flame",
@@ -18937,7 +20830,8 @@
     "xws": "wreathedinflame",
     "level": "X",
     "initiative": "63",
-    "cardno": "529"
+    "cardno": "529",
+    "character-xws": "rimehearth"
   },
   {
     "name": "sr-back",
@@ -18947,7 +20841,8 @@
     "xws": "srback",
     "level": "-",
     "initiative": "-",
-    "cardno": "-"
+    "cardno": "-",
+    "character-xws": "shardrender"
   },
   {
     "name": "amassed formation",
@@ -18957,7 +20852,8 @@
     "xws": "amassedformation",
     "level": "5",
     "initiative": "16",
-    "cardno": "569"
+    "cardno": "569",
+    "character-xws": "shardrender"
   },
   {
     "name": "cinnabar seeding",
@@ -18967,7 +20863,8 @@
     "xws": "cinnabarseeding",
     "level": "5",
     "initiative": "38",
-    "cardno": "570"
+    "cardno": "570",
+    "character-xws": "shardrender"
   },
   {
     "name": "corundum shell",
@@ -18977,7 +20874,8 @@
     "xws": "corundumshell",
     "level": "2",
     "initiative": "28",
-    "cardno": "563"
+    "cardno": "563",
+    "character-xws": "shardrender"
   },
   {
     "name": "crystal growth",
@@ -18987,7 +20885,8 @@
     "xws": "crystalgrowth",
     "level": "1",
     "initiative": "68",
-    "cardno": "549"
+    "cardno": "549",
+    "character-xws": "shardrender"
   },
   {
     "name": "diamond skin",
@@ -18997,7 +20896,8 @@
     "xws": "diamondskin",
     "level": "8",
     "initiative": "19",
-    "cardno": "575"
+    "cardno": "575",
+    "character-xws": "shardrender"
   },
   {
     "name": "geode barrage",
@@ -19007,7 +20907,8 @@
     "xws": "geodebarrage",
     "level": "X",
     "initiative": "23",
-    "cardno": "560"
+    "cardno": "560",
+    "character-xws": "shardrender"
   },
   {
     "name": "glistening facets",
@@ -19017,7 +20918,8 @@
     "xws": "glisteningfacets",
     "level": "4",
     "initiative": "58",
-    "cardno": "567"
+    "cardno": "567",
+    "character-xws": "shardrender"
   },
   {
     "name": "impaling spike",
@@ -19027,7 +20929,8 @@
     "xws": "impalingspike",
     "level": "1",
     "initiative": "25",
-    "cardno": "550"
+    "cardno": "550",
+    "character-xws": "shardrender"
   },
   {
     "name": "jubilant recovery",
@@ -19037,7 +20940,8 @@
     "xws": "jubilantrecovery",
     "level": "1",
     "initiative": "44",
-    "cardno": "551"
+    "cardno": "551",
+    "character-xws": "shardrender"
   },
   {
     "name": "lightbury quartz",
@@ -19047,7 +20951,8 @@
     "xws": "lightbury quart",
     "level": "4",
     "initiative": "14",
-    "cardno": "568"
+    "cardno": "568",
+    "character-xws": "shardrender"
   },
   {
     "name": "luminous glow",
@@ -19057,7 +20962,8 @@
     "xws": "luminousglow",
     "level": "1",
     "initiative": "85",
-    "cardno": "552"
+    "cardno": "552",
+    "character-xws": "shardrender"
   },
   {
     "name": "penetrating fragments",
@@ -19067,7 +20973,8 @@
     "xws": "penetratingfragments",
     "level": "1",
     "initiative": "76",
-    "cardno": "553"
+    "cardno": "553",
+    "character-xws": "shardrender"
   },
   {
     "name": "perforating bore",
@@ -19077,7 +20984,8 @@
     "xws": "perforatingbore",
     "level": "2",
     "initiative": "63",
-    "cardno": "564"
+    "cardno": "564",
+    "character-xws": "shardrender"
   },
   {
     "name": "prismatic ward",
@@ -19087,7 +20995,8 @@
     "xws": "prismaticward",
     "level": "1",
     "initiative": "54",
-    "cardno": "554"
+    "cardno": "554",
+    "character-xws": "shardrender"
   },
   {
     "name": "radiating crust",
@@ -19097,7 +21006,8 @@
     "xws": "radiatingcrust",
     "level": "1",
     "initiative": "17",
-    "cardno": "555"
+    "cardno": "555",
+    "character-xws": "shardrender"
   },
   {
     "name": "rapid calcification",
@@ -19107,7 +21017,8 @@
     "xws": "rapidcalcification",
     "level": "7",
     "initiative": "48",
-    "cardno": "573"
+    "cardno": "573",
+    "character-xws": "shardrender"
   },
   {
     "name": "reciprocal resonance",
@@ -19117,7 +21028,8 @@
     "xws": "reciprocalresonance",
     "level": "X",
     "initiative": "21",
-    "cardno": "561"
+    "cardno": "561",
+    "character-xws": "shardrender"
   },
   {
     "name": "reflecting surface",
@@ -19127,7 +21039,8 @@
     "xws": "reflectingsurface",
     "level": "6",
     "initiative": "35",
-    "cardno": "571"
+    "cardno": "571",
+    "character-xws": "shardrender"
   },
   {
     "name": "remineralize",
@@ -19137,7 +21050,8 @@
     "xws": "remineralize",
     "level": "1",
     "initiative": "82",
-    "cardno": "556"
+    "cardno": "556",
+    "character-xws": "shardrender"
   },
   {
     "name": "ruinous shard",
@@ -19147,7 +21061,8 @@
     "xws": "ruinousshard",
     "level": "1",
     "initiative": "41",
-    "cardno": "557"
+    "cardno": "557",
+    "character-xws": "shardrender"
   },
   {
     "name": "searing stone",
@@ -19157,7 +21072,8 @@
     "xws": "searingstone",
     "level": "3",
     "initiative": "13",
-    "cardno": "565"
+    "cardno": "565",
+    "character-xws": "shardrender"
   },
   {
     "name": "seismic shockwave",
@@ -19167,7 +21083,8 @@
     "xws": "seismicshockwave",
     "level": "8",
     "initiative": "32",
-    "cardno": "576"
+    "cardno": "576",
+    "character-xws": "shardrender"
   },
   {
     "name": "serrated razor",
@@ -19177,7 +21094,8 @@
     "xws": "serratedrazor",
     "level": "1",
     "initiative": "33",
-    "cardno": "558"
+    "cardno": "558",
+    "character-xws": "shardrender"
   },
   {
     "name": "spiked carapace",
@@ -19187,7 +21105,8 @@
     "xws": "spikedcarapace",
     "level": "6",
     "initiative": "26",
-    "cardno": "572"
+    "cardno": "572",
+    "character-xws": "shardrender"
   },
   {
     "name": "splinter burst",
@@ -19197,7 +21116,8 @@
     "xws": "splinterburst",
     "level": "X",
     "initiative": "50",
-    "cardno": "562"
+    "cardno": "562",
+    "character-xws": "shardrender"
   },
   {
     "name": "triboluminescence",
@@ -19207,7 +21127,8 @@
     "xws": "triboluminescence",
     "level": "1",
     "initiative": "30",
-    "cardno": "559"
+    "cardno": "559",
+    "character-xws": "shardrender"
   },
   {
     "name": "turbulent absorption",
@@ -19217,7 +21138,8 @@
     "xws": "turbulentabsorption",
     "level": "9",
     "initiative": "52",
-    "cardno": "577"
+    "cardno": "577",
+    "character-xws": "shardrender"
   },
   {
     "name": "unyielding stalagmite",
@@ -19227,7 +21149,8 @@
     "xws": "unyieldingstalagmite",
     "level": "7",
     "initiative": "71",
-    "cardno": "574"
+    "cardno": "574",
+    "character-xws": "shardrender"
   },
   {
     "name": "violent shatter",
@@ -19237,7 +21160,8 @@
     "xws": "violentshatter",
     "level": "9",
     "initiative": "83",
-    "cardno": "578"
+    "cardno": "578",
+    "character-xws": "shardrender"
   },
   {
     "name": "vital outburst",
@@ -19247,7 +21171,8 @@
     "xws": "vitaloutburst",
     "level": "3",
     "initiative": "29",
-    "cardno": "566"
+    "cardno": "566",
+    "character-xws": "shardrender"
   },
   {
     "name": "tp-back",
@@ -19257,7 +21182,8 @@
     "xws": "tpback",
     "level": "-",
     "initiative": "-",
-    "cardno": "-"
+    "cardno": "-",
+    "character-xws": "tempest"
   },
   {
     "name": "aerial dominance",
@@ -19267,7 +21193,8 @@
     "xws": "aerialdominance",
     "level": "X",
     "initiative": "39",
-    "cardno": "591"
+    "cardno": "591",
+    "character-xws": "tempest"
   },
   {
     "name": "air current",
@@ -19277,7 +21204,8 @@
     "xws": "aircurrent",
     "level": "3",
     "initiative": "14",
-    "cardno": "595"
+    "cardno": "595",
+    "character-xws": "tempest"
   },
   {
     "name": "arcblast",
@@ -19287,7 +21215,8 @@
     "xws": "arcblast",
     "level": "2",
     "initiative": "12",
-    "cardno": "593"
+    "cardno": "593",
+    "character-xws": "tempest"
   },
   {
     "name": "arc reaction",
@@ -19297,7 +21226,8 @@
     "xws": "arcreaction",
     "level": "4",
     "initiative": "33",
-    "cardno": "597"
+    "cardno": "597",
+    "character-xws": "tempest"
   },
   {
     "name": "breakneck blitz",
@@ -19307,7 +21237,8 @@
     "xws": "breakneckblitz",
     "level": "1",
     "initiative": "04",
-    "cardno": "585"
+    "cardno": "585",
+    "character-xws": "tempest"
   },
   {
     "name": "channeled energy",
@@ -19317,7 +21248,8 @@
     "xws": "channeledenergy",
     "level": "1",
     "initiative": "08",
-    "cardno": "587"
+    "cardno": "587",
+    "character-xws": "tempest"
   },
   {
     "name": "electric current",
@@ -19327,7 +21259,8 @@
     "xws": "electriccurrent",
     "level": "3",
     "initiative": "20",
-    "cardno": "596"
+    "cardno": "596",
+    "character-xws": "tempest"
   },
   {
     "name": "electromagnetic pulse",
@@ -19337,7 +21270,8 @@
     "xws": "electromagneticpulse",
     "level": "1",
     "initiative": "22",
-    "cardno": "583"
+    "cardno": "583",
+    "character-xws": "tempest"
   },
   {
     "name": "electrostatic bypass",
@@ -19347,7 +21281,8 @@
     "xws": "electrostaticbypass",
     "level": "6",
     "initiative": "15",
-    "cardno": "601"
+    "cardno": "601",
+    "character-xws": "tempest"
   },
   {
     "name": "energy siphon",
@@ -19357,7 +21292,8 @@
     "xws": "energysiphon",
     "level": "1",
     "initiative": "19",
-    "cardno": "586"
+    "cardno": "586",
+    "character-xws": "tempest"
   },
   {
     "name": "flash of lightning",
@@ -19367,7 +21303,8 @@
     "xws": "flashoflightning",
     "level": "1",
     "initiative": "11",
-    "cardno": "580"
+    "cardno": "580",
+    "character-xws": "tempest"
   },
   {
     "name": "hard target",
@@ -19377,7 +21314,8 @@
     "xws": "hardtarget",
     "level": "2",
     "initiative": "30",
-    "cardno": "594"
+    "cardno": "594",
+    "character-xws": "tempest"
   },
   {
     "name": "hurricane",
@@ -19387,7 +21325,8 @@
     "xws": "hurricane",
     "level": "8",
     "initiative": "82",
-    "cardno": "605"
+    "cardno": "605",
+    "character-xws": "tempest"
   },
   {
     "name": "jetstream gust",
@@ -19397,7 +21336,8 @@
     "xws": "jetstreamgust",
     "level": "6",
     "initiative": "69",
-    "cardno": "602"
+    "cardno": "602",
+    "character-xws": "tempest"
   },
   {
     "name": "lightbender",
@@ -19407,7 +21347,8 @@
     "xws": "lightbender",
     "level": "X",
     "initiative": "42",
-    "cardno": "590"
+    "cardno": "590",
+    "character-xws": "tempest"
   },
   {
     "name": "nimble resilience",
@@ -19417,7 +21358,8 @@
     "xws": "nimbleresilience",
     "level": "X",
     "initiative": "66",
-    "cardno": "592"
+    "cardno": "592",
+    "character-xws": "tempest"
   },
   {
     "name": "protective gale",
@@ -19427,7 +21369,8 @@
     "xws": "protectivegale",
     "level": "9",
     "initiative": "02",
-    "cardno": "608"
+    "cardno": "608",
+    "character-xws": "tempest"
   },
   {
     "name": "radiant explosion",
@@ -19437,7 +21380,8 @@
     "xws": "radiantexplosion",
     "level": "7",
     "initiative": "18",
-    "cardno": "603"
+    "cardno": "603",
+    "character-xws": "tempest"
   },
   {
     "name": "rejuvenating charge",
@@ -19447,7 +21391,8 @@
     "xws": "rejuvenatingcharge",
     "level": "4",
     "initiative": "21",
-    "cardno": "598"
+    "cardno": "598",
+    "character-xws": "tempest"
   },
   {
     "name": "rushing wind",
@@ -19457,7 +21402,8 @@
     "xws": "rushingwind",
     "level": "7",
     "initiative": "64",
-    "cardno": "604"
+    "cardno": "604",
+    "character-xws": "tempest"
   },
   {
     "name": "scorching arcbolt",
@@ -19467,7 +21413,8 @@
     "xws": "scorchingarcbolt",
     "level": "1",
     "initiative": "45",
-    "cardno": "584"
+    "cardno": "584",
+    "character-xws": "tempest"
   },
   {
     "name": "shock therapy",
@@ -19477,7 +21424,8 @@
     "xws": "shocktherapy",
     "level": "8",
     "initiative": "10",
-    "cardno": "606"
+    "cardno": "606",
+    "character-xws": "tempest"
   },
   {
     "name": "spark conduit",
@@ -19487,7 +21435,8 @@
     "xws": "sparkconduit",
     "level": "5",
     "initiative": "73",
-    "cardno": "600"
+    "cardno": "600",
+    "character-xws": "tempest"
   },
   {
     "name": "static shock",
@@ -19497,7 +21446,8 @@
     "xws": "staticshock",
     "level": "1",
     "initiative": "17",
-    "cardno": "581"
+    "cardno": "581",
+    "character-xws": "tempest"
   },
   {
     "name": "storm lightning",
@@ -19507,7 +21457,8 @@
     "xws": "stormlightning",
     "level": "9",
     "initiative": "88",
-    "cardno": "607"
+    "cardno": "607",
+    "character-xws": "tempest"
   },
   {
     "name": "stormy retribution",
@@ -19517,7 +21468,8 @@
     "xws": "stormyretribution",
     "level": "5",
     "initiative": "77",
-    "cardno": "599"
+    "cardno": "599",
+    "character-xws": "tempest"
   },
   {
     "name": "surging storm",
@@ -19527,7 +21479,8 @@
     "xws": "surgingstorm",
     "level": "1",
     "initiative": "35",
-    "cardno": "588"
+    "cardno": "588",
+    "character-xws": "tempest"
   },
   {
     "name": "swift strike",
@@ -19537,7 +21490,8 @@
     "xws": "swiftstrike",
     "level": "1",
     "initiative": "31",
-    "cardno": "589"
+    "cardno": "589",
+    "character-xws": "tempest"
   },
   {
     "name": "voltaic burst",
@@ -19547,7 +21501,8 @@
     "xws": "voltaicburst",
     "level": "1",
     "initiative": "27",
-    "cardno": "582"
+    "cardno": "582",
+    "character-xws": "tempest"
   },
   {
     "name": "tr-back",
@@ -19557,7 +21512,8 @@
     "xws": "trback",
     "level": "-",
     "initiative": "-",
-    "cardno": "-"
+    "cardno": "-",
+    "character-xws": "thornreaper"
   },
   {
     "name": "barbed onslaught",
@@ -19567,7 +21523,8 @@
     "xws": "barbedonslaught",
     "level": "5",
     "initiative": "58",
-    "cardno": "630"
+    "cardno": "630",
+    "character-xws": "thornreaper"
   },
   {
     "name": "bed of roses",
@@ -19577,7 +21534,8 @@
     "xws": "bedofroses",
     "level": "9",
     "initiative": "10",
-    "cardno": "638"
+    "cardno": "638",
+    "character-xws": "thornreaper"
   },
   {
     "name": "black rose",
@@ -19587,7 +21545,8 @@
     "xws": "blackrose",
     "level": "X",
     "initiative": "12",
-    "cardno": "621"
+    "cardno": "621",
+    "character-xws": "thornreaper"
   },
   {
     "name": "branched slam",
@@ -19597,7 +21556,8 @@
     "xws": "branchedslam",
     "level": "5",
     "initiative": "45",
-    "cardno": "631"
+    "cardno": "631",
+    "character-xws": "thornreaper"
   },
   {
     "name": "bright skies",
@@ -19607,7 +21567,8 @@
     "xws": "brightskies",
     "level": "3",
     "initiative": "29",
-    "cardno": "626"
+    "cardno": "626",
+    "character-xws": "thornreaper"
   },
   {
     "name": "cover of green",
@@ -19617,7 +21578,8 @@
     "xws": "coverofgreen",
     "level": "1",
     "initiative": "34",
-    "cardno": "610"
+    "cardno": "610",
+    "character-xws": "thornreaper"
   },
   {
     "name": "dawn's gift",
@@ -19627,7 +21589,8 @@
     "xws": "dawnsgift",
     "level": "1",
     "initiative": "56",
-    "cardno": "611"
+    "cardno": "611",
+    "character-xws": "thornreaper"
   },
   {
     "name": "devoured by thorns",
@@ -19637,7 +21600,8 @@
     "xws": "devouredbythorns",
     "level": "6",
     "initiative": "72",
-    "cardno": "632"
+    "cardno": "632",
+    "character-xws": "thornreaper"
   },
   {
     "name": "encased in thorns",
@@ -19647,7 +21611,8 @@
     "xws": "encasedinthorns",
     "level": "1",
     "initiative": "22",
-    "cardno": "612"
+    "cardno": "612",
+    "character-xws": "thornreaper"
   },
   {
     "name": "extended branch",
@@ -19657,7 +21622,8 @@
     "xws": "extendedbranch",
     "level": "1",
     "initiative": "61",
-    "cardno": "613"
+    "cardno": "613",
+    "character-xws": "thornreaper"
   },
   {
     "name": "fissive eruption",
@@ -19667,7 +21633,8 @@
     "xws": "fissiveeruption",
     "level": "8",
     "initiative": "40",
-    "cardno": "636"
+    "cardno": "636",
+    "character-xws": "thornreaper"
   },
   {
     "name": "floral burst",
@@ -19677,7 +21644,8 @@
     "xws": "floralburst",
     "level": "2",
     "initiative": "30",
-    "cardno": "625"
+    "cardno": "625",
+    "character-xws": "thornreaper"
   },
   {
     "name": "impaling command",
@@ -19687,7 +21655,8 @@
     "xws": "impalingcommand",
     "level": "8",
     "initiative": "19",
-    "cardno": "637"
+    "cardno": "637",
+    "character-xws": "thornreaper"
   },
   {
     "name": "jagged clutch",
@@ -19697,7 +21666,8 @@
     "xws": "jaggedclutch",
     "level": "1",
     "initiative": "32",
-    "cardno": "614"
+    "cardno": "614",
+    "character-xws": "thornreaper"
   },
   {
     "name": "lashing thorns",
@@ -19707,7 +21677,8 @@
     "xws": "lashingthorns",
     "level": "1",
     "initiative": "39",
-    "cardno": "615"
+    "cardno": "615",
+    "character-xws": "thornreaper"
   },
   {
     "name": "midsummer",
@@ -19717,7 +21688,8 @@
     "xws": "midsummer",
     "level": "1",
     "initiative": "50",
-    "cardno": "616"
+    "cardno": "616",
+    "character-xws": "thornreaper"
   },
   {
     "name": "nature's fury",
@@ -19727,7 +21699,8 @@
     "xws": "naturesfury",
     "level": "7",
     "initiative": "37",
-    "cardno": "634"
+    "cardno": "634",
+    "character-xws": "thornreaper"
   },
   {
     "name": "outward spurs",
@@ -19737,7 +21710,8 @@
     "xws": "outwardspurs",
     "level": "2",
     "initiative": "43",
-    "cardno": "624"
+    "cardno": "624",
+    "character-xws": "thornreaper"
   },
   {
     "name": "photosynthesis",
@@ -19747,7 +21721,8 @@
     "xws": "photosynthesis",
     "level": "1",
     "initiative": "35",
-    "cardno": "617"
+    "cardno": "617",
+    "character-xws": "thornreaper"
   },
   {
     "name": "prickly situation",
@@ -19757,7 +21732,8 @@
     "xws": "pricklysituation",
     "level": "4",
     "initiative": "20",
-    "cardno": "628"
+    "cardno": "628",
+    "character-xws": "thornreaper"
   },
   {
     "name": "rabid undergrowth",
@@ -19767,7 +21743,8 @@
     "xws": "rabidundergrowth",
     "level": "7",
     "initiative": "27",
-    "cardno": "635"
+    "cardno": "635",
+    "character-xws": "thornreaper"
   },
   {
     "name": "ravaged earth",
@@ -19777,7 +21754,8 @@
     "xws": "ravagedearth",
     "level": "9",
     "initiative": "86",
-    "cardno": "639"
+    "cardno": "639",
+    "character-xws": "thornreaper"
   },
   {
     "name": "shrewd overgrowth",
@@ -19787,7 +21765,8 @@
     "xws": "shrewdovergrowth",
     "level": "1",
     "initiative": "92",
-    "cardno": "618"
+    "cardno": "618",
+    "character-xws": "thornreaper"
   },
   {
     "name": "solar flare",
@@ -19797,7 +21776,8 @@
     "xws": "solarflare",
     "level": "6",
     "initiative": "36",
-    "cardno": "633"
+    "cardno": "633",
+    "character-xws": "thornreaper"
   },
   {
     "name": "spiked embrace",
@@ -19807,7 +21787,8 @@
     "xws": "spikedembrace",
     "level": "X",
     "initiative": "31",
-    "cardno": "622"
+    "cardno": "622",
+    "character-xws": "thornreaper"
   },
   {
     "name": "superradiance",
@@ -19817,7 +21798,8 @@
     "xws": "superradiance",
     "level": "1",
     "initiative": "48",
-    "cardno": "619"
+    "cardno": "619",
+    "character-xws": "thornreaper"
   },
   {
     "name": "thornstride",
@@ -19827,7 +21809,8 @@
     "xws": "thornstride",
     "level": "X",
     "initiative": "24",
-    "cardno": "623"
+    "cardno": "623",
+    "character-xws": "thornreaper"
   },
   {
     "name": "twisted thistle",
@@ -19837,7 +21820,8 @@
     "xws": "twistedthistle",
     "level": "4",
     "initiative": "26",
-    "cardno": "629"
+    "cardno": "629",
+    "character-xws": "thornreaper"
   },
   {
     "name": "violent sprout",
@@ -19847,7 +21831,8 @@
     "xws": "violentsprout",
     "level": "1",
     "initiative": "63",
-    "cardno": "620"
+    "cardno": "620",
+    "character-xws": "thornreaper"
   },
   {
     "name": "welcome to the jungle",
@@ -19857,7 +21842,8 @@
     "xws": "welcometothejungle",
     "level": "3",
     "initiative": "41",
-    "cardno": "627"
+    "cardno": "627",
+    "character-xws": "thornreaper"
   },
   {
     "name": "vq-back",
@@ -19867,7 +21853,8 @@
     "xws": "vqback",
     "level": "-",
     "initiative": "-",
-    "cardno": "-"
+    "cardno": "-",
+    "character-xws": "vanquisher"
   },
   {
     "name": "beckoning of the beast",
@@ -19877,7 +21864,8 @@
     "xws": "beckoningofthebeast",
     "level": "V",
     "initiative": "26",
-    "cardno": "745"
+    "cardno": "745",
+    "character-xws": "vanquisher"
   },
   {
     "name": "blackout",
@@ -19887,7 +21875,8 @@
     "xws": "blackout",
     "level": "V",
     "initiative": "24",
-    "cardno": "739"
+    "cardno": "739",
+    "character-xws": "vanquisher"
   },
   {
     "name": "blasphemous charge",
@@ -19897,7 +21886,8 @@
     "xws": "blasphemouscharge",
     "level": "X",
     "initiative": "88",
-    "cardno": "720"
+    "cardno": "720",
+    "character-xws": "vanquisher"
   },
   {
     "name": "blazing torment",
@@ -19907,7 +21897,8 @@
     "xws": "blazingtorment",
     "level": "1",
     "initiative": "60",
-    "cardno": "711"
+    "cardno": "711",
+    "character-xws": "vanquisher"
   },
   {
     "name": "bringer of grief",
@@ -19917,7 +21908,8 @@
     "xws": "bringerofgrief",
     "level": "V",
     "initiative": "31",
-    "cardno": "740"
+    "cardno": "740",
+    "character-xws": "vanquisher"
   },
   {
     "name": "brutal awakening",
@@ -19927,7 +21919,8 @@
     "xws": "brutalawakening",
     "level": "X",
     "initiative": "95",
-    "cardno": "721"
+    "cardno": "721",
+    "character-xws": "vanquisher"
   },
   {
     "name": "condemnation",
@@ -19937,7 +21930,8 @@
     "xws": "condemnation",
     "level": "V",
     "initiative": "25",
-    "cardno": "741"
+    "cardno": "741",
+    "character-xws": "vanquisher"
   },
   {
     "name": "crazed leap",
@@ -19947,7 +21941,8 @@
     "xws": "crazedleap",
     "level": "6",
     "initiative": "52",
-    "cardno": "731"
+    "cardno": "731",
+    "character-xws": "vanquisher"
   },
   {
     "name": "demon's aid",
@@ -19957,7 +21952,8 @@
     "xws": "demonsaid",
     "level": "V",
     "initiative": "18",
-    "cardno": "742"
+    "cardno": "742",
+    "character-xws": "vanquisher"
   },
   {
     "name": "embrace the chaos",
@@ -19967,7 +21963,8 @@
     "xws": "embracethechaos",
     "level": "3",
     "initiative": "75",
-    "cardno": "725"
+    "cardno": "725",
+    "character-xws": "vanquisher"
   },
   {
     "name": "extended horns",
@@ -19977,7 +21974,8 @@
     "xws": "extendedhorns",
     "level": "V",
     "initiative": "19",
-    "cardno": "743"
+    "cardno": "743",
+    "character-xws": "vanquisher"
   },
   {
     "name": "fatal retribution",
@@ -19987,7 +21985,8 @@
     "xws": "fatalretribution",
     "level": "4",
     "initiative": "51",
-    "cardno": "727"
+    "cardno": "727",
+    "character-xws": "vanquisher"
   },
   {
     "name": "fiendish power",
@@ -19997,7 +21996,8 @@
     "xws": "fiendishpower",
     "level": "1",
     "initiative": "46",
-    "cardno": "712"
+    "cardno": "712",
+    "character-xws": "vanquisher"
   },
   {
     "name": "first to strike",
@@ -20007,7 +22007,8 @@
     "xws": "firsttostrike",
     "level": "V",
     "initiative": "16",
-    "cardno": "745"
+    "cardno": "745",
+    "character-xws": "vanquisher"
   },
   {
     "name": "forged from fire",
@@ -20017,7 +22018,8 @@
     "xws": "forgedfromfire",
     "level": "1",
     "initiative": "79",
-    "cardno": "713"
+    "cardno": "713",
+    "character-xws": "vanquisher"
   },
   {
     "name": "gravedigger",
@@ -20027,7 +22029,8 @@
     "xws": "gravedigger",
     "level": "1",
     "initiative": "41",
-    "cardno": "714"
+    "cardno": "714",
+    "character-xws": "vanquisher"
   },
   {
     "name": "infused charge",
@@ -20037,7 +22040,8 @@
     "xws": "infusedcharge",
     "level": "5",
     "initiative": "81",
-    "cardno": "729"
+    "cardno": "729",
+    "character-xws": "vanquisher"
   },
   {
     "name": "life in death",
@@ -20047,7 +22051,8 @@
     "xws": "lifeindeath",
     "level": "3",
     "initiative": "45",
-    "cardno": "726"
+    "cardno": "726",
+    "character-xws": "vanquisher"
   },
   {
     "name": "living nightmare",
@@ -20057,7 +22062,8 @@
     "xws": "livingnightmare",
     "level": "1",
     "initiative": "65",
-    "cardno": "715"
+    "cardno": "715",
+    "character-xws": "vanquisher"
   },
   {
     "name": "malicious defamation",
@@ -20067,7 +22073,8 @@
     "xws": "maliciousdefamation",
     "level": "4",
     "initiative": "55",
-    "cardno": "728"
+    "cardno": "728",
+    "character-xws": "vanquisher"
   },
   {
     "name": "out of the shadows",
@@ -20077,7 +22084,8 @@
     "xws": "outoftheshadows",
     "level": "X",
     "initiative": "84",
-    "cardno": "722"
+    "cardno": "722",
+    "character-xws": "vanquisher"
   },
   {
     "name": "raging pandemonium",
@@ -20087,7 +22095,8 @@
     "xws": "ragingpandemonium",
     "level": "V",
     "initiative": "14",
-    "cardno": "746"
+    "cardno": "746",
+    "character-xws": "vanquisher"
   },
   {
     "name": "sadistic swipe",
@@ -20097,7 +22106,8 @@
     "xws": "sadisticswipe",
     "level": "V",
     "initiative": "20",
-    "cardno": "747"
+    "cardno": "747",
+    "character-xws": "vanquisher"
   },
   {
     "name": "searing coals",
@@ -20107,7 +22117,8 @@
     "xws": "searingcoals",
     "level": "1",
     "initiative": "73",
-    "cardno": "716"
+    "cardno": "716",
+    "character-xws": "vanquisher"
   },
   {
     "name": "shared suffering",
@@ -20117,7 +22128,8 @@
     "xws": "sharedsuffering",
     "level": "6",
     "initiative": "64",
-    "cardno": "732"
+    "cardno": "732",
+    "character-xws": "vanquisher"
   },
   {
     "name": "silent finisher",
@@ -20127,7 +22139,8 @@
     "xws": "silentfinisher",
     "level": "7",
     "initiative": "77",
-    "cardno": "733"
+    "cardno": "733",
+    "character-xws": "vanquisher"
   },
   {
     "name": "sinister enslavement",
@@ -20137,7 +22150,8 @@
     "xws": "sinisterenslavement",
     "level": "8",
     "initiative": "50",
-    "cardno": "735"
+    "cardno": "735",
+    "character-xws": "vanquisher"
   },
   {
     "name": "siphoning life",
@@ -20147,7 +22161,8 @@
     "xws": "siphoninglife",
     "level": "1",
     "initiative": "53",
-    "cardno": "717"
+    "cardno": "717",
+    "character-xws": "vanquisher"
   },
   {
     "name": "slaughter the weak",
@@ -20157,7 +22172,8 @@
     "xws": "slaughtertheweak",
     "level": "1",
     "initiative": "56",
-    "cardno": "718"
+    "cardno": "718",
+    "character-xws": "vanquisher"
   },
   {
     "name": "torn apart",
@@ -20167,7 +22183,8 @@
     "xws": "tornapart",
     "level": "8",
     "initiative": "46",
-    "cardno": "736"
+    "cardno": "736",
+    "character-xws": "vanquisher"
   },
   {
     "name": "tumultuous uproar",
@@ -20177,7 +22194,8 @@
     "xws": "tumultuousuproar",
     "level": "2",
     "initiative": "44",
-    "cardno": "723"
+    "cardno": "723",
+    "character-xws": "vanquisher"
   },
   {
     "name": "unending misery",
@@ -20187,7 +22205,8 @@
     "xws": "unendingmisery",
     "level": "1",
     "initiative": "52",
-    "cardno": "719"
+    "cardno": "719",
+    "character-xws": "vanquisher"
   },
   {
     "name": "unnatural control",
@@ -20197,7 +22216,8 @@
     "xws": "unnaturalcontrol",
     "level": "2",
     "initiative": "85",
-    "cardno": "724"
+    "cardno": "724",
+    "character-xws": "vanquisher"
   },
   {
     "name": "unstoppable surge",
@@ -20207,7 +22227,8 @@
     "xws": "unstoppablesurge",
     "level": "9",
     "initiative": "96",
-    "cardno": "738"
+    "cardno": "738",
+    "character-xws": "vanquisher"
   },
   {
     "name": "utter catastrophe",
@@ -20217,7 +22238,8 @@
     "xws": "uttercatastrophe",
     "level": "7",
     "initiative": "62",
-    "cardno": "734"
+    "cardno": "734",
+    "character-xws": "vanquisher"
   },
   {
     "name": "vengeance incarnate",
@@ -20227,7 +22249,8 @@
     "xws": "vengeanceincarnate",
     "level": "9",
     "initiative": "66",
-    "cardno": "737"
+    "cardno": "737",
+    "character-xws": "vanquisher"
   },
   {
     "name": "wall of flames",
@@ -20237,7 +22260,8 @@
     "xws": "wallofflames",
     "level": "V",
     "initiative": "09",
-    "cardno": "748"
+    "cardno": "748",
+    "character-xws": "vanquisher"
   },
   {
     "name": "wings of hell",
@@ -20247,6 +22271,7 @@
     "xws": "wingsofhell",
     "level": "5",
     "initiative": "98",
-    "cardno": "730"
+    "cardno": "730",
+    "character-xws": "vanquisher"
   }
 ]
