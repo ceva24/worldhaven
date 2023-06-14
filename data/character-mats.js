@@ -466,7 +466,7 @@
     "points": 66,
     "expansion": "Frosthaven",
     "image": "character-mats/frosthaven/fh-crashing-tide.png",
-    "xws": "crashing tide"
+    "xws": "crashingtide"
   },
   {
     "name": "crashing tide",
@@ -480,7 +480,7 @@
     "points": 68,
     "expansion": "Frosthaven",
     "image": "character-mats/frosthaven/fh-crashing-tide.png",
-    "xws": "crashing tide"
+    "xws": "crashingtide"
   },
   {
     "name": "coral",
