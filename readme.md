@@ -2,10 +2,6 @@
 
 An easy-to-use collection of data and images from [Gloomhaven, Forgotten Circles, Frosthaven, Jaws of the Lion, and the User Community](http://www.cephalofair.com/gloomhaven) by [Cephalofair Games](http://www.cephalofair.com/) - Developer: **Isaac Childres**.
 
-## Asset LICENSE Terms
-
-I have entered into a personal license agreement with Cephalofair Games, which has provided me access to the digital assets contained within this GitHub repository. These assets are used to power various asset viewer extensions for Chrome and Firefox, as well as to provide PBF functionality. No other individual, entity, or corporation is permitted to use and/or re-use the assets within this repository for any other purpose.
-
 ## What's included
 
 This repository contains data and images for the following games and components:
